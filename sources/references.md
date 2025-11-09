@@ -201,6 +201,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=68
 - **Nota:** Segunda fuente Doña Huana. Sección 11 (Indoor) COMPLETADA (primera integración). Setup básico completo: estructura + eléctrico + iluminación + extracción + timer.
 
+**[DH-003]** Doña Huana - "EXCESOS, CARENCIAS (nitrógeno, fósforo, potasio y más) Y PLANTAS TRISTES - CANNABIS" (2024)
+- Tipo: Video (transcripción) - Troubleshooting práctico diagnóstico causas comunes
+- Expertise: Cultivador experimentado grow shop, enfoque probabilístico errores principiantes
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (20/25) - Enfoque troubleshooting estadístico acertado + checklists prácticos aplicables
+- **Flags:** 👤 🌍 🔗 💬
+- Nivel de consenso: Alto (errores culturales comunes validados experiencia grow shops)
+- Temas: Diagnóstico hojas tristes (80% riego incorrecto cantidad insuficiente, 15% exceso agua/sustrato arcilloso, 4% hongos raíz Trichoderma preventivo, 1% otros), hojas amarillas (maceta pequeña carencia N real trasplante obligatorio, falta luz hojas bajas sombra, error planning timing siembra/tamaño maceta), hojas manchadas (90% exceso fertilizantes sobre-fertilización, errores: no leer envase/no medir/"chorrito"/riegos frecuentes poca agua/mal uso EC acumulación sales, mecánica acumulación EC semana 1→200 + semana 2→400 = 600 acumulado vs aplicado, verificación riego 20% volumen medir EC drenaje 4000+ toxicidad, síntomas hojas dobladas/puntas quemadas/manchas generalizadas), protocolo riego correcto (10% volumen maceta fluir/drenar, ej 10L maceta = 1L agua vs "200ml tapita coca"), protocolo fertilización (leer envase, medir ml/L, alternar 1 ferti/1 agua, lavado EC 20% volumen cada riego ferti), mito más ferti = más cogollos FALSO (planta quemada = menor producción)
+- Enfoque: Troubleshooting por probabilidades estadísticas (causas comunes primero) vs diagnóstico micronutrientes específicos, honestidad reconociendo limitaciones ("no tengo idea" casos raros), lenguaje directo coloquial cultivadores argentinos
+- Video ID: cEQ4vEL3abU
+- URL: https://www.youtube.com/watch?v=cEQ4vEL3abU
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=77
+- **Nota:** Tercera fuente Doña Huana. Secciones 35 (Deficiencias) + 36 (Toxicidades) COMPLETADAS con enfoque troubleshooting práctico. NO micronutrientes específicos, SÍ diagnóstico causas culturales comunes. Flag 💬 lenguaje coloquial añadido.
+
 ---
 
 ## Fuentes Pendientes de Integración

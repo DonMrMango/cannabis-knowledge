@@ -5,6 +5,30 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.14.0] - 2025-11-09
+
+### Agregado
+- **[DH-003]** Tercera integración Doña Huana: "Excesos, Carencias (NPK y más) y Plantas Tristes"
+- **Sección 35 (Deficiencias Nutricionales):** ✅ COMPLETADA - Troubleshooting práctico diagnóstico estadístico
+  - **Hojas tristes:** 80% riego incorrecto (cantidad insuficiente, protocolo 10% volumen maceta fluir/drenar vs "200ml tapita"), 15% exceso agua/sustrato arcilloso, 4% hongos raíz (Trichoderma preventivo), 1% otros (cochinillas raíz)
+  - **Hojas amarillas:** maceta pequeña carencia N real (trasplante obligatorio, error planning timing/tamaño), falta luz hojas bajas sombra (poda bajos liberación energía), aplicación nitrógeno temporal vs trasplante
+  - **Hojas manchadas:** 90% exceso fertilizantes (errores: no leer envase, no medir "chorrito", riegos frecuentes poca agua SIN lavado, mal uso EC acumulación sales), mecánica acumulación EC (sem1→200 + sem2→400 = 600 acumulado vs aplicado, verificación EC drenaje 4000+ toxicidad), 10% carencia real (fertilización nunca aplicada)
+  - **Protocolo riego correcto:** 10% volumen maceta (ej 10L = 1L agua) fluir/salir drenaje
+  - **Protocolo fertilización:** leer envase, medir ml/L, alternar 1 ferti/1 agua, lavado EC 20% volumen
+- **Sección 36 (Toxicidades):** ✅ COMPLETADA - Sobre-fertilización síntomas + recuperación
+  - **Síntomas:** hojas dobladas/retorcidas, puntas quemadas severas, manchas generalizadas, apariencia "planta incendiada"
+  - **Causas:** ignorar dosis envase, no medir, fertilización continua sin agua sola, acumulación sales riego insuficiente
+  - **Recuperación:** verificación EC drenaje >3000-4000 toxicidad confirmada, vegetativo trasplante urgente, floración reducir/eliminar + lavado, protocolo futuro alternar ferti/agua
+  - **Mito desmontado:** más ferti ≠ más cogollos (planta quemada = MENOR producción)
+
+### Cambiado
+- **Sección 35:** de "Vacío" a "COMPLETADA - Troubleshooting práctico"
+- **Sección 36:** de "Vacío" a "COMPLETADA - Sobre-fertilización"
+- **Estado general:** 13 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-003)
+
+### Notas
+Tercera integración Doña Huana. Enfoque troubleshooting por probabilidades estadísticas (causas comunes primero) vs diagnóstico micronutrientes específicos. Honestidad reconociendo limitaciones casos raros ("no tengo idea"). Tier A (20/25). Flag 💬 lenguaje coloquial añadido. 2 secciones críticas COMPLETADAS con 1 video (diagnóstico práctico). Total videos procesados: 13/90 (10 Noé + 3 Doña Huana).
+
 ## [0.13.0] - 2025-11-09
 
 ### Agregado
