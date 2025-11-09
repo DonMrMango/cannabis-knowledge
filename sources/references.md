@@ -89,6 +89,32 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - URL: https://www.youtube.com/watch?v=GI0NB6OUP20
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=8
 
+**[HOW-006]** Noé (House of Weed) - "¿Cómo Diferenciar Planta Macho de Hembra? - Sexado Cannabis" (2024)
+- Tipo: Video (transcripción) - Guía técnica sexado
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (19/25) - Protocolo universal, caso estudio documentado (Glaze 12 regulares→8F+4M)
+- **Flags:** 👤 🌍 🔗
+- Nivel de consenso: Alto (técnica fundamental consensuada)
+- Temas: Timing detección (1.5-2m), 3 métodos (maduración natural, inducción 12/12, clonación outdoor), características visuales machos/hembras, diferencias morfológicas (tallo, internodos, hojas), concepto "sinsemilla", eliminación machos pre-polinización
+- Enfoque: Guía completa determinación sexo semillas regulares con caso práctico
+- Video ID: E1nx9sFv6a8
+- URL: https://www.youtube.com/watch?v=E1nx9sFv6a8
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=3
+
+**[HOW-007]** Noé (House of Weed) - "Plantas Hermafroditas - Causas, Prevención y Manejo" (2024)
+- Tipo: Video (transcripción) - Guía técnica hermafroditismo
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (20/25) - +1 objetividad por protocolo completo prevención/manejo con mecanismo biológico explicado
+- **Flags:** 👤 🌍 🔗
+- Nivel de consenso: Alto (problema crítico documentado comunidad)
+- Temas: Definición hermafroditismo (afecta feminizadas+regulares), causas genéticas+estrés ambiental (luz, temp, HR, podas, nutrición), indicador "bananas", mecanismo supervivencia, condición NO reversible, extracción flores masculinas (técnica humectación), criterio eliminación planta, usos alternativos material
+- Enfoque: Guía integral problema hermafroditismo con prevención y manejo práctico
+- Video ID: Uz1VFijwPaI
+- URL: https://www.youtube.com/watch?v=Uz1VFijwPaI
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=13
+
 ---
 
 ## Fuentes Pendientes de Integración

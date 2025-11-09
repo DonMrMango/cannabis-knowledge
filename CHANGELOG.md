@@ -5,6 +5,34 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.8.0] - 2025-11-09
+
+### Agregado
+- **[HOW-006]** Tercera integración Neon Postgres: "Sexado Cannabis - Diferenciación Macho/Hembra"
+- **[HOW-007]** Cuarta integración Neon Postgres: "Hermafroditismo - Causas y Manejo"
+- **Sección 1 (Genética):** ✅ COMPLETADA - Expandida con determinación sexo + hermafroditismo
+  - **Determinación Sexo:**
+    - Timing: 1.5-2 meses post-germinación
+    - 3 métodos detección: maduración natural | inducción 12/12 | clonación outdoor
+    - Características visuales machos: sacos agrupados, tallo grueso, internodos largos
+    - Características visuales hembras: estigmas blancos aterciopelados pegajosos
+    - Concepto "sinsemilla": hembras sin polinizar = máxima calidad
+    - Caso estudio: Glaze 12 regulares→8F+4M
+  - **Hermafroditismo:**
+    - Causas: genética + estrés ambiental (luz, temp, HR, podas, nutrición)
+    - Indicador "bananas": flores masculinas amarillas alargadas
+    - Mecanismo: respuesta supervivencia ante amenaza muerte
+    - Condición NO reversible
+    - Manejo: extracción con humectación | eliminación planta si severo
+    - Afecta: feminizadas + regulares
+    - Usos alternativos: comestibles, compost, biofertilizantes
+
+### Cambiado
+- Sección 1: de básica (solo tipos genéticos) a completa (genética + sexado + hermafroditismo)
+
+### Notas
+Tercera y cuarta integración Postgres→Git. Sección Genética completada con conocimiento crítico sexado y problema hermafroditismo. Tier A mantenido (19-20/25). Total videos procesados: 4/27.
+
 ## [0.7.0] - 2025-11-09
 
 ### Agregado

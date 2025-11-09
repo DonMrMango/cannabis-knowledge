@@ -283,8 +283,9 @@ Al integrar fuente:
 
 ## 🧬 1. GENÉTICA Y SELECCIÓN DE CEPAS
 
-> **Estado actual:** ⚡ Primera integración + caso estudio
-> **Fuentes:** [HOW-001], [HOW-002]
+> **Estado actual:** ✅ Completo - Sexado + Hermafroditismo integrados
+> **Fuentes:** [HOW-001], [HOW-002], [HOW-006], [HOW-007]
+> **Prioridad:** Crítica cumplida
 
 ### Casos de Estudio - Variedades Específicas
 
@@ -321,6 +322,110 @@ Al integrar fuente:
 - Objetivo claro: tamaño, efecto, espacio disponible
 - NO seleccionar solo por marketing/fotos
 - Evaluar contexto cultivo (campo vs casa vs balcón)
+
+### Determinación de Sexo - Semillas Regulares
+
+**Timing detección:** [HOW-006]
+- Inicio: 1.5-2 meses post-germinación
+- Aparición: paulatina en nodos
+
+**Método 1 - Maduración Natural:** [HOW-006]
+- Esperar desarrollo natural signos sexuales
+- Monitoreo: cada 2-3 días
+
+**Método 2 - Inducción Indoor (12/12):** [HOW-006]
+- Fotoperíodo: 12h luz | 12h oscuridad
+- Detección: 10-20 días post-cambio
+- Monitoreo: cada 2-3 días
+
+**Método 3 - Clonación Outdoor:** [HOW-006]
+- Esquejes → enraizamiento → inducción 12/12
+- Resultado: sexo clones = sexo plantas madre
+
+**Características Visuales Machos:** [HOW-006]
+- Sacos pequeños agrupados (granos polen)
+- Progresión: racimos grandes
+- Tallo: +grosor vs hembras
+- Distancia internodal: mayor
+- Hojas: -cantidad
+- ⚠️ ELIMINAR: apenas detectados (pre-apertura estambres)
+
+**Características Visuales Hembras:** [HOW-006]
+- Estigmas: pelitos largos blancos
+- Origen: bulbo (órgano reproductivo)
+- Textura: aterciopelada + pegajosa
+- Función: capturar polen
+
+**Concepto "Sinsemilla":** [HOW-006] [HOW-007]
+- Definición: hembras SIN polinización
+- Resultado: flores resinosas altas cannabinoides + terpenos
+- Calidad: máxima
+- Semillas presentes→espacio ocupado + cantidad útil reducida + calidad↓
+
+**Caso Estudio:** [HOW-006]
+- Variedad: Glaze (12 regulares)
+- Resultado: 8F + 4M
+- Contexto: selección + conservación genética
+
+### Hermafroditismo - Problema Crítico
+
+**Definición:** [HOW-007]
+- Planta desarrolla flores masculinas + femeninas
+- Afecta: feminizadas + regulares
+- Impacto: calidad cosecha↓↓
+
+**Causas - Factor 1 Genética:** [HOW-007]
+- Semillas de plantas hermafroditas
+- Líneas genéticas propensas
+- Heredabilidad: alta
+
+**Causas - Factor 2 Estrés Ambiental:** [HOW-007]
+- Iluminación: horarios inconsistentes | luz período oscuro | interrupciones regulares
+- Temperatura: fluctuaciones fuertes | condiciones extremas
+- Humedad: inestabilidad
+- Técnicas: podas tardías | mal ejecutadas
+- Nutrición: deficiencias
+- Otros: estrés general
+
+**Mecanismo Biológico:** [HOW-007]
+- Respuesta: supervivencia ante amenaza muerte
+- Estrategia: reproducción emergencia (autopolinización)
+- Ocurre: incluso en feminizadas
+
+**Indicador Visual "Bananas":** [HOW-007]
+- Forma: flores masculinas alargadas
+- Color: amarillo (similar banana)
+- Signo: primero hermafroditismo
+- Progresión: sin extracción→racimos→polen→fecundación→semillas
+
+**Prevención:** [HOW-007]
+- Ambiente: estable (luz + temp + HR)
+- Genética: calidad verificada
+- Estrés: minimizar/eliminar
+- Monitoreo: diario desarrollo
+
+**Manejo - Condición NO Reversible:** [HOW-007]
+- Genética: característica permanente
+- Estrés: daño ya causado
+- Objetivo: contener problema | evitar polinización
+
+**Extracción Flores Masculinas:** [HOW-007]
+- Herramientas: pinzas O tijeras esterilizadas
+- Técnica CRÍTICA: humedecer con agua antes extraer
+- Objetivo humectación: inactivar polen | prevenir dispersión
+- Timing: apenas detectadas
+
+**Decisión Eliminar Planta:** [HOW-007]
+- Criterio: cantidad significativa "bananas" + otras plantas presentes
+- Acción: remover completa O cosechar urgente
+- Objetivo: minimizar pérdidas | proteger cultivo
+
+**Usos Alternativos Material Hermafrodita:** [HOW-007]
+- Leche infusionada
+- Comestibles
+- Compost
+- Biofertilizantes
+- Decoración (hojas)
 
 ---
 
