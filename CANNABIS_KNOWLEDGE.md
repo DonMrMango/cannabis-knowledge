@@ -624,13 +624,61 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 💦 27. RIEGO: FRECUENCIA Y TÉCNICAS
 
-> **Estado actual:** ⚡ Referencia pendiente
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ✅ Completo - Protocolos definitivos
+> **Fuentes:** [HOW-003]
 > **Prioridad:** Crítica
 
-**Referencia externa:** [HOW-001]
-- Noé (House of Weed) menciona video dedicado específicamente a riego
-- Pendiente: integrar transcripción video riego para completar sección
+### Importancia Crítica
+
+**Consecuencias riego incorrecto:** [HOW-003]
+- Riego insuficiente→carencias nutrientes (raíces no absorben)
+- Riego excesivo→falta oxigenación raíces + desarrollo hongos
+- ⚠️ "Súper importante" - impacto directo en salud planta
+
+### Volumen de Agua
+
+**Fórmula universal:** [HOW-003]
+- Volumen riego = 1/4 del volumen maceta
+- Ejemplo: maceta 12L → regar con 3L
+- Ejemplo: maceta 20L → regar con 5L
+
+### Técnica de Aplicación
+
+**Método correcto:** [HOW-003]
+- ❌ NUNCA aplicar todo el volumen de golpe
+- ✅ Regar poco a poco + esperar absorción + repetir
+- Distribución: superficie pareja (esquinas + centro + todos lados)
+- Actitud: paciencia + lentamente
+
+**Proceso detallado:** [HOW-003]
+1. Aplicar pequeña cantidad agua
+2. Esperar que sustrato absorba
+3. Repetir hasta completar volumen total (ej: 3L)
+
+### Frecuencia (CUÁNDO Regar)
+
+**Indicador crítico: Peso maceta** [HOW-003]
+
+**Método manual (sin balanza):**
+- Levantar maceta recién regada → memorizar peso
+- Revisar cada 1-2 días levantando maceta
+- Momento riego: cuando perdió 50-60% peso inicial
+
+**Método exacto (con balanza):**
+- Pesar maceta recién regada → anotar peso
+- Re-pesar cada 1-2 días
+- Regar cuando perdió 50-60% peso inicial
+
+**⚠️ NO esperar:** [HOW-003]
+- Planta "triste" o decaída = YA demasiado seca
+- Hojas caídas = señal tardía (daño ya iniciado)
+
+### Factores Ambientales
+
+**Temperatura/Calor:** [HOW-003]
+- Calor→mayor evaporación→más agua requerida
+- Ajustar frecuencia según temperatura ambiente
+- Verano: revisar peso más frecuentemente
 
 ---
 

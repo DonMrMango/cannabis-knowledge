@@ -5,6 +5,21 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.4.0] - 2025-11-08
+
+### Agregado
+- **[HOW-003]** Tercera fuente integrada: House of Weed - "¿Cuándo y cómo regar?"
+- Sección 27 (Riego): ✅ COMPLETADA - Prioridad Crítica cumplida
+  - Fórmula volumen: 1/4 maceta
+  - Técnica aplicación gradual (nunca de golpe)
+  - Timing por peso: 50-60% pérdida peso
+  - Método manual y con balanza
+  - Consecuencias riego incorrecto
+  - Factor temperatura/evaporación
+
+### Notas
+Sección crítica de Riego completada con protocolo definitivo. Trilogía House of Weed integrada exitosamente.
+
 ## [0.3.0] - 2025-11-08
 
 ### Agregado

@@ -34,6 +34,15 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Caso específico: Durban Poison (sativa, Sudáfrica, +1.10m, cultivo óptimo)
 - Ubicación: `/sources/fuentes/videos/house_of_weed/De SEMILLA a COGOLLO: Cultivo desde 0`
 
+**[HOW-003]** Noé (House of Weed) - "¿Cuándo y cómo regar una planta de Marihuana? - Consejos de Riego" (2024)
+- Tipo: Video (transcripción) - Guía técnica especializada
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-08 por damo
+- Nivel de consenso: Alto (técnica fundamental validada por comunidad)
+- Temas: Volumen riego (fórmula 1/4 maceta), técnica aplicación gradual, timing por peso maceta (50-60% pérdida), importancia crítica riego, consecuencias riego incorrecto, factor temperatura
+- Enfoque: Protocolo definitivo riego para cultivadores todos niveles
+- Ubicación: `/sources/fuentes/videos/house_of_weed/¿Cuándo y cómo regar una planta de Marihuana? - Consejos de Riego`
+
 ---
 
 ## Fuentes Pendientes de Integración
