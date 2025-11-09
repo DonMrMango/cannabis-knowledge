@@ -465,43 +465,184 @@ Al integrar fuente:
 
 ## 📅 7. MADURACIÓN Y COSECHA
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Alta
+> **Estado actual:** ✅ Completo - Protocolo definitivo integrado
+> **Fuentes:** [HOW-004]
+> **Prioridad:** Crítica cumplida
 
-**Contenido esperado:**
-- Indicadores de cosecha (tricomas, pistilos)
-- Ventana de cosecha
-- Técnicas de flush (lavado raíces)
-- Herramientas de cosecha
-- Timing según efecto deseado
+### Pre-Cosecha - Preparación
+
+**Lavado de raíces (Flush):** [HOW-004]
+- Timing: 2 semanas pre-cosecha
+- Método: solo agua (sin fertilizantes)
+- Indicador éxito: hojas amarillas (reservas nutricionales agotadas)
+- Impacto: sabor directo (consenso cultivadores)
+- Reducir humedad: parar riego 2-3 días antes cosecha
+
+### Métodos de Cosecha
+
+**Planta entera:** [HOW-004]
+- Timing: maduración promedio general
+- Proceso: cortar + colgar completa
+- Contexto: automáticas (más común)
+
+**Cosecha por partes (Escalonada):** [HOW-004]
+- Razón: planta NO madura uniforme
+- Secuencia: flores superiores primero → flores inferiores 1-2 semanas después
+- Objetivo: alcanzar tonalidad tricomas ideal en todas flores
+- Contexto: plantas grandes/feminizadas (método preferido Noé)
+
+### Post-Corte - Manicura
+
+**Timing opciones:** [HOW-004]
+- Pre-secado (húmeda): secado rápido | menos parejo | ⚠️ Usar si alta humedad ambiental
+- Post-secado (seca): secado lento | más parejo | ✅ Preferido calidad
+
+**Cogollos gruesos:** [HOW-004]
+- Acción: dividir/separar
+- Razón: prevenir exceso humedad → moho/hongo
+
+### Pérdida de Peso
+
+**Regla 70%:** [HOW-004]
+- Pérdida: ~70% peso inicial
+- Ejemplos:
+  - 100g húmedo → 30g seco
+  - 1,000g (1kg) húmedo → 300g seco
+- Aplicación: interpretar descripciones semillas ("producción 1kg" = 300g fumable)
 
 ---
 
 ## 🌬️ 8. POST-COSECHA: SECADO
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Alta
+> **Estado actual:** ✅ Completo - Protocolo definitivo integrado
+> **Fuentes:** [HOW-004]
+> **Prioridad:** Crítica cumplida
 
-**Contenido esperado:**
-- Temperatura y humedad óptimas
-- Duración proceso
-- Métodos (colgado, rejillas)
-- Ventilación necesaria
-- Test de punto de secado
+### Parámetros Ambientales Óptimos
+
+**Clima ideal:** [HOW-004]
+- Humedad: 50% relativa
+- Temperatura: 20°C (68°F)
+- Control: monitorear y ajustar (acercarse máximo posible)
+
+**Manejo humedad excesiva:** [HOW-004]
+- Ventiladores: usar SIN apuntar directo a flores colgadas
+- Deshumidificador: opción adicional
+
+### Espacio de Secado
+
+**Ubicación:** [HOW-004]
+- Opciones: closet | cuarto | carpa cultivo
+- Requisitos: oscuridad + buena ventilación
+
+**Métodos por calidad:** [HOW-004]
+1. **Colgado hacia abajo** (óptimo): mejor circulación aire | Herramientas: colgador/hilos/cuerdas
+2. **Mallas secado**: funcionan bien | portátil
+3. **Cajas artesanales** (con orificios): menos óptimo calidad
+
+### Duración y Test
+
+**Tiempo:** [HOW-004]
+- Rango: 1-2 semanas desde inicio
+- Variables: humedad ambiente + tamaño flores + método manicura
+
+**Test finalización - "Sonido Clic":** [HOW-004]
+- Acción: doblar rama secundaria
+- ✅ Punto ideal: sonido "clic" (conserva algo humedad)
+- ❌ Sobre-secado: ramas muy rígidas + quiebran fácil
+
+### Principio Fundamental
+
+**Secado lento > secado rápido:** [HOW-004]
+- Relación directa: velocidad secado ↔ calidad hierba
+- Preferir: tiempo prolongado + condiciones controladas
 
 ---
 
 ## 🏺 9. POST-COSECHA: CURADO
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Alta
+> **Estado actual:** ✅ Completo - Protocolo definitivo integrado
+> **Fuentes:** [HOW-004]
+> **Prioridad:** Crítica cumplida
 
-**Contenido esperado:**
-- Proceso en frascos
-- Burping (aireación)
-- Duración mínima y óptima
-- Humedad relativa ideal (62% Boveda)
-- Mejoras organolépticas
+### Contenedores
+
+**Tipos por preferencia:** [HOW-004]
+1. **Vidrio hermético** (óptimo): no transfiere sabor a hierba | preferencia Noé
+2. **Tuppers plástico**: práctico
+3. **Acero**: buenos
+4. **Madera**: opción artesanal
+- Criterio: hermético + no alterar sabor
+
+### Proceso Inicial - Primeras 2 Semanas
+
+**Llenado:** [HOW-004]
+- Capacidad: 2/3 del frasco (NO llenar tope)
+- Razón: permitir circulación aire
+
+**Burping (Aireación):** [HOW-004]
+- Frecuencia: DIARIO (todos los frascos)
+- Duración: 10-15 minutos
+- Objetivo: liberar humedad acumulada
+- ⚠️ Crítico: prevenir aparición moho/hongo (pérdida total cosecha)
+
+### Post 2 Semanas - Mantenimiento
+
+**Revisión:** [HOW-004]
+- Frecuencia: cada 4-5 días
+- Objetivo: prevenir complicaciones
+
+### Control de Humedad
+
+**Rango ideal:** [HOW-004]
+- Humedad relativa: 58-65%
+- Óptimo: 62%
+
+**Sobres Boveda 62%:** [HOW-004]
+- Función: controlar humedad automático (reducir O aumentar hasta 62%)
+- Ventaja: después 2 semanas burping → permite curado meses sin abrir
+- Beneficio: elimina riesgo moho + conserva aroma/sabor/textura/potencia
+
+### Tiempos de Curado
+
+**Mínimos según urgencia:** [HOW-004]
+- **Urgente/corto plazo**: 3-4 semanas mínimo
+- **Bueno**: 2 meses
+- **Óptimo/PRO**: +6 meses
+  - Resultado: suave | rico sabor | rico aroma | perfiles distinguibles
+  - Testimonio: "La mejor hierba que he probado/cultivado" (Noé)
+
+### Categorización de Cosecha
+
+**Sistema 3 tiers:** [HOW-004]
+
+**Hierba 1ra (Premium):**
+- Características: cogollos grandes + resinosos + mejor forma
+- Destino: curado largo (+6 meses)
+- Almacenamiento: frascos guardados
+
+**Hierba 2da (Consumo regular):**
+- Características: cogollos medianos/pequeños
+- Destino: consumo corto/mediano plazo
+- Almacenamiento: frascos a mano/alcance
+
+**Hierba 3ra (Procesamiento):**
+- Características: cogollos chicos + más hojas
+- Destino: preparaciones | comestibles | extracciones (bubble hash, RSO)
+
+### Almacenamiento
+
+**Condiciones:** [HOW-004]
+- Luz: oscuro
+- Ventilación: buena
+- Temperatura: moderada (ni mucho calor ni frío)
+- Lugar: closet (opción recomendada)
+
+### Principio Fundamental
+
+**Secado lento + curado largo = máxima calidad:** [HOW-004]
+- Combinación perfecta: extraer mejor calidad posible de meses cultivo
+- Requisito: paciencia
 
 ---
 

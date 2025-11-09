@@ -63,6 +63,19 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Enfoque: Protocolo definitivo riego para cultivadores todos niveles
 - Ubicación: `/sources/fuentes/videos/house_of_weed/¿Cuándo y cómo regar una planta de Marihuana? - Consejos de Riego`
 
+**[HOW-004]** Noé (House of Weed) - "Cosecha, Secado y Curado - Guía Completa" (2024)
+- Tipo: Video (transcripción) - Guía técnica completa
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (20/25) - +1 objetividad por protocolo universal, mención Boveda con contexto educativo
+- **Flags:** 👤 🌍 🔗
+- Nivel de consenso: Alto (prácticas post-cosecha consensuadas comunidad)
+- Temas: Lavado raíces pre-cosecha, cosecha entera vs escalonada, manicura húmeda/seca, pérdida peso 70%, secado lento (50%HR/20°C, 1-2 semanas, test "clic"), curado en frascos (burping 2 semanas, Boveda 62%, tiempos 3-4sem/2m/+6m), categorización cosecha (3 tiers)
+- Enfoque: Ciclo post-cosecha completo con tiempos específicos y sistema categorización
+- Video ID: L3AFchvoVF8
+- URL: https://www.youtube.com/watch?v=L3AFchvoVF8
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=1
+
 ---
 
 ## Fuentes Pendientes de Integración

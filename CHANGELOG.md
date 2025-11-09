@@ -5,6 +5,35 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.6.0] - 2025-11-09
+
+### Agregado
+- **[HOW-004]** Primera integración desde Neon Postgres: "Cosecha, Secado y Curado"
+- **Sección 7 (Cosecha):** ✅ COMPLETADA
+  - Lavado raíces pre-cosecha (flush 2 semanas, indicador hojas amarillas)
+  - Métodos cosecha: planta entera vs escalonada (1-2 semanas diferencia maduración)
+  - Manicura húmeda/seca (contextos y efectos en secado)
+  - Regla pérdida peso 70% (húmedo→seco)
+- **Sección 8 (Secado):** ✅ COMPLETADA
+  - Parámetros óptimos: 50% HR + 20°C
+  - Duración 1-2 semanas
+  - Métodos por calidad: colgado>mallas>cajas
+  - Test finalización "sonido clic"
+  - Principio: secado lento > rápido
+- **Sección 9 (Curado):** ✅ COMPLETADA
+  - Contenedores: vidrio hermético (óptimo)
+  - Burping diario 10-15min primeras 2 semanas
+  - Humedad ideal 58-65% (óptimo 62%, Boveda)
+  - Tiempos: urgente 3-4sem | bueno 2m | PRO +6m
+  - Sistema categorización 3 tiers (premium/regular/procesamiento)
+- Columna `procesado_kb` agregada a tabla Neon Postgres para tracking
+
+### Cambiado
+- Workflow integración: ahora desde Neon Postgres con marcado automático procesamiento
+
+### Notas
+Primera integración completa ciclo post-cosecha. Sistema Postgres→Git operativo. 3 secciones críticas completadas en único video (~2,900 palabras). Tier A mantenido para Noé (20/25).
+
 ## [0.5.0] - 2025-11-08
 
 ### Agregado
