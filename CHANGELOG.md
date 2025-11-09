@@ -5,6 +5,27 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.20.0] - 2025-11-09
+
+### Agregado
+- **[HOW-013]** Decimotercera integración House of Weed: "Hongos Cannabis I" - Primera fuente hongos completa (identificación+prevención+combate+salud pública)
+- **Sección 34 (Enfermedades - Hongos, Bacterias, Virus):** ✅ COMPLETADA - Primera integración subsección Hongos completa
+  - **Tipos hongos identificación visual:** Botrytis (moho gris telita blanco-grisácea→café→pudre flores densas expansión rápida cosecha inutilizable), Oidio (polvo blanco talco superficie hojas/tallos NO penetra flores controlable), Mildew (hojas café/oscuro afecta hojas+tallos+FLORES peligroso), Aspergillus (altamente infeccioso MUY PELIGROSO inmunodeprimidos)
+  - **Factores causales:** exceso humedad factor principal (riego excesivo/clima húmedo/indoor sin ventilación/secado-curado sin airear) | plantas débiles (carencia nutrientes/iluminación inadecuada susceptibilidad↑) | ataque plagas (debilitan+excremento infecta) | mal secado/curado (humedad acumula propagación rápida)
+  - **Prevención cultivo:** control ambiental prioridad 1 (riego correcto/ventilación/HR controlada CRÍTICO condiciones PRIMERO sin control productos NO efectivos) | fortaleza plantas (nutrición+iluminación adecuadas resistencia↑) | productos preventivos etapas tempranas (jabón potásico/neem/tierra diatomeas/infusiones cola caballo/canela/azufre) | observación regular (monitoreo diario detectar indicios acción rápida)
+  - **Prevención secado/curado:** ventilación CLAVE (lugar ventilado OBLIGATORIO dispersar humedad NO acumular) | test tallo (doblar cruje=listo curado NO quiebra=continuar secando CRÍTICO curar húmedas riesgo↑↑) | manicura timing contextual (alta humedad inmediata post-cosecha peladitas vs baja humedad post-secado hojas retardan) | curado SIN sobres (3-4x/día 2-3sem 5-10min renovar aire) | curado CON sobres Boveda (bidireccional automático fácil) | relacionado Secciones 8+9
+  - **Combate hongos:** prioridad control ambiental PRIMERO ↓humedad↑ventilación (eliminar causa raíz vs síntomas) | productos combate (mismos prevención jabón/neem/diatomeas/infusiones/azufre) | extirpación material (cortar LO MÁS PROFUNDO POSIBLE esporas rápido tejido interno eliminar inmediato indoor urgente)
+  - **⚠️ CONSUMO MATERIAL CONTAMINADO - SALUD PÚBLICA:** POSTURA NUNCA CONSUMIR (NUNCA fumar/vaporizar NO extracciones prioridad salud>elevación) | riesgos inhalación esporas (neumonitis respuesta inflamatoria pulmonar, aspergillosis infección similar tuberculosis, inmunodeprimidos riesgo MÁXIMO) | filosofía consumo responsable ("arriesgando de más simplemente por estar elevados" perder cultivo lamentable PERO "oportunidad futuro" salud NO negociable "cuidarnos" "no sufrir enfermedad pulmonar") | extirpación insuficiente (visible NO elimina esporas microscópicas dispersas resto flor evitar consumir completa) | acción recomendada (cultivadores controlar factores→NO aparecen prevención material hongos desechar completo oportunidades futuras salud NO reemplazable)
+
+### Cambiado
+- **Sección 34:** de "Vacío" a "COMPLETADA - Hongos cannabis completo + salud pública"
+- **Estado general:** 19 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-006)
+- **Distribución Tiers:** 1 TIER S (5.3%) + 17 TIER A (89.5%) + 1 TIER B (5.3%) = 19 fuentes totales
+- **Videos procesados:** 19/90 (21.1%) = 13 House of Weed + 6 Doña Huana
+
+### Notas
+Decimotercera House of Weed. Primera fuente hongos cannabis proyecto. Tier A (23/25) -1 Credibilidad falta fuentes médicas específicas -1 Calidad NO tratamientos diferenciados tipo hongo. Contenido VALIOSO salud pública prevención+advertencias consumo ENFÁTICAS. Protocolo curado reproducible (3-4x/día 5-10min 2-3sem). Postura CLARA consumo responsable NUNCA material contaminado prioriza salud. Test tallo indicador humedad (cruje=listo NO quiebra=continuar). Manicura timing contextual humedad ambiente (alta inmediata vs baja post-secado). Flag ⚕️ salud pública nuevo. Cross-reference Secciones 8+9 secado/curado. Conocimiento fundamental cultivadores prevenir pérdidas cosecha+proteger salud consumidores. Total procesados: 19/90 (13 Noé + 6 Doña Huana).
+
 ## [0.19.0] - 2025-11-09
 
 ### Agregado
