@@ -5,6 +5,33 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.9.0] - 2025-11-09
+
+### Agregado
+- **[HOW-008]** Quinta integración Neon Postgres: "Cata Marihuana - Parte 1 Examen Visual"
+- **Sección 10 (Evaluación Calidad y Cata):** ✅ NUEVA SECCIÓN + Parte 1 completa
+  - **Setup profesional:**
+    - Ambiente: lugar iluminado + mantel blanco + herramientas (microscopio, pauta)
+    - Neutralizador olfato: café molido
+    - Restricciones: solo agua | NO comida/azúcar/alcohol
+  - **Examen Visual detallado:**
+    - Plagas/moho: descalificatorio | indicadores visuales
+    - Semillas: ausencia = mejor calificación
+    - Manicurado: -hojas/ramas = +calificación + mejor sabor/combustión
+    - Compacidad: índica (densa/pesada) vs sativa (abierta/liviana) | evaluar separado
+    - Pistilos: +cantidad = +calificación | color óptimo rojizo-café
+    - Tricomas: estructura champiñón + coloración lechosa = óptimo | blanco=prematuro | ámbar=tardío+THC→CBN
+    - Resina: +cantidad = +cannabinoides/terpenos/efecto
+  - **Casos estudio:** Guava 26 (índica visual/sativa efecto) + Chaxila (sativa dominante)
+  - **Pendiente:** Parte 2 (olor/sabor/efecto)
+
+### Cambiado
+- **Reorganización taxonómica:** Secciones 10-44 renumeradas a 11-45
+- Índice actualizado con nueva sección post-curado
+
+### Notas
+Quinta integración Postgres→Git. Primera sección nueva agregada post-estructura inicial. Evaluación calidad producto final integrada con protocolo profesional competencias. Tier A mantenido (20/25). Total videos procesados: 5/27.
+
 ## [0.8.0] - 2025-11-09
 
 ### Agregado

@@ -115,6 +115,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - URL: https://www.youtube.com/watch?v=Uz1VFijwPaI
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=13
 
+**[HOW-008]** Noé (House of Weed) - "Cómo Catar Marihuana - Parte 1: Examen Visual" (2024)
+- Tipo: Video (transcripción) - Guía técnica evaluación calidad Parte 1
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (20/25) - +1 objetividad por protocolo profesional completo con casos estudio comparativos (Guava vs Chaxila)
+- **Flags:** 👤 🌍 🔗 💰
+- Nivel de consenso: Alto (criterios evaluación estandarizados competencias)
+- Temas: Setup cata profesional (ambiente, herramientas, restricciones alimentarias), 4 parámetros evaluación (visual/olor/sabor/efecto), examen visual detallado (plagas, moho, semillas, manicurado, compacidad índica/sativa, pistilos cantidad/color, tricomas estructura/coloración/cantidad), correlación timing cosecha-coloración tricomas (blanco→prematuro, lechoso→óptimo, ámbar→tardío), prevención moho curado, casos estudio Guava 26 + Chaxila
+- Enfoque: Parte 1 evaluación calidad (visual) con protocolo profesional detallado y checklist
+- Video ID: F2C9pVa1JhA
+- URL: https://www.youtube.com/watch?v=F2C9pVa1JhA
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=5
+- **Nota:** Video dividido 2 partes. Parte 2 (olor/sabor/efecto) pendiente
+
 ---
 
 ## Fuentes Pendientes de Integración

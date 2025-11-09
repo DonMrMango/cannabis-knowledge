@@ -229,55 +229,56 @@ Al integrar fuente:
 7. [Maduración y Cosecha](#7-maduracion-y-cosecha)
 8. [Post-Cosecha: Secado](#8-post-cosecha-secado)
 9. [Post-Cosecha: Curado](#9-post-cosecha-curado)
+10. [Evaluación de Calidad y Cata](#10-evaluacion-de-calidad-y-cata)
 
 ### Sistemas de Cultivo
-10. [Indoor (Interior)](#10-indoor-interior)
-11. [Outdoor (Exterior)](#11-outdoor-exterior)
-12. [Greenhouse (Invernadero)](#12-greenhouse-invernadero)
-13. [Hidroponía](#13-hidroponia)
-14. [Aeroponía](#14-aeroponia)
-15. [Cultivo en Coco](#15-cultivo-en-coco)
-16. [Cultivo en Tierra](#16-cultivo-en-tierra)
+11. [Indoor (Interior)](#11-indoor-interior)
+12. [Outdoor (Exterior)](#12-outdoor-exterior)
+13. [Greenhouse (Invernadero)](#13-greenhouse-invernadero)
+14. [Hidroponía](#14-hidroponia)
+15. [Aeroponía](#15-aeroponia)
+16. [Cultivo en Coco](#16-cultivo-en-coco)
+17. [Cultivo en Tierra](#17-cultivo-en-tierra)
 
 ### Factores Ambientales
-17. [Iluminación](#17-iluminacion)
-18. [Temperatura](#18-temperatura)
-19. [Humedad](#19-humedad)
-20. [Ventilación y Circulación de Aire](#20-ventilacion-y-circulacion-de-aire)
-21. [CO₂ Suplementación](#21-co2-suplementacion)
+18. [Iluminación](#18-iluminacion)
+19. [Temperatura](#19-temperatura)
+20. [Humedad](#20-humedad)
+21. [Ventilación y Circulación de Aire](#21-ventilacion-y-circulacion-de-aire)
+22. [CO₂ Suplementación](#22-co2-suplementacion)
 
 ### Nutrición y Riego
-22. [Macronutrientes (N-P-K)](#22-macronutrientes-n-p-k)
-23. [Micronutrientes](#23-micronutrientes)
-24. [pH y su Gestión](#24-ph-y-su-gestion)
-25. [EC/TDS y Sales](#25-ectds-y-sales)
-26. [Esquemas de Fertilización](#26-esquemas-de-fertilizacion)
-27. [Riego: Frecuencia y Técnicas](#27-riego-frecuencia-y-tecnicas)
+23. [Macronutrientes (N-P-K)](#23-macronutrientes-n-p-k)
+24. [Micronutrientes](#24-micronutrientes)
+25. [pH y su Gestión](#25-ph-y-su-gestion)
+26. [EC/TDS y Sales](#26-ectds-y-sales)
+27. [Esquemas de Fertilización](#27-esquemas-de-fertilizacion)
+28. [Riego: Frecuencia y Técnicas](#28-riego-frecuencia-y-tecnicas)
 
 ### Técnicas de Cultivo
-28. [Poda y Defoliación](#28-poda-y-defoliacion)
-29. [Training (LST, HST, SCROG, SOG)](#29-training-lst-hst-scrog-sog)
-30. [Clonación](#30-clonacion)
-31. [Breeding (Crianza)](#31-breeding-crianza)
+29. [Poda y Defoliación](#29-poda-y-defoliacion)
+30. [Training (LST, HST, SCROG, SOG)](#30-training-lst-hst-scrog-sog)
+31. [Clonación](#31-clonacion)
+32. [Breeding (Crianza)](#32-breeding-crianza)
 
 ### Problemas y Soluciones
-32. [Plagas](#32-plagas)
-33. [Enfermedades (Hongos, Bacterias, Virus)](#33-enfermedades-hongos-bacterias-virus)
-34. [Deficiencias Nutricionales](#34-deficiencias-nutricionales)
-35. [Toxicidades](#35-toxicidades)
-36. [Estrés Ambiental](#36-estres-ambiental)
+33. [Plagas](#33-plagas)
+34. [Enfermedades (Hongos, Bacterias, Virus)](#34-enfermedades-hongos-bacterias-virus)
+35. [Deficiencias Nutricionales](#35-deficiencias-nutricionales)
+36. [Toxicidades](#36-toxicidades)
+37. [Estrés Ambiental](#37-estres-ambiental)
 
 ### Herramientas y Equipamiento
-37. [Medidores y Sensores](#37-medidores-y-sensores)
-38. [Luces y Balastros](#38-luces-y-balastros)
-39. [Ventiladores y Extractores](#39-ventiladores-y-extractores)
-40. [Sistemas de Riego](#40-sistemas-de-riego)
-41. [Controladores y Automatización](#41-controladores-y-automatizacion)
+38. [Medidores y Sensores](#38-medidores-y-sensores)
+39. [Luces y Balastros](#39-luces-y-balastros)
+40. [Ventiladores y Extractores](#40-ventiladores-y-extractores)
+41. [Sistemas de Riego](#41-sistemas-de-riego)
+42. [Controladores y Automatización](#42-controladores-y-automatizacion)
 
 ### Meta-Secciones
-42. [Contradicciones Pendientes](#42-contradicciones-pendientes)
-43. [Features Derivadas para Apps](#43-features-derivadas-para-apps)
-44. [Glosario de Términos](#44-glosario-de-terminos)
+43. [Contradicciones Pendientes](#43-contradicciones-pendientes)
+44. [Features Derivadas para Apps](#44-features-derivadas-para-apps)
+45. [Glosario de Términos](#45-glosario-de-terminos)
 
 ---
 
@@ -751,14 +752,160 @@ Al integrar fuente:
 
 ---
 
-## 🏠 10. INDOOR (INTERIOR)
+## 🔬 10. EVALUACIÓN DE CALIDAD Y CATA
+
+> **Estado actual:** ✅ Parte 1 completa - Examen Visual integrado
+> **Fuentes:** [HOW-008]
+> **Prioridad:** Alta - Evaluación producto final
+
+### Setup Cata Profesional
+
+**Contexto:** [HOW-008]
+- Social: varias personas + variedades compartidas
+- Individual: conocer cosecha propia/consumo
+
+**Ambiente:** [HOW-008]
+- Lugar: cómodo + bien iluminado
+- Mesa: mantel blanco (contraste tonalidades)
+- Herramientas: microscopio con luz | pauta evaluación escrita
+- Neutralizador olfato: café molido (entre variedades)
+
+**Restricciones Críticas:** [HOW-008]
+- Bebida ÚNICA: agua (hidratación)
+- ❌ EVITAR: comida | bebidas azucaradas | jugos | alcohol
+- Razón: sentidos neutros máxima percepción
+
+### 4 Parámetros de Cata
+
+**Evaluación completa:** [HOW-008]
+1. Aspecto visual
+2. Olor (olfativo)
+3. Sabor (gustativo)
+4. Efecto
+
+**Estado:** Parte 1 (visual) documentada | Partes 2-4 pendiente video seguimiento
+
+### EXAMEN VISUAL - Inspección Microscópica
+
+**1. Plagas y Moho (Descalificatorio):** [HOW-008]
+
+**Detección plagas:**
+- Herramienta: microscopio
+- Revisar: superficie flor | aberturas internas | envés hojas
+- Buscar: presencia insectos O huevos
+- Resultado competencia: descalificación
+
+**Detección moho:**
+- Indicadores visuales: partes negras | tela cobertura | hojas café-negro | hojas muy amarillas
+- Resultado competencia: descalificación
+- Conclusión cultivo: problema floración (agua foliar) O secado/curado deficiente
+
+**Prevención moho curado:** [HOW-008]
+- Test pre-curado: tallo cruje fácil (agua suficiente evaporada)
+- Burping: 2-3x/día para liberar humedad
+- Boveda 62%: mantiene humedad exacta + evita moho
+- ⚠️ Consecuencia: pérdida total cosecha
+
+**2. Semillas:** [HOW-008]
+- Sin semillas: mejor calificación
+- Con semillas: calificación↓
+- Causa: polinización O estrés planta
+- Impacto: calidad↓
+
+**3. Manicurado:** [HOW-008]
+- Mejor manicurado: -hojas | -ramas | +calificación
+- Razón puntuación: apariencia + mejor sabor al fumar + combustión pareja
+- Uso diario: preferencia personal (con hojas aprovecha resina vs limpio)
+- Casos estudio: Guava (bien manicurada) vs Chaxila (más hojas)
+
+**4. Compacidad/Densidad:** [HOW-008]
+
+**Clasificación por genética:**
+- ⚠️ NO comparar directamente indica vs sativa
+- Evaluar separado por categoría
+
+**Índica:**
+- Características: densa | apretada | dura | pesada
+- Ejemplo: Guava (efecto sativo pero aspecto índica, +peso)
+
+**Sativa:**
+- Características: abierta | liviana | -densa | esponjosa
+- Ejemplo: Chaxila (tamaño similar Guava pero -peso)
+
+**Análisis correlacionado:**
+- Densidad visual + peso + tiempo floración = indicador predominancia genética
+
+**5. Pistilos:** [HOW-008]
+
+**Cantidad:**
+- +pistilos = +calificación
+- Mayor calidad flor
+
+**Coloración óptima:**
+- Rojizo tirando café: óptimo
+- Claro/blanco: cosecha prematura (cultivador cortó antes tiempo)
+- Muy oscuro/negro: cosecha tardía (cultivador demoró excesivo)
+- Mejor calificación: color balance
+
+**6. Tricomas (Resina):** [HOW-008]
+
+**Estructura óptima:**
+- Forma: champiñón (cabeza + cuerpo)
+- Coloración ideal: lechosa
+
+**Coloración y timing cosecha:**
+
+**Blanco/cristalino:**
+- Causa: cosecha prematura
+- Consecuencia: NO alcanzó pico maduración | NO alcanzó pico THC
+- Calificación: ↓
+
+**Lechoso:**
+- Timing: óptimo
+- Cannabinoides: pico THC
+- Calificación: óptima
+
+**Ámbar/dorado/miel:**
+- Causa: cosecha tardía
+- Consecuencia: THC degradado→CBN | efecto narcótico pesado cuerpo | -psicoactivo
+- Calificación: ↓ (contexto recreacional)
+
+**Cantidad resina:**
+- +resina = +cannabinoides + +terpenos + +efecto + +sabor + +aroma
+- Mejor calificación: alta cobertura resinosa
+
+### Resumen Criterios Visuales
+
+**Checklist calificación:** [HOW-008]
+- ✅ Sin plagas
+- ✅ Sin moho
+- ✅ Sin semillas
+- ✅ Bien manicurada (-hojas, -ramas)
+- ✅ Alta cantidad pistilos + color rojizo-café
+- ✅ Tricomas bien formados + coloración lechosa + alta cantidad
+- ✅ Compacidad adecuada a genética
+
+**Casos Estudio:** [HOW-008]
+- Guava 26: índica-dominante visual | sativa efecto | bien manicurada | pistilos óptimos
+- Chaxila: sativa-dominante | más hojas | -compacta
+
+### Pendiente Integración
+
+**Video seguimiento Parte 2:** [HOW-008]
+- Examen olfativo
+- Examen gustativo
+- Evaluación efectos
+
+---
+
+## 🏠 11. INDOOR (INTERIOR)
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Alta
 
 ---
 
-## ☀️ 11. OUTDOOR (EXTERIOR)
+## 🌳 12. OUTDOOR (EXTERIOR)
 
 > **Estado actual:** ⚡ Primera integración
 > **Fuentes:** [HOW-001]
@@ -786,35 +933,35 @@ Al integrar fuente:
 
 ---
 
-## 🏡 12. GREENHOUSE (INVERNADERO)
+## 🏡 13. GREENHOUSE (INVERNADERO)
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 💧 13. HIDROPONÍA
+## 💧 14. HIDROPONÍA
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media-Alta
 
 ---
 
-## 🌫️ 14. AEROPONÍA
+## 🌬️ 15. AEROPONÍA
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Baja
 
 ---
 
-## 🥥 15. CULTIVO EN COCO
+## 🥥 16. CULTIVO EN COCO
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🌍 16. CULTIVO EN TIERRA
+## 🌱 17. CULTIVO EN TIERRA
 
 > **Estado actual:** ⚡ Protocolos consolidados
 > **Fuentes:** [HOW-001], [HOW-002]
@@ -858,7 +1005,7 @@ Al integrar fuente:
 
 ---
 
-## 💡 17. ILUMINACIÓN
+## 💡 18. ILUMINACIÓN
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Crítica
@@ -874,35 +1021,35 @@ Al integrar fuente:
 
 ---
 
-## 🌡️ 18. TEMPERATURA
+## 🌡️ 19. TEMPERATURA
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Crítica
 
 ---
 
-## 💨 19. HUMEDAD
+## 💨 20. HUMEDAD
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Crítica
 
 ---
 
-## 🌀 20. VENTILACIÓN Y CIRCULACIÓN DE AIRE
+## 🌀 21. VENTILACIÓN Y CIRCULACIÓN DE AIRE
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Alta
 
 ---
 
-## 🫧 21. CO₂ SUPLEMENTACIÓN
+## 🫧 22. CO₂ SUPLEMENTACIÓN
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🧪 22. MACRONUTRIENTES (N-P-K)
+## 🧪 23. MACRONUTRIENTES (N-P-K)
 
 > **Estado actual:** ⚡ Primera integración
 > **Fuentes:** [HOW-001]
@@ -927,7 +1074,7 @@ Al integrar fuente:
 
 ---
 
-## 🔬 23. MICRONUTRIENTES
+## ⚗️ 24. MICRONUTRIENTES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Alta
@@ -941,14 +1088,14 @@ Al integrar fuente:
 
 ---
 
-## 📊 25. EC/TDS Y SALES
+## 📊 26. EC/TDS Y SALES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Alta
 
 ---
 
-## 📅 26. ESQUEMAS DE FERTILIZACIÓN
+## 📋 27. ESQUEMAS DE FERTILIZACIÓN
 
 > **Estado actual:** ⚡ Primera integración
 > **Fuentes:** [HOW-001]
@@ -969,7 +1116,7 @@ Al integrar fuente:
 
 ---
 
-## 💦 27. RIEGO: FRECUENCIA Y TÉCNICAS
+## 💧 28. RIEGO: FRECUENCIA Y TÉCNICAS
 
 > **Estado actual:** ✅ Completo - Protocolos definitivos
 > **Fuentes:** [HOW-003]
@@ -1029,7 +1176,7 @@ Al integrar fuente:
 
 ---
 
-## ✂️ 28. PODA Y DEFOLIACIÓN
+## ✂️ 29. PODA Y DEFOLIACIÓN
 
 > **Estado actual:** ⚡ Técnicas consolidadas
 > **Fuentes:** [HOW-001], [HOW-002]
@@ -1060,7 +1207,7 @@ Al integrar fuente:
 
 ---
 
-## 🎋 29. TRAINING (LST, HST, SCROG, SOG)
+## 🪢 30. TRAINING (LST, HST, SCROG, SOG)
 
 > **Estado actual:** ⚡ Primera integración
 > **Fuentes:** [HOW-001]
@@ -1080,21 +1227,21 @@ Al integrar fuente:
 
 ---
 
-## 🌿 30. CLONACIÓN
+## 🧬 31. CLONACIÓN
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🧬 31. BREEDING (CRIANZA)
+## 🔬 32. BREEDING (CRIANZA)
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Baja
 
 ---
 
-## 🐛 32. PLAGAS
+## 🐛 33. PLAGAS
 
 > **Estado actual:** ✅ Completo - Guía integral plagas comunes
 > **Fuentes:** [HOW-002], [HOW-005]
@@ -1230,70 +1377,70 @@ Al integrar fuente:
 
 ---
 
-## 🦠 33. ENFERMEDADES (HONGOS, BACTERIAS, VIRUS)
+## 🦠 34. ENFERMEDADES (HONGOS, BACTERIAS, VIRUS)
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Alta
 
 ---
 
-## 📉 34. DEFICIENCIAS NUTRICIONALES
+## 🍂 35. DEFICIENCIAS NUTRICIONALES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Alta
 
 ---
 
-## 📈 35. TOXICIDADES
+## ☠️ 36. TOXICIDADES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🌪️ 36. ESTRÉS AMBIENTAL
+## 😰 37. ESTRÉS AMBIENTAL
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🔧 37. MEDIDORES Y SENSORES
+## 📏 38. MEDIDORES Y SENSORES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 💡 38. LUCES Y BALASTROS
+## 💡 39. LUCES Y BALASTROS
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🌀 39. VENTILADORES Y EXTRACTORES
+## 🌀 40. VENTILADORES Y EXTRACTORES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 💧 40. SISTEMAS DE RIEGO
+## 💦 41. SISTEMAS DE RIEGO
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🤖 41. CONTROLADORES Y AUTOMATIZACIÓN
+## 🤖 42. CONTROLADORES Y AUTOMATIZACIÓN
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Baja
 
 ---
 
-## ⚠️ 42. CONTRADICCIONES PENDIENTES
+## ⚠️ 43. CONTRADICCIONES PENDIENTES
 
 > Registro de información conflictiva entre fuentes que requiere validación comunitaria
 
@@ -1311,7 +1458,7 @@ Al integrar fuente:
 
 ---
 
-## 🚀 43. FEATURES DERIVADAS PARA APPS
+## 📱 44. FEATURES DERIVADAS PARA APPS
 
 > Funcionalidades de software que emergen del conocimiento acumulado
 
@@ -1330,7 +1477,7 @@ Al integrar fuente:
 
 ---
 
-## 📖 44. GLOSARIO DE TÉRMINOS
+## 📖 45. GLOSARIO DE TÉRMINOS
 
 > Definiciones ultra-densas de términos técnicos
 
