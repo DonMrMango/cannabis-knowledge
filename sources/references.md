@@ -127,7 +127,7 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Video ID: F2C9pVa1JhA
 - URL: https://www.youtube.com/watch?v=F2C9pVa1JhA
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=5
-- **Nota:** Video dividido 2 partes. Parte 2 (olor/sabor/efecto) pendiente
+- **Nota:** Video dividido 2 partes. Parte 2-4 (olor/sabor/efecto) completada con HOW-010
 
 **[HOW-009]** Noé (House of Weed) - "Gorilla Sherbet F1 Fast Version - Cultivo Low Cost Sustrato Reutilizado + KNF" (2024)
 - Tipo: Video (transcripción) - Experimento cultivo documentado
@@ -142,6 +142,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Video ID: aIZfhQt8SO4
 - URL: https://www.youtube.com/watch?v=aIZfhQt8SO4
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=2
+
+**[HOW-010]** Noé (House of Weed) - "Cata al Aire Libre - 3 Variedades Sweet Seeds Autoflorecientes" (2024)
+- Tipo: Video (transcripción) - Evaluación completa 3 variedades outdoor post-curado
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (21/25) - +1 calidad por análisis exhaustivo 3 variedades múltiples contextos (mañana/noche, trabajo/fin semana, dosificación variable) + +1 objetividad por reconocer explícitamente subjetividad efectos + transparencia variables
+- **Flags:** 👤 🌍 💰 📅
+- Nivel de consenso: Alto (metodología cata + reconocimiento variables subjetividad consensuadas comunidad)
+- Temas: Impacto tiempo curado (2 semanas vs 2 meses transformación calidad suavidad/aroma/sabor), evaluación completa 4 parámetros (visual, olfativo, gustativo, efectos), perfiles aromáticos 3 variedades (Diablo Rojo cítricos/diésel/frutales/terrosos, Yellow Sea cítrico intenso/fresco/alimonado/ácido, Jet Fuel Mandarin cítrico/anaranjado/dulzón/crema), sabores intensidad/persistencia, efectos potencia/tipología (Diablo Rojo intermedia/estimulante/favorita trabajo/concentración/claridad mental, Yellow Sea intermedia/débil producción, Jet Fuel Mandarin fuerte/alterante/aletargado/advertencia principiantes), dosificación variedades (tolerancia alta vs 3-4 caladas), variables subjetividad efectos (genética personal, físico/peso, timing consumo estómago vacío vs lleno, estado ánimo, contexto ambiente seguro vs público/policía, tolerancia, método consumo, cantidad), métodos consumo vaporización (DynaVap Hyperdyn 0.25g, Woody Wind + Armor Cap sesiones largas, M7XL condensador ajustable 6 niveles flujo aire/sabor, Inspire Wand calentador inducción, control dosificación preciso 0.1-0.25g) vs combustión (ceniza blanquecina indicador flush, humo suave, menos control dosificación), apariencia visual NO determina calidad (Yellow Sea producción débil/aroma excepcional), contexto legal España (multas 600€ consumo público Barcelona Montjuic)
+- Enfoque: Evaluación práctica post-curado meses 3 autos Sweet Seeds con reconocimiento explícito subjetividad + pruebas múltiples contextos uso (mañana/noche, trabajo/fin semana, estómago vacío/lleno, dosificación variable) + control dosificación vaporización + advertencias responsables principiantes
+- Casos variedades: Diablo Rojo (favorita trabajo estímulo productividad), Yellow Sea/Yalusi (aroma excepcional pese producción débil visual), Jet Fuel Mandarin (fuerte, advertencia principiantes riesgo pálida/ansiedad)
+- Video ID: 18XYM1J5vwY
+- URL: https://www.youtube.com/watch?v=18XYM1J5vwY
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=4
 
 ---
 

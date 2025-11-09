@@ -5,6 +5,26 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.11.0] - 2025-11-09
+
+### Agregado
+- **[HOW-010]** Séptima integración Neon Postgres: "Cata al Aire Libre - 3 Variedades Sweet Seeds Autoflorecientes"
+- **Sección 9 (Curado):** ✅ Expandida con impacto tiempo en calidad
+  - **Diferencia curado:** 2 semanas (base) vs 2 meses (transformación significativa) | cambios suavidad humo + aroma + sabor | procesos químicos curado
+- **Sección 10 (Evaluación Calidad):** ✅ COMPLETADA - 4 Parámetros integrados
+  - **EXAMEN OLFATIVO (Parte 2):** perfiles aromáticos 3 variedades (Diablo Rojo cítricos/diésel/frutales/terrosos balance, Yellow Sea cítrico MUY intenso/fresco/alimonado/ácido apertura frasco sin romper, Jet Fuel Mandarin cítrico/anaranjado/dulzón/crema complejo) | principio apariencia visual NO determina calidad (Yellow Sea caso)
+  - **EXAMEN GUSTATIVO (Parte 3):** sabores intensidad/persistencia 3 variedades (Diablo Rojo mucho sabor primeras caladas, Yellow Sea cítrico ácido sorprendente, Jet Fuel Mandarin balance múltiples notas) | calidad humo ceniza blanquecina (indicador flush + secado + curado correctos) | Yellow Sea ceniza más blanca cultivo
+  - **EVALUACIÓN EFECTOS (Parte 4):** potencia + tipología detallada (Diablo Rojo intermedia/estimulante/favorita trabajo concentración/claridad mental/tolerante consumo alto, Yellow Sea intermedia/producción débil, Jet Fuel Mandarin fuerte/alterante/aletargado/advertencia principiantes/dosificación 3-4 caladas) | efectos acumulativos | sobre-dosificación síntomas (mente alterada/pensamientos intrusivos/ansiedad/paranoia)
+  - **VARIABLES SUBJETIVIDAD EFECTOS (nueva subsección crítica):** 8 variables (genética personal/metabolismo, físico/peso/constitución, timing consumo estómago vacío=+intenso vs lleno=-intenso, estado ánimo, contexto ambiente seguro vs público/policía 600€ multa Barcelona, tolerancia principiantes vs experimentados, método consumo, cantidad) | advertencia fundamental "súper subjetivo" | 2 personas + misma variedad = experiencias diferentes
+  - **MÉTODOS CONSUMO (nueva subsección):** vaporización DynaVap (Hyperdyn 0.25g, Woody Wind + Armor Cap tapa gruesa sesiones largas, M7XL condensador ajustable 6 niveles flujo aire/densidad vapor/sabor cerca=+denso/+tostado lejos=+sabor/-denso, Inspire Wand calentador inducción, ventajas control dosificación preciso 0.1-0.25g + percepción sabor superior + discreción) vs combustión (ceniza blanquecina indicador flush, humo suave, menos control dosificación, mayor riesgo sobre-dosificación)
+
+### Cambiado
+- **Sección 10:** de "Parte 1 completa" a "COMPLETA - 4 Parámetros integrados" (visual + olfativo + gustativo + efectos)
+- **[HOW-008] nota:** actualizada indicando partes 2-4 completadas con HOW-010
+
+### Notas
+Séptima integración Postgres→Git. Sección Evaluación Calidad COMPLETADA con las 3 partes faltantes (olfativo, gustativo, efectos) + nuevas subsecciones críticas Variables Subjetividad + Métodos Consumo. Análisis exhaustivo 3 variedades Sweet Seeds en múltiples contextos (mañana/noche, trabajo/fin semana, estómago vacío/lleno) con reconocimiento explícito subjetividad efectos + advertencias responsables principiantes. Tier A mantenido (21/25, +1 calidad análisis múltiples contextos + +1 objetividad transparencia variables). Total videos procesados: 10/27.
+
 ## [0.10.0] - 2025-11-09
 
 ### Agregado
