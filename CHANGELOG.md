@@ -5,6 +5,28 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.27.0] - 2025-11-09
+
+### Agregado
+- **[DH-013]** Decimotercera integración Doña Huana: "¿Cómo Germinar Semillas?" - Germinación papel toalla protocolo completo práctica + transplante + espigamiento
+- **Sección 2 (Germinación):** EXPANDIDA con protocolo papel toalla detallado paso a paso complementa HOW-001/002 básicos
+  - **Procedimiento 6 pasos detallado:** contenedor hermético+2 servilletas+humectación pulverización "bien húmedo" NO mojado+oscuro+fresco+seco FUNDAMENTO NO luz hasta post-emergencia+monitoreo diario "todos días vida"+timing 24h-2-3sem variabilidad genética ADVERTENCIA paciencia
+  - **Transplante post-eclosión protocolo:** timing óptimo apenas radícula emerge ideal "tratemos no llegue salir cotiledón" alternativo aceptable+sustrato liviano turba FUNDAMENTO "semilla energía suficiente raíz+cotiledones" NO fertilizantes+procedimiento orientación raíz↓ cotiledón↑+cobertura mínima+riego pulverizador OBLIGATORIO ADVERTENCIA "si tiramos agua puede pasar cualquier cosa"
+  - **Timeline desarrollo fotográfico:** día 1 cotiledón emergiendo+día 2 hojitas formando+día 5-7 hojitas casi tamaño cotiledones pedagogía visual EXCELENTE
+  - **Iluminación post-emergencia protocolo:** fase inicial 1-2sem luz indirecta NO pleno ADVERTENCIA "si saco chiquitita pongo sol pleno incendio"+aclimatación gradual
+  - **Espigamiento etiolación solución:** causa falta luz+síntoma tallo largo+solución correcta tutor+atadura suave "muy despacito circulación"+solución incorrecta "NO tapar tierra tallo NO raíz enfermedades" damping off único fuente menciona patógenos suelo
+
+### Cambiado
+- **Sección 2:** de "⚡ Métodos consolidados [HOW-001, HOW-002]" a "✅ EXPANDIDA - Métodos consolidados + protocolo papel toalla detallado práctica [HOW-001, HOW-002, DH-013]"
+- **Estado general:** 26 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-013)
+- **Distribución Tiers:** 1 TIER S (3.8%) + 18 TIER A (69.2%) + 7 TIER B (27.0%) = 26 fuentes totales
+- **Videos procesados:** 26/90 (28.9%) = 13 House of Weed + 13 Doña Huana
+
+### Notas
+Decimotercera Doña Huana. **SÉPTIMA FUENTE TIER B** (DH-006/008/009/010/011/012 previos). Tier B (15/25) por -3 Credibilidad lenguaje coloquial extremo falta temperatura/humedad%/profundidad -3 Calidad cobertura básica completa PERO métodos alternativos jiffy/directo/agua troubleshooting damping off/moho ausentes -4 Consistencia coherente -3 Aplicabilidad principiantes excelente profesionales necesitan parámetros científicos -2 Objetividad coloquial falta científico. Contenido VALIOSO: procedimiento 6 pasos completo accesible materiales simples tupper/servilletas, monitoreo diario humedad clave éxito, timing 24h-2-3sem variabilidad paciencia evita frustración principiantes, transplante timing+orientación+pulverización crítico bien enfatizado, demostraciones fotográficas 3 estadios temporal pedagogía EXCELENTE expectativas realistas, espigamiento solución tutor+ADVERTENCIA NO enterrar tallo único fuente menciona patógenos suelo, sustrato liviano turba fundamento semilla autosuficiente evita overfert. COMPLEMENTA HOW-001/002 básicos detalle práctica paso a paso+fotográfico temporal+troubleshooting espigamiento. Cross-ref Sección 3 Plántula vaso 0.5L, Sección 4 Vegetativa fertilización. Total: 26/90 (13 Noé + 13 DH).
+
+---
+
 ## [0.26.0] - 2025-11-09
 
 ### Agregado
