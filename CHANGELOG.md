@@ -5,6 +5,28 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.23.0] - 2025-11-09
+
+### Agregado
+- **[DH-009]** Novena integración Doña Huana: "Tipos de Poda - LST - Apical - FIM" - HST técnicas básicas + LST post-poda + clonación básica
+- **Sección 30 (Training):** EXPANDIDA con 2 subsecciones nuevas HST técnicas poda + clonación básica
+  - **HST (High Stress Training) - Técnicas Poda:**
+    Poda Apical/Topping (corte nudo apical→1→2 puntas, timing mínimo tercer nudo, multiplicación matemática 1→2→4→8→16 sucesiva, limitación práctica tamaño maceta pequeña max 8 vs grande 16+, combinación LST+Apical canopy uniforme atar ramas laterales igualar altura ejemplo 2 apical+2 laterales=4→repetir→8 puntas, procedimiento LST tutor+atadura doblar rama geotropismo corrige días, estrategia poda bajos energía redirige+material esquejes) | FIM Fuck I Missed (etimología popular controversia origen, origen técnica error cultivador cortó mal parcial→observó múltiples puntas, mecánica corte parcial ~50% meristemo vs apical completo, resultado 3-4+ puntas variables vs 2 apical fijas, estrés mayor "detiene mucho crecimiento" recuperación lenta, trade-off más puntas PERO mayor estrés, aplicación contextual nudos pequeños difícil apical→FIM alternativa)
+  - **Clonación Básica Esqueje:**
+    Material fuente ramas bajas podadas reciclaje | herramienta mano tierna/tijeras madura | procedimiento cortar→hormona enraizamiento→insertar sustrato→cobertura humedad→riego diario poco volumen | humedad crítica esqueje sin raíces absorción solo foliar prevenir marchitamiento | **ADVERTENCIA EXTREMA SUPERFICIALIDAD** falta TODO protocolo profesional (tamaño/medio/humedad%/temperatura/iluminación/timing/tasa éxito/troubleshooting) NO reproducible profesionalmente sin complementar fuentes detalladas
+
+### Cambiado
+- **Sección 30:** de "⚡ Primera integración" a "✅ EXPANDIDA - HST técnicas básicas (Apical/FIM) + LST protocolo post-poda + clonación básica"
+- **Fuentes Sección 30:** [HOW-001] → + [DH-009]
+- **Estado general:** 22 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-009)
+- **Distribución Tiers:** 1 TIER S (4.5%) + 18 TIER A (81.8%) + 3 TIER B (13.6%) = 22 fuentes totales
+- **Videos procesados:** 22/90 (24.4%) = 13 House of Weed + 9 Doña Huana
+
+### Notas
+Novena Doña Huana. **TERCERA FUENTE TIER B** proyecto (DH-006, DH-008 previos). Tier B (15/25) justificado por -3 Credibilidad video corto ~3min falta profundidad -2 Calidad superficialidad extrema sin timing vegetativo/recuperación días/esterilización/diferencias strain -3 Aplicabilidad NO reproducible profesionalmente sin complementar fuentes detalladas (falta semanas edad, altura cm, fase floración límite, herramientas esterilización, troubleshooting). Contenido VALIOSO como introducción visual básica cultivadores principiantes ver técnicas aplicadas práctica planta real (demostración matemática multiplicación puntas clara 1→2→4→8→16, combinación LST+Apical bien explicada prácticamente atar ramas→canopy uniforme, FIM diferenciado vs apical parcial vs completo 3-4+ vs 2 mayor estrés). Clonación mencionada brevemente EXTREMADAMENTE SUPERFICIAL falta TODO protocolo profesional útil solo introducción conceptual básica. **ADVERTENCIA título engañoso** menciona SCROG/SOG NO cubiertos video. Requiere OBLIGATORIO complementar fuentes training completas protocolos timing recuperación. Cross-reference Sección 29 Poda contexto, Sección 31 Clonación expandir protocolo completo futuro. Total procesados: 22/90 (13 Noé + 9 Doña Huana).
+
+---
+
 ## [0.22.0] - 2025-11-09
 
 ### Agregado
