@@ -5,6 +5,31 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.24.0] - 2025-11-09
+
+### Agregado
+- **[DH-010]** Décima integración Doña Huana: "Puntos Corte, Cosecha, Secado y Curado" - Proceso completo principiantes + métodos accesibles low-tech
+- **Secciones 7+8+9 (Cosecha/Secado/Curado):** EXPANDIDAS complementando HOW-004/HOW-010 con métodos principiantes
+  - **Punto corte 3 métodos:** info genética breeder | tricomas lupa 60x lechosos+ámbar | visual macroscópico ~70% pistilos oscuros+hojas marchitas
+  - **Timing subjetivo efecto (NUEVA INFO NO en HOW-004):** cosecha temprana tricomas blancos→eufórico energizante taquicardia THC alto vs tardía +2-3sem ámbar→narcótico relajado sedante CBN aumentado
+  - **Manicura 2 fases:** defoliación hojas grandes descartar vs sugar leaves "llenas tricomas" NO descartar extracciones
+  - **Test ramita LOW-TECH excelente:** día 3 check→doblar→flexible continuar/crujir listo/quiebra sobre-secado, herramienta accesible principiantes SIN higrómetros
+  - **Protocolo burping bifásico:** semana 1 crítica 3x/día mayor precaución vs semanas 2-4 1x/día, alternativa conservadora HOW-004
+  - **Indicadores calidad final simple:** aroma intenso + NO pica garganta + ceniza gris pareja, verifica fácil SIN equipamiento sofisticado
+
+### Cambiado
+- **Sección 7:** de "✅ Completo" a "✅ EXPANDIDA - 3 métodos punto corte + timing subjetivo efecto + test ramita simple"
+- **Sección 8:** de "✅ Completo" a "✅ EXPANDIDA - Test ramita low-tech + condiciones espacio + orientación colgado"
+- **Sección 9:** de "✅ Completo" a "✅ EXPANDIDA - Protocolo burping bifásico + indicadores calidad final accesibles"
+- **Estado general:** 23 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-010)
+- **Distribución Tiers:** 1 TIER S (4.3%) + 18 TIER A (78.3%) + 4 TIER B (17.4%) = 23 fuentes totales
+- **Videos procesados:** 23/90 (25.6%) = 13 House of Weed + 10 Doña Huana
+
+### Notas
+Décima Doña Huana. **CUARTA FUENTE TIER B** (DH-006/008/009 previos). Tier B (16/25) por -3 Credibilidad falta datos cuantitativos -2 Calidad falta parámetros ambientales críticos -3 Aplicabilidad NO reproducible profesionalmente sin riesgo hongos requiere complementar HOW-004. Contenido VALIOSO: test ramita EXCELENTE low-tech (doblar→flexible/crujir/quiebra), timing subjetivo efecto (eufórico vs narcótico) info NO presente HOW-004 valiosa ajuste preferencias, método visual 70% pistilos útil SIN lupa, protocolo burping 3x→1x/día conservador, indicadores calidad (aroma/garganta/ceniza) accesibles. Complementa HOW-004 PERO NO reemplaza (HOW-004: 20°C 50%HR secado, 58-65%HR curado). Cross-ref Sección 1 Genética timing modula efectos, Sección 10 Cata. Total: 23/90 (13 Noé + 10 DH).
+
+---
+
 ## [0.23.0] - 2025-11-09
 
 ### Agregado

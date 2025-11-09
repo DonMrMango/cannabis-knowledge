@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.23.0
+**Versión:** 0.24.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 22 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-009)
+**Estado:** En desarrollo activo - 23 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-010)
 
 ---
 
@@ -728,8 +728,8 @@ Al integrar fuente:
 
 ## 📅 7. MADURACIÓN Y COSECHA
 
-> **Estado actual:** ✅ Completo - Protocolo definitivo integrado
-> **Fuentes:** [HOW-004]
+> **Estado actual:** ✅ EXPANDIDA - 3 métodos punto corte + timing subjetivo efecto + test ramita simple
+> **Fuentes:** [HOW-004], [DH-010]
 > **Prioridad:** Crítica cumplida
 
 ### Pre-Cosecha - Preparación
@@ -740,6 +740,56 @@ Al integrar fuente:
 - Indicador éxito: hojas amarillas (reservas nutricionales agotadas)
 - Impacto: sabor directo (consenso cultivadores)
 - Reducir humedad: parar riego 2-3 días antes cosecha
+
+### Punto de Corte - 3 Métodos Determinación
+
+**Método 1 - Información Genética Banco Semillas:** [DH-010]
+- Prerequisito: conocer genética específica planta
+- Fuente: banco semillas indica timing floración semanas
+- Aplicación: seguir calendario recomendado breeder
+- Limitación: NO todas semillas tienen info timing preciso
+
+**Método 2 - Observación Tricomas Lupa 60x:** [DH-010]
+- Herramienta: lupa 60x aumentos (microscopio portátil cultivadores)
+- Indicador óptimo general: tricomas mayoría blancos lechosos + "alguno que otro ámbar"
+- **LIMITACIÓN DH-010:** NO especifica % ámbar exacto (HOW-004 más preciso detalles)
+- Relacionado: timing subjetivo efecto deseado abajo
+
+**Método 3 - Observación Visual Macroscópica (SIN lupa):** [DH-010]
+- **Aplicación:** cultivadores principiantes SIN lupa/info genética
+- **Indicador 1 - Pistilos (pelos):**
+  - Estado inicial: blancos
+  - Estado cosecha: ~70% color oscuro (café/naranja oscuro)
+- **Indicador 2 - Hojas marchitas:**
+  - Señal: hojas "un poquito marchitas"
+  - Mecánica subyacente: "planta se está comiendo a sí misma para acogollar y dejar de producir crecimiento"
+  - Interpretación: auto-canibalización nutrientes→translocación flores→senescencia foliar natural
+- **Combinación:** ambos indicadores juntos→señal fuerte cosecha cercana
+
+### Timing Subjetivo Efecto Deseado
+
+**Principio general:** [DH-010]
+- Timing cosecha permite ajustar perfil efecto preferencia cultivador
+- Base: degradación THC→CBN tiempo (THC psicoactivo eufórico | CBN sedante narcótico)
+
+**Cosecha Temprana (Tricomas Blancos Lechosos Mayoría):** [DH-010]
+- Efecto: "pegue más eufórico" energizante cerebral
+- Efecto secundario: acelera latidos corazón taquicardia
+- Advertencia: "hay mucha gente que se asusta" ansiedad posible
+- Cannabinoides inferidos: THC alto | CBN bajo
+- Perfil usuario: experimentados tolerancia alta | uso diurno activo
+- Anécdota ejemplo: cultivador fumó recién cortado→"enloquecido" manejando autopista ("Destruction Derby")
+
+**Cosecha Tardía (+2-3 Semanas Más Ámbar):** [DH-010]
+- Timing: esperar "dos semanas tres semanas tal vez que se pongan un poquito más ámbar"
+- Efecto: "más narcótico" relajado sedante "más abajo" corporal
+- Cannabinoides inferidos: THC degradado parcial→CBN aumentado
+- Perfil usuario: uso nocturno relajación | insomnio | dolor crónico
+
+**Conclusión práctica:** [DH-010]
+- "Una vez que encontrás el punto de corte que a vos en particular te gusta" → experimentación cultivos sucesivos
+- Balance personal entre euforia vs sedación
+- Relacionado: Sección 1 Genética (Indica/Sativa efectos base genética + timing cosecha modula)
 
 ### Métodos de Cosecha
 
@@ -760,6 +810,25 @@ Al integrar fuente:
 - Pre-secado (húmeda): secado rápido | menos parejo | ⚠️ Usar si alta humedad ambiental
 - Post-secado (seca): secado lento | más parejo | ✅ Preferido calidad
 
+**Procedimiento 2 fases:** [DH-010]
+1. **Defoliación hojas grandes:**
+   - Timing: primero post-corte
+   - Acción: "corto las hojas grandes las muy grandes"
+   - Destino: descartar compostar ("las tiro ya está se terminó esas hojas mueren")
+   - Razón: mínimos/ausentes tricomas
+2. **Manicura fina (sugar leaves):**
+   - Timing: segundo post-defoliación
+   - Intensidad variable "a gusto del comensal":
+     - Conservadora: dejar sugar leaves pegadas cogollos
+     - Moderada: "abro un poquito de cogollo meto la tijera y corto directamente toda la hoja entera"
+     - Agresiva: "hasta sacarle pedazo de coco de cogollos"
+   - **Material descartado sugar leaves:**
+     - Características: "llenas de tricomas" valor residual
+     - **NO descartar** usos alternativos:
+       - Almacenar regalo/compartir fumadores ocasionales
+       - Extracciones (hash/aceites) inferido tricomas presentes
+     - Contraste hojas grandes: descartar vs sugar leaves conservar
+
 **Cogollos gruesos:** [HOW-004]
 - Acción: dividir/separar
 - Razón: prevenir exceso humedad → moho/hongo
@@ -777,8 +846,8 @@ Al integrar fuente:
 
 ## 🌬️ 8. POST-COSECHA: SECADO
 
-> **Estado actual:** ✅ Completo - Protocolo definitivo integrado
-> **Fuentes:** [HOW-004]
+> **Estado actual:** ✅ EXPANDIDA - Test ramita simple low-tech + condiciones espacio + orientación colgado
+> **Fuentes:** [HOW-004], [DH-010]
 > **Prioridad:** Crítica cumplida
 
 ### Parámetros Ambientales Óptimos
@@ -798,10 +867,21 @@ Al integrar fuente:
 - Opciones: closet | cuarto | carpa cultivo
 - Requisitos: oscuridad + buena ventilación
 
+**Condiciones Espacio (Principiantes):** [DH-010]
+- **3 requisitos fundamentales:** "seco fresco y oscuro"
+- Opciones accesibles: "pieza, caja de cartón, caja de madera"
+- Consistencia HOW-004: alineado oscuridad+ventilación
+
 **Métodos por calidad:** [HOW-004]
 1. **Colgado hacia abajo** (óptimo): mejor circulación aire | Herramientas: colgador/hilos/cuerdas
 2. **Mallas secado**: funcionan bien | portátil
 3. **Cajas artesanales** (con orificios): menos óptimo calidad
+
+**Orientación Colgado:** [DH-010]
+- Posición recomendada: vertical colgado tradicional (flores hacia abajo)
+- Razón: "hace feliz que baje la clorofila" (reduce sabor verde amargo)
+- Tamaño recomendado corte: cogollos muy grandes dividir prevenir hongos
+  - Justificación: "es recomendable cortarlo para no correr riesgo de que se hongue"
 
 ### Duración y Test
 
@@ -814,6 +894,23 @@ Al integrar fuente:
 - ✅ Punto ideal: sonido "clic" (conserva algo humedad)
 - ❌ Sobre-secado: ramas muy rígidas + quiebran fácil
 
+**Test Ramita - Protocolo Simple Low-Tech:** [DH-010]
+- **Timing inicial check:** día 3 post-colgado inicio
+- **Procedimiento:**
+  - Acción: agarrar rama secundaria→doblar
+  - Resultado 1 flexible SIN ruido: humedad alta→continuar secando
+    - Señal: rama se dobla sin sonido ("hace así y no hace ruido estamos bien")
+  - Resultado 2 crujir/traquear: humedad óptima→**listo curado**
+    - Timing típico: "semana semana y media cuando vayamos a traquear"
+    - Señal audio: sonido "clic/crack" rama
+    - Acción siguiente: proceder curado frascos
+  - Resultado 3 quiebra fácil: **SOBRE-SECADO** problema
+    - Causa: "está circulando demasiado aire se está secando muy rápido"
+    - Consecuencia: "malo porque los terpenos se van y le quita un poco de aroma"
+    - Solución inferida: reducir ventilación cultivos futuros
+- **Consistencia HOW-004:** alta (ambos usan principio sonido rama)
+- **Valor:** herramienta accesible cultivadores principiantes SIN higrómetros sofisticados
+
 ### Principio Fundamental
 
 **Secado lento > secado rápido:** [HOW-004]
@@ -824,8 +921,8 @@ Al integrar fuente:
 
 ## 🏺 9. POST-COSECHA: CURADO
 
-> **Estado actual:** ✅ Completo - Protocolo definitivo + Impacto tiempo integrado
-> **Fuentes:** [HOW-004], [HOW-010]
+> **Estado actual:** ✅ EXPANDIDA - Protocolo burping bifásico + indicadores calidad final accesibles
+> **Fuentes:** [HOW-004], [HOW-010], [DH-010]
 > **Prioridad:** Crítica cumplida
 
 ### Impacto del Tiempo en Calidad Final
@@ -848,15 +945,29 @@ Al integrar fuente:
 
 ### Proceso Inicial - Primeras 2 Semanas
 
-**Llenado:** [HOW-004]
-- Capacidad: 2/3 del frasco (NO llenar tope)
+**Llenado:** [HOW-004] [DH-010]
+- Capacidad: 2/3 del frasco (HOW-004) | 75% frasco hermético (DH-010)
+- Diferencia menor: ambos dejan espacio aire circulación (~25-33% espacio)
 - Razón: permitir circulación aire
 
-**Burping (Aireación):** [HOW-004]
+**Burping (Aireación) - Protocolo HOW-004:** [HOW-004]
 - Frecuencia: DIARIO (todos los frascos)
 - Duración: 10-15 minutos
 - Objetivo: liberar humedad acumulada
 - ⚠️ Crítico: prevenir aparición moho/hongo (pérdida total cosecha)
+
+**Burping - Protocolo Bifásico DH-010 (Alternativa Más Conservadora):** [DH-010]
+- **Semana 1 (crítica alta humedad residual):**
+  - Frecuencia: **3 veces/día**
+  - Duración: "un ratito" cada apertura (NO especificado minutos exactos)
+  - Razón: mayor humedad liberada flores primera semana→mayor riesgo hongos
+- **Semanas 2-4 (humedad estabilizada):**
+  - Frecuencia: **1 vez/día**
+  - Duración: similar semana 1
+  - Razón: humedad residual menor→menor frecuencia suficiente
+- **Total mínimo:** "un mes un mes y medio" (4-6 semanas)
+- **Diferencia HOW-004:** DH-010 más frecuente semana 1 (3x vs 1x diario) mayor precaución principiantes
+- **Elección cultivador:** protocolo conservador DH-010 vs optimizado HOW-004 según experiencia/riesgo aceptable
 
 ### Post 2 Semanas - Mantenimiento
 
@@ -901,6 +1012,32 @@ Al integrar fuente:
 **Hierba 3ra (Procesamiento):**
 - Características: cogollos chicos + más hojas
 - Destino: preparaciones | comestibles | extracciones (bubble hash, RSO)
+
+### Indicadores Calidad Final Post-Curado
+
+**Aroma:** [DH-010]
+- Señal positiva: "buen aroma" presente intenso
+- Intensidad/perfil: NO especificado DH-010 (detalles terpenos en Sección 10 Cata)
+- Contraste: mal curado→aroma mínimo/heno/verde
+
+**Suavidad Humo:** [DH-010]
+- Señal positiva: "NO nos va a picar la garganta"
+- Contraste: mal curado→irritación garganta tos excesiva
+- Mecanismo: clorofila/azúcares residuales NO degradados→humo áspero
+- Importancia: experiencia consumo agradable vs desagradable
+
+**Ceniza Color/Textura:** [DH-010]
+- Señal positiva combustión uniforme:
+  - Color: "colorcito grisecito hermoso" (gris claro/blanquecino)
+  - Textura: "se va a quemar toda parejita" (uniforme sin puntos negros)
+- Interpretación: combustión completa→residuos minerales mínimos→flush correcto
+- Contraste: ceniza negra/dura/desigual→fertilización excesiva/flush insuficiente
+- **Consistencia HOW-010:** ambos mencionan ceniza blanquecina indicador calidad correlación directa
+
+**Aplicación práctica:** [DH-010]
+- Cultivador principiante puede verificar fácilmente 3 indicadores SIN equipamiento sofisticado
+- Combinación 3 señales positivas→curado exitoso calidad final óptima
+- Relacionado: Sección 10 Cata evaluación detallada perfiles organolépticos
 
 ### Almacenamiento
 
