@@ -5,6 +5,23 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.18.0] - 2025-11-09
+
+### Agregado
+- **[HOW-011]** Undécima integración House of Weed: "Guía Living Soil" - Primera colaboración experto externo (Drog)
+- **Sección 17:** EXPANDIDA con Living Soil completo (microbiología, receta 3 horizontes Drog, enmiendas, agua sin cloro, diversidad, MIP, transición)
+
+### Cambiado
+- **Sección 17:** "Completo" → "EXPANDIDA - + Living Soil"
+- **Estado:** 17 videos (HOW-001 a HOW-011 + DH-001 a DH-006)
+- **Distribución:** 1 S (5.9%) + 15 A (88.2%) + 1 B (5.9%)
+
+### Descartado
+- **Video ID 6:** "Cómo Empecé..." - Promocional 100%
+
+### Notas
+Undécima House of Weed. Primera colaboración experto externo Drog (breeder chileno Living Soil experiencia verificable). Tier A alto (23/25) casi S pero -2 fuente secundaria. Receta completa 153L 3 horizontes reproducible. Método orgánico microbiológico alternativo sustratos convencionales. Total: 17/90 (11 Noé + 6 Doña Huana). Primer video descartado (ID 6 comercial).
+
 ## [0.17.0] - 2025-11-09
 
 ### Agregado
