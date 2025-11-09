@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.16.0
+**Versión:** 0.17.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 15 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-005)
+**Estado:** En desarrollo activo - 16 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-006)
 
 ---
 
@@ -1603,8 +1603,61 @@ Al integrar fuente:
 
 ## ⚗️ 24. MICRONUTRIENTES
 
-> **Estado actual:** Vacío - Pendiente primera fuente
-> **Prioridad:** Alta
+> **Estado actual:** ✅ COMPLETADA - Calcio en fertilizantes según tipo agua
+> **Fuentes:** [DH-006]
+> **Prioridad:** Alta cumplida
+
+### Calcio (Ca) - Micronutriente Secundario
+
+**Variabilidad regional agua:** [DH-006]
+- Buenos Aires: baja concentración Ca agua red
+- Europa: alta concentración Ca agua red
+- Consecuencia: fertilizantes diseñados EC regional origen fabricante
+
+**Fertilizantes europeos en Argentina:** [DH-006]
+- Marcas afectadas: Top Crop, Feeding (diseñados agua europea alta Ca)
+- Asunción diseño: Ca alto agua local red (150-200 PPM base)
+- Problema Argentina: agua Buenos Aires Ca << Europa
+
+**Suplementación Ca según tipo agua:** [DH-006]
+
+**Agua corriente canilla (Buenos Aires/similares):**
+- Suplementación: NO requiere adicional
+- Razón: Ca suficiente en formulación fertilizante base
+- Acción: usar dosis estándar envase
+
+**Agua lluvia (EC ~0-30 PPM):**
+- Suplementación: REQUIERE Ca adicional
+- Razón: sin Ca natural (EC casi cero)
+- Dosis referencia: Feeding 0.5g/L Ca agregado
+
+**Agua ósmosis inversa (EC 0 PPM):**
+- Suplementación: REQUIERE Ca adicional
+- Razón: sin minerales (cero sales)
+- Dosis referencia: 0.5g/L típico (verificar fabricante)
+
+**Agua dique/embalse:**
+- Suplementación: VARIABLE (requiere medición EC)
+- Razón: EC impredecible según región
+- Acción: medir EC base antes fertilizar
+
+**Protocolo avanzado suplementación:** [DH-006]
+1. Identificar tipo agua riego (canilla/lluvia/ósmosis)
+2. Consultar fabricante fertilizante dosis Ca específica
+3. Verificar EC agua base (lluvia ~30 PPM, ósmosis 0 PPM, canilla variable)
+4. Agregar Ca suplementario si EC agua <50 PPM
+5. Dosis típica referencia: 0.5g/L (ajustar según fabricante)
+
+**Impacto deficiencia Ca:** [DH-006]
+- Severidad: MÍNIMA mayoría casos
+- Planta NO muere por Ca insuficiente
+- Efecto: sub-optimización crecimiento (NO letal)
+- Nivel conocimiento: avanzado optimización (NO esencial supervivencia)
+
+**Contexto aplicabilidad:** [DH-006]
+- Cultivadores avanzados: que miden EC + usan agua no-canilla
+- Cultivadores principiantes: ignorar (agua canilla + fertilizante estándar = suficiente)
+- Precisión "hincha pelotismo alto": optimización marginal
 
 ---
 
@@ -1860,8 +1913,117 @@ Al integrar fuente:
 
 ## 📊 26. EC/TDS Y SALES
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Alta
+> **Estado actual:** ✅ COMPLETADA - EC diferencial aguas regionales + ajuste fertilización
+> **Fuentes:** [DH-006]
+> **Prioridad:** Alta cumplida
+
+### Electroconductividad (EC) - Fundamentos
+
+**Definición:** [DH-006]
+- EC: electroconductividad (capacidad agua conducir electricidad)
+- Indicador: sales minerales disueltas agua
+- Unidad: PPM (partes por millón) o mS/cm
+- Relación directa: ↑ sales = ↑ EC
+
+### EC Diferencial Aguas según Origen
+
+**Agua lluvia:** [DH-006]
+- EC: ~30 PPM (prácticamente destilada)
+- Sales: mínimas (casi cero minerales)
+- Comparación: equivalente agua destilada
+
+**Agua ósmosis inversa:** [DH-006]
+- EC: 0 PPM (cero sales)
+- Sales: eliminadas totalmente proceso filtración
+- Pureza: máxima disponible
+
+**Agua corriente canilla - Variabilidad regional:** [DH-006]
+- Buenos Aires: EC moderada (Ca bajo)
+- Europa: EC alta (Ca alto, 150-200 PPM base)
+- Río: < dique/embalse (menos mineralización)
+
+**Agua dique/embalse:** [DH-006]
+- EC: VARIABLE impredecible
+- Sales: depende región + sedimentación
+- Riesgo: EC alto impredecible
+- Recomendación: medición obligatoria antes uso
+
+**Agua aire acondicionado (condensado):** [DH-006]
+- EC: ~0 PPM (similar destilada)
+- Sales: sin minerales (vapor condensado puro)
+- Ventaja: gratuita disponible temporada calor
+
+### Fertilizantes - Formulación Regional
+
+**Principio diseño fertilizantes:** [DH-006]
+- Formulación: calibrada EC agua origen fabricante
+- Asunción: agua local red tiene sales base específicas
+- Ejemplo europeo: asume 150-200 PPM Ca agua red
+
+**Marcas europeas en Argentina:** [DH-006]
+- Afectadas: Top Crop, Feeding, mayoría europeos
+- Problema: diseñados agua europea alta EC
+- Solución: ajuste Ca suplementario si agua EC baja
+
+**Consecuencia EC agua vs fertilizante:** [DH-006]
+- Agua canilla local + fertilizante estándar: OK (calibrado fabricante mayoría regiones)
+- Agua EC 0 (lluvia/ósmosis) + fertilizante: REQUIERE suplementación Ca
+- Agua EC alto (dique) + fertilizante dosis completa: RIESGO toxicidad leve
+
+### Ajuste Fertilización según EC Base Agua
+
+**Protocolo general:** [DH-006]
+
+**Agua canilla local (EC moderada ~100-200 PPM):**
+- Acción: usar dosis estándar envase fertilizante
+- Razón: fertilizantes calibrados mayoría aguas canilla
+- Suplementación Ca: NO necesaria
+
+**Agua EC baja <50 PPM (lluvia ~30 PPM / ósmosis 0 PPM):**
+- Acción: agregar Ca suplementario 0.5g/L típico
+- Razón: fertilizante asume sales base agua inexistentes
+- Verificación: consultar fabricante dosis específica
+
+**Agua EC alta variable (dique/pozo):**
+- Acción 1: medir EC agua base antes fertilizar
+- Acción 2: reducir dosis fertilizante si EC agua >300 PPM
+- Riesgo: EC agua alta + fertilizante dosis completa = toxicidad acumulada
+
+### Margen Error y Tolerancia
+
+**Tolerancia sistema:** [DH-006]
+- Variación tolerable: ±50 PPM EC agua sin impacto significativo planta
+- Fertilizantes diseño: margen error integrado formulación
+- Consecuencia desviación moderada: sub-optimización NO letal
+
+**Nivel precisión requerido:** [DH-006]
+- Principiantes: ignorar EC agua (usar canilla + fertilizante estándar = suficiente)
+- Intermedios: medir EC agua base (opcional pero útil)
+- Avanzados: medir EC agua + EC solución final + ajustar Ca según tipo agua
+
+**Problema "juego justo":** [DH-006]
+- Situación: EC agua alta + fertilizante dosis máxima + maceta pequeña
+- Resultado: riesgo toxicidad leve acumulación sales
+- Prevención: no maximizar todos factores simultáneamente
+- Síntomas toxicidad: puntas quemadas, hojas retorcidas (ver Sección 36 Toxicidades)
+
+### Recomendación General Tipo Agua
+
+**Óptimo simplicidad:** [DH-006]
+- Tipo: agua corriente canilla local
+- Razón: fertilizantes calibrados mayoría aguas corrientes
+- Ventaja: sin ajustes complejos Ca
+- Excepción: si EC agua local >400 PPM (verificar análisis municipal)
+
+**Optimización avanzada:** [DH-006]
+- Tipo: agua lluvia (EC ~30 PPM) + Ca suplementario 0.5g/L
+- Ventaja: control total sales + gratuita
+- Desventaja: requiere almacenamiento + suplementación + conocimiento
+
+**Casos específicos:** [DH-006]
+- Ósmosis inversa: solo si EC agua canilla local >500 PPM (casos extremos)
+- Dique/pozo: medir EC obligatorio antes uso (variable impredecible)
+- Condensado AC indoor: excelente EC 0 gratuito (requiere Ca 0.5g/L)
 
 ---
 

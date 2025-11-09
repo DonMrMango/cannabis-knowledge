@@ -243,6 +243,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=69
 - **Nota:** Quinta fuente Doña Huana. Sección 25 (pH y su Gestión) EXPANDIDA con subsección "Tipos de Agua para Riego". Conocimiento complementario DH-001 (pH agua + cloro interacción fertilizantes orgánicos). Datos cuantitativos valiosos (EC lluvia ~30 PPM verificable). Tier A mantenido (22/25).
 
+**[DH-006]** Doña Huana - "EL CALCIO EN LOS FERTILIZANTES - TIPOS DE AGUA Y FERTILIZANTES" (2024)
+- Tipo: Video (transcripción) - Calcio suplementario según tipo agua + EC regional
+- Expertise: Cultivador experimentado, conocimiento avanzado optimización
+- Verificado: 2025-11-09 por damo
+- **Tier:** B (17/25) - Contenido técnico valioso pero presentación caótica + lenguaje coloquial extremo + promoción comercial
+- **Flags:** 👤 🌍 💬
+- Nivel de consenso: Alto (variabilidad Ca regional agua validada + ajuste fertilizantes europeos Argentina reconocido comunidad)
+- Temas: Calcio agua red variabilidad regional (Buenos Aires baja Ca vs Europa alta 150-200 PPM, fertilizantes europeos Top Crop/Feeding diseñados agua alta Ca), suplementación Ca según tipo agua (canilla NO requiere suficiente fertilizante base, lluvia/ósmosis EC ~0 REQUIERE 0.5g/L Ca típico Feeding, dique VARIABLE medir EC), EC diferencial aguas (lluvia ~30 PPM casi destilada, ósmosis 0 PPM sin sales, canilla variable región Buenos Aires moderada<<Europa, dique impredecible, condensado AC 0 PPM gratuita), fertilizantes formulación regional (diseñados EC agua origen fabricante, asumen sales base específicas agua local), ajuste fertilización según EC base (canilla local dosis estándar envase OK, EC <50 PPM agregar Ca 0.5g/L, EC >300 PPM reducir dosis riesgo toxicidad), margen error tolerancia (±50 PPM variación agua sin impacto significativo, fertilizantes margen error integrado, desviación moderada sub-optimización NO letal), nivel conocimiento (principiantes ignorar usar canilla+estándar suficiente, intermedios medir EC opcional, avanzados medir EC+ajustar Ca "hincha pelotismo alto" optimización marginal), recomendación tipo agua (óptimo simplicidad canilla local fertilizantes calibrados mayoría, optimización avanzada lluvia+Ca 0.5g/L control total+gratuita, ósmosis solo si EC canilla >500 PPM casos extremos)
+- Enfoque: Conocimiento avanzado optimización Ca+EC para cultivadores experimentados que miden EC + usan agua no-canilla, complementario DH-005 (tipos agua) con foco ajuste fertilizantes según EC regional
+- Video ID: e2FYKu_cCiQ
+- URL: https://www.youtube.com/watch?v=e2FYKu_cCiQ
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=89
+- **Nota:** Sexta fuente Doña Huana. **PRIMERA FUENTE TIER B** del proyecto (vs 1 S + 14 A anteriores). Secciones 24 (Micronutrientes) + 26 (EC/TDS) COMPLETADAS con 1 video (primera integración ambas secciones críticas). Contenido técnico valioso pero calidad presentación BAJA (repetitiva, caótica, lenguaje extremadamente coloquial, promoción comercial explícita código descuento Doña Juana tienda, falta datos cuantitativos específicos EC regiones). Útil como complemento DH-005 pero NO standalone. Conocimiento calcio regional + EC diferencial aguas validado comunidad cultivadores avanzados Buenos Aires. Tier B justificado por -2 calidad presentación + -3 objetividad promoción comercial, manteniendo valor técnico información específica ajuste Ca según EC agua.
+
 ---
 
 ## Fuentes Pendientes de Integración

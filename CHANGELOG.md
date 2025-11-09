@@ -5,6 +5,35 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.17.0] - 2025-11-09
+
+### Agregado
+- **[DH-006]** Sexta integración Doña Huana: "El Calcio en los Fertilizantes - Tipos de Agua y Fertilizantes" - ⚠️ **PRIMERA FUENTE TIER B**
+- **Sección 24 (Micronutrientes):** ✅ COMPLETADA - Calcio suplementario según tipo agua
+  - **Variabilidad regional agua:** Buenos Aires baja Ca vs Europa alta Ca 150-200 PPM base, fertilizantes europeos (Top Crop/Feeding) diseñados agua alta Ca asumen sales base específicas
+  - **Suplementación Ca según tipo agua:** canilla NO requiere adicional (Ca suficiente fertilizante base dosis estándar envase), lluvia EC ~30 PPM REQUIERE Ca 0.5g/L típico Feeding (sin Ca natural), ósmosis EC 0 PPM REQUIERE Ca 0.5g/L (sin minerales), dique VARIABLE medir EC antes (impredecible región)
+  - **Protocolo avanzado:** identificar tipo agua → consultar fabricante dosis Ca específica → verificar EC agua base (lluvia ~30/ósmosis 0/canilla variable) → agregar Ca si EC <50 PPM → dosis referencia 0.5g/L ajustar fabricante
+  - **Impacto deficiencia Ca:** MÍNIMO mayoría casos planta NO muere sub-optimización NO letal nivel avanzado optimización NO esencial supervivencia
+  - **Contexto aplicabilidad:** avanzados miden EC+usan agua no-canilla, principiantes ignorar canilla+estándar suficiente, "hincha pelotismo alto" optimización marginal
+- **Sección 26 (EC/TDS):** ✅ COMPLETADA - EC diferencial aguas regionales + ajuste fertilización
+  - **EC diferencial aguas:** lluvia ~30 PPM casi destilada, ósmosis 0 PPM sin sales, canilla variable Buenos Aires moderada<<Europa alta Ca, dique VARIABLE impredecible medir obligatorio, condensado AC 0 PPM gratuita calor
+  - **Fertilizantes formulación regional:** diseñados EC agua origen fabricante asumen sales base agua local (europeos 150-200 PPM Ca), consecuencia EC agua vs fertilizante (canilla+estándar OK calibrado, EC 0 lluvia/ósmosis REQUIERE Ca, EC alto dique+dosis completa RIESGO toxicidad leve)
+  - **Ajuste fertilización EC base:** canilla EC ~100-200 PPM dosis estándar envase fertilizantes calibrados mayoría NO Ca adicional, EC baja <50 PPM agregar Ca 0.5g/L típico fertilizante asume sales inexistentes verificar fabricante, EC alta >300 PPM medir antes reducir dosis si >300 riesgo toxicidad acumulada
+  - **Margen error tolerancia:** ±50 PPM variación agua sin impacto significativo fertilizantes margen error integrado desviación moderada sub-optimización NO letal
+  - **Nivel precisión:** principiantes ignorar EC usar canilla+estándar suficiente, intermedios medir EC base opcional útil, avanzados medir EC agua+solución final+ajustar Ca tipo agua
+  - **Problema "juego justo":** EC agua alta+fertilizante dosis máxima+maceta pequeña=toxicidad leve acumulación sales prevención no maximizar factores simultáneos síntomas puntas quemadas hojas retorcidas Sección 36
+  - **Recomendación tipo agua:** óptimo simplicidad canilla local fertilizantes calibrados mayoría sin ajustes Ca excepción EC >400 PPM verificar análisis municipal, optimización avanzada lluvia EC ~30 PPM+Ca 0.5g/L control total+gratuita requiere almacenamiento+suplementación+conocimiento, ósmosis solo si canilla >500 PPM casos extremos, dique/pozo medir EC obligatorio variable, condensado AC indoor excelente EC 0 gratuito requiere Ca 0.5g/L
+
+### Cambiado
+- **Sección 24:** de "Vacío" a "COMPLETADA - Calcio según tipo agua"
+- **Sección 26:** de "Vacío" a "COMPLETADA - EC regional + ajuste"
+- **Estado general:** 16 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-006)
+- **Primera fuente TIER B (17/25):** DH-006 primera fuente calificación B (vs 1 S + 14 A previas)
+- **Distribución Tiers:** 1 TIER S (6.25%) + 14 TIER A (87.5%) + 1 TIER B (6.25%) = 16 fuentes totales
+
+### Notas
+Sexta integración Doña Huana. **PRIMERA FUENTE TIER B** del proyecto: contenido técnico valioso (Ca regional Buenos Aires vs Europa + EC diferencial aguas + ajuste fertilizantes) pero calidad presentación BAJA (repetitiva, caótica, lenguaje extremadamente coloquial, promoción comercial explícita código descuento tienda, falta datos cuantitativos EC regiones específicos). Tier B (17/25): Credibilidad 4/5, Calidad 3/5 (-2 presentación), Consistencia 4/5, Aplicabilidad 4/5, Objetividad 2/5 (-3 promoción comercial). 2 secciones críticas COMPLETADAS con 1 video (Micronutrientes + EC/TDS primera integración ambas). Conocimiento complementario DH-005 (tipos agua) foco ajuste Ca según EC regional. Útil cultivadores avanzados miden EC + usan agua no-canilla pero NO standalone (requiere DH-005 contexto). Validado comunidad cultivadores Buenos Aires variabilidad Ca regional + ajuste fertilizantes europeos Argentina reconocido. Total videos procesados: 16/90 (10 Noé House of Weed + 6 Doña Huana). Orden secuencia original completado: ✅ ID 77, ✅ ID 83, ✅ ID 69, ✅ ID 89.
+
 ## [0.16.0] - 2025-11-09
 
 ### Agregado
