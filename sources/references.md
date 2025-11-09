@@ -229,6 +229,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=83
 - **Nota:** Cuarta fuente Doña Huana. Primera fuente TIER S del proyecto! Secciones 19 (Temperatura) + 20 (Humedad) COMPLETADAS (primera integración ambas). Conocimiento FUNDAMENTAL para entender otros conceptos (riego, VPD, transporte nutrientes). Flag 🔬 fundamentos científicos añadido.
 
+**[DH-005]** Doña Huana - "¿QUE TIPO DE AGUA UTILIZAR?" (2024)
+- Tipo: Video (transcripción) - Guía clasificación tipos agua riego
+- Expertise: Cultivador experimentado, enfoque práctico soluciones todos presupuestos
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (22/25) - Clasificación clara + datos cuantitativos (EC lluvia 30 PPM) + soluciones múltiples contextos
+- **Flags:** 👤 🌍 🔗 💬
+- Nivel de consenso: Alto (ranking mineralización + manejo cloro validados comunidad)
+- Temas: Principio mineralización (óptimo mínima, problemático alta acumulación sales), ranking tipos agua PEOR→MEJOR (hervida NO, mineral embotellada NO, pozo VARIABLE riesgo urbano, corriente canilla USABLE mayoría, lluvia EC ~30 PPM IDEAL gratuita, destilada/condensado AC EC 0 PPM ÓPTIMA), manejo cloro agua corriente (reposo decloración 1-2 días gratuito vs desclorinador químico instantáneo acuarios ~2 USD), emergencia riego seca (usar agua clorada directamente daño cloro << deshidratación, analogía humanos beben sin morir), interacción fertilizantes orgánicos + cloro (reduce eficacia microorganismos parcial NO 100% mortalidad, optimización inversión usar sin cloro), fuentes alternativas gratuitas (lluvia almacenar <3 semanas, condensado AC indoor temporada calor)
+- Enfoque: Guía práctica selección agua según disponibilidad/presupuesto con opciones desde gratuitas (lluvia/AC) hasta emergencia (clorada directa) + trade-offs transparentes optimización vs practicidad
+- Video ID: g2TyB2WIfnA
+- URL: https://www.youtube.com/watch?v=g2TyB2WIfnA
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=69
+- **Nota:** Quinta fuente Doña Huana. Sección 25 (pH y su Gestión) EXPANDIDA con subsección "Tipos de Agua para Riego". Conocimiento complementario DH-001 (pH agua + cloro interacción fertilizantes orgánicos). Datos cuantitativos valiosos (EC lluvia ~30 PPM verificable). Tier A mantenido (22/25).
+
 ---
 
 ## Fuentes Pendientes de Integración

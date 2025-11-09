@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.15.0
+**Versión:** 0.16.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 14 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-004)
+**Estado:** En desarrollo activo - 15 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-005)
 
 ---
 
@@ -1610,8 +1610,8 @@ Al integrar fuente:
 
 ## ⚗️ 25. pH Y SU GESTIÓN
 
-> **Estado actual:** ✅ Completo - Protocolo medición + calibración + ajuste integrado
-> **Fuentes:** [DH-001]
+> **Estado actual:** ✅ EXPANDIDA - Protocolo medición + calibración + ajuste + tipos de agua
+> **Fuentes:** [DH-001] [DH-005]
 > **Prioridad:** Crítica cumplida
 
 ### Fundamentos pH
@@ -1750,6 +1750,83 @@ Al integrar fuente:
 4. Evaluar: ¿Llegó rango objetivo 6-7?
    - SÍ → listo para regar
    - NO → repetir desde paso 1 (más gotitas)
+
+### Tipos de Agua para Riego
+
+**Principio mineralización:** [DH-005]
+- Óptimo: agua mínima mineralización (destilada ideal)
+- Problemático: agua alta mineralización (sales acumulación sustrato)
+- Razón: minerales no se eliminan (acumulan en sustrato → bloqueo nutrientes)
+
+**Ranking tipos agua (PEOR→MEJOR):** [DH-005]
+
+1. **❌ Agua hervida (PEOR):**
+   - Proceso: mata microbios PERO minerales permanecen totalmente
+   - Resultado: desperdicio tiempo + energía
+   - Recomendación: NO usar
+
+2. **❌ Agua mineral embotellada:**
+   - Problema: alta mineralización contraproducente + costosa
+   - Paradoja: "agua sin sales" pero comprando agua CON sales
+   - Recomendación: NO usar
+
+3. **⚠️ Agua pozo:**
+   - Calidad: VARIABLE según ubicación
+   - Rural/aislado: potencialmente buena (sin contaminación cercana)
+   - Urbano/suburbano: RIESGO alto (contaminación cloacas sin red + metales pesados industriales)
+   - Recomendación: requiere análisis agua antes usar
+
+4. **✅ Agua corriente canilla (USABLE - mayoría cultivadores):**
+   - Sales minerales: moderadas pero tolerables
+   - Origen preferible: río > dique/embalse (menos mineralización)
+   - Cloro: presente pero manejable (ver subsección manejo cloro)
+   - Recomendación: ACEPTABLE uso diario
+
+5. **✅✅ Agua lluvia (IDEAL):**
+   - EC: ~30 PPM (casi destilada)
+   - Ventaja: gratuita + disponible temporada lluvias
+   - Almacenamiento: <3 semanas (evitar estancamiento/contaminación)
+   - Precaución ajuste pH: baja violentamente con pH menos (gotitas mínimas)
+   - Recomendación: EXCELENTE si disponible
+
+6. **✅✅✅ Agua destilada / condensado aire acondicionado (ÓPTIMA):**
+   - EC: 0 PPM (sin sales)
+   - Fuente destilada: comprada (costosa)
+   - Fuente condensado AC: recolección continua indoor temporada calor (gratuita)
+   - Recomendación: MEJOR opción disponible
+
+**Manejo cloro agua corriente:** [DH-005]
+
+**Método 1 - Reposo decloración natural (gratuito):**
+- Tiempo: 1-2 días balde abierto
+- Mecanismo: cloro volátil evapora naturalmente
+- Ventaja: sin costo
+- Desventaja: requiere planificación anticipada
+
+**Método 2 - Desclorinador químico (rápido):**
+- Producto: desclorinador acuarios (tiendas peces)
+- Aplicación: gotitas/L según envase
+- Tiempo: instantáneo
+- Costo: bajo (~2 USD frasco)
+- Ventaja: inmediato sin espera
+
+**Emergencia riego planta seca:** [DH-005]
+- Situación: planta muy seca + sin agua declorada disponible
+- Decisión: regar CON agua clorada directamente
+- Razón: daño cloro microorganismos << daño deshidratación planta
+- Analogía seguridad: "humanos beben agua clorada sin morir → planta tampoco muere"
+- Conclusión: cloro NO letal sustrato (afecta parcialmente pero NO 100% mortalidad)
+
+**Interacción fertilizantes orgánicos + cloro:** [DH-005]
+- Fertilizantes orgánicos: contienen microorganismos vivos benéficos
+- Efecto cloro: reduce eficacia microorganismos (NO 100% mortalidad pero parcial)
+- **Optimización inversión:** usar agua sin cloro (reposo 1-2 días o desclorinador) → máximo rendimiento fertilizante orgánico costoso
+- Trade-off: emergencia→usar clorada | optimización→evitar cloro
+
+**Fuentes alternativas gratuitas:** [DH-005]
+- **Lluvia:** recolección temporal <3 semanas (evitar estancamiento), EC ~30 PPM óptima
+- **Condensado aire acondicionado:** recolección continua indoor temporada calor, EC ~0 PPM óptima
+- **Ventaja:** ambas opciones costo cero + calidad superior agua corriente
 
 ### Principios Fundamentales
 

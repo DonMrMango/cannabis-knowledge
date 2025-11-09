@@ -5,6 +5,26 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.16.0] - 2025-11-09
+
+### Agregado
+- **[DH-005]** Quinta integración Doña Huana: "¿Qué Tipo de Agua Utilizar?"
+- **Sección 25 (pH y su Gestión):** ✅ EXPANDIDA con subsección "Tipos de Agua para Riego"
+  - **Principio mineralización:** óptimo mínima mineralización (destilada ideal), problemático alta (acumulación sales sustrato→bloqueo nutrientes)
+  - **Ranking tipos agua PEOR→MEJOR:** (1)hervida NO mata microbios mantiene minerales desperdicio, (2)mineral embotellada NO alta mineralización+costosa paradoja, (3)pozo VARIABLE rural OK urbano riesgo contaminación cloacas/metales requiere análisis, (4)corriente canilla USABLE mayoría sales moderadas río>dique cloro manejable, (5)lluvia IDEAL EC ~30 PPM casi destilada gratuita almacenar <3 semanas precaución pH baja violentamente, (6)destilada/condensado AC ÓPTIMA EC 0 PPM sin sales comprada costosa vs AC indoor gratuita
+  - **Manejo cloro agua corriente:** método 1 reposo decloración 1-2 días gratuito evaporación cloro volatilización planificación anticipada, método 2 desclorinador químico acuarios instantáneo ~2 USD gotitas/L
+  - **Emergencia riego planta seca:** usar agua clorada directamente daño cloro<<deshidratación analogía humanos beben sin morir cloro NO letal suelo afecta parcial NO 100% mortalidad
+  - **Interacción fertilizantes orgánicos+cloro:** fertilizantes orgánicos microorganismos vivos benéficos cloro reduce eficacia parcial optimización inversión usar sin cloro reposo/desclorinador máximo rendimiento fertilizante costoso trade-off emergencia vs optimización
+  - **Fuentes alternativas gratuitas:** lluvia recolección <3 semanas EC ~30 PPM óptima condensado AC indoor temporada calor EC 0 PPM óptima ambas costo cero calidad superior canilla
+
+### Cambiado
+- **Sección 25:** de "Completa" a "EXPANDIDA - + Tipos de agua"
+- **Fuentes Sección 25:** [DH-001] → [DH-001] [DH-005]
+- **Estado general:** 15 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-005)
+
+### Notas
+Quinta integración Doña Huana. Sección 25 (pH) EXPANDIDA con subsección tipos agua complementando DH-001. Tier A (22/25). Conocimiento práctico selección agua según disponibilidad/presupuesto: desde gratuitas (lluvia almacenar <3 semanas EC ~30 PPM, condensado AC indoor EC 0 PPM) hasta emergencia (clorada directa daño mínimo vs deshidratación). Datos cuantitativos valiosos EC lluvia ~30 PPM verificable. Ranking claro mineralización PEOR→MEJOR 6 tipos. Manejo cloro 2 métodos (reposo gratuito vs desclorinador químico instantáneo acuarios). Interacción cloro+fertilizantes orgánicos microorganismos (reduce eficacia parcial, optimización inversión usar sin cloro). Trade-offs transparentes optimización vs practicidad. Total videos procesados: 15/90 (10 Noé + 5 Doña Huana).
+
 ## [0.15.0] - 2025-11-09
 
 ### Agregado
