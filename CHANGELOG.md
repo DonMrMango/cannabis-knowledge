@@ -5,6 +5,32 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.21.0] - 2025-11-09
+
+### Agregado
+- **[DH-007]** Séptima integración Doña Huana: "Cómo Cultivar Midiendo EC" - Aplicación práctica EC completa con protocolos detallados únicos proyecto
+- **Sección 26 (EC/TDS y Sales):** EXPANDIDA con 9 subsecciones nuevas (segunda fuente después DH-006)
+  - **EC definición práctica:** precisión medición vs ml/L manual | conversión unidades tablas (0.4=400 PPM 0.5=500)
+  - **Aplicabilidad sistemas:** hidroponía/coco/inertes SÍ medición EC | tierra alta humus/Living Soil NO (EC irregular microorganismos)
+  - **Medidores EC tipos:** Super Pro (vida útil alta+precisión máxima profesional) | económico (vida baja+precisión suficiente ~10-20 USD principiantes)
+  - **Soluciones fertilizantes requeridas:** bases completas 3+ componentes SÍ compatible | productos simples vegetal/flora/raíz NO compatible
+  - **Ajuste tablas EC agua alta protocolo detallado:** agua 400 PPM+tabla 500 total=agregar solo 100 PPM fertilizante | mantener proporciones bases regla 3 simple (Base A 50%+Base B 50%=12ml cada→reducir 20%=2.4ml cada=100 PPM) | herramienta alternativa IA ChatGPT calcular proporciones
+  - **Variabilidad temperatura/humedad vs tablas:** tablas diseñadas condiciones normales 20-25°C NO universales | invierno frío evapotranspiración↓→sustrato seca lento→riesgo sobre-riego ajustar frecuencia | observación planta>tabla prioridad (monitoreo visual+peso maceta) | relacionado Sección 19 DH-004 fundamentos físicos
+  - **Medición runoff diagnóstico protocolo completo:** materiales (bandeja limpia+agua destilada EC 0 pH 7) | procedimiento (regar 10-20% volumen recolectar 50-100ml medir inmediato) | interpretación (EC >2000 acumulación moderada lavado 2x volumen, EC >4000-7000 toxicidad severa lavado 3x, pH >7.5-8+EC normal problema aislado corrección humus, EC <200 carencia↑dosis) | precaución post-medición (maceta pesada esperar secado 5-10 días riesgo pudrición)
+  - **Aplicación aditivos protocolos timing:** tipos (enzimas/carbohidratos/estimuladores/algas/aminoácidos) | problema (aditivos bajan pH 0.5-1.5 puntos complicado mezcla) | método 1 preferido (pulsos separados mañana aditivos 20-30%+tarde fertilizantes 50-60%+noche agua 10-20% pH control separado+prevención acumulación) | método 2 (mezcla 1x/día simplicidad hobbyistas pH complejo sin lavado final) | recomendación (principiantes mezcla intermedios/avanzados pulsos hidroponía obligatorio pulsos)
+  - **Protocolo riego multi-pulso frecuencia ideal:** 3+/día mañana/tarde/noche vs mínimo 1/día | distribución volumen ejemplo maceta 7L coco 500ml/día (opción A 3 pulsos 150ml+300ml+50ml, opción B 2 pulsos 250ml+250ml, opción C 1 pulso 500ml) | ventajas (distribución nutrientes temporal+prevención sales lavado micro-dosis+oxigenación raíces+temperatura estable) | ajuste invernal obligatorio (frío evapotranspiración↓→maceta húmeda excesivo solución↓frecuencia 3/día→1 cada 2-3 días) | tamaño maceta (5-10L facilitan multi-pulso vs 25L+ incompatible frío)
+  - **Documentación cultivo aprendizaje sistemático:** herramientas (fotos/filmaciones/libreta anotaciones) | protocolo registrar (fecha+volumen+EC+pH+aditivos+observaciones+temperatura) | beneficios (memoria confiable>oral evita olvidos+aprendizaje acumulativo+troubleshooting rápido+optimización evidencia propia)
+
+### Cambiado
+- **Sección 26:** de "COMPLETADA - EC diferencial aguas regionales + ajuste fertilización" a "EXPANDIDA - Protocolos aplicación práctica EC + medición runoff + riego multi-pulso"
+- **Fuentes Sección 26:** [DH-006] → + [DH-007]
+- **Estado general:** 20 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-007)
+- **Distribución Tiers:** 1 TIER S (5%) + 18 TIER A (90%) + 1 TIER B (5%) = 20 fuentes totales
+- **Videos procesados:** 20/90 (22.2%) = 13 House of Weed + 7 Doña Huana
+
+### Notas
+Séptima Doña Huana. Segunda fuente Sección 26 después DH-006 (teoría EC agua regional). Tier A (18/25) -1 Calidad estructura caótica -1 Credibilidad falta rangos EC cuantitativos etapas -1 Objetividad lenguaje coloquial extremo. Conocimiento MUY VALIOSO aplicación práctica EC real cultivo (NO solo teoría) complementario perfecto DH-006. Protocolos medición runoff + riego multi-pulso + ajuste tablas agua alta EC ÚNICOS proyecto primera fuente detallando procedimientos críticos. 9 subsecciones nuevas Sección 26 (Aplicabilidad Sistemas, Medidores Tipos, Soluciones Fertilizantes Requeridas, Ajuste Tablas Protocolo Detallado, Variabilidad Temperatura/Humedad, Medición Runoff Diagnóstico, Aplicación Aditivos Timing, Riego Multi-Pulso, Documentación Cultivo). Cross-reference Sección 19 Temperatura DH-004 fundamentos físicos evapotranspiración. Total procesados: 20/90 (13 Noé + 7 Doña Huana).
+
 ## [0.20.0] - 2025-11-09
 
 ### Agregado
