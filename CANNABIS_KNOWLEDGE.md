@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.18.0
+**Versión:** 0.19.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 17 videos integrados (HOW-001 a HOW-011 + DH-001 a DH-006)
+**Estado:** En desarrollo activo - 18 videos integrados (HOW-001 a HOW-012 + DH-001 a DH-006)
 
 ---
 
@@ -284,9 +284,9 @@ Al integrar fuente:
 
 ## 🧬 1. GENÉTICA Y SELECCIÓN DE CEPAS
 
-> **Estado actual:** ✅ Completo - Sexado + Hermafroditismo + Fast Version integrados
-> **Fuentes:** [HOW-001], [HOW-002], [HOW-006], [HOW-007], [HOW-009]
-> **Prioridad:** Crítica cumplida
+> **Estado actual:** ✅ EXPANDIDA - Sexado + Hermafroditismo + Fast Version + Phenohunting & Breeding completos
+> **Fuentes:** [HOW-001], [HOW-002], [HOW-006], [HOW-007], [HOW-009], [HOW-012]
+> **Prioridad:** Crítica cumplida + Breeding avanzado integrado
 
 ### Casos de Estudio - Variedades Específicas
 
@@ -446,6 +446,144 @@ Al integrar fuente:
 - Compost
 - Biofertilizantes
 - Decoración (hojas)
+
+### Phenohunting (Selección de Fenotipos) - Método Completo
+
+**Definición:** [HOW-012]
+- Evaluación múltiples plantas misma genética → seleccionar características deseadas
+- Objetivo: conservar plantas superiores mediante esquejes
+- **CRÍTICO:** sin conservación esquejes proceso NO tiene sentido
+- Contexto: industrial (análisis químicos partes plantas + flores) vs artesanal (sentidos evaluación subjetiva)
+
+**Criterios Selección Durante Cultivo:** [HOW-012]
+- Grosor tallos | altura plantas | tamaño hojas
+- Capacidad ramificación | vigor general
+- Resistencia: plagas + enfermedades + estrés
+- Sistema radicular calidad
+
+**Criterios Selección Post-Cosecha:** [HOW-012]
+- Estructura flor: compacta vs aireada
+- Peso material primera calidad (comparativo entre fenotipos)
+- Colores | tipo tricomas + abundancia
+- Aromas: manipulación cultivo + post-secado + post-curado
+- Textura | densidad | pegajosidad flores
+
+**Criterios Selección Post-Consumo (Subjetivo):** [HOW-012]
+- Sabor | aroma
+- Efectos: energizante / relajante / equilibrado
+- Intensidad | singularidad perfil terpenos
+
+**Proceso Phenohunting Completo - 8 Fases:** [HOW-012]
+
+*Fase 1 - Germinación:*
+- Bolsas biodegradables → trasplante sin estrés (raíces perforan tela)
+- Selección inicial plantines fuertes (ejemplo: 20 → 15 seleccionados)
+
+*Fase 2 - Vegetativo:*
+- Múltiples plantas/maceta → competencia → fuertes sobresalen
+- Observación continua vigor/salud
+- Registro características
+
+*Fase 3 - Floración mes 1 (Segunda Selección):*
+- Descartar débiles (ejemplo: 15 → 11 plantas)
+- Criterios: grosor tallos, altura, tamaño hojas, estado general
+
+*Fase 4 - Floración completa:*
+- Malla guía crecimiento → ordenar plantas
+- Monitoreo diario: hojas hablan
+- Enmiendas si necesario (harina pescado cuando plantas comen mucho + LED máxima intensidad)
+- Decoloración hojas últimas 2-3sem = senescencia normal (movilización nutrientes → flores)
+- Decoloración temprana = ajuste nutrientes requerido
+
+*Fase 5 - Pre-cosecha:*
+- Análisis tricomas + aromas planta viva
+- Stop riego 1 semana antes cosechar → evitar hongos
+- Hojas amarillas resquebrajadas = absorción nutrientes alta → cosecha limpia
+
+*Fase 6 - Post-cosecha:*
+- Secado: carpa + filtro carbón activo
+- Separación material primera calidad
+- Bolsas ziplock numeradas por fenotipo
+- Peso registrado cada fenotipo
+
+*Fase 7 - Evaluación final:*
+- Curado
+- Prueba efectos diferentes momentos/contextos
+- Análisis sabor/aroma/efectos
+- Comparación fenotipos
+- Selección finales
+
+*Fase 8 - Conservación (OBLIGATORIA):*
+- Esquejes plantas seleccionadas → madres
+- Previo phenohunting inicio
+
+**Setup Phenohunting Específico:** [HOW-012]
+
+*Estrategia cultivo paralelo (maximizar plantas evaluadas):*
+- Carpa 1: 1m² | 5 macetas tela 16L | 15 plantas iniciales
+- Carpa 2: 1m² | 1 maceta 250L (IDEAL Living Soil: espacio ecosistema + retención humedad/nutrientes) | 16 plantas
+
+*Iluminación:*
+- LED 500W | 1260 LEDs Samsung | cobertura óptima 1m²
+- Máxima intensidad floración
+
+*Ventilación:*
+- 2 ventiladores superiores vegetativo
+- 3 floración (tercero inferior → circular aire → evitar plagas)
+- Intracción pasiva (tubo sin ventilador + efecto extracción)
+
+*Sustrato Living Soil:*
+- Base: coco + turba + perlita
+- Compost (materia orgánica)
+- Microorganismos sólidos
+- Nutrientes orgánicos liberación lenta
+- Objetivo: ecosistema microbiológico semanas 1 → cosecha
+- Ventaja: NO fertilizantes semanales | solo agua inicio → fin | cosechas orgánicas limpias + desarrollo terpenos
+- **CRÍTICO:** agua sin cloro (aireada 48h+ revolución manual 2x/día o bomba acuario burbujas) | cloro mata microorganismos (relacionado Sección 17 Living Soil HOW-011)
+
+*Fotoperíodo:*
+- Vegetativo: 18/6
+
+*Técnicas cultivo:*
+- Malla guía crecimiento
+- Poda bajos floración
+- Múltiples plantas/maceta → competencia
+
+### Breeding (Técnicas Reproducción Avanzadas)
+
+**Back Cross:** [HOW-012]
+- Definición: cruza planta × progenitor
+- Objetivo: reforzar + estabilizar características deseadas generación F1
+- Resultado: características consistentes + destacadas futuras generaciones
+- Ejemplo caso: Ethiopian × Guava F1 fenotipos #2 + #9 → back cross 2021 → semillas estabilizadas
+
+**Polen Femenino - Producción:** [HOW-012]
+- Objetivo: cruzar fenotipos seleccionados sin macho
+- Aplicación: estabilizar características específicas (resina, aroma, estructura flor)
+- Ejemplo: polen fenotipo #3 (Ethiopian 2 × Guava 26) → cruza fenotipo #13 (resina similar) → mantener + mejorar características
+
+**Estrategia Breeding Multi-Año:** [HOW-012]
+- Año 0 (2017-2020): conservación parentales originales (Ethiopian 2017 Etiopía, Guava años Jamaica)
+- Año 1 (2020): primera cruza Ethiopian × Guava → selección fenotipos #2 (vigor, producción, flores aireadas) + #9 (flores compactas, resina)
+- Año 2 (2021): back cross fenotipos seleccionados → generar semillas estabilizadas
+- Año 3 (2023): phenohunting semillas back cross → selección mejores plantas → continuar puliendo genética
+- **Realidad:** trabajo puede demorar años | paciencia esencial | progreso poco a poco
+
+**Caso Práctico Ethiopian × Guava - Fenotipos Seleccionados:** [HOW-012]
+
+*Carpa 1 (Ethiopian 9 × Guava 26):*
+- Fenotipo #5: estructura flor destacada | resina | aroma notorio
+- Fenotipo #9: tercera altura | vigor | ramificación | flores grandes | tonos morados | producción tricomas | producción + calidad
+- Fenotipo exterior: altura super alta | hojas finas | flores aireadas sativas | similitud Ethiopian original
+
+*Carpa 2 (Ethiopian 2 × Guava 26):*
+- Fenotipo #3: estructura flor abierta ligera | foxtail | resina abundante
+- Fenotipo #13: estructura flor compacta | altura baja | tricomas abundantes | distancia internodal corta | ramificación lateral | flores cargadas | aroma Ethiopian original
+- Fenotipo #14: vigor máximo | ramas abundantes | flores distribuidas | aromas frutales | **ADVERTENCIA:** signos botrytis (aspecto mejorar)
+
+*Cruces planificados polen femenino:*
+- Polen #3 (Ethiopian 2 × Guava 26) → #13 (resina similar → mantener + mejorar)
+- Polen fenotipo exterior Ethiopian 9 → #5 + #9 (nuevas semillas → plantas mejores)
 
 ---
 

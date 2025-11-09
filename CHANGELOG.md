@@ -5,6 +5,33 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.19.0] - 2025-11-09
+
+### Agregado
+- **[HOW-012]** Duodécima integración House of Weed: "Guía Selección Fenotipos" - Segunda colaboración experto externo (Drog breeder Ethiopian×Guava 2017-2023)
+- **Sección 1 (Genética):** EXPANDIDA con subsecciones "Phenohunting (Selección de Fenotipos)" + "Breeding (Técnicas Reproducción Avanzadas)" completas
+  - **Phenohunting definición:** evaluación múltiples plantas misma genética → seleccionar características deseadas | conservación esquejes OBLIGATORIA (sin esquejes "NO tiene sentido") | contexto industrial (análisis químicos) vs artesanal (sentidos)
+  - **Criterios selección:** durante cultivo (grosor tallos/altura/hojas/ramificación/vigor/resistencia plagas-enfermedades-estrés/sistema radicular) | post-cosecha (estructura flor compacta-aireada/peso primera calidad/colores/tricomas/aromas/textura/densidad/pegajosidad) | post-consumo subjetivo (sabor/aroma/efectos/intensidad/singularidad terpenos)
+  - **Proceso completo 8 fases:** 1.germinación bolsas biodegradables selección inicial 20→15 | 2.vegetativo múltiples plantas/maceta competencia→fuertes sobresalen | 3.floración mes 1 segunda selección 15→11 | 4.floración completa malla guía monitoreo enmiendas | 5.pre-cosecha análisis tricomas+aromas stop riego 1sem | 6.post-cosecha secado+separación+peso registrado bolsas numeradas | 7.evaluación final curado+prueba efectos | 8.conservación esquejes madres OBLIGATORIA
+  - **Setup específico:** cultivo paralelo 2 carpas 1m² (5 macetas 16L vs 1 maceta 250L Living Soil) | LED 500W 1260 Samsung | ventilación 2-3 ventiladores | agua sin cloro CRÍTICO 48h+ aireada | fotoperíodo 18/6 vegetativo
+  - **Back cross técnica:** cruza planta×progenitor reforzar+estabilizar características F1 | ejemplo Ethiopian×Guava 2021 back cross→semillas estabilizadas
+  - **Polen femenino producción:** cruzar fenotipos sin macho | estabilizar resina/aroma/estructura específica
+  - **Estrategia breeding multi-año:** 2017-2020 conservación parentales Ethiopian/Guava → 2020 primera cruza selección #2/#9 → 2021 back cross → 2023 phenohunting | realidad: años trabajo paciencia progreso poco a poco
+  - **Caso práctico Ethiopian×Guava:** 15 plantas evaluadas 2 cruces | fenotipos seleccionados #5/#9/#3/#13/#14 (botrytis advertencia) | cruces planificados polen femenino
+
+### Cambiado
+- **Sección 1:** de "Completo" a "EXPANDIDA - Phenohunting & Breeding avanzado integrado"
+- **Fuentes Sección 1:** [HOW-001], [HOW-002], [HOW-006], [HOW-007], [HOW-009] → + [HOW-012]
+- **Estado general:** 18 videos integrados (HOW-001 a HOW-012 + DH-001 a DH-006)
+- **Distribución Tiers:** 1 TIER S (5.6%) + 16 TIER A (88.9%) + 1 TIER B (5.6%) = 18 fuentes totales
+- **Videos procesados:** 18/90 (20%) = 12 House of Weed + 6 Doña Huana
+
+### Descartado
+- **Video ID 9:** "Nuevo Setup Indoor Mars Hydro" - Unboxing patrocinado Tier C (15/25) - Contenido limitado specs producto sin conocimiento generalizable
+
+### Notas
+Duodécima House of Weed. Segunda colaboración experto externo Drog breeder (primera HOW-011 Living Soil). Tier A alto (24/25) casi S pero -1 Aplicabilidad (barrera entrada alta NO principiantes requiere años experiencia+infraestructura madres+espacio 2 carpas+inversión). Primera fuente phenohunting completo proyecto. Caso práctico real Ethiopian×Guava documentado fotográficamente 2017-2023 cronología multi-año. Proceso 8 fases reproducible ejemplos cuantitativos (20→15→11 plantas, 16L vs 250L, LED 500W 1260 Samsung, 18/6). Técnicas breeding avanzadas (back cross, polen femenino) claramente explicadas. Conservación esquejes OBLIGATORIA previo inicio. Transparencia total incluido fracasos (fenotipo #14 botrytis mejorar). Segundo video descartado proyecto (ID 9 unboxing patrocinado vs ID 6 promocional). Total procesados: 18/90 (12 Noé + 6 Doña Huana).
+
 ## [0.18.0] - 2025-11-09
 
 ### Agregado
