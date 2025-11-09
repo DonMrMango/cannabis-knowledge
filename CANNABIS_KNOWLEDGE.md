@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.14.0
+**Versión:** 0.15.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 13 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-003)
+**Estado:** En desarrollo activo - 14 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-004)
 
 ---
 
@@ -1448,15 +1448,76 @@ Al integrar fuente:
 
 ## 🌡️ 19. TEMPERATURA
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Crítica
+> **Estado actual:** ✅ COMPLETADA - Fundamentos científicos integrados
+> **Fuentes:** [DH-004]
+
+### Fundamentos Físicos Absorción Agua
+
+**Mecanismo evapotranspiración:** [DH-004]
+- Proceso: salida H₂O estomas + entrada CO₂ fotosíntesis
+- Transporte cohesivo: moléculas H₂O unidas (cohesión molecular + tensión superficial)
+- Cadena: evaporación hoja → tracción xilema → absorción pelo radicular suelo
+- Temperatura ↑ → evapotranspiración ↑ → absorción nutrientes ↑ (si humedad adecuada)
+
+**Capacidad aire retener agua:** [DH-004]
+- Temperatura ↑ → capacidad retención H₂O aire ↑ (relación directa)
+- Temperatura ↓ → capacidad ↓ → precipitación agua (condensación)
+- Ejemplos: aire acondicionado enfría → precipita agua | botella fría → condensación exterior
+
+### Efectos Temperatura Extrema
+
+**Calor excesivo:** [DH-004]
+- Calor + baja humedad → evapotranspiración excesiva → estrés hídrico
+- Síntoma: detención crecimiento
+- Agravante indoor: temperatura alta + ventilación excesiva = estrés 400.000x peor
+- Límite crítico: >35°C con sodio/LED CO (cambiar tecnología iluminación)
+
+**Frío excesivo:** [DH-004]
+- Frío + alta humedad → evapotranspiración mínima → absorción nutrientes mínima
+- Síntoma: detención crecimiento (metabolismo ralentizado)
+
+### TROUBLESHOOTING Indoor Calor Excesivo
+
+**Protocolo 6 pasos:** [DH-004]
+1. **Ventilación:** cerrar parcialmente extracción (↓ caudal aire, ↓ evaporación forzada)
+2. **Ventiladores internos:** apagar si temperatura extrema (evitar turbina directa hojas)
+3. **Riego:** mantener sustrato hidratado máximo
+4. **Humedad local:** recipientes agua indoor (↑ humedad relativa microclima)
+5. **Foliar:** spray agua hojas (alivio temporal estrés)
+6. **Iluminación:** evaluar cambio tecnología si verano >35°C con sodio/LED CO
 
 ---
 
 ## 💨 20. HUMEDAD
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Crítica
+> **Estado actual:** ✅ COMPLETADA - Relación temperatura-humedad-evapotranspiración
+> **Fuentes:** [DH-004]
+
+### Relación Humedad-Evapotranspiración
+
+**Interacción temperatura-humedad:** [DH-004]
+- Humedad ↓ + temperatura ↑ → evapotranspiración máxima (secado rápido)
+- Humedad ↑ + temperatura ↓ → evapotranspiración mínima (secado lento/nulo)
+- **Analogía didáctica:** secado ropa = evapotranspiración planta (misma física)
+  - Calor + seco → secado rápido | Frío + húmedo → secado nulo
+
+**Balance crítico absorción nutrientes:** [DH-004]
+- Humedad óptima + temperatura óptima = absorción continua nutrientes
+- Extremos (calor+seco O frío+húmedo) → detención crecimiento por fallo transporte H₂O
+
+### Ventilación Indoor y Humedad
+
+**Ventilación excesiva + baja humedad:** [DH-004]
+- Ventilador directo hojas + baja humedad + alta temperatura = estrés hídrico SEVERO
+- Mecanismo: caudal aire excesivo → evaporación forzada continua → planta no compensa absorción
+- **Solución:** ventilación indirecta (no directo follaje) | controladores on/off ajustables
+
+### Manejo Humedad Emergencia Indoor
+
+**Métodos low-cost:** [DH-004]
+1. **Recipientes agua:** ↑ humedad local (microclima hojas, no registra higrómetro distante pero efectivo)
+2. **Spray foliar:** solución temporal (hidratación directa estomas)
+3. **Ventilación ajustable:** controladores on/off permiten ajuste dinámico según condiciones
 
 ---
 

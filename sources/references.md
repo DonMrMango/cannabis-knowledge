@@ -215,6 +215,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=77
 - **Nota:** Tercera fuente Doña Huana. Secciones 35 (Deficiencias) + 36 (Toxicidades) COMPLETADAS con enfoque troubleshooting práctico. NO micronutrientes específicos, SÍ diagnóstico causas culturales comunes. Flag 💬 lenguaje coloquial añadido.
 
+**[DH-004]** Doña Huana - "TEMPERATURA Y HUMEDAD - ALIMENTACIÓN PLANTA" (2024)
+- Tipo: Video (transcripción) - Fundamentos científicos evapotranspiración
+- Expertise: Cultivador experimentado, enfoque didáctico fundamentos físicos aplicados
+- Verificado: 2025-11-09 por damo
+- **Tier:** S (24/25) ⭐ - Primera fuente Tier S! +5/5 todas categorías excepto -1 objetividad por lenguaje coloquial extremo (sin afectar contenido técnico). Fundamentos físicos correctos (cohesión molecular, tensión superficial, capacidad aire retener agua vs temperatura) + aplicaciones prácticas + troubleshooting indoor extremo
+- **Flags:** 👤 🌍 🔗 🎓 💬 🔬
+- Nivel de consenso: Alto (física agua/aire consenso científico + aplicaciones cultivo validadas)
+- Temas: Mecanismo absorción agua plantas (evapotranspiración: salida H₂O + entrada CO₂, transporte cohesivo molecular tensión superficial, cadena evaporación hoja→tracción xilema→absorción pelo radicular), capacidad aire retener agua vs temperatura (temperatura↑→capacidad↑ relación directa, temperatura↓→capacidad↓→precipitación condensación, ejemplos aire acondicionado/botella fría), relación temperatura-evapotranspiración (temperatura↑→evapotranspiración↑→absorción nutrientes↑ si humedad adecuada), efectos temperatura extrema (calor+baja humedad→estrés hídrico detención crecimiento, frío+alta humedad→metabolismo ralentizado, límite crítico indoor >35°C sodio/LED CO), relación humedad-evapotranspiración (humedad↓+temperatura↑→secado rápido, humedad↑+temperatura↓→secado nulo, analogía didáctica secado ropa=evapotranspiración planta), ventilación indoor excesiva (ventilador directo hojas+baja humedad+alta temperatura=estrés severo 400.000x peor, caudal aire excesivo→evaporación forzada→planta no compensa), troubleshooting indoor calor excesivo protocolo 6 pasos (1.cerrar ventilación parcial, 2.apagar ventiladores internos, 3.sustrato hidratado máximo, 4.recipientes agua↑humedad microclima, 5.spray foliar temporal, 6.evaluar cambio tecnología iluminación)
+- Enfoque: Fundamentos científicos mecanismos físicos (NO solo síntomas) aplicados cultivo cannabis con analogías didácticas excelentes + protocolo troubleshooting práctico emergencias térmicas
+- Video ID: 6Vzt_DjRRSY
+- URL: https://www.youtube.com/watch?v=6Vzt_DjRRSY
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=83
+- **Nota:** Cuarta fuente Doña Huana. Primera fuente TIER S del proyecto! Secciones 19 (Temperatura) + 20 (Humedad) COMPLETADAS (primera integración ambas). Conocimiento FUNDAMENTAL para entender otros conceptos (riego, VPD, transporte nutrientes). Flag 🔬 fundamentos científicos añadido.
+
 ---
 
 ## Fuentes Pendientes de Integración

@@ -5,6 +5,30 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.15.0] - 2025-11-09
+
+### Agregado
+- **[DH-004]** Cuarta integración Doña Huana: "Temperatura y Humedad - Alimentación Planta" ⭐ **PRIMERA FUENTE TIER S!**
+- **Sección 19 (Temperatura):** ✅ COMPLETADA - Fundamentos científicos evapotranspiración + troubleshooting
+  - **Fundamentos físicos absorción agua:** mecanismo evapotranspiración (salida H₂O estomas + entrada CO₂, transporte cohesivo molecular tensión superficial, cadena evaporación→tracción xilema→absorción pelo radicular), temperatura↑→evapotranspiración↑→absorción nutrientes↑ (si humedad adecuada)
+  - **Capacidad aire retener agua:** temperatura↑→capacidad retención↑ (relación directa), temperatura↓→capacidad↓→precipitación condensación (ejemplos: aire acondicionado, botella fría)
+  - **Efectos temperatura extrema:** calor+baja humedad→estrés hídrico detención crecimiento (agravante indoor ventilación excesiva=400.000x peor, límite >35°C sodio/LED CO), frío+alta humedad→metabolismo ralentizado
+  - **Troubleshooting indoor calor excesivo:** protocolo 6 pasos (ventilación parcial, apagar ventiladores internos, sustrato hidratado, recipientes agua microclima, spray foliar temporal, evaluar tecnología iluminación)
+- **Sección 20 (Humedad):** ✅ COMPLETADA - Relación temperatura-humedad-evapotranspiración
+  - **Interacción temp-humedad:** humedad↓+temp↑→evapotranspiración máxima (secado rápido), humedad↑+temp↓→evapotranspiración mínima (secado nulo), analogía didáctica secado ropa=evapotranspiración planta (misma física)
+  - **Balance crítico:** humedad óptima + temperatura óptima = absorción continua nutrientes, extremos (calor+seco O frío+húmedo)→detención crecimiento fallo transporte H₂O
+  - **Ventilación indoor:** ventilador directo hojas+baja humedad+alta temp=estrés SEVERO, mecanismo caudal excesivo→evaporación forzada→planta no compensa, solución ventilación indirecta + controladores on/off
+  - **Manejo emergencia:** métodos low-cost (recipientes agua microclima efectivo aunque no registre higrómetro distante, spray foliar temporal, ventilación ajustable)
+
+### Cambiado
+- **Sección 19:** de "Vacío" a "COMPLETADA - Fundamentos científicos"
+- **Sección 20:** de "Vacío" a "COMPLETADA - Relación temp-humedad"
+- **Estado general:** 14 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-004)
+- **Primera fuente TIER S (24/25):** DH-004 alcanza máxima calificación del proyecto
+
+### Notas
+Cuarta integración Doña Huana. **PRIMERA FUENTE TIER S DEL PROYECTO** (24/25): 5/5 todas categorías excepto -1 objetividad por lenguaje coloquial extremo (sin afectar contenido técnico). Fundamentos físicos correctos aplicados cultivo (cohesión molecular, tensión superficial, capacidad aire retener agua vs temperatura). Conocimiento FUNDAMENTAL base para otros conceptos avanzados (VPD, DLI, transporte nutrientes). Analogías didácticas excelentes (secado ropa, botella condensación). 2 secciones críticas COMPLETADAS con 1 video (mecanismos físicos + aplicaciones prácticas). Flag 🔬 fundamentos científicos añadido. Total videos procesados: 14/90 (10 Noé + 4 Doña Huana).
+
 ## [0.14.0] - 2025-11-09
 
 ### Agregado
