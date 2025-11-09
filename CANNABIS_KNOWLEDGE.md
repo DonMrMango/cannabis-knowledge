@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.11.0
+**Versión:** 0.12.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 10 videos integrados (HOW-001 a HOW-010)
+**Estado:** En desarrollo activo - 11 videos integrados (HOW-001 a HOW-010 + DH-001)
 
 ---
 
@@ -1440,15 +1440,181 @@ Al integrar fuente:
 
 ## ⚗️ 24. MICRONUTRIENTES
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** Vacío - Pendiente primera fuente
 > **Prioridad:** Alta
 
 ---
 
-## ⚗️ 24. pH Y SU GESTIÓN
+## ⚗️ 25. pH Y SU GESTIÓN
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Crítica
+> **Estado actual:** ✅ Completo - Protocolo medición + calibración + ajuste integrado
+> **Fuentes:** [DH-001]
+> **Prioridad:** Crítica cumplida
+
+### Fundamentos pH
+
+**Definición:** [DH-001]
+- Sigla: P (potencial) + H (hidrógeno)
+- Indicador: hidrógeno libre
+- Relevancia práctica: importa QUÉ PASA en cultivo (no teoría química)
+
+### Rango Óptimo y Absorción Nutrientes
+
+**Rango general:** [DH-001]
+- pH óptimo: 6-7
+- Variación: según época/semana planta
+- Tablas profesionales: pH específico por semana (existe protocolo avanzado)
+- Objetivo crítico: absorción óptima nutrientes
+
+**Relación pH-Carencias:** [DH-001]
+- pH fuera rango 6-7 → planta NO absorbe nutrientes disponibles
+- Síntomas visuales: hojas blancas | hojas manchadas
+- Problema: "planta llena fertilizantes" pero pH impide absorción
+
+### Importancia por Contexto Cultivo
+
+**Maceta pequeña:** [DH-001]
+- Criticidad: ⚠️ ALTA
+- Razón: agua riego desbalancea fácilmente pH tierra (poco volumen buffer)
+- Consecuencia desbalance: carencias visuales inmediatas
+- Acción: medición OBLIGATORIA cada riego
+
+**Maceta mediana:** [DH-001]
+- Criticidad: IMPORTANTE
+- Razón: mayor volumen buffer pero aún vulnerable
+- Acción: medición recomendada
+
+**Tierra directa (jardín/campo):** [DH-001]
+- Criticidad: BAJA
+- Razón: microorganismos + tierra balancean pH naturalmente
+- Mecanismo: "todo tiende a su normalidad"
+- Ejemplo natural: lluvia pH variable NO mata plantas → microorganismos balancean
+- Observación campo: cultivadores sin medición pH → "producción excelente"
+- Acción: medición opcional (naturaleza auto-regula)
+
+### Timing Medición - CRÍTICO
+
+**❌ INCORRECTO:** [DH-001]
+- Medir pH agua ANTES agregar fertilizantes
+
+**✅ CORRECTO:** [DH-001]
+- Medir pH agua DESPUÉS agregar fertilizantes completos
+
+**Razón fundamental:** [DH-001]
+- Fertilizantes alteran pH significativamente (muchos bajan pH)
+- Ejemplo: agua pH 7 + fertilizante → pH 5 resultante
+- Consecuencia riego pH 5: planta con fertilizantes disponibles NO absorbe → carencias
+- Secuencia correcta: agua + fertilizantes + mezclar + medir pH + ajustar + regar
+
+### Herramientas - pH-metro Digital
+
+**Tipo común cultivadores:** [DH-001]
+- Descripción: "común, silvestre, barato"
+- Razón popularidad: pH-metros profesionales muy caros
+- Problema frecuente: vendido "calibrado" pero descalibra fácilmente
+- Indicador descalibración: valores inconsistentes (ej: agua conocida pH 9 marca 7)
+
+**Accesorios obligatorios compra:** [DH-001]
+- Pilas recambio
+- Buffer pH 4.0 (calibración punto bajo)
+- Buffer pH 7.0 (calibración punto alto)
+- Destornillador calibración (generalmente incluido)
+
+### Protocolo Calibración pH-metro
+
+**Paso 1 - Instalación pilas:** [DH-001]
+- Ubicación: parte superior dispositivo (tapa)
+- Procedimiento: abrir → instalar pilas correcta polaridad → cerrar
+
+**Paso 2 - Precaución encendido:** [DH-001]
+- ⚠️ NUNCA encender sin agua/buffer
+- Razón: descalibra fácilmente aire seco
+- ✅ Siempre encender YA sumergido en agua/buffer
+
+**Paso 3 - Calibración buffer 4.0:** [DH-001]
+- Sumergir pH-metro completamente en buffer pH 4
+- Encender dispositivo
+- Lectura inicial: probablemente ≠ 4.0
+- Ajuste: destornillador en hueco trasero → girar hasta display marca 4.0
+- Enjuagar con agua limpia
+
+**Paso 4 - Calibración buffer 7.0:** [DH-001]
+- Sumergir pH-metro en buffer pH 7
+- Lectura: ajustar girando destornillador hasta display marca 7.0
+- Enjuagar con agua limpia
+
+**Paso 5 - Verificación doble ciclo:** [DH-001]
+- Ciclo 1: buffer 4 → verificar marca 4.0 → ajustar si necesario → buffer 7 → verificar 7.0 → ajustar
+- Ciclo 2: repetir completo (buffer 4 → buffer 7)
+- Verificación final: buffer 4 = 4.0 consistente | buffer 7 = 7.0 consistente
+- ✅ Calibrado listo usar
+
+**Frecuencia calibración:** [DH-001]
+- pH-metros baratos: calibrar frecuentemente
+- Indicador necesidad: valores inconsistentes vs esperados
+- Recomendación: calibrar inicio cada cultivo mínimo
+
+### Protocolo Ajuste pH Agua Riego
+
+**Preparación:** [DH-001]
+- Agua + fertilizantes mezclados (si fertiliza)
+- Herramienta: pH menos (ácido para bajar pH)
+- ⚠️ Común: necesitar bajar pH (agua + fertilizantes generalmente >7)
+
+**Medición inicial:** [DH-001]
+- Quitar tapita protectora pH-metro
+- Sumergir completamente en agua preparada
+- Encender
+- Leer valor display
+
+**Ajuste si pH > objetivo (6-7):**
+
+**Agua canilla:** [DH-001]
+- Expectativa: probablemente pH alto
+- Cantidad pH menos: "poquito más" (moderado)
+- Aplicación: gotas controladas
+
+**Agua lluvia:** [DH-001]
+- ⚠️ MUCHO CUIDADO: "pH baja violentamente"
+- Aplicación: gotitas MUY graduales (precaución extrema)
+- Advertencia: incluso usuarios experimentados agua lluvia → tener precaución
+- Razón: agua lluvia muy reactiva a pH menos
+
+**Procedimiento iterativo:** [DH-001]
+1. Agregar gotitas pH menos
+2. Revolver/mezclar bien
+3. Medir nuevamente pH-metro
+4. Evaluar: ¿Llegó rango objetivo 6-7?
+   - SÍ → listo para regar
+   - NO → repetir desde paso 1 (más gotitas)
+
+### Principios Fundamentales
+
+**1. Importancia relativa:** [DH-001]
+- pH agua: importa moderadamente
+- pH tierra: importa MUCHO
+- Interacción crítica: agua altera pH tierra → problemas absorción
+
+**2. Volumen como factor buffer:** [DH-001]
+- ↓ volumen sustrato = ↑ criticidad medición
+- ↑ volumen sustrato = ↓ criticidad (más capacidad buffer)
+
+**3. Auto-regulación natural:** [DH-001]
+- Tierra + microorganismos balancean pH naturalmente
+- Aplicable: cultivo jardín/campo (NO macetas pequeñas)
+- Mecanismo: microorganismos tienden pH a normalidad
+
+**4. Timing es crítico:** [DH-001]
+- Siempre medir DESPUÉS fertilizantes
+- Nunca asumir pH agua = pH solución fertilizada
+
+**5. Calibración frecuente:** [DH-001]
+- pH-metros económicos descalibran fácil
+- Verificar regularmente con buffers
+
+**6. Ajuste gradual:** [DH-001]
+- Especialmente agua lluvia (reacción violenta)
+- Gotitas progresivas > cantidad grande única vez
 
 ---
 

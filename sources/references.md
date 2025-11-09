@@ -159,6 +159,36 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ---
 
+### Doña Huana (Canal YouTube)
+
+**Evaluación General del Experto:**
+- Credibilidad: ⭐⭐⭐⭐ (cultivador experimentado, canal educativo principiantes, lenguaje técnico accesible)
+- Calidad: ⭐⭐⭐⭐ (protocolos paso a paso detallados, contextos diferenciados, advertencias prácticas)
+- Consistencia: ⭐⭐⭐⭐ (coherencia interna, menciona tablas profesionales pero da rangos prácticos)
+- Aplicabilidad: ⭐⭐⭐⭐ (reproducible, herramientas específicas, procedimientos detallados)
+- Objetividad: ⭐⭐⭐ (enfoque práctico, reconoce auto-regulación natural tierra, NO sesgo comercial)
+- **Total: 19/25 → Tier A**
+- **Clasificación:** Alta confiabilidad (80% peso)
+- **Flags:** 👤 Experiencia documentada | 🌍 Validado comunidad | 🔗 Conocimiento consensuado
+
+---
+
+**[DH-001]** Doña Huana - "¿CÓMO MEDIR EL PH Y PARA QUE SIRVE?" (2024)
+- Tipo: Video (transcripción) - Guía técnica pH completa
+- Expertise: Cultivador experimentado, creador contenido educativo principiantes
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (19/25) - Protocolo completo calibración + contextos diferenciados + timing crítico
+- **Flags:** 👤 🌍 🔗
+- Nivel de consenso: Alto (técnica fundamental pH validada comunidad)
+- Temas: Rango óptimo (6-7), relación pH-absorción nutrientes, importancia contexto cultivo (maceta chica crítico, maceta mediana importante, tierra directa microorganismos balancean), timing medición DESPUÉS fertilizantes (nunca antes), protocolo calibración pH-metro completo (buffers 4 y 7, doble ciclo verificación), ajuste pH agua riego (pH menos gotitas, agua canilla moderado, agua lluvia precaución extrema baja violentamente), herramientas pH-metro barato común (descalibra fácil, necesita buffers), carencias visuales fuera rango (hojas blancas/manchadas)
+- Enfoque: Guía práctica completa pH para cultivadores todos niveles con énfasis timing + calibración + contextos donde más/menos crítico
+- Video ID: I47_dp0Ss-M
+- URL: https://www.youtube.com/watch?v=I47_dp0Ss-M
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=71
+- **Nota:** Primera fuente Doña Huana integrada. Conocimiento complementario Noé (sin conflictos). Sección 25 (pH) COMPLETADA.
+
+---
+
 ## Fuentes Pendientes de Integración
 
 (Lista de material por procesar)

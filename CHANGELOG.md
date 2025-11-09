@@ -5,6 +5,27 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.12.0] - 2025-11-09
+
+### Agregado
+- **[DH-001]** Primera integración Doña Huana: "¿Cómo Medir el pH y Para Qué Sirve?"
+- **Sección 25 (pH y su Gestión):** ✅ COMPLETADA - Primera integración
+  - **Rango óptimo:** 6-7 para absorción nutrientes óptima | variación según época/semana planta (tablas profesionales existen)
+  - **Timing crítico:** medir DESPUÉS fertilizantes (nunca antes) | secuencia correcta: fertilizar→mezclar→medir pH→ajustar si necesario
+  - **Protocolo calibración pH-metro:** buffers 4.0 y 7.0 | doble ciclo verificación (calibrar→verificar) | pH-metros baratos descalibran fácilmente
+  - **Importancia contexto:** maceta pequeña (CRÍTICO, tierra no autobuffera) vs maceta mediana (importante) vs tierra directa (BAJA, microorganismos balancean)
+  - **Ajuste pH:** pH menos gotitas (producto específico) | agua canilla moderado vs agua lluvia precaución extrema (baja violentamente)
+  - **Herramientas:** pH-metro digital (común, silvestre, barato) | requiere buffers calibración periódica
+  - **Carencias visuales:** hojas blancas/manchadas cuando pH fuera rango (nutrientes bloqueados aunque presentes)
+
+### Cambiado
+- **Primera fuente segundo cultivador:** Doña Huana (Canal YouTube) integrada exitosamente
+- **Conocimiento pluralidad:** Complementario sin conflictos vs Noé (House of Weed)
+- **Estado general:** 11 videos integrados (HOW-001 a HOW-010 + DH-001)
+
+### Notas
+Primera integración segundo cultivador (Doña Huana). Experimento pluralidad conocimiento exitoso: conocimiento complementario sin conflictos detectados. Sección crítica vacía (pH) ahora completa con protocolo detallado calibración + timing + contextos diferenciados. Tier A mantenido (19/25). Evaluación: Credibilidad 4/5, Calidad 4/5, Consistencia 4/5, Aplicabilidad 4/5, Objetividad 3/5. Total videos procesados: 11/27 (10 Noé + 1 Doña Huana).
+
 ## [0.11.0] - 2025-11-09
 
 ### Agregado
