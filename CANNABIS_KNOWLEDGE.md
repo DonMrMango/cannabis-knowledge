@@ -105,6 +105,107 @@ Cada vez que proceses nueva información, sigue este protocolo:
 - Status: Pendiente validación comunitaria
 ```
 
+### 🎖️ Protocolo de Evaluación de Fuentes
+
+**Toda fuente debe ser evaluada antes de integración.** Aplicar criterios objetivos:
+
+#### Criterios de Evaluación (Escala 1-5)
+
+**1. Credibilidad del Autor/Experto**
+- ⭐⭐⭐⭐⭐ Científico/investigador con publicaciones peer-reviewed
+- ⭐⭐⭐⭐ Cultivador profesional con años experiencia documentada
+- ⭐⭐⭐ Cultivador experimentado con historial público
+- ⭐⭐ Cultivador aficionado con experiencia limitada
+- ⭐ Anónimo o sin credenciales verificables
+
+**2. Calidad del Contenido**
+- ⭐⭐⭐⭐⭐ Datos cuantitativos + razonamiento científico + evidencia reproducible
+- ⭐⭐⭐⭐ Explicaciones técnicas detalladas + casos prácticos documentados
+- ⭐⭐⭐ Instrucciones claras con contexto aplicable
+- ⭐⭐ Información general sin profundidad técnica
+- ⭐ Afirmaciones vagas sin soporte
+
+**3. Consistencia Interna y Externa**
+- ⭐⭐⭐⭐⭐ Coherencia total + validado por múltiples fuentes independientes
+- ⭐⭐⭐⭐ Coherente internamente + alineado con consenso comunitario
+- ⭐⭐⭐ Coherente pero sin validación cruzada
+- ⭐⭐ Algunas inconsistencias menores
+- ⭐ Contradice conocimiento establecido sin justificación
+
+**4. Aplicabilidad y Reproducibilidad**
+- ⭐⭐⭐⭐⭐ Protocolo detallado reproducible + variables definidas + contexto completo
+- ⭐⭐⭐⭐ Instrucciones claras con consideración de variables
+- ⭐⭐⭐ Aplicable pero requiere adaptación contextual
+- ⭐⭐ Falta información crítica para replicar
+- ⭐ No reproducible o peligrosamente ambiguo
+
+**5. Objetividad y Transparencia**
+- ⭐⭐⭐⭐⭐ Reconoce limitaciones + presenta alternativas + transparente sobre sesgos
+- ⭐⭐⭐⭐ Presenta múltiples opciones con pros/contras
+- ⭐⭐⭐ Objetivo pero limitado a experiencia personal
+- ⭐⭐ Posible sesgo comercial no declarado
+- ⭐ Promoción clara sin transparencia
+
+#### Clasificación Final (Tiers)
+
+**Tier S (23-25 puntos):** Literatura científica peer-reviewed, estudios controlados
+- 🔬 Flag: Respaldado por ciencia
+- Peso: 100% - Prioridad máxima integración
+- Ejemplo: Journals como Cannabis & Cannabinoid Research
+
+**Tier A (18-22 puntos):** Expertos reconocidos industria, cultivadores profesionales documentados
+- 👤 Flag: Experiencia documentada validada
+- Peso: 80% - Alta confiabilidad
+- Ejemplo: Cultivadores con años experiencia + casos documentados + consistencia
+
+**Tier B (13-17 puntos):** Conocimiento útil pero requiere validación cruzada
+- 🔄 Flag: Requiere confirmación adicional
+- Peso: 50% - Integrar con precaución, buscar corroboración
+- Ejemplo: Cultivadores hobbyistas con experiencia limitada
+
+**Tier C (8-12 puntos):** Anecdótico, usar solo como punto de partida
+- ⚠️ Flag: Anecdótico - precaución
+- Peso: 20% - No integrar sin validación externa
+- Ejemplo: Posts forum sin contexto, experiencias aisladas
+
+**Tier D (1-7 puntos):** No confiable, no integrar
+- ❌ Flag: Rechazado
+- Peso: 0% - No integrar
+- Ejemplo: Fuentes contradictorias sin fundamento, broscience
+
+#### Flags Adicionales
+
+Aplicar según corresponda:
+- 🌍 **Validado comunidad:** Práctica estándar confirmada múltiples fuentes
+- 💰 **Sesgo comercial:** Menciona productos/marcas específicas
+- ⚠️ **Contexto específico:** Solo aplica en condiciones particulares (clima, método, etc.)
+- 📅 **Temporalidad:** Información sensible a época/tecnología
+- 🔗 **Cross-validated:** Confirmado por fuentes Tier A+ independientes
+
+#### Proceso de Registro
+
+Al integrar fuente:
+1. Evaluar según criterios arriba
+2. Calcular score total (suma de 5 criterios)
+3. Asignar Tier correspondiente
+4. Agregar flags aplicables
+5. Documentar en `sources/references.md` con evaluación
+6. Ponderar conocimiento según Tier en caso de conflictos
+
+#### Ejemplo de Evaluación
+
+```markdown
+**[HOW-001]** Noé (House of Weed)
+- Credibilidad: ⭐⭐⭐⭐ (cultivador profesional, contenido educativo años)
+- Calidad: ⭐⭐⭐⭐ (explicaciones técnicas + casos prácticos)
+- Consistencia: ⭐⭐⭐⭐ (coherente + alineado consenso)
+- Aplicabilidad: ⭐⭐⭐⭐ (reproducible con contexto)
+- Objetividad: ⭐⭐⭐ (presenta alternativas, menciona BioBizz)
+- **Total: 19/25 → Tier A**
+- **Flags:** 👤 🌍 💰 ⚠️
+- **Peso:** 80%
+```
+
 ### 🎚️ Umbrales y Límites
 
 - **Sin umbral de información por categoría** - Conocimiento ilimitado

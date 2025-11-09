@@ -17,10 +17,26 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ## Fuentes Integradas
 
+### Noé - House of Weed (Canal YouTube)
+
+**Evaluación General del Experto:**
+- Credibilidad: ⭐⭐⭐⭐ (cultivador profesional, años experiencia, contenido educativo consistente)
+- Calidad: ⭐⭐⭐⭐ (explicaciones técnicas detalladas + casos prácticos documentados + razonamiento claro)
+- Consistencia: ⭐⭐⭐⭐ (coherencia entre 3 videos, alineado con consenso comunitario)
+- Aplicabilidad: ⭐⭐⭐⭐ (instrucciones reproducibles con contexto, variables consideradas)
+- Objetividad: ⭐⭐⭐ (presenta alternativas, transparente sobre método, menciona marcas específicas BioBizz)
+- **Total: 19/25 → Tier A**
+- **Clasificación:** Alta confiabilidad (80% peso)
+- **Flags:** 👤 Experiencia documentada | 🌍 Validado comunidad | 💰 Sesgo comercial (BioBizz) | ⚠️ Contexto outdoor temperado
+
+---
+
 **[HOW-001]** Noé (House of Weed) - "Guía de Cultivo en Exterior | Primeros pasos" (2024)
 - Tipo: Video (transcripción)
 - Expertise: Cultivador profesional, creador de contenido educativo cannabis
 - Verificado: 2025-11-08 por damo
+- **Tier:** A (19/25)
+- **Flags:** 👤 🌍 💰 ⚠️
 - Nivel de consenso: Alto (prácticas estándar cultivadores experimentados)
 - Temas: Timing hemisférico, feminizadas vs automáticas, germinación, sustratos, fertilización básica, trasplantes, podas, LST
 - Ubicación: `/sources/fuentes/videos/house_of_weed/Guía de Cultivo en Exterior | Primeros pasos`
@@ -29,6 +45,8 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Tipo: Video (transcripción) - Caso de estudio: Durban Poison
 - Expertise: Cultivador profesional, creador de contenido educativo cannabis
 - Verificado: 2025-11-08 por damo
+- **Tier:** A (19/25)
+- **Flags:** 👤 🌍 💰 ⚠️
 - Nivel de consenso: Alto (prácticas estándar + experiencia directa documentada)
 - Temas: Ciclo completo semilla-cogollo, germinación vaso agua, trasplantes progresivos (0.5L→11L→20L), fertilización semana 3, sustratos Light/All Mix, poda de bajos, control plagas preventivo (neem+jabón potásico), orugas
 - Caso específico: Durban Poison (sativa, Sudáfrica, +1.10m, cultivo óptimo)
@@ -38,6 +56,8 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Tipo: Video (transcripción) - Guía técnica especializada
 - Expertise: Cultivador profesional, creador de contenido educativo cannabis
 - Verificado: 2025-11-08 por damo
+- **Tier:** A (20/25) - +1 objetividad por protocolo universal sin menciones comerciales
+- **Flags:** 👤 🌍 🔗
 - Nivel de consenso: Alto (técnica fundamental validada por comunidad)
 - Temas: Volumen riego (fórmula 1/4 maceta), técnica aplicación gradual, timing por peso maceta (50-60% pérdida), importancia crítica riego, consecuencias riego incorrecto, factor temperatura
 - Enfoque: Protocolo definitivo riego para cultivadores todos niveles

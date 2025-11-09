@@ -5,6 +5,26 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.5.0] - 2025-11-08
+
+### Agregado
+- **Protocolo de Evaluación de Fuentes:** Sistema formal integrado al meta-prompt
+  - 5 criterios evaluación (escala 1-5): Credibilidad, Calidad, Consistencia, Aplicabilidad, Objetividad
+  - Sistema Tiers (S/A/B/C/D) con ponderación
+  - Flags: 🔬 👤 🌍 💰 ⚠️ 📅 🔗
+  - Proceso de registro estructurado
+- **Evaluación formal Noé (House of Weed):**
+  - Tier A (19-20/25) - Alta confiabilidad 80% peso
+  - Flags: 👤 🌍 💰 ⚠️
+  - Evaluación por video documentada
+
+### Cambiado
+- Meta-prompt actualizado con protocolo evaluación fuentes
+- sources/references.md reestructurado con evaluaciones formales
+
+### Notas
+Sistema de evaluación objetiva implementado. Permite ponderar conocimiento en conflictos y mantener integridad knowledge base.
+
 ## [0.4.0] - 2025-11-08
 
 ### Agregado
