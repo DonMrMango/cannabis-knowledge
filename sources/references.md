@@ -187,6 +187,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=71
 - **Nota:** Primera fuente Doña Huana integrada. Conocimiento complementario Noé (sin conflictos). Sección 25 (pH) COMPLETADA.
 
+**[DH-002]** Doña Huana - "¿COMO ARMAR UN INDOOR? PASO A PASO" (2024)
+- Tipo: Video (transcripción) - Tutorial setup indoor completo principiantes
+- Expertise: Cultivador experimentado, creador contenido educativo principiantes
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (21/25) - +1 calidad por guía paso a paso exhaustiva orientada principiantes sin habilidades manuales/eléctricas + +1 aplicabilidad por reproducibilidad extrema (advertencias prácticas específicas: golpear caños, tensar lona, corriente alterna polaridad indistinta)
+- **Flags:** 👤 🌍 🔗 🎓
+- Nivel de consenso: Alto (procedimientos setup indoor estándar validados comunidad)
+- Temas: Armado estructura grow tent (varillas cortas/largas, uniones trípode 2 iguales + 1 vertical, travesaños, secuencia base→techo→verticales), instalación lona (orientación cierre abajo, comenzar abajo→arriba, tensar, golpear caños si muy tensa, abrojos rigidez), sistema eléctrico básico DIY (materiales: zapatilla, enchufe macho, cable bipolar 5m, cinta aisladora CRÍTICO, zapatilla posición arriba accesible/segura), iluminación poleas (colgar travesaño, refuerzo opcional, ajuste altura, conexión lámpara→timer→zapatilla), cableado extractores serie (1 extractor: pelar puntas bipolar→unir extractor, 2 extractores: serie cortando cable entre ambos, corriente alterna polaridad indistinta simplifica principiantes), programación timer mecánico 24h (vegetativo 18/6: bajar pestañas 0-18 luz ON, levantar 18-24 luz OFF, ajustar hora dial)
+- Enfoque: Tutorial completo setup indoor básico orientado cultivadores SIN experiencia manual/eléctrica con procedimientos secuenciales simples + advertencias prácticas específicas + principios seguridad
+- Video ID: 7dRjPJ6vwF0
+- URL: https://www.youtube.com/watch?v=7dRjPJ6vwF0
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=68
+- **Nota:** Segunda fuente Doña Huana. Sección 11 (Indoor) COMPLETADA (primera integración). Setup básico completo: estructura + eléctrico + iluminación + extracción + timer.
+
 ---
 
 ## Fuentes Pendientes de Integración

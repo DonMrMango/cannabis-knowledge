@@ -5,6 +5,25 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.13.0] - 2025-11-09
+
+### Agregado
+- **[DH-002]** Segunda integración Doña Huana: "¿Cómo Armar un Indoor? Paso a Paso"
+- **Sección 11 (Indoor):** ✅ COMPLETADA - Primera integración
+  - **Estructura grow tent:** armado esqueleto (varillas cortas base/techo + largas verticales, uniones trípode 2 iguales + 1 vertical, travesaños), instalación lona (orientación cierre abajo, comenzar abajo→arriba, tensar, golpear caños si muy tensa, abrojos rigidez)
+  - **Sistema eléctrico básico DIY:** materiales necesarios sin pre-cableado (zapatilla, enchufe macho, cable bipolar 5m, cinta aisladora CRÍTICO), zapatilla posición arriba accesible/segura
+  - **Iluminación poleas:** colgado lámpara travesaño, refuerzo opcional, ajuste altura, conexión lámpara→timer→zapatilla
+  - **Extracción serie:** 1 extractor (pelar bipolar→unir extractor, corriente alterna polaridad indistinta), 2 extractores (serie cortando cable entre ambos)
+  - **Timer mecánico:** programación 18/6 vegetativo (bajar pestañas 0-18 luz ON, levantar 18-24 luz OFF, ajustar hora dial)
+  - **Principios:** accesibilidad principiantes sin habilidades manuales/eléctricas, seguridad eléctrica (cinta aisladora, corriente alterna simplifica), ajustabilidad (poleas altura, timer fotoperíodo)
+
+### Cambiado
+- **Sección 11:** de "Vacío" a "COMPLETADA - Setup básico completo"
+- **Estado general:** 12 videos integrados (HOW-001 a HOW-010 + DH-001 a DH-002)
+
+### Notas
+Segunda integración Doña Huana. Sección Indoor COMPLETADA con setup básico completo: estructura grow tent + sistema eléctrico + iluminación + extracción + timer. Tier A (21/25) por +1 calidad guía paso a paso exhaustiva orientada principiantes + +1 aplicabilidad reproducibilidad extrema con advertencias prácticas específicas. Flag 🎓 didáctico añadido. Total videos procesados: 12/90 (10 Noé + 2 Doña Huana).
+
 ## [0.12.0] - 2025-11-09
 
 ### Agregado
