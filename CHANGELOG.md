@@ -5,6 +5,30 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.26.0] - 2025-11-09
+
+### Agregado
+- **[DH-012]** Duodécima integración Doña Huana: "¿Cuándo y Cómo Regar?" - Riego protocolo completo práctica + coordinación fertilización
+- **Sección 28 (Riego):** EXPANDIDA masivamente con protocolos prácticos complementan HOW-003 profesional
+  - **Test dedo método low-tech cuándo regar:** insertar 5-7cm húmedo→esperar seco→regar "antes recontraseco planta muerta" accesible sin equipamiento válido principiantes LIMITACIÓN subjetivo menos preciso peso maceta HOW-003
+  - **Volumen riego ratio alternativo:** 1-1.5L/L sustrato hasta runoff "cuando llueve plantas gigantes" complementa HOW-003 1/4 volumen método ADVERTENCIA "NO todos días gotita" LIMITACIÓN NO % runoff 10-20
+  - **Ciclo húmedo-seco fundamento:** riego profundo→esperar secado completo→repetir variable 2-7+ días NO calendario fijo oxigenación raíces prevención pudrición LIMITACIÓN NO diferencias veg vs flora
+  - **Técnica aplicación correcta detallada:** regadera roseta perímetro lenta ADVERTENCIAS NO salpicar follaje hongos NO chorro directo erosión NO baldazo "agua camino rápido sin humedecer" pedagogía negativa útil
+  - **Drenaje maceta-plato sistema:** problema directo→agua estancada→asfixia radicular solución elevar piedras/espaciadores tierra porosa "NO arcilla"
+  - **Coordinación fertilización riego CRÍTICA:** "una vez semana = MÍNIMO" timing real 7-10+ días según secado NO fertilizar sustrato húmedo desperdicio+overfert subordinar calendario
+  - **Riego tierra madre exterior avanzado:** perímetro extenso 1-1.5m ocasional alrededores NO centro raíces lateral vs vertical expansión
+
+### Cambiado
+- **Sección 28:** de "✅ Completo - Protocolos definitivos [HOW-003]" a "✅ EXPANDIDO - Protocolos profesionales + práctica completa [HOW-003, DH-012]"
+- **Estado general:** 25 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-012)
+- **Distribución Tiers:** 1 TIER S (4.0%) + 18 TIER A (72.0%) + 6 TIER B (24.0%) = 25 fuentes totales
+- **Videos procesados:** 25/90 (27.8%) = 13 House of Weed + 12 Doña Huana
+
+### Notas
+Duodécima Doña Huana. **SEXTA FUENTE TIER B** (DH-006/008/009/010/011 previos). Tier B (16/25) por -3 Credibilidad lenguaje coloquial extremo falta parámetros profesionales -4 Calidad cobertura completa práctica PERO % runoff diferencias veg/flora -4 Consistencia coherente -3 Aplicabilidad principiantes excelente avanzados necesitan profesional -2 Objetividad coloquial falta científico. Contenido VALIOSO: test dedo low-tech sin equipamiento, ratio 1-1.5L/L completa HOW-003, coordinación fertilización riego CRÍTICA evitar desperdicio error común, técnica aplicación pedagogía negativa (baldazo, manguera) NO otras fuentes, drenaje plato elevado prevención pudrición, tierra madre exterior riego lateral radicular. COMPLEMENTA HOW-003 peso maceta profesional VS test dedo principiante + runoff ratio VS 1/4 volumen + pedagogía negativa. Cross-ref Sección 28 Riego HOW-003. Total: 25/90 (13 Noé + 12 DH).
+
+---
+
 ## [0.25.0] - 2025-11-09
 
 ### Agregado
