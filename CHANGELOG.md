@@ -5,6 +5,23 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.3.0] - 2025-11-08
+
+### Agregado
+- **[HOW-002]** Segunda fuente integrada: House of Weed - "De SEMILLA a COGOLLO: Cultivo desde 0"
+- Caso de estudio: Durban Poison (sativa, Sudáfrica, ciclo completo documentado)
+- Sección 1 (Genética): Caso estudio Durban Poison
+- Sección 2 (Germinación): Método vaso de agua
+- Sección 3 (Plántula): Sistema vaso 0.5L, indicador 5to nudo
+- Sección 4 (Vegetativa): Timing semana 3, sustrato Light Mix
+- Sección 6 (Floración): Fertilizante boost, trasplante 20L pre-floración
+- Sección 16 (Tierra): Secuencia trasplantes detallada (0.5L→11L→20L), razones sistema progresivo
+- Sección 28 (Poda): Poda de bajos (lollipopping) universal
+- Sección 32 (Plagas): Prevención neem+jabón potásico, control orugas
+
+### Notas
+Segunda integración completa ciclo cultivo. Conocimiento consolidado con múltiples fuentes en secciones clave.
+
 ## [0.2.0] - 2025-11-08
 
 ### Agregado

@@ -182,8 +182,19 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🧬 1. GENÉTICA Y SELECCIÓN DE CEPAS
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ⚡ Primera integración + caso estudio
+> **Fuentes:** [HOW-001], [HOW-002]
+
+### Casos de Estudio - Variedades Específicas
+
+**Durban Poison:** [HOW-002]
+- Tipo: sativa pura
+- Origen: Sudáfrica
+- Alias: "El expreso de la marihuana" (efecto energizante)
+- Altura outdoor: +1.10m
+- Rendimiento: cultivo "bastante óptimo"
+- Resistencia: sin deficiencias ni excesos nutrientes (caso reportado)
+- Plagas: orugas leves (controlables)
 
 ### Tipos Genéticos - Características
 
@@ -214,8 +225,15 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🌱 2. GERMINACIÓN
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ⚡ Métodos consolidados
+> **Fuentes:** [HOW-001], [HOW-002]
+
+### Método Vaso de Agua
+
+**Proceso:** [HOW-002]
+- Vaso + agua + semillas
+- Evaluación: "Método más efectivo y fácil" (Noé)
+- Recomendado para principiantes
 
 ### Método Papel Toalla
 
@@ -227,11 +245,16 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ### Post-Germinación
 
-**Protección inicial:** [HOW-001]
+**Primera maceta:** [HOW-001] [HOW-002]
 - Contenedor: vaso 0.5L
 - Ubicación: indoor con luz solar indirecta
 - ⚠️ EVITAR: sol directo | viento fuerte | temperatura excesiva
 - Motivo: plántulas MUY delicadas primeras etapas
+
+**Protección raíces:** [HOW-002]
+- Vaso transparente + papel opaco exterior
+- Objetivo: evitar luz directa en raíces
+- Luz en raíces→afecta desarrollo
 
 **Transición gradual:** [HOW-001]
 - Indoor → Semi-outdoor → Outdoor completo
@@ -241,30 +264,49 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🌿 3. FASE PLÁNTULA (SEEDLING)
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-002]
 > **Prioridad:** Alta
 
-**Contenido esperado:**
-- Duración fase
-- Requerimientos lumínicos
+### Cultivo en Vaso Inicial (0.5L)
+
+**Objetivos sistema vaso:** [HOW-002]
+- Desarrollo raíces controlado antes maceta grande
+- Movilidad: fácil reubicación para optimizar luz/sol
+- Monitoreo: revisión sencilla del desarrollo
+- Protección: ambiente controlable
+
+**Indicador trasplante:** [HOW-002]
+- 5to nudo desarrollado = raíces suficientes
+- Sistema raíces robusto para siguiente maceta
+
+**Contenido esperado (pendiente más fuentes):**
+- Duración fase específica
+- Requerimientos lumínicos detallados
 - Primeros riegos
-- Transplantes iniciales
 - Identificación de problemas tempranos
 
 ---
 
 ## 🪴 4. FASE VEGETATIVA
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ⚡ Protocolos consolidados
+> **Fuentes:** [HOW-001], [HOW-002]
 > **Prioridad:** Alta
 
 ### Fertilización - Inicio
 
-**Timing:** [HOW-001]
-- Inicio: 10-15cm altura de planta
+**Timing por métrica:** [HOW-001] [HOW-002]
+- Por tiempo: semana 3 [HOW-002]
+- Por altura: 10-15cm de planta [HOW-001]
 - Dosis inicial: 2ml/L fertilizante vegetativo
 - Tipo: alto nitrógeno (N)
+
+### Sustrato
+
+**Light Mix (sin fertilizante):** [HOW-002]
+- Uso: todo el período vegetativo
+- Requiere fertilización externa desde semana 3
 
 **Contenido esperado (pendiente más fuentes):**
 - Duración típica por tipo genético
@@ -291,13 +333,29 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🌸 6. FLORACIÓN
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-002]
 > **Prioridad:** Alta
 
-**Contenido esperado:**
+### Fertilización
+
+**Cambio de nutrientes:** [HOW-002]
+- Fertilizante floración (alto P-K)
+- + Fertilizante tipo "boost"
+  - Objetivo: mayor volumen frutos
+  - Mayor resina
+  - Mejor sabor
+
+### Trasplante Pre-Floración
+
+**Timing:** [HOW-002]
+- 2 semanas antes entrada floración
+- Maceta final: 20L
+- Sustrato: All Mix (pre-fertilizado)
+
+**Contenido esperado (pendiente más fuentes):**
 - Ciclo luz 12/12 (photoperiod)
 - Espectro lumínico (rojo/naranja)
-- NPK específico floración
 - Semanas por tipo genético
 - Desarrollo de tricomas
 - Problemas específicos de floración
@@ -411,18 +469,18 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🌍 16. CULTIVO EN TIERRA
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ⚡ Protocolos consolidados
+> **Fuentes:** [HOW-001], [HOW-002]
 > **Prioridad:** Alta
 
 ### Sustratos Comerciales
 
-**BioBizz Light Mix:** [HOW-001]
-- Uso: primeras fases crecimiento
-- Pre-fertilizado: mínimo | Requiere fertilización temprana
+**BioBizz Light Mix:** [HOW-001] [HOW-002]
+- Uso: primeras fases crecimiento | Todo período vegetativo
+- Pre-fertilizado: mínimo | Requiere fertilización temprana (semana 3)
 
-**BioBizz All Mix:** [HOW-001]
-- Uso: floración
+**BioBizz All Mix:** [HOW-001] [HOW-002]
+- Uso: floración | Trasplante final
 - Pre-fertilizado: completo | Esperar agotamiento antes fertilizar
 
 ### Sustrato DIY (Casero)
@@ -434,9 +492,17 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ### Trasplantes
 
-**Feminizadas:** [HOW-001]
-- 2-3 trasplantes durante ciclo
-- Secuencia típica: 0.5L → 3-5L → 11L → maceta final
+**Secuencia detallada (Feminizadas):** [HOW-001] [HOW-002]
+- 0.5L (vaso inicial): hasta 5to nudo
+- 11L (vegetativo): desarrollo vegetativo
+- 20L (pre-floración): 2 semanas antes floración
+- Sustrato final: All Mix
+
+**Razones sistema progresivo:** [HOW-002]
+- Desarrollo raíces óptimo por etapa
+- Movilidad planta joven (optimizar luz/ubicación)
+- Monitoreo fácil primeras fases
+- Prevención problemas raíces
 
 **Automáticas:** [HOW-001]
 - ⚠️ EVITAR trasplantes | Sensibles estrés
@@ -570,21 +636,32 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## ✂️ 28. PODA Y DEFOLIACIÓN
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ⚡ Técnicas consolidadas
+> **Fuentes:** [HOW-001], [HOW-002]
 > **Prioridad:** Media-Alta
+
+### Poda de Bajos (Lollipopping)
+
+**Técnica universal:** [HOW-002]
+- Cortar ramas más cercanas al sustrato
+- Objetivos:
+  - EVITAR contacto hojas/ramas con suelo
+  - Prevenir subida de plagas
+  - Ramas bajas = menor desarrollo (optimizar energía)
+- Aplicable: todas las variedades
 
 ### Por Tipo de Genética
 
 **Feminizadas (Fotoperiodo):** [HOW-001]
 - Podas permitidas y recomendadas
-- Tipos: apical (topping) | FIM
+- Tipos: apical (topping) | FIM | Bajos
 - Objetivo: control altura | ramificación | producción
 
 **Automáticas:** [HOW-001]
-- ⚠️ EVITAR podas | Altamente sensibles estrés
-- Ciclo corto (~3 meses)→sin tiempo recuperación
-- Alternativa: usar LST (Low Stress Training)
+- ⚠️ EVITAR podas apicales/FIM | Altamente sensibles estrés
+- ✅ Poda de bajos: permitida [HOW-002]
+- Ciclo corto (~3 meses)→sin tiempo recuperación podas fuertes
+- Alternativa podas: usar LST (Low Stress Training)
 
 ---
 
@@ -624,18 +701,39 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🐛 32. PLAGAS
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-002]
 > **Prioridad:** Alta
 
-**Contenido esperado:**
+### Prevención
+
+**Productos preventivos:** [HOW-002]
+- Aceite de neem
+- Jabón potásico
+- Aplicación: regular/preventiva
+- Resultado: "No hemos tenido ningún problema" (Noé)
+
+### Orugas
+
+**Características:** [HOW-002]
+- Ubicación típica: debajo de hojas
+- Método detección: revisión constante manual
+- Control: remoción manual
+- Factor riesgo aumentado: lluvia | llovizna | mayor humedad
+
+**Protocolo:** [HOW-002]
+- Revisiones: frecuentes y minuciosas
+- Especialmente crítico: después lluvia/humedad
+- Ser "minucioso cuidando plantas"
+
+**Contenido esperado (pendiente más fuentes):**
 - Araña roja
 - Trips
 - Mosca blanca
 - Pulgones
 - Minadores
 - Caracoles/babosas
-- Prevención y tratamiento por plaga
-- Pesticidas orgánicos vs químicos
+- Tratamientos específicos por plaga
 
 ---
 

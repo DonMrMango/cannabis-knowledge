@@ -25,6 +25,15 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Temas: Timing hemisférico, feminizadas vs automáticas, germinación, sustratos, fertilización básica, trasplantes, podas, LST
 - Ubicación: `/sources/fuentes/videos/house_of_weed/Guía de Cultivo en Exterior | Primeros pasos`
 
+**[HOW-002]** Noé (House of Weed) - "De SEMILLA a COGOLLO: Cultivo desde 0" (2024)
+- Tipo: Video (transcripción) - Caso de estudio: Durban Poison
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-08 por damo
+- Nivel de consenso: Alto (prácticas estándar + experiencia directa documentada)
+- Temas: Ciclo completo semilla-cogollo, germinación vaso agua, trasplantes progresivos (0.5L→11L→20L), fertilización semana 3, sustratos Light/All Mix, poda de bajos, control plagas preventivo (neem+jabón potásico), orugas
+- Caso específico: Durban Poison (sativa, Sudáfrica, +1.10m, cultivo óptimo)
+- Ubicación: `/sources/fuentes/videos/house_of_weed/De SEMILLA a COGOLLO: Cultivo desde 0`
+
 ---
 
 ## Fuentes Pendientes de Integración
