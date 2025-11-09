@@ -5,6 +5,28 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.25.0] - 2025-11-09
+
+### Agregado
+- **[DH-011]** Undécima integración Doña Huana: "Cómo Hacer Esquejes" - Clonación protocolo completo práctica + revegetación clones floración
+- **Sección 31 (Clonación):** COMPLETADA primera fuente protocolo completo 6 pasos
+  - **Procedimiento 6 pasos:** defoliación→ajuste largo→pelado tallo opcional→hormona OBLIGATORIA→inserción medio→riego inicial único
+  - **Riego inicial único CRÍTICO:** "primera y última vez regar hasta raíces" sustrato húmedo exceso→pudrición post-riego humedad pulverización NO riego directo
+  - **Pulverización 1-2x/día+dome:** técnica correcta bien explicada mantenimiento humedad constante
+  - **Revegetación clones floración:** info práctica valiosa posible 3-4sem vs 1-2sem vegetativa señales verde claro+brotes nuevos timing completo 4-5sem
+  - **Timing enraizamiento:** vegetativa 1-2sem | floración 3-4sem revegetación
+
+### Cambiado
+- **Sección 31:** de "Vacío" a "✅ COMPLETADA - Protocolo completo práctica + revegetación clones floración"
+- **Estado general:** 24 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-011)
+- **Distribución Tiers:** 1 TIER S (4.2%) + 18 TIER A (75.0%) + 5 TIER B (20.8%) = 24 fuentes totales
+- **Videos procesados:** 24/90 (26.7%) = 13 House of Weed + 11 Doña Huana
+
+### Notas
+Undécima Doña Huana. **QUINTA FUENTE TIER B** (DH-006/008/009/010 previos). Tier B (16/25) por -3 Credibilidad falta datos cuantitativos -2 Calidad falta parámetros críticos -3 Aplicabilidad NO reproducible profesionalmente riesgo alto fallo. Contenido VALIOSO: pulverización+dome correcto, riego único vs pulverización diferencia CRÍTICA error común pudrición, revegetación clones flora práctica (3-4sem señales), procedimiento 6 pasos reproducible, actitud "no tiene ciencia" desmitifica. Requiere complementar parámetros (20-25°C, 80-90%HR, esterilización, medios). Lenguaje coloquial extremo. Cross-ref Sección 30 DH-009. Total: 24/90 (13 Noé + 11 DH).
+
+---
+
 ## [0.24.0] - 2025-11-09
 
 ### Agregado
