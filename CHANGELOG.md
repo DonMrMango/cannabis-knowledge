@@ -5,6 +5,29 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.22.0] - 2025-11-09
+
+### Agregado
+- **[DH-008]** Octava integración Doña Huana: "Plagas y Preventivos" - Lista productos prevención + filosofía prevención proactiva + mecánicas biológicas
+- **Sección 33 (Plagas):** EXPANDIDA con 3 subsecciones nuevas prevención raíces + mecánicas biológicas + protocolo integrado
+  - **Filosofía prevención error común:** problema reactividad esperar problemas→tarde (planta floración avanzada + plaga/hongo = solución difícil/imposible "Ya es tarde, querido") vs prevención proactiva (aplicación preventivos ANTES problemas inicio vegetativo ciclo completo resultado "No vas a tener nunca más problemas")
+  - **Preventivos raíces hongos beneficiosos (PRIMERA INTEGRACIÓN DETALLADA PROYECTO):**
+    Trichoderma (simbiosis bioestimulante radicular + ataque activo hongos patógenos Botrytis/Fusarium CRÍTICO aplicar ANTES infección planta acogollada + Fusarium = muerte 2 semanas) | Micorrizas (extensión red radicular captación agua+nutrientes área mayor bioestimulante absorción) | aplicación ÚNICA inicio cultivo colonización permanente | sinergia combinar ambos protección completa raíces
+  - **Preventivos foliares mecánicas biológicas detalladas:**
+    Jabón potásico (asfixia mecánica cubre insectos blandos bloquea respiración NO tóxico) | Neem/Canela (aceites naturales disrupción hormonal inhibición alimentación+apareamiento+oviposición población colapsa generaciones) | Purín ortiga (repelente natural insectos NO acercarse + bioestimulante foliar relacionado Sección 23 KNF/JWA) | Cola caballo (sílice fortalecimiento pared celular hongos NO penetran tejido prevención oidio/mildew efecto preventivo NO curativo relacionado Sección 30+34) | Tierra diatomeas (algas fosilizadas filosas corte exoesqueleto deshidratación muerte barrera física mecánica NO resistencia posible alternativas dolomita/vermiculita/silicio)
+  - **Protocolo prevención integrada frecuencia rotación:**
+    Frecuencia base cada 15 días inicio vegetativo temprano continuidad pre-cosecha | estrategia rotación productos (evitar resistencia cobertura amplia secuencia sugerida jabón→neem→canela→purín→cola caballo ciclo) | productos raíces timing diferente (Trichoderma+Micorrizas aplicación ÚNICA inicio NO reaplicación) | tierra diatomeas barrera constante (inicial preparación sustrato reposición según necesidad lluvia/viento)
+
+### Cambiado
+- **Sección 33:** de "Completo - Guía integral plagas comunes" a "EXPANDIDA - Prevención raíces (Trichoderma/Micorrizas) + mecánicas biológicas productos + filosofía prevención"
+- **Fuentes Sección 33:** [HOW-002], [HOW-005] → + [DH-008]
+- **Estado general:** 21 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-008)
+- **Distribución Tiers:** 1 TIER S (4.8%) + 18 TIER A (85.7%) + 2 TIER B (9.5%) = 21 fuentes totales
+- **Videos procesados:** 21/90 (23.3%) = 13 House of Weed + 8 Doña Huana
+
+### Notas
+Octava Doña Huana. **SEGUNDA FUENTE TIER B** proyecto (DH-006 fue primera). Tier B (14/25) justificado por -3 Credibilidad video corto falta profundidad -2 Calidad superficialidad extrema sin protocolos reproducibles -2 Aplicabilidad NO reproducible sin investigación adicional (falta dosis/diluciones/frecuencias/modo aplicación específicos). Contenido VALIOSO como referencia inicial productos preventivos consensuados comunidad (Trichoderma/Micorrizas/jabón potásico/neem/canela/purín ortiga/cola caballo/tierra diatomeas) PERO requiere complementar HOW-005 protocolos detallados aplicación. **PRIMERA FUENTE PROYECTO** detallando Trichoderma+Micorrizas protección radicular hongos patógenos (Botrytis/Fusarium). Mecánicas biológicas productos (asfixia jabón potásico, disrupción hormonal neem/canela, sílice cola caballo fortalecimiento celular) simplificadas pero útiles comprensión básica funcionamiento. Filosofía prevención proactiva vs reactividad error común cultivadores ("tarde querido") valiosa cambio mentalidad preventiva. Cross-reference Sección 30 Training (Trichoderma HOW-004), Sección 34 Enfermedades Hongos, Sección 23 KNF/JWA (purín ortiga). Total procesados: 21/90 (13 Noé + 8 Doña Huana).
+
 ## [0.21.0] - 2025-11-09
 
 ### Agregado

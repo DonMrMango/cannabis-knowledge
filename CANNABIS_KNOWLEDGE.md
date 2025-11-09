@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.21.0
+**Versión:** 0.22.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 20 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-007)
+**Estado:** En desarrollo activo - 21 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-008)
 
 ---
 
@@ -2757,8 +2757,8 @@ Acción futura: mantener dosis actual
 
 ## 🐛 33. PLAGAS
 
-> **Estado actual:** ✅ Completo - Guía integral plagas comunes
-> **Fuentes:** [HOW-002], [HOW-005]
+> **Estado actual:** ✅ EXPANDIDA - Prevención raíces (Trichoderma/Micorrizas) + mecánicas biológicas productos + filosofía prevención
+> **Fuentes:** [HOW-002], [HOW-005], [DH-008]
 > **Prioridad:** Crítica cumplida
 
 ### Causas Raíz Aparición Plagas
@@ -2888,6 +2888,123 @@ Acción futura: mantener dosis actual
 - Limpiar carpa regularmente
 - Remover hojas caídas
 - Limpiar polvo implementos
+
+### Filosofía Prevención - Error Común Cultivadores
+
+**Problema reactividad:** [DH-008]
+- Error típico: esperar problemas visibles → reaccionar tarde
+- Escenario fallido: planta floración avanzada + plaga/hongo aparece = solución difícil/imposible
+- Consecuencia: "¿Qué puedo hacer?" → "Ya es tarde, querido, ya es tarde"
+- Momento crítico: floración = vulnerable, difícil aplicar productos agresivos
+
+**Estrategia correcta prevención proactiva:** [DH-008]
+- Aplicación preventivos **ANTES** problemas aparezcan
+- Inicio vegetativo: protección temprana
+- Continuidad: aplicaciones regulares ciclo completo
+- Resultado: "No vas a tener nunca más problemas" (si prevención correcta)
+
+### Preventivos Raíces - Hongos Beneficiosos
+
+**Trichoderma (Hongo Antagonista):** [DH-008]
+- Tipo: hongo beneficioso simbiosis raíz-planta
+- Mecanismo: intercambio nutricional bidireccional planta↔hongo
+- Función 1: bioestimulante crecimiento radicular
+- Función 2: protección contra hongos patógenos (Botrytis, Fusarium)
+- Mecánica protección: ataque activo hongos patógenos (NO solo competencia espacial)
+- Aplicación: tierra/sustrato inicio cultivo (vegetativo temprano)
+- Efectividad: prevención alta | combate patógenos establecidos difícil
+- **CRÍTICO:** aplicar ANTES infección Fusarium (planta acogollada + Fusarium = muerte 2 semanas)
+- Relacionado: Sección 30 HOW-004 Trichoderma | Sección 34 Enfermedades
+
+**Micorrizas (Extensión Red Radicular):** [DH-008]
+- Tipo: hongo beneficioso simbiosis raíz-planta
+- Mecanismo: intercambio nutricional bidireccional
+- Función: red micorrizal extiende captación agua+nutrientes área > sistema radicular planta
+- Beneficio: bioestimulante crecimiento + mayor eficiencia absorción
+- Aplicación: tierra/sustrato inicio cultivo
+- Sinergia: combinar Trichoderma + Micorrizas protección completa raíces
+
+### Preventivos Foliares - Mecánicas Biológicas Detalladas
+
+**Jabón Potásico:** [DH-008] [HOW-005]
+- Mecanismo: asfixia mecánica
+- Funcionamiento: cubre insectos blandos (áfidos, cochinillas, mosca blanca) → bloquea respiración
+- Aplicación: cada 15 días típico (ver protocolo integrado abajo)
+- NO tóxico plantas/humanos
+
+**Neem (Aceite Azadiractina):** [DH-008] [HOW-005]
+- Mecanismo: disrupción hormonal insectos
+- Efectos hormonales:
+  1. Inhibición alimentación (insectos dejan comer)
+  2. Inhibición apareamiento (no reproducción)
+  3. Inhibición oviposición (no ponen huevos)
+- Resultado: población insectos colapsa generaciones futuras
+- Aplicación: cada 15 días
+
+**Canela (Aceites Esenciales):** [DH-008]
+- Mecanismo: aceites naturales disrupción hormonal + repelente
+- Efectos similares neem: alimentación/apareamiento/oviposición inhibidos
+- Aplicación: cada 15 días
+- Ventaja: accesible casero
+
+**Purín Ortiga:** [DH-008]
+- Mecanismo: repelente natural
+- Función: insectos NO quieren acercarse planta tratada
+- Beneficio adicional: bioestimulante foliar
+- Aplicación: cada 15 días
+- Relacionado: Sección 23 KNF/JWA preparados fermentados
+
+**Cola Caballo (Sílice Natural):** [DH-008]
+- Mecanismo: fortalecimiento pared celular vegetal
+- Funcionamiento: sílice "agranda células" (fortalece estructura celular)
+- Resultado: hongos NO penetran tejido fortalecido
+- Objetivo: prevención hongos foliares (oidio, mildew)
+- **IMPORTANTE:** efecto preventivo (NO curativo hongos establecidos)
+- Aplicación: cada 15 días
+- Relacionado: Sección 30 | Sección 34 Enfermedades Hongos
+
+**Tierra Diatomeas (Barrera Física Mecánica):** [DH-008] [HOW-005]
+- Composición: algas fosilizadas partículas microscópicas filosas
+- Alternativas similares: dolomita | vermiculita | silicio (mismo origen/función)
+- Mecanismo: corte físico exoesqueleto insectos → deshidratación → muerte
+- Aplicación:
+  - Sustrato: superficie tierra (barrera crawling insects)
+  - Follaje: espolvoreado seco (trips, ácaros)
+- Ventaja: mecánico (NO resistencia posible)
+
+### Protocolo Prevención Integrada - Frecuencia y Rotación
+
+**Frecuencia base:** [DH-008]
+- Aplicación: cada 15 días
+- Inicio: vegetativo temprano (semanas 1-2)
+- Continuidad: hasta pre-cosecha (semana final floración stop)
+
+**Estrategia rotación productos:** [DH-008]
+- Objetivo: evitar resistencia + cobertura amplia patógenos
+- Secuencia sugerida ciclo 15 días:
+  1. Semana 1-2: Jabón potásico
+  2. Semana 3-4: Neem
+  3. Semana 5-6: Canela
+  4. Semana 7-8: Purín ortiga
+  5. Semana 9-10: Cola caballo
+  6. Reiniciar ciclo
+
+**Productos raíces timing diferente:** [DH-008]
+- Trichoderma + Micorrizas: aplicación ÚNICA inicio cultivo (trasplante/germinación)
+- NO requieren reaplicación (colonización permanente ciclo completo)
+
+**Tierra diatomeas barrera constante:** [DH-008]
+- Aplicación inicial: preparación sustrato O trasplante
+- Reposición: según necesidad (lluvia lava, viento dispersa)
+- Follaje: aplicar según presión plagas
+
+**⚠️ ADVERTENCIA LIMITACIONES DH-008:** [Evaluación Tier B]
+- Video NO provee dosis específicas (ml/L, g/L, etc.)
+- Video NO provee diluciones productos
+- Video NO provee métodos aplicación detallados (foliar vs riego, pH agua, etc.)
+- Información BÁSICA lista productos + frecuencia general
+- **Acción requerida:** complementar con fuentes detalladas protocolos reproducibles (HOW-005 tiene más detalle)
+- Mecánicas biológicas simplificadas extremas (ej: "cola caballo agranda células" = NO precisión científica, en realidad fortalece paredes celulares vía sílice)
 
 ---
 
