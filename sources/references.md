@@ -17,7 +17,13 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ## Fuentes Integradas
 
-(Vacío - Se poblará con cada actualización)
+**[HOW-001]** Noé (House of Weed) - "Guía de Cultivo en Exterior | Primeros pasos" (2024)
+- Tipo: Video (transcripción)
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-08 por damo
+- Nivel de consenso: Alto (prácticas estándar cultivadores experimentados)
+- Temas: Timing hemisférico, feminizadas vs automáticas, germinación, sustratos, fertilización básica, trasplantes, podas, LST
+- Ubicación: `/sources/fuentes/videos/house_of_weed/Guía de Cultivo en Exterior | Primeros pasos`
 
 ---
 

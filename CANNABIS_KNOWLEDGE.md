@@ -182,31 +182,60 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🧬 1. GENÉTICA Y SELECCIÓN DE CEPAS
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Alta - Fundamental para todo el cultivo
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 
-**Contenido esperado:**
-- Tipos genéticos: Indica, Sativa, Ruderalis, Híbridos
-- Características por tipo
-- Selección según objetivo (efecto, rendimiento, facilidad, etc.)
-- Estabilidad genética
-- Fenotipos vs genotipos
-- Bancos de semillas reputables
+### Tipos Genéticos - Características
+
+**Feminizadas:**
+- Fotoperiodo-dependiente | Ciclo largo | [HOW-001]
+- Primavera→Cosecha abr-may-jun (hemisferio sur) | [HOW-001]
+- Plantas grandes | Sativa: +tiempo floración hasta jun | [HOW-001]
+- Contexto ideal: Campo | Espacios amplios | [HOW-001]
+
+**Automáticas:**
+- Ciclo fijo ~3 meses | No dependen fotoperiodo | [HOW-001]
+- Plantas pequeñas | Compactas | [HOW-001]
+- Contexto ideal: Balcón | Departamento | Espacios reducidos | [HOW-001]
+- ⚠️ Sensibles estrés→pérdida producción | [HOW-001]
+
+**Sativa vs Indica:**
+- Sativa: plantas grandes | +tiempo floración | [HOW-001]
+- Indica: arbustivas | compactas | pequeñas | -tiempo floración | [HOW-001]
+
+### Selección de Cepa
+
+**Criterio pre-germinación:** [HOW-001]
+- Objetivo claro: tamaño, efecto, espacio disponible
+- NO seleccionar solo por marketing/fotos
+- Evaluar contexto cultivo (campo vs casa vs balcón)
 
 ---
 
 ## 🌱 2. GERMINACIÓN
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
-> **Prioridad:** Alta
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 
-**Contenido esperado:**
-- Métodos: papel toalla, jiffy, agua, directoatierra
-- Temperatura óptima
-- Humedad requerida
-- Tiempos esperados
-- Indicadores de éxito
-- Problemas comunes
+### Método Papel Toalla
+
+**Proceso:** [HOW-001]
+- Plato + papel toalla + semillas + papel toalla + humedad
+- Lugar: oscuro + aireado
+- Revisión: diaria
+- Control: evitar deshidratación O exceso humedad
+
+### Post-Germinación
+
+**Protección inicial:** [HOW-001]
+- Contenedor: vaso 0.5L
+- Ubicación: indoor con luz solar indirecta
+- ⚠️ EVITAR: sol directo | viento fuerte | temperatura excesiva
+- Motivo: plántulas MUY delicadas primeras etapas
+
+**Transición gradual:** [HOW-001]
+- Indoor → Semi-outdoor → Outdoor completo
+- Timing: cuando plántula +robusta/+grande
 
 ---
 
@@ -226,14 +255,21 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🪴 4. FASE VEGETATIVA
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Alta
 
-**Contenido esperado:**
+### Fertilización - Inicio
+
+**Timing:** [HOW-001]
+- Inicio: 10-15cm altura de planta
+- Dosis inicial: 2ml/L fertilizante vegetativo
+- Tipo: alto nitrógeno (N)
+
+**Contenido esperado (pendiente más fuentes):**
 - Duración típica por tipo genético
 - Ciclo luz (18/6, 20/4, 24/0)
 - Espectro lumínico óptimo
-- Nutrición NPK
 - Técnicas de training aplicables
 - Indicadores de salud
 
@@ -319,8 +355,29 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## ☀️ 11. OUTDOOR (EXTERIOR)
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Media
+
+### Timing por Hemisferio
+
+**Hemisferio Sur:** [HOW-001]
+- Inicio: sept-ene | Sept=plantas gigantes | Dic-ene=plantas menores
+- Cosecha fem: abr-may-jun | Sativa hasta jun
+
+**Hemisferio Norte:** [HOW-001]
+- Inicio: mar-jun
+
+### Temperatura y Condiciones
+
+**Crítico:** [HOW-001]
+- EVITAR: frío nocturno
+- Auto + frío→estancamiento→plantas enanas
+- Solución: indoor noche + outdoor día (protección fases tempranas)
+
+**Óptimo Automáticas:** [HOW-001]
+- Pleno verano | Mayor luz disponible
+- Contexto ideal: balcón | departamento | espacios reducidos
 
 ---
 
@@ -354,8 +411,37 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🌍 16. CULTIVO EN TIERRA
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Alta
+
+### Sustratos Comerciales
+
+**BioBizz Light Mix:** [HOW-001]
+- Uso: primeras fases crecimiento
+- Pre-fertilizado: mínimo | Requiere fertilización temprana
+
+**BioBizz All Mix:** [HOW-001]
+- Uso: floración
+- Pre-fertilizado: completo | Esperar agotamiento antes fertilizar
+
+### Sustrato DIY (Casero)
+
+**Mezcla base:** [HOW-001]
+- Turba
+- Perlita (drenaje)
+- Vermiculita (retención humedad)
+
+### Trasplantes
+
+**Feminizadas:** [HOW-001]
+- 2-3 trasplantes durante ciclo
+- Secuencia típica: 0.5L → 3-5L → 11L → maceta final
+
+**Automáticas:** [HOW-001]
+- ⚠️ EVITAR trasplantes | Sensibles estrés
+- Opción: germinar directo maceta final
+- Alternativa: 1 trasplante máximo (0.5L → final)
 
 ---
 
@@ -405,8 +491,26 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 🧪 22. MACRONUTRIENTES (N-P-K)
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Crítica
+
+### Requerimientos por Fase
+
+**Vegetativo:** [HOW-001]
+- Alto nitrógeno (N)
+- Fertilizante específico fase vegetativa
+
+**Floración:** [HOW-001]
+- Alto fósforo (P) + potasio (K)
+- Fertilizante específico floración
+
+### Dosificación Inicial
+
+**Primera fertilización:** [HOW-001]
+- Altura planta: 10-15cm
+- Dosis: 2ml/L
+- Incremento gradual según respuesta planta
 
 ---
 
@@ -433,29 +537,74 @@ Cada vez que proceses nueva información, sigue este protocolo:
 
 ## 📅 26. ESQUEMAS DE FERTILIZACIÓN
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Alta
+
+### Dosificación General
+
+**Inicio:** [HOW-001]
+- Primera aplicación: 10-15cm altura
+- Dosis inicial: 2ml/L
+- Fertilizante vegetativo (alto N)
+
+**Transición a Floración:** [HOW-001]
+- Cambio a fertilizante floración (alto P-K)
+- ⚠️ Esperar agotamiento fertilizante previo si se usa All Mix
+
+**Nota:** Referencia video específico riego mencionado [HOW-001] - pendiente integración
 
 ---
 
 ## 💦 27. RIEGO: FRECUENCIA Y TÉCNICAS
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Referencia pendiente
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Crítica
+
+**Referencia externa:** [HOW-001]
+- Noé (House of Weed) menciona video dedicado específicamente a riego
+- Pendiente: integrar transcripción video riego para completar sección
 
 ---
 
 ## ✂️ 28. PODA Y DEFOLIACIÓN
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Media-Alta
+
+### Por Tipo de Genética
+
+**Feminizadas (Fotoperiodo):** [HOW-001]
+- Podas permitidas y recomendadas
+- Tipos: apical (topping) | FIM
+- Objetivo: control altura | ramificación | producción
+
+**Automáticas:** [HOW-001]
+- ⚠️ EVITAR podas | Altamente sensibles estrés
+- Ciclo corto (~3 meses)→sin tiempo recuperación
+- Alternativa: usar LST (Low Stress Training)
 
 ---
 
 ## 🎋 29. TRAINING (LST, HST, SCROG, SOG)
 
-> **Estado actual:** Vacío - Pendiente primera fuente  
+> **Estado actual:** ⚡ Primera integración
+> **Fuentes:** [HOW-001]
 > **Prioridad:** Media
+
+### LST (Low Stress Training)
+
+**Automáticas:** [HOW-001]
+- ✅ RECOMENDADO para autos
+- Única técnica segura (evita estrés poda)
+- Objetivo: doblar/dirigir ramas sin cortar
+- Maximiza exposición luz sin estrés recuperación
+
+**Feminizadas:** [HOW-001]
+- Compatible con LST
+- Puede combinarse con podas (HST)
 
 ---
 
