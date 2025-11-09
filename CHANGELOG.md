@@ -5,6 +5,33 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.10.0] - 2025-11-09
+
+### Agregado
+- **[HOW-009]** Sexta integración Neon Postgres: "Gorilla Sherbet F1 Fast Version - Cultivo Low Cost Sustrato Reutilizado + KNF"
+- **Sección 1 (Genética):** Expandida con Fast Version + caso estudio Gorilla Sherbet
+  - **Fast Version (nueva categoría):** fotodependiente floración acelerada (-2 sem vs normal) | cruza fotodependiente × automática | contexto climas húmedos (↓riesgo moho) | Sweet Seeds
+  - **Caso Gorilla Sherbet F1:** Sunset Sherbet clone × Gorilla Girl XL Auto | ciclo 4m (20nov→20mar hemisferio sur) | <2m sin poda/training | aromas frutales/cítricos/mandarina | efecto energizante + claridad mental
+- **Sección 12 (Outdoor):** ✅ COMPLETADA con timing control tamaño
+  - **Control tamaño outdoor:** inicio fin primavera→<2m vs inicio primavera/fin invierno→+2m | ciclo exacto 4m
+- **Sección 17 (Cultivo en Tierra):** ✅ COMPLETADA - Reutilización sustrato + Mulch + Volumen macetas
+  - **Reutilización sustrato:** 2 métodos (enmiendas vs compost) | PRE-REQUISITO: sin plagas/enfermedades | caso práctico compost (vegetativo OK, floración limitada, +sabor orgánico) | mejora: +compost + microorganismos + enmiendas
+  - **Mulch:** cascarilla arroz superficie (↓evaporación, regular temp verano, precaución ↓N temporal descomposición)
+  - **Volumen macetas:** 20L (+flores) vs 16L (flores menores) | indicador trasplante: estancamiento + coloración | tarros agujereados + macetas tela
+- **Sección 23 (Macronutrientes):** ✅ COMPLETADA con KNF/Agricultura Natural Coreana
+  - **JFP (Jugo Fermentado Plantas - Vegetativo):** brotes wheat + azúcar moreno 1:1 | 2-4ml/L 1x/sem | N fase vegetativa
+  - **JFF (Jugo Fermentado Frutas - Floración):** plátano + azúcar moreno 1:1 | 2-4ml/L 1x/sem | K fase floración
+  - **BAL (Bacterias Ácido Láctico):** foliar 1x/sem | balance microorganismos + defensa plagas/enfermedades
+  - **JWA (Jabón Líquido KNF):** alternativa jabón potásico | foliar 1x/sem | preventivo limpieza + puede mezclar neem
+  - **Resultado caso HOW-009:** vegetativo sano + 0 plagas ciclo completo + limitación floración por nutrientes suelo (no por KNF) + +sabor orgánico
+- **Sección 29 (Poda):** ✅ COMPLETADA con técnicas indoor/outdoor
+  - **Poda bajos outdoor low-stress:** intensidad conservadora (solo ramas muy bajas) | aireación + eliminar baja producción | diferencia vs indoor (menos agresiva) | minimizar estrés outdoor
+- **Sección 10 (Evaluación Calidad):** Expandida con caso completo experiencia consumo
+  - **Gorilla Sherbet fenotipo destacado:** variabilidad 3 fenotipos (1 excepcional) | aroma mandarina dulce MUY intenso | sabor anaranjado (poco común) | humo suave + ceniza blanquecina | efecto activo/energizante/claridad mental/uso diario | +sabor sustrato orgánico (sin fertilizantes sintéticos)
+
+### Notas
+Sexta integración Postgres→Git. Experimento completo documentado: cultivo económico/orgánico (sustrato reutilizado + compost + KNF) con evaluación transparente trade-offs (producción↓ vs calidad organoléptica↑). Nueva categoría Fast Version integrada. Tier A mantenido (21/25, +1 calidad experimento + +1 objetividad reconocer limitaciones). Total videos procesados: 9/27.
+
 ## [0.9.0] - 2025-11-09
 
 ### Agregado

@@ -129,6 +129,20 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=5
 - **Nota:** Video dividido 2 partes. Parte 2 (olor/sabor/efecto) pendiente
 
+**[HOW-009]** Noé (House of Weed) - "Gorilla Sherbet F1 Fast Version - Cultivo Low Cost Sustrato Reutilizado + KNF" (2024)
+- Tipo: Video (transcripción) - Experimento cultivo documentado
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (21/25) - +1 calidad por experimento controlado documentado + +1 objetividad por reconocer limitaciones + transparencia sesgo comercial Sweet Seeds
+- **Flags:** 👤 🌍 💰 🔬
+- Nivel de consenso: Alto (prácticas orgánicas KNF + reutilización sustrato validadas comunidad)
+- Temas: Fast Version (fotodependiente floración acelerada -2sem vs normal, contexto climas húmedos), reutilización sustrato (2 métodos: enmiendas vs compost, pre-requisito sin plagas/enfermedades), KNF/Agricultura Natural Coreana (JFP vegetativo, JFF floración, BAL foliar, JWA preventivo, dosificación 2-4ml/L 1x/sem), timing outdoor control tamaño (inicio fin primavera=<2m vs inicio primavera=>2m), volumen macetas impacto producción (20L vs 16L), mulch cascarilla arroz (superficie verano, precaución descomposición→↓N temporal), poda bajos outdoor conservadora, evaluación completa experiencia consumo (aroma mandarina dulce excepcional, sabor anaranjado intenso, humo suave, ceniza blanquecina, efecto energizante/claridad mental/uso diario)
+- Enfoque: Caso estudio completo ciclo 4 meses (20 nov→20 mar hemisferio sur) cultivo económico/orgánico con variables documentadas + evaluación transparente limitaciones método (producción↓ pero calidad organoléptica↑)
+- Caso variedad: Gorilla Sherbet F1 Fast Version (Sunset Sherbet clone × Gorilla Girl XL Auto, Sweet Seeds)
+- Video ID: aIZfhQt8SO4
+- URL: https://www.youtube.com/watch?v=aIZfhQt8SO4
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=2
+
 ---
 
 ## Fuentes Pendientes de Integración

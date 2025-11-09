@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.1.0  
-**Última actualización:** 2025-01-08  
-**Estado:** Inicialización - Pendiente integración de fuentes
+**Versión:** 0.10.0
+**Última actualización:** 2025-11-09
+**Estado:** En desarrollo activo - 9 videos integrados (HOW-001 a HOW-009)
 
 ---
 
@@ -284,8 +284,8 @@ Al integrar fuente:
 
 ## 🧬 1. GENÉTICA Y SELECCIÓN DE CEPAS
 
-> **Estado actual:** ✅ Completo - Sexado + Hermafroditismo integrados
-> **Fuentes:** [HOW-001], [HOW-002], [HOW-006], [HOW-007]
+> **Estado actual:** ✅ Completo - Sexado + Hermafroditismo + Fast Version integrados
+> **Fuentes:** [HOW-001], [HOW-002], [HOW-006], [HOW-007], [HOW-009]
 > **Prioridad:** Crítica cumplida
 
 ### Casos de Estudio - Variedades Específicas
@@ -299,6 +299,17 @@ Al integrar fuente:
 - Resistencia: sin deficiencias ni excesos nutrientes (caso reportado)
 - Plagas: orugas leves (controlables)
 
+**Gorilla Sherbet F1 Fast Version:** [HOW-009]
+- Tipo: Fast Version (fotodependiente floración acelerada)
+- Genética: Sunset Sherbet clone × Gorilla Girl XL Auto (Sweet Seeds)
+- Ciclo completo: 4 meses (20 nov→20 mar, hemisferio sur)
+- Altura: <2m (sin poda ni training, inicio fin primavera)
+- Aromas: frutales + dulces + cítricos + mandarina intensa (fenotipo destacado)
+- Efecto: energizante + buen ánimo + claridad mental + uso diario
+- Calidad humo: suave + ceniza blanquecina
+- Variabilidad: 3 fenotipos, 1 sabor anaranjado excepcional
+- Cultivo: sustrato reutilizado + compost + KNF básico
+
 ### Tipos Genéticos - Características
 
 **Feminizadas:**
@@ -306,6 +317,14 @@ Al integrar fuente:
 - Primavera→Cosecha abr-may-jun (hemisferio sur) | [HOW-001]
 - Plantas grandes | Sativa: +tiempo floración hasta jun | [HOW-001]
 - Contexto ideal: Campo | Espacios amplios | [HOW-001]
+
+**Fast Version (Floración Rápida):** [HOW-009]
+- Fotoperiodo-dependiente (NO automática)
+- Floración: -2 semanas vs feminizada normal
+- Genética: cruza fotodependiente × automática
+- Ventaja: acortar timing cosecha
+- Contexto ideal: climas húmedos (↓riesgo moho pre-cosecha)
+- Ejemplo banco: Sweet Seeds
 
 **Automáticas:**
 - Ciclo fijo ~3 meses | No dependen fotoperiodo | [HOW-001]
@@ -889,6 +908,43 @@ Al integrar fuente:
 - Guava 26: índica-dominante visual | sativa efecto | bien manicurada | pistilos óptimos
 - Chaxila: sativa-dominante | más hojas | -compacta
 
+### EVALUACIÓN COMPLETA - Casos de Estudio Experiencia Consumo
+
+**Gorilla Sherbet F1 Fast Version (Sweet Seeds):** [HOW-009]
+
+**Variabilidad fenotipos (3 cultivados):**
+- 2 fenotipos: aroma naranja presente
+- 1 fenotipo destacado: aroma mandarina dulce MUY intenso
+- Evaluación: "pocas veces encontrado variedad con sabor tan intenso y diferenciable" (Noé)
+
+**Fenotipo favorito - Examen detallado:**
+
+**Aroma:**
+- Principal: mandarina dulce (excepcional intensidad)
+- Secundarios: frutales + cítricos
+- Evaluación: "fuerte aroma mandarina dulce" + único entre 3 fenotipos
+
+**Sabor:**
+- Principal: anaranjado (poco común según Noé)
+- Intensidad: alta + fácil diferenciar
+- Persistencia: notable
+
+**Calidad humo:**
+- Textura: suave
+- Ceniza: color blanquecino + buena consistencia
+- Evaluación global: "experiencia agradable de consumo"
+
+**Efecto:**
+- Tipo: activo + energizante
+- Sensación: buen ánimo + claridad mental
+- Funcionalidad: uso diario sin desconcentración
+- Aplicación: actividades que requieren energía + concentración
+
+**Contexto cultivo:**
+- Sustrato: reutilizado + compost (sin fertilizantes sintéticos)
+- Resultado sabor: muy superior (+sabor sin interferencia productos externos)
+- Trade-off: producción limitada pero calidad organoléptica excepcional
+
 ### Pendiente Integración
 
 **Video seguimiento Parte 2:** [HOW-008]
@@ -907,15 +963,21 @@ Al integrar fuente:
 
 ## 🌳 12. OUTDOOR (EXTERIOR)
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ⚡ Timing hemisférico + Control tamaño integrados
+> **Fuentes:** [HOW-001], [HOW-009]
 > **Prioridad:** Media
 
 ### Timing por Hemisferio
 
-**Hemisferio Sur:** [HOW-001]
+**Hemisferio Sur:** [HOW-001] [HOW-009]
 - Inicio: sept-ene | Sept=plantas gigantes | Dic-ene=plantas menores
 - Cosecha fem: abr-may-jun | Sativa hasta jun
+
+**Hemisferio Sur - Control Tamaño Plantas:** [HOW-009]
+- Inicio fin primavera (20 nov): altura <2m sin poda/training
+- Ciclo completo: 4 meses exactos (ej: 20 nov→20 mar)
+- Comparación: inicio primavera O fin invierno→+2m fácilmente
+- Objetivo: evitar complicaciones tamaño excesivo
 
 **Hemisferio Norte:** [HOW-001]
 - Inicio: mar-jun
@@ -963,8 +1025,8 @@ Al integrar fuente:
 
 ## 🌱 17. CULTIVO EN TIERRA
 
-> **Estado actual:** ⚡ Protocolos consolidados
-> **Fuentes:** [HOW-001], [HOW-002]
+> **Estado actual:** ✅ Completo - Reutilización sustrato + Mulch + Volumen macetas integrados
+> **Fuentes:** [HOW-001], [HOW-002], [HOW-009]
 > **Prioridad:** Alta
 
 ### Sustratos Comerciales
@@ -983,6 +1045,50 @@ Al integrar fuente:
 - Turba
 - Perlita (drenaje)
 - Vermiculita (retención humedad)
+
+### Reutilización de Sustrato Post-Cultivo
+
+**⚠️ PRE-REQUISITO CRÍTICO:** [HOW-009]
+- SOLO usar sustrato sin historial plagas/enfermedades
+- Objetivo: evitar transmitir problemas nueva generación
+
+**Método 1 - Enmiendas (Macetas Gran Volumen):** [HOW-009]
+- Proceso: agregar enmiendas→restaurar nutrientes + mejorar estructura
+- Ventajas: recuperación completa suelo
+- Desventajas: requiere selección + adquisición + mezcla apropiada
+- Enmiendas sugeridas: humus lombriz + harina pescado + guano + estiércol + microorganismos
+
+**Método 2 - Compost (Económico/Sencillo):** [HOW-009]
+- Proceso: retirar raíces plantas anteriores + mezclar sustrato limpio + compost
+- Ventajas: sencillo + rápido + materiales fáciles conseguir/producir
+- Desventajas: nutrientes limitados→agotamiento en floración
+- Resultado HOW-009 caso práctico:
+  - Vegetativo: plantas sanas + color OK + ramificación buena
+  - Floración inicio: +amarillamiento progresivo + flores pequeñas
+  - Conclusión: "se queda corto si buscamos producir"
+- Mejora recomendada: +compost + +microorganismos + enmiendas complementarias
+- Calidad: +sabor (sin interferencia productos externos)
+- Plagas: 0 problemas (caso HOW-009)
+
+### Mulch (Cobertura Superficie)
+
+**Cascarilla de Arroz:** [HOW-009]
+- Aplicación: solo superficie (NO mezclar sustrato)
+- Función: cubrir + ↓evaporación agua + regular temperatura suelo
+- Contexto útil: verano (calor)
+- ⚠️ Uso moderado: descomposición→↓temporal nitrógeno suelo
+
+### Volumen Macetas - Impacto Producción
+
+**Comparativa volumen (misma mezcla + preparados):** [HOW-009]
+- 2× 20L: flores +grandes + +densas
+- 1× 16L (trasplante desde 11L): flores menores
+- Factor: +volumen = +nutrientes disponibles + +desarrollo raíces
+- Indicador trasplante urgente: estancamiento crecimiento + coloración hojas
+
+**Macetas alternativas:** [HOW-009]
+- Tarros con agujeros base: drenaje efectivo
+- Macetas tela: excelente aireación raíces
 
 ### Trasplantes
 
@@ -1051,8 +1157,8 @@ Al integrar fuente:
 
 ## 🧪 23. MACRONUTRIENTES (N-P-K)
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-001]
+> **Estado actual:** ✅ Completo - Fertilizantes + KNF/Agricultura Natural Coreana integrados
+> **Fuentes:** [HOW-001], [HOW-009]
 > **Prioridad:** Crítica
 
 ### Requerimientos por Fase
@@ -1071,6 +1177,47 @@ Al integrar fuente:
 - Altura planta: 10-15cm
 - Dosis: 2ml/L
 - Incremento gradual según respuesta planta
+
+### KNF (Korean Natural Farming) - Preparados Orgánicos
+
+**Jugo Fermentado de Plantas (JFP) - Vegetativo:** [HOW-009]
+- Ingredientes: brotes plantas (wheat u otras) + azúcar moreno
+- Proporción: 1:1 partes iguales
+- Proceso: mezclar→fermentar
+- Dosificación: 2-4 ml/L
+- Frecuencia: 1x/semana
+- Función: aporte nitrógeno (N) fase vegetativa
+- Costo: muy bajo
+
+**Jugo Fermentado de Frutas (JFF) - Floración:** [HOW-009]
+- Ingredientes: plátano + azúcar moreno
+- Proporción: 1:1
+- Proceso: mezclar→fermentar
+- Dosificación: 2-4 ml/L
+- Frecuencia: 1x/semana
+- Función: aporte potasio (K) fase floración
+- Costo: muy bajo
+
+**Bacterias Ácido Láctico (BAL):** [HOW-009]
+- Aplicación: foliar (sobre hojas)
+- Frecuencia: 1x/semana
+- Función: balance microorganismos + defensa plagas/enfermedades
+- Preparación: fermentación (protocolo KNF estándar)
+
+**JWA (Jabón Líquido KNF) - Preventivo:** [HOW-009]
+- Alternativa comercial: jabón potásico
+- Aplicación: foliar
+- Frecuencia: 1x/semana
+- Función: limpieza preventiva + protección
+- Combinación: puede mezclar con aceite neem
+- Efectividad: "perfecto como preventivo" (Noé)
+
+**Resultado caso HOW-009 (sustrato compost + KNF + agua):**
+- Vegetativo: plantas sanas + buen desarrollo
+- Floración: limitación por nutrientes suelo (no por KNF)
+- Plagas: 0 problemas durante todo ciclo
+- Calidad final: +sabor (sin interferencia productos sintéticos)
+- Limitación: requiere complementar con enmiendas/compost para producción óptima
 
 ---
 
@@ -1178,8 +1325,8 @@ Al integrar fuente:
 
 ## ✂️ 29. PODA Y DEFOLIACIÓN
 
-> **Estado actual:** ⚡ Técnicas consolidadas
-> **Fuentes:** [HOW-001], [HOW-002]
+> **Estado actual:** ✅ Completo - Técnicas indoor/outdoor consolidadas
+> **Fuentes:** [HOW-001], [HOW-002], [HOW-009]
 > **Prioridad:** Media-Alta
 
 ### Poda de Bajos (Lollipopping)
@@ -1192,12 +1339,19 @@ Al integrar fuente:
   - Ramas bajas = menor desarrollo (optimizar energía)
 - Aplicable: todas las variedades
 
+**Outdoor contexto low-stress:** [HOW-009]
+- Intensidad: conservadora (solo ramas muy bajas)
+- Objetivos: aireación superficie suelo + eliminar producción mínima
+- Diferencia vs indoor: menos agresiva
+- Razón: minimizar estrés en outdoor
+
 ### Por Tipo de Genética
 
 **Feminizadas (Fotoperiodo):** [HOW-001]
 - Podas permitidas y recomendadas
 - Tipos: apical (topping) | FIM | Bajos
 - Objetivo: control altura | ramificación | producción
+- Variación intensidad: indoor (más agresiva) | outdoor (conservadora) [HOW-009]
 
 **Automáticas:** [HOW-001]
 - ⚠️ EVITAR podas apicales/FIM | Altamente sensibles estrés
