@@ -5,6 +5,29 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.7.0] - 2025-11-09
+
+### Agregado
+- **[HOW-005]** Segunda integración Neon Postgres: "Plagas - Guía Completa"
+- **Sección 32 (Plagas):** ✅ COMPLETADA - Expandida de básico a integral
+  - Causas raíz: 3 factores fundamentales (ambiente/salud/limpieza)
+  - 6 plagas comunes detalladas:
+    - Araña roja (alta peligrosidad, experiencia personal Noé)
+    - Mosca blanca (severidad media, controlable)
+    - Pulgón (transmite virus, melaza→hormigas)
+    - Trips (interior/invernadero)
+    - Cochinilla algodonosa (fácil detectar)
+    - Orugas/caracoles/babosas (NO crítica, trampa artesanal)
+  - Prevención integral: manejo ambiental, salud plantas, monitoreo diario, cultivo acompañante (aromáticas + tabaco trampa)
+  - Productos orgánicos: tierra diatomeas (15-20% sustrato) + jabón potásico + neem
+  - Protocolo aplicación: 1x/sem prevención | 2-3x/sem ataque activo
+
+### Cambiado
+- Sección 32: de básica (solo orugas + neem/jabón) a guía completa 6 plagas + prevención/control detallados
+
+### Notas
+Segunda integración Postgres→Git. Sección plagas completada con experiencia directa documentada. Tier A mantenido (20/25).
+
 ## [0.6.0] - 2025-11-09
 
 ### Agregado

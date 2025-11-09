@@ -76,6 +76,19 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 - URL: https://www.youtube.com/watch?v=L3AFchvoVF8
 - Fuente DB: Neon Postgres `transcripciones_batch` ID=1
 
+**[HOW-005]** Noé (House of Weed) - "Plagas en Cannabis - Guía Completa Prevención y Control" (2024)
+- Tipo: Video (transcripción) - Guía técnica plagas
+- Expertise: Cultivador profesional, creador de contenido educativo cannabis
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (20/25) - +1 objetividad por múltiples plagas documentadas con experiencia directa
+- **Flags:** 👤 🌍 🔗
+- Nivel de consenso: Alto (prácticas prevención/control consensuadas)
+- Temas: Causas aparición (ambiente/salud/limpieza), 6 plagas comunes (araña roja, mosca blanca, pulgón, trips, cochinilla algodonosa, orugas/caracoles/babosas) con características/detección/condiciones, prevención integral (ambiental/monitoreo/cultivo acompañante), productos orgánicos (tierra diatomeas, jabón potásico, neem), protocolo aplicación 1x/sem prevención o 2-3x/sem ataque
+- Enfoque: Guía integral plagas con experiencia personal documentada (araña roja destruyó cultivo floración)
+- Video ID: GI0NB6OUP20
+- URL: https://www.youtube.com/watch?v=GI0NB6OUP20
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=8
+
 ---
 
 ## Fuentes Pendientes de Integración

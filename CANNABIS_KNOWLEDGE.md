@@ -991,39 +991,137 @@ Al integrar fuente:
 
 ## 🐛 32. PLAGAS
 
-> **Estado actual:** ⚡ Primera integración
-> **Fuentes:** [HOW-002]
-> **Prioridad:** Alta
+> **Estado actual:** ✅ Completo - Guía integral plagas comunes
+> **Fuentes:** [HOW-002], [HOW-005]
+> **Prioridad:** Crítica cumplida
 
-### Prevención
+### Causas Raíz Aparición Plagas
 
-**Productos preventivos:** [HOW-002]
-- Aceite de neem
-- Jabón potásico
-- Aplicación: regular/preventiva
-- Resultado: "No hemos tenido ningún problema" (Noé)
+**3 Factores fundamentales:** [HOW-005]
+1. **Ambiente descontrolado:** temperatura | humedad | ventilación inadecuadas
+2. **Plantas débiles:** mal alimentadas | estrés
+3. **Falta limpieza:** polvo | malezas | restos vegetales
 
-### Orugas
+### Plagas Comunes - Características y Detección
 
-**Características:** [HOW-002]
-- Ubicación típica: debajo de hojas
-- Método detección: revisión constante manual
-- Control: remoción manual
-- Factor riesgo aumentado: lluvia | llovizna | mayor humedad
+**1. Araña Roja** (Muy común - Alta peligrosidad) [HOW-005]
+- **Condiciones:** alta temp + baja HR + sequía/riegos irregulares
+- **Síntomas iniciales:** puntitos blancos/amarillos hojas (succión)
+- **Ubicación:** envés hojas | zonas bajas→brotes nuevos
+- **Progresión:** telas de araña visibles
+- **Daño severo:** resina inutilizada + pistilos destruidos + sin aroma
+- **Velocidad:** propagación rápida (3-4 días sin vigilancia puede arruinar cultivo)
+- **Testimonio:** "Experiencia más trágica" (Noé) - plantas floración inutilizadas
 
-**Protocolo:** [HOW-002]
-- Revisiones: frecuentes y minuciosas
-- Especialmente crítico: después lluvia/humedad
-- Ser "minucioso cuidando plantas"
+**2. Mosca Blanca** (Popular - Severidad media) [HOW-005]
+- **Condiciones:** alta temp + alta HR
+- **Daño:** succiona savia → pequeños agujeros → amarillamiento → debilitamiento
+- **Melaza:** secreta sustancia pegajosa → atrae hormigas
+- **Detección:** sacudir hojas/ramas → mosquitas blancas vuelan
+- **Controlabilidad:** alta (si acción temprana + medidas correctas)
 
-**Contenido esperado (pendiente más fuentes):**
-- Araña roja
-- Trips
-- Mosca blanca
-- Pulgones
-- Minadores
-- Caracoles/babosas
-- Tratamientos específicos por plaga
+**3. Pulgón** (Famoso - Alta visibilidad) [HOW-005]
+- **Tamaño:** 1-4mm
+- **Colores:** amarillo | verde | negro
+- **Daño:** succiona savia/carbohidratos/nutrientes → estrés → debilitamiento
+- **Transmisión:** virus
+- **Melaza:** sustancia ámbar pegajosa → atrae hormigas
+- **Ubicación:** envés hojas (aglomerados)
+- **Condiciones:** alta temp + baja HR + sobrefertilización
+
+**4. Trips** (Interior/Invernadero) [HOW-005]
+- **Contexto:** cultivos interior/greenhouse + altas temperaturas
+- **Forma:** insectos alargados con alas
+- **Color:** amarillo claro
+- **Daño:** picaduras amarillo-blanco
+- **Transmisión:** virus
+- **Detección:** alas + tonalidad amarillo claro
+
+**5. Cochinilla Algodonosa** (Tamaño grande) [HOW-005]
+- **Forma:** ovalada
+- **Color:** gris claro
+- **Cubierta:** apariencia algodón
+- **Tamaño:** chupador más grande (fácil detectar)
+- **Condiciones:** medio cálido + húmedo
+- **Asociación:** plantas débiles estrés trasplante | esquejes mal hechos | mal alimentación
+- **Ubicación:** hojas | tallos tiernos
+- **Melaza:** sustancia pegajosa → atrae hormigas + hongos
+
+**6. Orugas / Caracoles / Babosas** (NO plaga crítica) [HOW-002] [HOW-005]
+- **Controlabilidad:** muy sencilla (remoción manual)
+- **Horario actividad:** tarde-noche
+- **Estrategia detección:** linterna + revisar envés hojas post-lluvia/riego
+- **Preferencia:** humedad
+- **Trampa artesanal:** [HOW-005]
+  - Teja generando domo
+  - Cebo: papas/naranjas cercanas planta
+  - Noche: concentración en trampa (alta HR + alimento)
+  - Día: remover y reubicar
+
+### Prevención - Estrategias Integrales
+
+**Manejo Ambiental:** [HOW-005]
+- Espacio limpio + libre malezas
+- Reducir polvo (ideal ácaros/plagas)
+- Control temp/HR/ventilación
+- Ventilación crítica: interior + invernadero
+- Evitar sequía O encharcamiento
+- Evitar exceso nitrógeno / sobrefertilización
+
+**Salud Plantas:** [HOW-005]
+- Alimentación adecuada → plantas fuertes/sanas
+- ⚠️ Plantas débiles = propensas plagas/hongos
+
+**Monitoreo:** [HOW-005]
+- Revisión periódica/diaria
+- Detección temprana: puntitos | hormigas | síntomas anormales
+- NO descuidarse ("muchas veces pensamos todo anda bien y no miramos")
+
+**Productos Preventivos:** [HOW-002] [HOW-005]
+- Uso regular productos orgánicos (detalles abajo)
+- Trampas para plagas
+
+**Cultivo Acompañante (Ecosistema diverso):** [HOW-005]
+- Aromáticas repelentes: menta | ajo | albahaca | romero | tomillo | lavanda
+- Culinarias: cilantro | perejil | eneldo
+- Plantas trampa: **tabaco** (atrae mosca blanca→desvía de cannabis)
+- Beneficio: mejor ecosistema + protección + repelencia
+
+### Control - Productos Orgánicos (3 Pilares)
+
+**Sistema triple orgánico/ecológico:** [HOW-005]
+
+**1. Tierra de Diatomeas:**
+- Función principal: repelente
+- Funciones adicionales: retención agua + aporte micronutrientes
+- **Aplicación sustrato:** 15-20% mezcla (fabricación sustrato propio)
+- Beneficio: protección + alimentación
+
+**2. Jabón Potásico:**
+- Función: repelente + insecticida
+
+**3. Aceite de Neem:**
+- Función: repelente + insecticida
+
+**Protocolo Aplicación (Noé):** [HOW-005]
+- **Prevención:** 1x/semana
+  - Mezcla combinada 3 productos
+- **Ataque activo:** 2-3x/semana
+  - Mayor concentración
+  - Mayor frecuencia
+- **Resultado:** "No he tenido mayores problemas en mis cultivos" [HOW-005]
+- **Seguridad:** orgánicos | ecológicos | NO dañan plantas/humanos/ambiente
+
+### Principio Fundamental
+
+**Prevención > Combate:** [HOW-005]
+- "Es mucho mejor que estar combatiendo"
+- Estrategia general: mejores condiciones → crecimiento óptimo + prevención constante
+
+**Limpieza Cultivo Interior:** [HOW-005]
+- Limpiar carpa regularmente
+- Remover hojas caídas
+- Limpiar polvo implementos
 
 ---
 
