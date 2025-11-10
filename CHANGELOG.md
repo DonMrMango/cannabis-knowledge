@@ -5,6 +5,59 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.0-modular] - 2025-11-09
+
+### 🚀 MIGRACIÓN ARQUITECTURAL MAYOR
+
+**Cambio fundamental:** Sistema monolítico → Sistema modular distribuido
+
+#### Agregado
+- **Sistema modular completo:** 48 módulos independientes organizados en 10 categorías
+- **Estructura directorios:**
+  - `knowledge/00-meta/` - Meta-instrucciones (1 módulo)
+  - `knowledge/01-ciclo-vida/` - Ciclo vida completo (10 módulos)
+  - `knowledge/02-sistemas-cultivo/` - Sistemas cultivo (7 módulos)
+  - `knowledge/03-ambiente/` - Factores ambientales (5 módulos)
+  - `knowledge/04-nutricion/` - Nutrición y riego (6 módulos)
+  - `knowledge/05-tecnicas/` - Técnicas avanzadas (4 módulos)
+  - `knowledge/06-problemas/` - Problemas y soluciones (5 módulos)
+  - `knowledge/07-equipamiento/` - Equipamiento (5 módulos)
+  - `knowledge/08-productos/` - Productos derivados (1 módulo)
+  - `knowledge/99-meta/` - Meta-información (4 módulos)
+- **CANNABIS_KNOWLEDGE.md nuevo:** Índice maestro modular con navegación completa
+- **knowledge/README.md:** Guía navegación módulos para desarrolladores
+- **Meta-prompt actualizado:** Instrucciones específicas sistema modular en `knowledge/00-meta/meta-prompt.md`
+- **Backup monolítico:** `CANNABIS_KNOWLEDGE_MONOLITHIC_BACKUP.md` (v0.29.0, 4,112 líneas)
+
+#### Cambiado
+- **Arquitectura:** De 1 archivo monolítico (4,112 líneas) a 48 módulos distribuidos (~3,954 líneas total, ~82 líneas promedio/módulo)
+- **Workflow integración videos:** Ahora requiere identificar módulos afectados → editar solo módulos relevantes
+- **Eficiencia IA:** Lectura/edición solo módulos necesarios (~200-500 líneas) vs archivo completo (4,000+ líneas)
+- **Escalabilidad:** Sistema preparado para 90+ videos sin problemas de tamaño archivo
+
+#### Ventajas Sistema Modular
+1. **Escalabilidad infinita:** Nuevos videos NO impactan tamaño archivos individuales
+2. **Edición eficiente:** Editar solo secciones afectadas, no todo el documento
+3. **Git-friendly:** Diffs claros, cambios aislados, commits específicos
+4. **Navegación lógica:** Categorías claras por tema/fase
+5. **Tokens optimizados:** IA lee/procesa solo módulos relevantes
+6. **Paralelismo:** Múltiples módulos editables simultáneamente
+7. **Legibilidad humana:** Archivos pequeños < 500 líneas fáciles navegar
+
+#### Estadísticas Migración
+- **Secciones migradas:** 48/48 (100%)
+- **Líneas totales:** 3,954 (distribuidas)
+- **Módulo más grande:** 01-genetica.md (315 líneas)
+- **Módulo más pequeño:** ~50 líneas (secciones vacías/pendientes)
+- **Integridad:** 100% contenido preservado
+
+#### Compatibilidad
+- **Backward compatibility:** Backup monolítico conservado
+- **Forward compatible:** Sistema preparado para crecimiento ilimitado
+- **API-ready:** Módulos consumibles individualmente por apps
+
+---
+
 ## [0.29.0] - 2025-11-09
 
 ### Agregado
