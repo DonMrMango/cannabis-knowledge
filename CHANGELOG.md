@@ -5,6 +5,31 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.8-modular] - 2025-11-10
+
+### ⛔ PRIMERA EXCLUSIÓN - Video Sin Contenido Técnico
+
+**Hito:** Primera exclusión proyecto - Video legal/social sin conocimiento técnico cultivo
+
+### Excluido
+- **[HOW-022]** Noé (House of Weed) - "¿Qué hago con la Marihuana que cultivo? - Contexto Legal Chile" - **Tier D (5/25)** ⛔ **NO INTEGRADO**
+- **Razón exclusión:** Video 100% legal/social, CERO contenido técnico cultivo
+- **Contenido video:** Legislación Chile (Ley 20.000), autocultivo personal, zona gris legal, justificación personal desecha excedentes (compost enterrado), seguridad creador contenido
+- **Evaluación:** Credibilidad 2/5 (legal específico Chile no universal), calidad técnica 1/5 (CERO técnico), consistencia 1/5 (N/A), aplicabilidad 0/5 (CERO aplicable cultivo), objetividad 1/5 (justificación personal no educativo)
+- **Procesamiento:** Marcado `procesado_kb=true` en DB + añadido references.md PERO sin integración módulos
+- **No cuenta estadísticas contenido técnico**
+
+### Cambiado
+- **Distribución Tiers contenido técnico:** **3 S (8.8%) + 23 A (67.6%) + 8 B (23.5%) = 34 total** (sin cambio)
+- **Videos procesados DB:** **35/90 (38.9%)** = 22 Noé (21 técnicos + 1 excluido) + 13 Doña Huana
+- **Videos técnicos integrados KB:** **34/90 (37.8%)** = 21 Noé + 13 Doña Huana
+- **Nueva métrica:** 1 video excluido (contenido no técnico)
+
+### Notas
+Vigésima segunda fuente Noé. PRIMERA EXCLUSIÓN proyecto. Video útil contexto legal Chile PERO fuera scope técnico KB. Establece precedente: videos sin contenimiento técnico cultivo se marcan procesados DB pero NO se integran módulos y NO cuentan para estadísticas tiers. Sistema permite distinguir: videos procesados (35) vs videos técnicos integrados (34) vs videos excluidos (1). Mantiene integridad KB enfocada conocimiento técnico aplicable.
+
+---
+
 ## [1.0.7-modular] - 2025-11-10
 
 ### Agregado

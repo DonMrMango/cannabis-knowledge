@@ -527,6 +527,28 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ---
 
+**[HOW-022]** Noé (House of Weed) - "¿Qué hago con la Marihuana que cultivo? - Contexto Legal Chile" (2024) ⛔ **EXCLUIDO**
+- Tipo: Video (transcripción) - **NO INTEGRADO: Contenido 100% legal/social, CERO técnico**
+- Expertise: Noé (contexto legal autocultivo Chile)
+- Verificado: 2025-11-10 por damo
+- **Tier:** D (5/25) - **NO PROCESABLE PARA KB**
+- **Puntuación detallada:**
+  - Credibilidad: 2/5 (contexto legal específico Chile, no universal)
+  - Calidad técnica: 1/5 (CERO contenido técnico cultivo)
+  - Consistencia: 1/5 (no aplica, no hay contenido técnico que contrastar)
+  - Aplicabilidad: 0/5 (CERO aplicabilidad técnica cultivo)
+  - Objetividad: 1/5 (video justificación personal, no educativo técnico)
+- **Flags:** ⛔ (excluido - sin conocimiento técnico)
+- Nivel de consenso: N/A (no aplicable, contenido legal no técnico)
+- **Contenido del video:** Legislación cannabis Chile (Ley 20.000), autocultivo personal legal, zona gris legal número plantas, justificación personal por qué desecha excedentes producción (compost enterrado), contexto seguridad creador contenido, transparencia cultivo sin venta
+- **Razón exclusión:** Video NO contiene conocimiento técnico sobre cultivo cannabis. Temas: 100% legal (autocultivo Chile), social (justificación personal), manejo excedentes (compost). NO aporta técnicas, métodos, parámetros, troubleshooting ni información aplicable a KB modular. Contenido útil contexto legal Chile PERO fuera del scope técnico proyecto.
+- Video ID: ygWFowqqcUc
+- URL: https://www.youtube.com/watch?v=ygWFowqqcUc
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=20
+- **Nota:** Vigésima segunda fuente Noé. **PRIMERA EXCLUSIÓN** proyecto. Tier D (5/25). Video marcado `procesado_kb=true` en DB PERO sin integración módulos. No cuenta para estadísticas contenido técnico. Distribución Tiers contenido técnico: **3 S (8.8%) + 23 A (67.6%) + 8 B (23.5%) = 34 total**. Total videos procesados DB: **35/90** (incluyendo 1 excluido). Videos técnicos integrados KB: **34/90** (21 Noé técnicos + 13 Doña Huana = 37.8%).
+
+---
+
 **[DH-014]** Doña Juana - "CANNABIS - TIPS DE INDOOR" (2024)
 - Tipo: Video (transcripción) - 8 tips prácticos cultivo indoor
 - Expertise: Doña Juana (cultivador experimentado, filosofía pragmática)
