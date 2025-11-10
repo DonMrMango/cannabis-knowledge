@@ -5,6 +5,29 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.5-modular] - 2025-11-10
+
+### Agregado
+- **[HOW-019]** Noé (House of Weed) - "Mantequilla Cannábica SIN color verde ni sabor amargo (Ghee)"
+- **knowledge/08-productos/11-extracciones.md:** EXPANDIDA nueva sección completa "Infusiones en Grasa - Comestibles Caseros" (+150 líneas)
+  - Mantequilla ghee clarificada: definición + ventajas (>1 año durabilidad, apto lactosa)
+  - Receta completa: 500g mantequilla + 20g flores → ~250g concentrado potente
+  - Descarboxilación: 120°C × 40min (verde→café tostado activación THCA→THC)
+  - Preparación ghee: clarificar + caramelizar proteínas + colar (amarillo transparente)
+  - Infusión baño María: 1.5h control temperatura (cannabinoides liposolubles→grasa)
+  - Filtrado final: gasas crítico separar material vegetal (prevenir deterioro)
+  - Ventajas vs mantequilla tradicional: color amarillo, sabor NO amargo, durabilidad >1 año
+  - Ventajas vs extracciones solventes: seguridad casera, equipamiento básico, directamente comestible
+
+### Cambiado
+- **Distribución Tiers:** **2 S (6.3%) + 22 A (68.8%) + 8 B (25.0%) = 32 total**
+- **Videos procesados:** **32/90 (35.6%)** = 19 Noé + 13 Doña Huana
+
+### Notas
+Decimonovena fuente Noé. Tier A (20/25). Primera integración comestibles infusiones grasa (complementa extracciones solventes HOW-014). Método casero seguro accesible equipamiento cocina básico. Proceso completo descarboxilación + ghee + infusión paso a paso. Alternativa consumo sin riesgos respiratorios + larga durabilidad. Ventajas ghee: sin proteínas lácteas (apto intolerantes lactosa) + sin color verde + sin sabor amargo clorofila.
+
+---
+
 ## [1.0.4-modular] - 2025-11-10
 
 ### 🎉 SEGUNDO TIER S - Troubleshooting Excepcional

@@ -1,12 +1,12 @@
 # Sección 11: Extracciones Y Concentrados
 
 > **Última actualización:** 2025-11-10
-> **Estado:** Expandido con Hashishene
+> **Estado:** Completa - Solventes + Infusiones + Terpeno hashishene
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ Integración completa - Métodos solventes + Terpeno hashishene
-> **Fuentes:** [HOW-014], [HOW-017]
-> **Prioridad:** Media-Alta (conocimiento consumidor informado)
+> **Estado actual:** ✅ Integración completa - Métodos solventes + Infusiones grasa + Hashishene
+> **Fuentes:** [HOW-014], [HOW-017], [HOW-019]
+> **Prioridad:** Media-Alta (conocimiento consumidor informado + comestibles caseros)
 
 ### Diferenciación Fundamental
 
@@ -163,5 +163,156 @@
 - Mercado negro/casero sin conocimiento/equipamiento: probablemente NO cumple estándares mínimos seguridad
 - BHO/PHO profesional: demostrado seguro
 - Casero sin precauciones: riesgo alto (explosiones, impurezas, toxicidad)
+
+---
+
+## INFUSIONES EN GRASA - Comestibles Caseros
+
+### Mantequilla Cannábica Ghee (Clarificada)
+
+**Definición Ghee:** [HOW-017]
+- Mantequilla clarificada tipo India
+- Proceso: removida proteínas lácteas + agua + sólidos leche
+- Ventaja lactosa: apto personas intolerancia lactosa (sin proteínas leche)
+- Durabilidad: >1 año refrigerador (vs mantequilla normal ~meses)
+- Pureza: grasa pura sin componentes degradables
+
+**Ingredientes Base:** [HOW-017]
+
+**Receta concentrada potente:**
+- Mantequilla: 500g (2 panes 250g cada uno)
+- Flores: 20g alta calidad alto compuestos activos
+- Resultado: ~250g mantequilla infusionada concentrada
+
+**Receta suave:**
+- Mantequilla: 500g
+- Flores: 5-10g
+- Resultado: menor potencia consumo moderado
+
+### Proceso Completo - Paso a Paso
+
+**Paso 1: Descarboxilación Flores** [HOW-017]
+
+1. **Moler flores:**
+   - Herramienta: molinillo café (rápido + homogéneo)
+   - Alternativa: manual (más lento)
+   - Objetivo: molienda uniforme
+
+2. **Descarboxilar horno:**
+   - Esparcir flores molidas bandeja horno
+   - Temperatura: 120°C
+   - Tiempo: 40min
+   - **Indicador listo:** color verde → café tostado
+   - **Función:** activar cannabinoides (THCA→THC descarboxilación)
+
+**Paso 2: Preparación Ghee** [HOW-017]
+
+1. **Derretir mantequilla:**
+   - Cortar mantequilla cubos
+   - Fuego: medio-bajo (nivel 5/9 cocina estándar)
+   - Esperar derretimiento completo
+
+2. **Clarificar - Primera fase:**
+   - Aparece espuma blanca superficie
+   - Retirar espuma consistentemente con cuchara
+   - Duración: ~10min
+   - **Resultado:** mantequilla clarificada (más limpia que normal)
+
+3. **Ghee - Segunda fase:**
+   - Reducir fuego: bajo
+   - Proteínas leche: se asientan fondo olla
+   - Duración: ~20min
+   - **Caramelización proteínas:** fondo toma color café (NO quemar)
+   - **Color mantequilla:** dorado
+
+4. **Reposar:**
+   - Apagar fuego
+   - Dejar reposar olla 10min
+   - Función: partículas flotantes→fondo
+
+5. **Colar ghee:**
+   - Usar embudo + gasas
+   - Filtrar proteínas caramelizadas fondo
+   - **Resultado:** ghee puro amarillo transparente
+   - **Residuo:** proteínas decantadas descartar
+
+**Paso 3: Infusión Cannabinoides en Grasa** [HOW-017]
+
+**Método baño María:**
+
+1. **Setup:**
+   - Unir ghee + flores descarboxiladas
+   - Método: baño María (calor indirecto uniforme)
+
+2. **Temperaturas progresivas:**
+   - Inicio: nivel 4/9 cocina
+   - Media hora: reducir nivel 3/9
+   - **Razón:** control temperatura evitar degradación cannabinoides
+
+3. **Duración:**
+   - Tiempo base: 1.5h (90min)
+   - Opcional: más tiempo = mayor extracción (trade-off tiempo vs potencia)
+   - **Proceso:** cannabinoides+terpenos liposolubles→grasa
+
+4. **Durante infusión:**
+   - Monitorear temperatura constante
+   - NO hervir (degradaría compuestos)
+
+**Paso 4: Filtrado Final** [HOW-017]
+
+1. **Enfriar ligeramente:**
+   - Apagar cocina
+   - Esperar temperatura manejable (evitar quemaduras vapor)
+
+2. **Colar con gasas:**
+   - **Crítico:** gasas/tela filtro fino
+   - Separar completamente material vegetal
+   - **Razón:** restos vegetales = deterioro pronto mantequilla
+   - Solo grasa infusionada debe pasar
+
+3. **Resultado final:**
+   - ~250g mantequilla ghee cannábica (de 500g inicial)
+   - Pérdida: agua+proteínas removidas+absorción flores
+   - Color: amarillo/dorado (NO verde)
+   - Sabor: NO amargo (vs mantequilla tradicional verde amarga)
+
+### Almacenamiento y Conservación
+
+**Duración:** [HOW-017]
+- Refrigerador: >1 año
+- **Razón larga duración:** ausencia proteínas+agua (componentes degradables eliminados)
+- Formato: líquido temperatura ambiente → sólido refrigerado
+
+### Dosificación y Consumo
+
+**Potencia:** [HOW-017]
+- Receta 20g/500g = MUY concentrada
+- **Recomendación:** "poquito en pancito suficiente efecto notorio"
+- Inicio: dosis pequeña evaluar tolerancia
+
+**Aplicaciones culinarias:** [HOW-017]
+- Pan tostado
+- Papas fritas
+- Carne
+- Cualquier uso mantequilla normal
+
+**Ventaja vs fumado:** [HOW-017]
+- NO efectos adversos sistema respiratorio
+- Método consumo sin impacto pulmonar
+
+### Ventajas Método Ghee
+
+**vs Mantequilla tradicional cannábica:** [HOW-017]
+- Color: amarillo/dorado vs verde
+- Sabor: limpio vs amargo clorofila
+- Durabilidad: >1 año vs meses
+- Pureza: solo grasa vs proteínas+agua
+- Apto lactosa: sí vs no
+
+**vs Extracciones solventes:** [HOW-017]
+- Seguridad: equipamiento cocina básico vs circuitos cerrados profesionales
+- Costo: ingredientes comunes vs solventes especializados
+- Aplicabilidad: reproducible casero vs requiere conocimiento técnico
+- Formato: directamente comestible vs requiere preparación posterior
 
 ---

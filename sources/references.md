@@ -471,6 +471,22 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ---
 
+**[HOW-019]** Noé (House of Weed) - "Hice Mantequilla Cannábica SIN color verde, ni sabor amargo (Ghee)" (2024)
+- Tipo: Video (transcripción) - Receta comestibles mantequilla cannábica ghee (clarificada)
+- Expertise: Cultivador + preparador comestibles, receta tradicional India adaptada cannabis
+- Verificado: 2025-11-10 por damo
+- **Tier:** A (20/25)
+- **Flags:** 👤 🍳
+- Nivel de consenso: Alto (descarboxilación 120°C×40min estándar activación cannabinoides + infusión grasa liposolubilidad + ghee clarificado durabilidad >1 año + proceso casero seguro equipamiento básico)
+- Temas: Mantequilla cannábica ghee clarificada (500g mantequilla + 20g flores alta calidad resultado ~250g concentrado potente | alternativa suave 5-10g flores), descarboxilación horno (moler flores molinillo café homogéneo → horno 120°C×40min → color verde→café tostado activación THCA→THC), preparación ghee (mantequilla cubos fuego medio-bajo 5/9 → retirar espuma blanca 10min clarificada → fuego bajo 20min proteínas asientan fondo caramelizadas café NO quemar → reposar 10min → colar gasas ghee puro amarillo transparente), infusión baño María (ghee + flores descarboxiladas baño María 1.5h nivel 4→3 media hora control temperatura NO hervir degradación → cannabinoides+terpenos liposolubles→grasa), filtrado final (enfriar ligeramente → colar gasas crítico separar material vegetal completo deterioro pronto → resultado ~250g amarillo/dorado NO verde sabor NO amargo), almacenamiento refrigerador >1 año (ausencia proteínas+agua componentes degradables eliminados líquido ambiente→sólido refrigerado), dosificación concentrada (20g/500g MUY potente poquito pancito suficiente efecto notorio iniciar dosis pequeña evaluar tolerancia), aplicaciones culinarias (pan papas carne cualquier uso mantequilla normal), ventaja vs fumado (NO efectos adversos sistema respiratorio método consumo sin impacto pulmonar), ventajas ghee vs mantequilla tradicional (color amarillo/dorado vs verde | sabor limpio vs amargo clorofila | durabilidad >1 año vs meses | pureza solo grasa vs proteínas+agua | apto lactosa sí vs no), ventajas vs extracciones solventes (seguridad equipamiento cocina básico vs circuitos cerrados profesionales | costo ingredientes comunes vs solventes especializados | aplicabilidad reproducible casero vs conocimiento técnico | formato directamente comestible vs preparación posterior)
+- Enfoque: Tutorial práctico paso a paso + receta completa ingredientes/temperaturas/tiempos + comparativa potencia (concentrada 20g vs suave 5-10g) + ventajas método clarificado + accesibilidad casera equipamiento básico
+- Video ID: (pendiente confirmar)
+- URL: (pendiente confirmar)
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=17
+- **Nota:** Decimonovena fuente Noé. Tier A (20/25). Primera integración comestibles infusiones grasa (vs extracciones solventes HOW-014). Complementa módulo extracciones con método casero seguro accesible. Conocimiento integrado módulo: **11-extracciones.md** (nueva sección completa "Infusiones en Grasa - Comestibles Caseros" +150 líneas mantequilla ghee proceso completo). Método alternativo consumo sin riesgos respiratorios + larga durabilidad refrigerador. Total videos procesados: **32/90** (19 Noé + 13 Doña Huana = 35.6%).
+
+---
+
 **[DH-014]** Doña Juana - "CANNABIS - TIPS DE INDOOR" (2024)
 - Tipo: Video (transcripción) - 8 tips prácticos cultivo indoor
 - Expertise: Doña Juana (cultivador experimentado, filosofía pragmática)
