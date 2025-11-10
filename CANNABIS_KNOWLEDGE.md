@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.27.0
+**Versión:** 0.28.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 26 videos integrados (HOW-001 a HOW-013 + DH-001 a DH-013)
+**Estado:** En desarrollo activo - 27 videos integrados (HOW-001 a HOW-014 + DH-001 a DH-013)
 
 ---
 
@@ -230,55 +230,56 @@ Al integrar fuente:
 8. [Post-Cosecha: Secado](#8-post-cosecha-secado)
 9. [Post-Cosecha: Curado](#9-post-cosecha-curado)
 10. [Evaluación de Calidad y Cata](#10-evaluacion-de-calidad-y-cata)
+11. [Extracciones y Concentrados](#11-extracciones-y-concentrados)
 
 ### Sistemas de Cultivo
-11. [Indoor (Interior)](#11-indoor-interior)
-12. [Outdoor (Exterior)](#12-outdoor-exterior)
-13. [Greenhouse (Invernadero)](#13-greenhouse-invernadero)
-14. [Hidroponía](#14-hidroponia)
-15. [Aeroponía](#15-aeroponia)
-16. [Cultivo en Coco](#16-cultivo-en-coco)
-17. [Cultivo en Tierra](#17-cultivo-en-tierra)
+12. [Indoor (Interior)](#12-indoor-interior)
+13. [Outdoor (Exterior)](#13-outdoor-exterior)
+14. [Greenhouse (Invernadero)](#14-greenhouse-invernadero)
+15. [Hidroponía](#15-hidroponia)
+16. [Aeroponía](#16-aeroponia)
+17. [Cultivo en Coco](#17-cultivo-en-coco)
+18. [Cultivo en Tierra](#18-cultivo-en-tierra)
 
 ### Factores Ambientales
-18. [Iluminación](#18-iluminacion)
-19. [Temperatura](#19-temperatura)
-20. [Humedad](#20-humedad)
-21. [Ventilación y Circulación de Aire](#21-ventilacion-y-circulacion-de-aire)
-22. [CO₂ Suplementación](#22-co2-suplementacion)
+19. [Iluminación](#19-iluminacion)
+20. [Temperatura](#20-temperatura)
+21. [Humedad](#21-humedad)
+22. [Ventilación y Circulación de Aire](#22-ventilacion-y-circulacion-de-aire)
+23. [CO₂ Suplementación](#23-co2-suplementacion)
 
 ### Nutrición y Riego
-23. [Macronutrientes (N-P-K)](#23-macronutrientes-n-p-k)
-24. [Micronutrientes](#24-micronutrientes)
-25. [pH y su Gestión](#25-ph-y-su-gestion)
-26. [EC/TDS y Sales](#26-ectds-y-sales)
-27. [Esquemas de Fertilización](#27-esquemas-de-fertilizacion)
-28. [Riego: Frecuencia y Técnicas](#28-riego-frecuencia-y-tecnicas)
+24. [Macronutrientes (N-P-K)](#24-macronutrientes-n-p-k)
+25. [Micronutrientes](#25-micronutrientes)
+26. [pH y su Gestión](#26-ph-y-su-gestion)
+27. [EC/TDS y Sales](#27-ectds-y-sales)
+28. [Esquemas de Fertilización](#28-esquemas-de-fertilizacion)
+29. [Riego: Frecuencia y Técnicas](#29-riego-frecuencia-y-tecnicas)
 
 ### Técnicas de Cultivo
-29. [Poda y Defoliación](#29-poda-y-defoliacion)
-30. [Training (LST, HST, SCROG, SOG)](#30-training-lst-hst-scrog-sog)
-31. [Clonación](#31-clonacion)
-32. [Breeding (Crianza)](#32-breeding-crianza)
+30. [Poda y Defoliación](#30-poda-y-defoliacion)
+31. [Training (LST, HST, SCROG, SOG)](#31-training-lst-hst-scrog-sog)
+32. [Clonación](#32-clonacion)
+33. [Breeding (Crianza)](#33-breeding-crianza)
 
 ### Problemas y Soluciones
-33. [Plagas](#33-plagas)
-34. [Enfermedades (Hongos, Bacterias, Virus)](#34-enfermedades-hongos-bacterias-virus)
-35. [Deficiencias Nutricionales](#35-deficiencias-nutricionales)
-36. [Toxicidades](#36-toxicidades)
-37. [Estrés Ambiental](#37-estres-ambiental)
+34. [Plagas](#34-plagas)
+35. [Enfermedades (Hongos, Bacterias, Virus)](#35-enfermedades-hongos-bacterias-virus)
+36. [Deficiencias Nutricionales](#36-deficiencias-nutricionales)
+37. [Toxicidades](#37-toxicidades)
+38. [Estrés Ambiental](#38-estres-ambiental)
 
 ### Herramientas y Equipamiento
-38. [Medidores y Sensores](#38-medidores-y-sensores)
-39. [Luces y Balastros](#39-luces-y-balastros)
-40. [Ventiladores y Extractores](#40-ventiladores-y-extractores)
-41. [Sistemas de Riego](#41-sistemas-de-riego)
-42. [Controladores y Automatización](#42-controladores-y-automatizacion)
+39. [Medidores y Sensores](#39-medidores-y-sensores)
+40. [Luces y Balastros](#40-luces-y-balastros)
+41. [Ventiladores y Extractores](#41-ventiladores-y-extractores)
+42. [Sistemas de Riego](#42-sistemas-de-riego)
+43. [Controladores y Automatización](#43-controladores-y-automatizacion)
 
 ### Meta-Secciones
-43. [Contradicciones Pendientes](#43-contradicciones-pendientes)
-44. [Features Derivadas para Apps](#44-features-derivadas-para-apps)
-45. [Glosario de Términos](#45-glosario-de-terminos)
+44. [Contradicciones Pendientes](#44-contradicciones-pendientes)
+45. [Features Derivadas para Apps](#45-features-derivadas-para-apps)
+46. [Glosario de Términos](#46-glosario-de-terminos)
 
 ---
 
@@ -1505,7 +1506,163 @@ Al integrar fuente:
 
 ---
 
-## 🏠 11. INDOOR (INTERIOR)
+## 🧪 11. EXTRACCIONES Y CONCENTRADOS
+
+> **Estado actual:** ✅ Primera integración completa - Métodos con solventes (etanol, hidrocarburos, CO₂)
+> **Fuentes:** [HOW-014]
+> **Prioridad:** Media-Alta (conocimiento consumidor informado)
+
+### Diferenciación Fundamental
+
+**Concentrados vs Extractos:** [HOW-014]
+- **Concentrados:** procesos físicos (presión+calor+filtros)→bubble hash, charas, rosin
+- **Extractos:** procesos químicos solventes→EHO, BHO, PHO, CO₂ supercrítico
+- Diferencia clave: presencia/ausencia solventes químicos
+
+### Extracción con Etanol (EHO - Etanol Hash Oil)
+
+**Proceso:** [HOW-014]
+- Solvente: etanol alimentario (fermentación azúcares vegetales granos/maíz)
+- Método: mezcla material vegetal+etanol→disolver cannabinoides+terpenos→evaporación alcohol
+
+**Ventajas:** [HOW-014]
+- Eficacia separación cannabinoides+terpenos alta
+- Seguridad superior vs hidrocarburos (NO inflamable extremo)
+- Costo bajo vs otros métodos
+
+**Desventajas:** [HOW-014]
+- Pureza menor: residuos alcohol posibles
+- Pérdida terpenos: volatilidad alta+punto ebullición alto etanol→evaporación
+- NO óptimo full spectrum
+- Extrae clorofila→sabor desagradable áspero
+
+**RSO (Rick Simpson Oil) - Método Casero Terapéutico:** [HOW-014]
+- Solvente: alcohol alta graduación (vodka/whisky/aguardiente)
+- Proceso: mezcla alcohol+material→evaporación arrocera eléctrica→aceite denso viscoso
+- Apariencia: café oscuro casi negro
+- Uso: sublingual terapéutico (Parkinson, epilepsia, síntomas neurológicos)
+- Efectividad: casos documentados "muy efectivo" (personas dejan temblar)
+- Aplicabilidad: reproducible casero SIN equipamiento especializado
+
+### Extracción con Hidrocarburos
+
+#### BHO (Butano Hash Oil)
+
+**Proceso:** [HOW-014]
+- Solvente: butano (derivado petróleo)
+- Método: butano pasa material vegetal→separa tricomas→presión vuelve líquido→separación
+- Tecnología actual: circuitos cerrados (seguridad+eliminación total residuos)
+- ⚠️ Tecnología antigua: circuitos abiertos (impurezas+riesgo explosiones)
+
+**Controversia Benceno - Análisis Crítico:** [HOW-014]
+- Estudio defectuoso: BHO con residuos butano+temperatura >550°C excesiva
+- Concentración benceno: 1.8 partes/billón vs cigarrillo 50-60 partes/millón
+- **Conclusión:** BHO profesional circuitos cerrados seguro | mercado negro/casero riesgoso
+
+**Ventajas BHO:** [HOW-014]
+- Extracción MÁS completa perfil original variedad (full spectrum óptimo)
+- NO daña terpenos
+- Concentración: 90%+ THC posible
+- Versatilidad: amplia gama subproductos
+- Diversidad texturas/colores/cannabinoides/terpenos
+
+**Desventajas BHO:** [HOW-014]
+- Butano MUY inflamable (equipamiento circuitos cerrados costoso)
+- Casos explosiones preparación casera sin precauciones
+- Riesgo: mercado negro/casero probablemente NO cumple estándares seguridad
+
+**Subproductos BHO:** [HOW-014]
+
+*Live Resin:*
+- Material: flores recién cosechadas congeladas 24-48h
+- Características: muy aromática | textura maleable punto medio cera-salsa
+- Terpenos: alto contenido
+
+*Sauce (SOS):*
+- Material: flores frescas o congeladas
+- Apariencia: pegajosa líquida granulada
+- Terpenos: alto contenido
+
+*Diamantes:*
+- Composición: cristales cannabinoides inactivos (THCA)
+- Origen: derivado sauce u otros extractos ricos terpenos
+- Apariencia: cristalino
+
+*Shatter:*
+- Proceso: temperaturas altas durante extracción
+- Textura: translúcido color dorado duro como vidrio
+
+*Wax:*
+- Proceso: temperaturas bajas+agitación durante extracción
+- Textura: suave parecida cera vela | cremoso
+- Color: miel opaco
+- Más manejable que shatter
+
+*THCA Aislado:*
+- Apariencia: polvo cristalino
+- Pureza: 90%+ THCA
+- Conversión: calentamiento THCA→THC (descarboxilación)
+
+#### PHO (Propano Hash Oil)
+
+**Proceso:** [HOW-014]
+- Solvente: propano (hidrocarburo)
+- Condiciones: punto ebullición bajo→temperaturas bajas+presiones altas vs butano
+- Sistema: circuitos cerrados (igual BHO)
+
+**Ventajas PHO:** [HOW-014]
+- Mejor solvente recuperación máxima terpenos
+- Impurezas mínimas
+- NO extrae clorofila (vs etanol)
+
+**Características Producto:** [HOW-014]
+- Concentración: 70-90% cannabinoides
+- Color: amarillo claro (vs ámbar oscuro BHO)
+- Consistencia: blanda maleable
+
+**Combinación Butano+Propano:** [HOW-014]
+- Práctica común: mezcla aprovecha características complementarias
+
+### Extracción CO₂ Supercrítico
+
+**Proceso:** [HOW-014]
+- Solvente: CO₂ estado líquido→supercrítico (temperatura+presión)
+- Estado supercrítico: características gas (llena rincones) + densidad líquido (potencia extracción)
+
+**Ventajas:** [HOW-014]
+- Método MÁS limpio
+- Pureza alta
+
+**Desventajas:** [HOW-014]
+- Costo MÁS elevado todos métodos
+- Temperaturas+presiones altas→degradación muchos terpenos
+- Procesamiento posterior necesario→pureza óptima
+- Tiempo+costo producción aumentados
+
+**CBD Aislado:** [HOW-014]
+- Método: CO₂ supercrítico+cromatografía
+- Composición: 0% THC | 0% terpenos | 0% flavonoides | 100% CBD puro
+- Contexto legal: países permiten solo CBD (miedo/odio THC)
+- **LIMITACIÓN vs full spectrum:** NO necesariamente mejor | efecto séquito ausente
+
+### Principio Fundamental - Efecto Séquito (Full Spectrum)
+
+**Concepto:** [HOW-014]
+- Extracción semejante planta completa > aislados
+- Amplia gama compuestos naturales (THC+CBD+terpenos+flavonoides+cannabinoides menores) = efecto sinérgico
+- **Full spectrum SIEMPRE mejor vs aislados** (CBD solo, THCA solo, THC solo)
+
+### Seguridad y Calidad
+
+**Factores Críticos:** [HOW-014]
+- Proceso profesional circuitos cerrados: seguro (eliminación total residuos solventes)
+- Mercado negro/casero sin conocimiento/equipamiento: probablemente NO cumple estándares mínimos seguridad
+- BHO/PHO profesional: demostrado seguro
+- Casero sin precauciones: riesgo alto (explosiones, impurezas, toxicidad)
+
+---
+
+## 🏠 12. INDOOR (INTERIOR)
 
 > **Estado actual:** ✅ Setup básico completo - Armado grow tent + sistema eléctrico + iluminación + extracción
 > **Fuentes:** [DH-002]
@@ -1614,7 +1771,7 @@ Al integrar fuente:
 
 ---
 
-## 🌳 12. OUTDOOR (EXTERIOR)
+## 🌳 13. OUTDOOR (EXTERIOR)
 
 > **Estado actual:** ⚡ Timing hemisférico + Control tamaño integrados
 > **Fuentes:** [HOW-001], [HOW-009]
@@ -1648,35 +1805,35 @@ Al integrar fuente:
 
 ---
 
-## 🏡 13. GREENHOUSE (INVERNADERO)
+## 🏡 14. GREENHOUSE (INVERNADERO)
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 💧 14. HIDROPONÍA
+## 💧 15. HIDROPONÍA
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media-Alta
 
 ---
 
-## 🌬️ 15. AEROPONÍA
+## 🌬️ 16. AEROPONÍA
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Baja
 
 ---
 
-## 🥥 16. CULTIVO EN COCO
+## 🥥 17. CULTIVO EN COCO
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🌱 17. CULTIVO EN TIERRA
+## 🌱 18. CULTIVO EN TIERRA
 
 > **Estado actual:** ✅ EXPANDIDA - Reutilización + Mulch + Volumen + Living Soil completo
 > **Fuentes:** [HOW-001], [HOW-002], [HOW-009], [HOW-011]
@@ -1914,7 +2071,7 @@ Al integrar fuente:
 
 ---
 
-## 💡 18. ILUMINACIÓN
+## 💡 19. ILUMINACIÓN
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Crítica
@@ -1930,7 +2087,7 @@ Al integrar fuente:
 
 ---
 
-## 🌡️ 19. TEMPERATURA
+## 🌡️ 20. TEMPERATURA
 
 > **Estado actual:** ✅ COMPLETADA - Fundamentos científicos integrados
 > **Fuentes:** [DH-004]
@@ -1972,7 +2129,7 @@ Al integrar fuente:
 
 ---
 
-## 💨 20. HUMEDAD
+## 💨 21. HUMEDAD
 
 > **Estado actual:** ✅ COMPLETADA - Relación temperatura-humedad-evapotranspiración
 > **Fuentes:** [DH-004]
@@ -2005,21 +2162,21 @@ Al integrar fuente:
 
 ---
 
-## 🌀 21. VENTILACIÓN Y CIRCULACIÓN DE AIRE
+## 🌀 22. VENTILACIÓN Y CIRCULACIÓN DE AIRE
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Alta
 
 ---
 
-## 🫧 22. CO₂ SUPLEMENTACIÓN
+## 🫧 23. CO₂ SUPLEMENTACIÓN
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🧪 23. MACRONUTRIENTES (N-P-K)
+## 🧪 24. MACRONUTRIENTES (N-P-K)
 
 > **Estado actual:** ✅ Completo - Fertilizantes + KNF/Agricultura Natural Coreana integrados
 > **Fuentes:** [HOW-001], [HOW-009]
@@ -2085,7 +2242,7 @@ Al integrar fuente:
 
 ---
 
-## ⚗️ 24. MICRONUTRIENTES
+## ⚗️ 25. MICRONUTRIENTES
 
 > **Estado actual:** ✅ COMPLETADA - Calcio en fertilizantes según tipo agua
 > **Fuentes:** [DH-006]
@@ -2145,7 +2302,7 @@ Al integrar fuente:
 
 ---
 
-## ⚗️ 25. pH Y SU GESTIÓN
+## ⚗️ 26. pH Y SU GESTIÓN
 
 > **Estado actual:** ✅ EXPANDIDA - Protocolo medición + calibración + ajuste + tipos de agua
 > **Fuentes:** [DH-001] [DH-005]
@@ -2395,7 +2552,7 @@ Al integrar fuente:
 
 ---
 
-## 📊 26. EC/TDS Y SALES
+## 📊 27. EC/TDS Y SALES
 
 > **Estado actual:** ✅ EXPANDIDA - Protocolos aplicación práctica EC + medición runoff + riego multi-pulso
 > **Fuentes:** [DH-006], [DH-007]
@@ -2798,7 +2955,7 @@ Acción futura: mantener dosis actual
 
 ---
 
-## 📋 27. ESQUEMAS DE FERTILIZACIÓN
+## 📋 28. ESQUEMAS DE FERTILIZACIÓN
 
 > **Estado actual:** ⚡ Primera integración
 > **Fuentes:** [HOW-001]
@@ -2819,7 +2976,7 @@ Acción futura: mantener dosis actual
 
 ---
 
-## 💧 28. RIEGO: FRECUENCIA Y TÉCNICAS
+## 💧 29. RIEGO: FRECUENCIA Y TÉCNICAS
 
 > **Estado actual:** ✅ EXPANDIDO - Protocolos profesionales + práctica completa
 > **Fuentes:** [HOW-003], [DH-012]
@@ -2960,7 +3117,7 @@ Acción futura: mantener dosis actual
 
 ---
 
-## ✂️ 29. PODA Y DEFOLIACIÓN
+## ✂️ 30. PODA Y DEFOLIACIÓN
 
 > **Estado actual:** ✅ Completo - Técnicas indoor/outdoor consolidadas
 > **Fuentes:** [HOW-001], [HOW-002], [HOW-009]
@@ -3194,7 +3351,7 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## 🐛 33. PLAGAS
+## 🐛 34. PLAGAS
 
 > **Estado actual:** ✅ EXPANDIDA - Prevención raíces (Trichoderma/Micorrizas) + mecánicas biológicas productos + filosofía prevención
 > **Fuentes:** [HOW-002], [HOW-005], [DH-008]
@@ -3447,7 +3604,7 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## 🦠 34. ENFERMEDADES (HONGOS, BACTERIAS, VIRUS)
+## 🦠 35. ENFERMEDADES (HONGOS, BACTERIAS, VIRUS)
 
 > **Estado actual:** ✅ COMPLETADA - Hongos cannabis identificación + prevención + combate + salud pública
 > **Fuentes:** [HOW-013]
@@ -3659,7 +3816,7 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## 🍂 35. DEFICIENCIAS NUTRICIONALES
+## 🍂 36. DEFICIENCIAS NUTRICIONALES
 
 > **Estado actual:** ✅ Diagnóstico práctico causas comunes integrado
 > **Fuentes:** [DH-003]
@@ -3769,7 +3926,7 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## ☠️ 36. TOXICIDADES
+## ☠️ 37. TOXICIDADES
 
 > **Estado actual:** ✅ Sobre-fertilización integrada - Acumulación sales + síntomas
 > **Fuentes:** [DH-003]
@@ -3810,21 +3967,21 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## 📏 38. MEDIDORES Y SENSORES
+## 📏 39. MEDIDORES Y SENSORES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 💡 39. LUCES Y BALASTROS
+## 💡 40. LUCES Y BALASTROS
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
 
 ---
 
-## 🌀 40. VENTILADORES Y EXTRACTORES
+## 🌀 41. VENTILADORES Y EXTRACTORES
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Media
@@ -3838,14 +3995,14 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## 🤖 42. CONTROLADORES Y AUTOMATIZACIÓN
+## 🤖 43. CONTROLADORES Y AUTOMATIZACIÓN
 
 > **Estado actual:** Vacío - Pendiente primera fuente  
 > **Prioridad:** Baja
 
 ---
 
-## ⚠️ 43. CONTRADICCIONES PENDIENTES
+## ⚠️ 44. CONTRADICCIONES PENDIENTES
 
 > Registro de información conflictiva entre fuentes que requiere validación comunitaria
 
@@ -3863,7 +4020,7 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## 📱 44. FEATURES DERIVADAS PARA APPS
+## 📱 45. FEATURES DERIVADAS PARA APPS
 
 > Funcionalidades de software que emergen del conocimiento acumulado
 
@@ -3882,7 +4039,7 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 
 ---
 
-## 📖 45. GLOSARIO DE TÉRMINOS
+## 📖 46. GLOSARIO DE TÉRMINOS
 
 > Definiciones ultra-densas de términos técnicos
 

@@ -5,6 +5,32 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.28.0] - 2025-11-09
+
+### Agregado
+- **[HOW-014]** Decimocuarta integración House of Weed: "Formas de Extraer RESINA CON SOLVENTES" - Panorama completo extracciones con solventes (etanol, hidrocarburos, CO₂)
+- **NUEVA SECCIÓN 11 (Extracciones y Concentrados):** CREADA primera integración conocimiento extracciones químicas
+  - **Diferenciación fundamental:** concentrados (procesos físicos presión+calor+filtros→bubble hash/charas/rosin) vs extractos (solventes químicos→EHO/BHO/PHO/CO₂) distinción terminológica+metodológica precisa
+  - **Extracción etanol (EHO):** solvente alcohol alimentario fermentación granos+maíz proceso mezcla→disolución cannabinoides+terpenos→evaporación ventajas eficacia alta+seguridad superior vs hidrocarburos+bajo costo desventajas pureza inferior restos alcohol+terpenos volátiles pérdida evaporación+extrae clorofila sabor áspero
+  - **RSO (Rick Simpson Oil) método casero terapéutico:** alcohol graduación alta vodka/whisky/aguardiente proceso mezcla→evaporación arrocera eléctrica→aceite denso viscoso uso sublingual Parkinson/epilepsia efectividad "muy efectivo" casos documentados aplicabilidad reproducible casero SIN equipamiento especializado
+  - **Extracción butano (BHO):** proceso butano atraviesa material→separación tricomas→presión líquido→separación resina circuitos cerrados seguridad+eliminación completa butano vs antiguos abiertos impurezas+explosiones análisis crítico estudio benceno metodología defectuosa (BHO defectuoso restos butano+temperaturas excesivas 550°C+concentración mínima 1.8ppb vs cigarrillo 50-60ppm) producto seguro proceso bien hecho ventajas extracción completa perfil original+terpenos intactos full spectrum+concentración 90%+ THC+versatilidad subproductos desventaja inflamabilidad alto requiere implementación costosa
+  - **Subproductos BHO detallados:** live resin (flores frescas congeladas 24-48h aromático textura cera-salsa)→sauce/SOS (pegajoso líquido granulado alto terpenos)→diamantes (cristalinos THCA inactivo de sauce)→shatter (translúcido dorado duro vidrio alta temperatura)→wax (cremoso cera miel opaco baja temperatura+agitación)→THCA aislado (polvo cristalino 90%+ pureza descarboxilación→THC)
+  - **Extracción propano (PHO):** mejor solvente recuperación terpenos+mínimas impurezas NO extrae clorofila punto ebullición bajo temperaturas bajas+presiones altas vs BHO concentración 70-90% color amarillo claro vs ámbar oscuro BHO textura blanda maleable combinaciones butano+propano características mixtas
+  - **CO₂ supercrítico:** CO₂ líquido estado supercrítico gas+líquido temperatura+presión disuelve resina uno de métodos más costosos+limpios desventajas altas temperaturas+presiones degradan terpenos+procesamiento posterior requerido incrementa tiempo+costo aplicación CBD aislado cromatografía sin THC+terpenos+flavonoides legalidad países odio THC NO necesariamente mejor
+  - **Principio efecto séquito FUNDAMENTAL:** extracción semejante planta amplia gama compuestos naturales flor "mucho mejor" full spectrum > aislados
+
+### Cambiado
+- **Índice general:** Sección 11 "Extracciones y Concentrados" insertada, todas secciones 11-45 renumeradas 12-46 (35 secciones afectadas)
+- **Sección 11:** de "Vacío" a "✅ COMPLETADA - Primera integración panorama completo extracciones solventes (etanol, hidrocarburos, CO₂) [HOW-014]"
+- **Estado general:** 27 videos integrados (HOW-001 a HOW-014 + DH-001 a DH-013)
+- **Distribución Tiers:** 1 TIER S (3.7%) + **19 TIER A (70.4%)** + 7 TIER B (25.9%) = 27 fuentes totales
+- **Videos procesados:** 27/90 (30.0%) = 14 House of Weed + 13 Doña Huana
+
+### Notas
+Decimocuarta House of Weed. **DECIMONOVENA FUENTE TIER A** (HOW-001/002/003/004/005/007/008/009/010/011/013+DH-001/002/003/004/005/007/013 previos). Tier A (21/25) por -1 Credibilidad cultivador profesional diferenciación técnica precisa análisis crítico estudios científicos PERO ausencia experiencia práctica preparación extracciones +5 Calidad explicación completa 3 categorías pros/contras cada método subproductos BHO detallados parámetros técnicos riesgos seguridad +5 Consistencia coherencia total análisis crítico estudio benceno cero contradicciones -2 Aplicabilidad educativo/informativo NO tutorial práctico ausencia protocolos paso a paso +5 Objetividad presentación balanceada análisis crítico cero promoción comercial advertencias seguridad claras. Contenido VALIOSO: diferenciación concentrados vs extractos terminológica+metodológica única fuente define conceptual, RSO método terapéutico casero reproducible vodka/whisky arrocera accesible "muy efectivo" Parkinson/epilepsia aplicabilidad real principiantes, análisis crítico estudio benceno (1.8ppb vs 50-60ppm cigarrillo+BHO defectuoso+550°C excesivo) educación consumidor informado, subproductos BHO 7 tipos live resin/sauce/diamantes/shatter/wax/THCA diferenciación completa mercado, propano vs butano comparativa técnica terpenos+clorofila+temperatura/presión, efecto séquito principio "full spectrum > aislados" fundamento científico-práctico. **ÚNICA FUENTE ACTUAL EXTRACCIONES SOLVENTES** = gap importante llenado conocimiento consumidor informado identificación/selección productos mercado vs preparación hands-on. **RENUMERACIÓN MASIVA:** 35 secciones 11-45→12-46 (Indoor, Outdoor, Sustratos, Fertilización, Plagas, Riego, etc.). Cross-ref Sección 1 Genética terpenos modulan efectos, Sección 10 Cata calidad producto final. Total: 27/90 (14 Noé + 13 DH).
+
+---
+
 ## [0.27.0] - 2025-11-09
 
 ### Agregado
