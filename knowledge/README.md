@@ -1,12 +1,15 @@
 # 📚 Navegación Módulos - Base de Conocimiento Cannabis
 
-> **Sistema Modular v1.0** | 48 módulos independientes | ~3,954 líneas distribuidas
+> **Sistema Modular v1.0** | 49 módulos independientes | 32/90 videos procesados (35.6%)
+>
+> **Distribución Tiers:** 2 S (6.3%) + 22 A (68.8%) + 8 B (25.0%)
 
 ## 🎯 Inicio Rápido
 
-- **Índice General:** [../CANNABIS_KNOWLEDGE.md](../CANNABIS_KNOWLEDGE.md)
+- **Wiki Pública:** [https://donmrmango.github.io/cannabis-knowledge/](https://donmrmango.github.io/cannabis-knowledge/)
 - **Meta-Prompt IA:** [00-meta/meta-prompt.md](00-meta/meta-prompt.md)
 - **Referencias Fuentes:** [../sources/references.md](../sources/references.md)
+- **Historial Cambios:** [../CHANGELOG.md](../CHANGELOG.md)
 
 ## 📂 Estructura Módulos
 
@@ -23,7 +26,7 @@ Fases del ciclo de vida desde semilla hasta evaluación final:
 - [07-maduracion-cosecha.md](01-ciclo-vida/07-maduracion-cosecha.md) - Punto corte, timing subjetivo, métodos cosecha
 - [08-secado.md](01-ciclo-vida/08-secado.md) - Post-cosecha secado, parámetros ambientales
 - [09-curado.md](01-ciclo-vida/09-curado.md) - Curado frascos, burping, tiempos
-- [10-evaluacion-cata.md](01-ciclo-vida/10-evaluacion-cata.md) - Evaluación calidad, cata, valoración
+- [10-evaluacion-cata.md](01-ciclo-vida/10-evaluacion-cata.md) ⭐ - Evaluación calidad, cata, **8 terpenos específicos** [HOW-017]
 
 ### 🏡 02-sistemas-cultivo/ (7 módulos)
 
@@ -35,7 +38,7 @@ Métodos y sistemas de cultivo:
 - [15-hidroponia.md](02-sistemas-cultivo/15-hidroponia.md) - Hidroponía, sistemas NFT/DWC
 - [16-aeroponia.md](02-sistemas-cultivo/16-aeroponia.md) - Aeroponía, raíces suspendidas
 - [17-coco.md](02-sistemas-cultivo/17-coco.md) - Fibra coco, drenaje rápido
-- [18-tierra.md](02-sistemas-cultivo/18-tierra.md) - Living soil, orgánico, microbiología
+- [18-tierra.md](02-sistemas-cultivo/18-tierra.md) ⭐ **TIER S** - Living soil, **sustrato infinito reutilizable 3 años validado** [HOW-016]
 
 ### 🌡️ 03-ambiente/ (5 módulos)
 
@@ -73,7 +76,7 @@ Problemas comunes y soluciones:
 
 - [34-plagas.md](06-problemas/34-plagas.md) - Identificación, prevención, combate plagas
 - [35-enfermedades.md](06-problemas/35-enfermedades.md) - Hongos, bacterias, virus
-- [36-deficiencias.md](06-problemas/36-deficiencias.md) - Deficiencias nutricionales, síntomas
+- [36-deficiencias.md](06-problemas/36-deficiencias.md) ⭐ **TIER S** - Deficiencias nutricionales, **troubleshooting completo bloqueo nutrientes** [HOW-018]
 - [37-toxicidades.md](06-problemas/37-toxicidades.md) - Excesos nutrientes, quemaduras
 - [37-estres-ambiental.md](06-problemas/37-estres-ambiental.md) - Estrés luz, temp, agua
 
@@ -91,7 +94,7 @@ Equipamiento y herramientas:
 
 Productos derivados:
 
-- [11-extracciones.md](08-productos/11-extracciones.md) - Extracciones, concentrados, BHO, EHO, rosin
+- [11-extracciones.md](08-productos/11-extracciones.md) ⭐ - **Métodos solventes completo + Mantequilla ghee cannábica** [HOW-014, HOW-019]
 
 ### 📚 99-meta/ (4 módulos)
 
@@ -128,11 +131,16 @@ grep -r "\[HOW-015\]" knowledge/
 
 ## 📊 Estadísticas
 
-- **Total módulos:** 48
-- **Total líneas:** ~3,954
-- **Promedio/módulo:** ~82 líneas
-- **Módulo más grande:** 01-genetica.md (315 líneas)
-- **Videos integrados:** 28/90 (31.1%)
+- **Total módulos:** 49
+- **Videos procesados:** 32/90 (35.6%)
+- **Distribución Tiers:** 2 S + 22 A + 8 B
+- **Videos Tier S (Perfectos 25/25):**
+  1. [HOW-016] Living Soil - Sustrato infinito ([18-tierra.md](02-sistemas-cultivo/18-tierra.md))
+  2. [HOW-018] Troubleshooting Bloqueo Nutrientes ([36-deficiencias.md](06-problemas/36-deficiencias.md))
+- **Contenido más completo:**
+  - Evaluación y Cata: 8 terpenos específicos documentados
+  - Extracciones: Solventes + Infusiones en grasa (ghee cannábica)
+  - Deficiencias: Diagnóstico + Bloqueo nutrientes completo
 
 ## 🔄 Migración
 
