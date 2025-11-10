@@ -5,6 +5,34 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.7-modular] - 2025-11-10
+
+### Agregado
+- **[HOW-021]** Noé (House of Weed) - "Indoor Artesanal bajo Costo" - **Tier A (21/25)** 💰 Patrocinado Mars Hydro
+- **knowledge/02-sistemas-cultivo/12-indoor.md:** EXPANDIDA nueva sección completa "Indoor Artesanal - Guía Bajo Costo Principiantes" (+170 líneas)
+  - Setup inicial closet experiencia real: 70cm×2.5m angosto largo, capacidad 10 plantas vegetativo / 5 floración
+  - Preparación espacio: vaciar + pintar blanco (solo mitad inferior pintura disponible) + protección suelo cartones/platos
+  - Instalación eléctrica básica artesanal: cable + regletas + cáncamos + soquetes 3 + cadenas regulación altura (herramientas básicas mayoría casas)
+  - **Iluminación inicial limitaciones:** 3 focos ahorro energía 65W cada uno (total 195W) **CRÍTICO insuficiente floración** uso adecuado esquejes/madres + reflectores aluminio artesanales baja efectividad anécdota aprendizaje
+  - Ventilación básica: ventilador + puerta entreabierta + hoyos bajos puertas entrada aire pasiva
+  - Evolución progresiva: closet vegetativo → trasladar pieza desarrolladas → floración pieza más espacio (cáncamos sodio→LED puerta abierta sin extractor bandejas suelo)
+  - **Optimizaciones recomendadas si volver hacer:**
+    - Técnicas cultivo espacio angosto: **LST crítico** planta baja horizontal múltiples flores principales distribución luz pareja + SCROG combinar malla guiar eficiencia espacial
+    - **Iluminación optimizada:** LED full spectrum Mars Hydro SP250 **ADVERTENCIA video patrocinado sesgo comercial** formato rectangular ideal angostos feature fuente removible controlar temperatura ventaja vs sodio menor calor menores requerimientos extracción
+    - Ambiente optimizado: LED 1-2 ventiladores suficiente / climas calor extractor+intractor+filtro carbono / **termohigrómetro crítico** sumamente útil medir temperatura+humedad identificar mejorar
+  - **Filosofía aprendizaje progresivo:** proceso paulatino NO esperar mejor resultado primera/implementos profesional sin experiencia / tolerancia frustración crítico aceptar plantas morirán dejar embarrada parte proceso mentalidad aprendizaje NO perfección / paciencia requisito fundamental
+  - Caso personal Noé: presupuestos súper bajos exterior→indoor estudiante sin recursos closet artesanal primeras cosechas **valor aprendizajes > producción inicial**
+  - Estrategia evolutiva recomendada 3 etapas: 1.mínimo viable (closet básico ventilador primeras cosechas aprendizaje) → 2.optimización progresiva (upgrade LED LST/SCROG extractor termohigrómetro) → 3.refinamiento (filtro carbono automatización técnicas avanzadas)
+
+### Cambiado
+- **Distribución Tiers:** **3 S (8.8%) + 23 A (67.6%) + 8 B (23.5%) = 34 total**
+- **Videos procesados:** **34/90 (37.8%)** = 21 Noé + 13 Doña Huana
+
+### Notas
+Vigésima primera fuente Noé. Tier A (21/25). **Video patrocinado Mars Hydro - Sesgo comercial reduce objetividad (3/5) impide Tier S**. Puntuación: credibilidad 4/5 (experiencia documentada PERO patrocinado), calidad 4/5 (medidas específicas recomendaciones concretas PERO falta parámetros ambientales + solución muy básica), consistencia 5/5, aplicabilidad 5/5 (extremadamente práctico principiantes bajo presupuesto estrategia evolutiva realista), objetividad 3/5 (CRÍTICO patrocinio Mars Hydro código descuento recomienda exclusivamente SP250 sin comparar alternativas). Contenido técnicamente sólido + extremadamente práctico principiantes bajo presupuesto. Experiencia personal valiosa admite errores/limitaciones (3×65W insuficiente floración, reflectores artesanales poco efectivos). Filosofía aprendizaje progresivo proceso paulatino tolerancia frustración VALIOSA principiantes expectativas realistas. Estrategia evolutiva closet→pieza→mejoras reproducible. Técnicas LST/SCROG para espacio angosto correctas. Complementa DH-002 grow tent profesional + DH-014 filosofía pragmática. Accesibilidad todos niveles: desde principiante bajo presupuesto hasta optimización profesional.
+
+---
+
 ## [1.0.6-modular] - 2025-11-10
 
 ### 🌟 TERCER TIER S - Clonación Profesional Completa

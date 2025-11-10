@@ -1,12 +1,12 @@
-# Sección 12: uindoor
+# Sección 12: Indoor
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-10
+> **Estado:** Expandido con Indoor Artesanal
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ Setup básico completo - Armado grow tent + sistema eléctrico + iluminación + extracción
-> **Fuentes:** [DH-002]
-> **Prioridad:** Crítica cumplida
+> **Estado actual:** ✅ COMPLETO - Setup grow tent profesional + Indoor artesanal bajo costo + Filosofía pragmática
+> **Fuentes:** [DH-002], [DH-014], [HOW-016], [HOW-021]
+> **Prioridad:** Crítica cumplida - Accesibilidad todos niveles
 
 ### Estructura Grow Tent
 
@@ -270,5 +270,174 @@
 - Coherente filosofía pragmática: inversión baja/retorno alto (vs AC/humidificador alto costo/bajo retorno)
 
 **Relacionado:** Ver Sección 18 (Tierra) - Trasplantes progresivos HOW-001/002
+
+---
+
+## INDOOR ARTESANAL - Guía Bajo Costo Principiantes
+
+### Setup Inicial Closet - Experiencia Real Noé
+
+**Espacio disponible:** [HOW-021]
+- Dimensions: 70cm profundidad × 2.5m largo (angosto pero largo)
+- Capacidad vegetativo: hasta 10 plantas
+- Capacidad floración: 5 plantas máximo
+- **Limitación:** NO espacio ideal PERO funcional aprendizaje
+
+**Preparación espacio:** [HOW-021]
+- Vaciar closet completamente
+- Pintar paredes blancas (aumentar reflejo luz)
+  - **Caso real:** solo mitad inferior (limitación pintura disponible casa)
+  - Objetivo: reflectancia superior vs color rosado original
+- Protección suelo: cartones + platos (evitar daño madera agua escurrida)
+  - **CRÍTICO:** prevenir humedad acumulación→plagas + deterioro
+
+### Instalación Eléctrica Básica Artesanal
+
+**Materiales necesarios:** [HOW-021]
+- Cable: metros suficientes traer corriente exterior
+- Regletas/zapatillas: distribuir electricidad
+- Cáncamos: fijar techo colgar luces
+- Conduit + cajas PVC: protección cables
+- Soquetes: 3 unidades (caso inicial)
+- Cadenas: 3 unidades (regulación altura focos)
+
+**Instalación:** [HOW-021]
+- Objetivo: traer corriente a 3 focos luz colgados
+- **Herramientas básicas:** taladro, brocas, alicate, atornillador
+  - Disponibilidad: mayoría casas (no especializado)
+- Complejidad: sencilla (finalidad traer corriente focos)
+- Cadenas función: regular altura focos según crecimiento plantas
+  - **Razón:** alejar focos→distribución luz más pareja a medida plantas crecen
+
+### Iluminación Inicial - Limitaciones y Aprendizajes
+
+**Setup inicial (NO recomendado flores):** [HOW-021]
+- Tipo: 3 focos ahorro energía
+- Potencia: 65W cada uno (total 195W)
+- **LIMITACIÓN CRÍTICA:** potencia insuficiente floración buenas flores
+- **Uso adecuado:** esquejes O plantas madre
+- **Resultado:** flores pequeñas, poco resinosas (calidad baja)
+
+**Reflectores artesanales:** [HOW-021]
+- Material: aluminio casero
+- Efectividad: baja ("no fueron muy efectivos, pero salvaron")
+- Status: anécdota aprendizaje inicio
+
+**Recomendación iluminación adecuada:** [HOW-021]
+- LED: mayor potencia + espectros diferentes etapas planta
+- Sodio: alternativa PERO genera más calor
+- Objetivo: flores grandes + resinosas requieren mayor potencia luz
+
+### Ventilación y Ambiente Básico
+
+**Ventilación artesanal mínima:** [HOW-021]
+- **Setup:** 1 ventilador + puerta entreabierta
+- Función: salida aire acumulado + corriente aire pequeña
+- **Entrada aire pasiva:** hoyos partes bajas puertas
+  - Objetivo: permitir entrada aire fresco sin equipamiento activo
+
+**Evolución: Closet → Pieza Completa** [HOW-021]
+- **Estrategia progresiva:**
+  1. Inicio cultivo: closet (vegetativo)
+  2. Plantas desarrolladas altura: trasladar pieza
+  3. Vegetación + floración: pieza con más espacio
+- **Setup pieza:**
+  - Cáncamos techo: colgar iluminación
+  - Iluminación: sodio (primera etapa) → LED (posterior)
+  - Puerta abierta: circulación aire (sin extractor)
+  - Bandejas suelo: protección NO dañar suelo riego
+
+**Resultado:** [HOW-021]
+- Cosechas exitosas: aprendizaje continuo
+- Experimentación: seguir probando técnicas
+
+### Optimizaciones Recomendadas - Si Volver Hacer
+
+**1. Técnicas cultivo para espacio angosto:** [HOW-021]
+- **LST (Low Stress Training):** CRÍTICO espacio angosto+largo
+  - Objetivo: planta baja + crecimiento horizontal
+  - Resultado: múltiples flores principales (NO solo 1 apical)
+  - Distribución luz: mucho más pareja vs crecimiento vertical
+  - **Aplicable:** fotoperiódicas + automáticas
+- **SCROG (Screen of Green):** combinar con LST
+  - Malla: guiar puntas/flores principales
+  - Eficiencia espacial: máxima ocupación espacio disponible
+- **Filosofía:** utilizar espacios eficientemente + distribuir luz óptimamente
+
+**2. Iluminación optimizada:** [HOW-021]
+- **Tipo recomendado:** LED full spectrum
+- **Modelo específico mencionado:** Mars Hydro SP250
+  - **ADVERTENCIA:** video patrocinado Mars Hydro (sesgo comercial)
+  - Ventaja: formato rectangular (ideal espacios angostos alargados)
+  - Full spectrum: sirve todas etapas planta
+  - **Feature fuente removible:** sacar 4 tornillos→fuente alimentación exterior
+    - Razón: controlar temperatura mejor (fuente genera calor)
+- **Ventaja vs sodio/aluro:**
+  - Menor calor generado
+  - Menores requerimientos extracción/circulación aire
+  - NO acumula calor excesivo espacio pequeño
+- **Conexión:** simple alargador (sin instalación compleja)
+
+**3. Ambiente optimizado:** [HOW-021]
+- **Con LED (menor calor):**
+  - Ventiladores: 1-2 unidades mover aire interior suficiente
+  - Temperatura: NO problema significativo
+- **Climas calor extremo:**
+  - Extractor: necesario
+  - Intractor: necesario
+  - Filtro carbono: opcional manejo olor
+- **Monitoreo CRÍTICO:**
+  - Termohigrómetro: "sumamente útil"
+  - Función: medir temperatura + humedad constante
+  - Utilidad: identificar qué funciona / qué necesita mejorar
+
+### Filosofía Aprendizaje Progresivo
+
+**Proceso paulatino cultivador:** [HOW-021]
+- **NO esperar:**
+  - Mejor resultado primera vez
+  - Todos implementos desde inicio
+  - Cultivo profesional sin experiencia
+- **Realidad:**
+  - Proceso gradual: ir agregando implementos con tiempo
+  - Mejorar: identificar qué necesita optimización según recursos disponibles
+  - Aprendizaje: cada cultivo enseña qué mejorar próximo
+
+**Tolerancia frustración:** [HOW-021]
+- **CRÍTICO:** aceptar que plantas morirán
+- "Dejar embarrada" cultivos: parte proceso aprendizaje
+- **Mentalidad:** proceso + aprendizaje (NO perfección inmediata)
+- Paciencia: requisito fundamental cultivador principiante
+
+**Caso personal Noé:** [HOW-021]
+- Inicio: presupuestos "súper bajos"
+- Primeros cultivos: exterior (solo agua + poco fertilizante)
+- Indoor: estudiante sin muchos recursos
+- Closet artesanal: primeras cosechas + aprendizajes valiosos
+- **Valor:** aprendizajes > producción inicial
+
+### Estrategia Evolutiva Recomendada
+
+**Etapa 1: Mínimo viable** [HOW-021]
+- Espacio: closet/rincón adaptado
+- Iluminación: básica disponible (aceptar limitaciones)
+- Ventilación: ventilador + entrada pasiva aire
+- Objetivo: primeras cosechas + aprendizaje fundamental
+
+**Etapa 2: Optimización progresiva** [HOW-021]
+- Iluminación: upgrade LED adecuado potencia
+- Técnicas: LST/SCROG según espacio
+- Ventilación: extractor+intractor si necesario clima
+- Monitoreo: termohigrómetro
+
+**Etapa 3: Refinamiento** [HOW-021]
+- Filtro carbono: si olor problema
+- Automatización: timer, control ambiental
+- Técnicas avanzadas: según experiencia acumulada
+
+**Relacionado:**
+- Ver Sección 30 (Training) - LST/SCROG técnicas detalladas
+- Ver Sección 19 (Iluminación) - Tipos luces comparativa
+- Ver Sección 22 (Ventilación) - Sistemas extracción
 
 ---
