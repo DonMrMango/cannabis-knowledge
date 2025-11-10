@@ -97,6 +97,7 @@ extra:
 
 nav:
   - Inicio: index.md
+  - 📚 Índice Completo: modulos.md
   - Ciclo de Vida:
     - Genética: ../knowledge/01-ciclo-vida/01-genetica.md
     - Germinación: ../knowledge/01-ciclo-vida/02-germinacion.md
