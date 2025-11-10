@@ -37,41 +37,41 @@ Esta base de conocimiento utiliza un sistema de evaluación objetiva de fuentes 
 
 La base de conocimiento está organizada en **8 categorías principales**:
 
-### 🌱 [Ciclo de Vida](knowledge/01-ciclo-vida/01-genetica.md)
+### 🌱 [Ciclo de Vida](../knowledge/01-ciclo-vida/01-genetica.md)
 Desde la semilla hasta la cosecha: genética, germinación, vegetativa, floración, secado, curado y evaluación.
 
 **Destacados:**
-- [Evaluación y Cata](knowledge/01-ciclo-vida/10-evaluacion-cata.md) - Incluye 8 terpenos específicos con aromas y efectos
+- [Evaluación y Cata](../knowledge/01-ciclo-vida/10-evaluacion-cata.md) - Incluye 8 terpenos específicos con aromas y efectos
 
-### 🏠 [Sistemas de Cultivo](knowledge/02-sistemas-cultivo/12-indoor.md)
+### 🏠 [Sistemas de Cultivo](../knowledge/02-sistemas-cultivo/12-indoor.md)
 Indoor, outdoor, greenhouse, hidroponía, aeroponía, coco y tierra.
 
 **Destacados:**
-- [Tierra - Living Soil](knowledge/02-sistemas-cultivo/18-tierra.md) - Receta completa sustrato infinito validada 3 años
+- [Tierra - Living Soil](../knowledge/02-sistemas-cultivo/18-tierra.md) - Receta completa sustrato infinito validada 3 años
 
-### 🌡️ [Ambiente](knowledge/03-ambiente/19-iluminacion.md)
+### 🌡️ [Ambiente](../knowledge/03-ambiente/19-iluminacion.md)
 Control ambiental: iluminación, temperatura, humedad, ventilación y CO₂.
 
-### 💧 [Nutrición](knowledge/04-nutricion/24-macronutrientes.md)
+### 💧 [Nutrición](../knowledge/04-nutricion/24-macronutrientes.md)
 Nutrientes, pH, EC/TDS, fertilización y riego.
 
-### ✂️ [Técnicas](knowledge/05-tecnicas/30-training.md)
+### ✂️ [Técnicas](../knowledge/05-tecnicas/30-training.md)
 Training, poda, defoliación, clonación y breeding.
 
-### 🐛 [Problemas](knowledge/06-problemas/34-plagas.md)
+### 🐛 [Problemas](../knowledge/06-problemas/34-plagas.md)
 Diagnóstico y soluciones: plagas, enfermedades, deficiencias y estrés.
 
 **Destacados:**
-- [Deficiencias y Bloqueos](knowledge/06-problemas/36-deficiencias.md) - Troubleshooting completo bloqueo nutrientes
+- [Deficiencias y Bloqueos](../knowledge/06-problemas/36-deficiencias.md) - Troubleshooting completo bloqueo nutrientes
 
-### 🔧 [Equipamiento](knowledge/07-equipamiento/39-medidores-sensores.md)
+### 🔧 [Equipamiento](../knowledge/07-equipamiento/39-medidores-sensores.md)
 Medidores, luces, sistemas de riego, ventiladores y automatización.
 
-### 🧪 [Productos](knowledge/08-productos/11-extracciones.md)
+### 🧪 [Productos](../knowledge/08-productos/11-extracciones.md)
 Extracciones, concentrados y comestibles.
 
 **Destacados:**
-- [Extracciones y Concentrados](knowledge/08-productos/11-extracciones.md) - Incluye métodos solventes + mantequilla ghee cannábica
+- [Extracciones y Concentrados](../knowledge/08-productos/11-extracciones.md) - Incluye métodos solventes + mantequilla ghee cannábica
 
 ## 🌟 Contenido Destacado
 
@@ -82,7 +82,7 @@ Solo **2 videos** han alcanzado puntuación perfecta:
 1. **[HOW-016]** Living Soil - Sustrato infinito reutilizable 3 años validado
 2. **[HOW-018]** Troubleshooting bloqueo nutrientes - Caso real con solución innovadora
 
-Ver [Referencias Completas](sources/references.md) para detalles de evaluación.
+Ver [Referencias Completas](../sources/references.md) para detalles de evaluación.
 
 ## 🔍 Características del Sistema
 
@@ -122,29 +122,29 @@ Usa el **menú lateral** para explorar por categorías o la **barra de búsqueda
 ### Guías Recomendadas por Nivel
 
 **Principiantes:**
-1. [Germinación](knowledge/01-ciclo-vida/02-germinacion.md)
-2. [Indoor - Setup básico](knowledge/02-sistemas-cultivo/12-indoor.md)
-3. [Riego](knowledge/04-nutricion/29-riego.md)
+1. [Germinación](../knowledge/01-ciclo-vida/02-germinacion.md)
+2. [Indoor - Setup básico](../knowledge/02-sistemas-cultivo/12-indoor.md)
+3. [Riego](../knowledge/04-nutricion/29-riego.md)
 
 **Intermedios:**
-1. [Training (LST, SCROG)](knowledge/05-tecnicas/30-training.md)
-2. [Deficiencias - Diagnóstico](knowledge/06-problemas/36-deficiencias.md)
-3. [Living Soil](knowledge/02-sistemas-cultivo/18-tierra.md)
+1. [Training (LST, SCROG)](../knowledge/05-tecnicas/30-training.md)
+2. [Deficiencias - Diagnóstico](../knowledge/06-problemas/36-deficiencias.md)
+3. [Living Soil](../knowledge/02-sistemas-cultivo/18-tierra.md)
 
 **Avanzados:**
-1. [Bloqueo Nutrientes - Troubleshooting](knowledge/06-problemas/36-deficiencias.md#bloqueo-nutrientes-troubleshooting-completo)
-2. [Evaluación y Cata](knowledge/01-ciclo-vida/10-evaluacion-cata.md)
-3. [Extracciones](knowledge/08-productos/11-extracciones.md)
+1. [Bloqueo Nutrientes - Troubleshooting](../knowledge/06-problemas/36-deficiencias.md#bloqueo-nutrientes-troubleshooting-completo)
+2. [Evaluación y Cata](../knowledge/01-ciclo-vida/10-evaluacion-cata.md)
+3. [Extracciones](../knowledge/08-productos/11-extracciones.md)
 
 ## 🤝 Contribuir
 
-Este proyecto está en desarrollo activo. Ver [historial de cambios](CHANGELOG.md) para actualizaciones recientes.
+Este proyecto está en desarrollo activo. Ver [historial de cambios](../CHANGELOG.md) para actualizaciones recientes.
 
 ## 📖 Referencias
 
-- [Fuentes Evaluadas](sources/references.md) - Listado completo con evaluaciones
-- [Meta-Prompt](knowledge/00-meta/meta-prompt.md) - Metodología de procesamiento
-- [Glosario](knowledge/99-meta/46-glosario.md) - Terminología técnica
+- [Fuentes Evaluadas](../sources/references.md) - Listado completo con evaluaciones
+- [Meta-Prompt](../knowledge/00-meta/meta-prompt.md) - Metodología de procesamiento
+- [Glosario](../knowledge/99-meta/46-glosario.md) - Terminología técnica
 
 ---
 

@@ -7,7 +7,7 @@ repo_name: DonMrMango/cannabis-knowledge
 repo_url: https://github.com/DonMrMango/cannabis-knowledge
 edit_uri: edit/main/
 
-docs_dir: .
+docs_dir: docs
 
 theme:
   name: material
@@ -98,59 +98,59 @@ extra:
 nav:
   - Inicio: index.md
   - Ciclo de Vida:
-    - Genética: knowledge/01-ciclo-vida/01-genetica.md
-    - Germinación: knowledge/01-ciclo-vida/02-germinacion.md
-    - Plántula: knowledge/01-ciclo-vida/03-plantula.md
-    - Vegetativa: knowledge/01-ciclo-vida/04-vegetativa.md
-    - Prefloración: knowledge/01-ciclo-vida/05-prefloracion.md
-    - Floración: knowledge/01-ciclo-vida/06-floracion.md
-    - Maduración y Cosecha: knowledge/01-ciclo-vida/07-maduracion-cosecha.md
-    - Secado: knowledge/01-ciclo-vida/08-secado.md
-    - Curado: knowledge/01-ciclo-vida/09-curado.md
-    - Evaluación y Cata: knowledge/01-ciclo-vida/10-evaluacion-cata.md
+    - Genética: ../knowledge/01-ciclo-vida/01-genetica.md
+    - Germinación: ../knowledge/01-ciclo-vida/02-germinacion.md
+    - Plántula: ../knowledge/01-ciclo-vida/03-plantula.md
+    - Vegetativa: ../knowledge/01-ciclo-vida/04-vegetativa.md
+    - Prefloración: ../knowledge/01-ciclo-vida/05-prefloracion.md
+    - Floración: ../knowledge/01-ciclo-vida/06-floracion.md
+    - Maduración y Cosecha: ../knowledge/01-ciclo-vida/07-maduracion-cosecha.md
+    - Secado: ../knowledge/01-ciclo-vida/08-secado.md
+    - Curado: ../knowledge/01-ciclo-vida/09-curado.md
+    - Evaluación y Cata: ../knowledge/01-ciclo-vida/10-evaluacion-cata.md
   - Sistemas de Cultivo:
-    - Indoor: knowledge/02-sistemas-cultivo/12-indoor.md
-    - Outdoor: knowledge/02-sistemas-cultivo/13-outdoor.md
-    - Greenhouse: knowledge/02-sistemas-cultivo/14-greenhouse.md
-    - Hidroponía: knowledge/02-sistemas-cultivo/15-hidroponia.md
-    - Aeroponía: knowledge/02-sistemas-cultivo/16-aeroponia.md
-    - Coco: knowledge/02-sistemas-cultivo/17-coco.md
-    - Tierra: knowledge/02-sistemas-cultivo/18-tierra.md
+    - Indoor: ../knowledge/02-sistemas-cultivo/12-indoor.md
+    - Outdoor: ../knowledge/02-sistemas-cultivo/13-outdoor.md
+    - Greenhouse: ../knowledge/02-sistemas-cultivo/14-greenhouse.md
+    - Hidroponía: ../knowledge/02-sistemas-cultivo/15-hidroponia.md
+    - Aeroponía: ../knowledge/02-sistemas-cultivo/16-aeroponia.md
+    - Coco: ../knowledge/02-sistemas-cultivo/17-coco.md
+    - Tierra: ../knowledge/02-sistemas-cultivo/18-tierra.md
   - Ambiente:
-    - Iluminación: knowledge/03-ambiente/19-iluminacion.md
-    - Temperatura: knowledge/03-ambiente/20-temperatura.md
-    - Humedad: knowledge/03-ambiente/21-humedad.md
-    - Ventilación: knowledge/03-ambiente/22-ventilacion.md
-    - CO₂: knowledge/03-ambiente/23-co2.md
+    - Iluminación: ../knowledge/03-ambiente/19-iluminacion.md
+    - Temperatura: ../knowledge/03-ambiente/20-temperatura.md
+    - Humedad: ../knowledge/03-ambiente/21-humedad.md
+    - Ventilación: ../knowledge/03-ambiente/22-ventilacion.md
+    - CO₂: ../knowledge/03-ambiente/23-co2.md
   - Nutrición:
-    - Macronutrientes: knowledge/04-nutricion/24-macronutrientes.md
-    - Micronutrientes: knowledge/04-nutricion/25-micronutrientes.md
-    - pH: knowledge/04-nutricion/26-ph.md
-    - EC y TDS: knowledge/04-nutricion/27-ec-tds.md
-    - Fertilización: knowledge/04-nutricion/28-fertilizacion.md
-    - Riego: knowledge/04-nutricion/29-riego.md
+    - Macronutrientes: ../knowledge/04-nutricion/24-macronutrientes.md
+    - Micronutrientes: ../knowledge/04-nutricion/25-micronutrientes.md
+    - pH: ../knowledge/04-nutricion/26-ph.md
+    - EC y TDS: ../knowledge/04-nutricion/27-ec-tds.md
+    - Fertilización: ../knowledge/04-nutricion/28-fertilizacion.md
+    - Riego: ../knowledge/04-nutricion/29-riego.md
   - Técnicas:
-    - Training: knowledge/05-tecnicas/30-training.md
-    - Poda y Defoliación: knowledge/05-tecnicas/30-poda-defoliacion.md
-    - Clonación: knowledge/05-tecnicas/31-clonacion.md
-    - Breeding: knowledge/05-tecnicas/32-breeding.md
+    - Training: ../knowledge/05-tecnicas/30-training.md
+    - Poda y Defoliación: ../knowledge/05-tecnicas/30-poda-defoliacion.md
+    - Clonación: ../knowledge/05-tecnicas/31-clonacion.md
+    - Breeding: ../knowledge/05-tecnicas/32-breeding.md
   - Problemas:
-    - Plagas: knowledge/06-problemas/34-plagas.md
-    - Enfermedades: knowledge/06-problemas/35-enfermedades.md
-    - Deficiencias y Bloqueos: knowledge/06-problemas/36-deficiencias.md
-    - Estrés Ambiental: knowledge/06-problemas/37-estres-ambiental.md
-    - Toxicidades: knowledge/06-problemas/37-toxicidades.md
+    - Plagas: ../knowledge/06-problemas/34-plagas.md
+    - Enfermedades: ../knowledge/06-problemas/35-enfermedades.md
+    - Deficiencias y Bloqueos: ../knowledge/06-problemas/36-deficiencias.md
+    - Estrés Ambiental: ../knowledge/06-problemas/37-estres-ambiental.md
+    - Toxicidades: ../knowledge/06-problemas/37-toxicidades.md
   - Equipamiento:
-    - Medidores y Sensores: knowledge/07-equipamiento/39-medidores-sensores.md
-    - Luces y Balastros: knowledge/07-equipamiento/40-luces-balastros.md
-    - Sistemas de Riego: knowledge/07-equipamiento/41-sistemas-riego.md
-    - Ventiladores: knowledge/07-equipamiento/41-ventiladores.md
-    - Automatización: knowledge/07-equipamiento/43-automatizacion.md
+    - Medidores y Sensores: ../knowledge/07-equipamiento/39-medidores-sensores.md
+    - Luces y Balastros: ../knowledge/07-equipamiento/40-luces-balastros.md
+    - Sistemas de Riego: ../knowledge/07-equipamiento/41-sistemas-riego.md
+    - Ventiladores: ../knowledge/07-equipamiento/41-ventiladores.md
+    - Automatización: ../knowledge/07-equipamiento/43-automatizacion.md
   - Productos:
-    - Extracciones y Concentrados: knowledge/08-productos/11-extracciones.md
+    - Extracciones y Concentrados: ../knowledge/08-productos/11-extracciones.md
   - Referencias:
-    - Fuentes Evaluadas: sources/references.md
-    - Historial de Cambios: CHANGELOG.md
-    - Meta-Prompt: knowledge/00-meta/meta-prompt.md
-    - Glosario: knowledge/99-meta/46-glosario.md
-    - Contradicciones: knowledge/99-meta/44-contradicciones.md
+    - Fuentes Evaluadas: ../sources/references.md
+    - Historial de Cambios: ../CHANGELOG.md
+    - Meta-Prompt: ../knowledge/00-meta/meta-prompt.md
+    - Glosario: ../knowledge/99-meta/46-glosario.md
+    - Contradicciones: ../knowledge/99-meta/44-contradicciones.md

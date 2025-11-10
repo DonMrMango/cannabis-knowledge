@@ -8,7 +8,7 @@ on:
       - 'knowledge/**'
       - 'sources/**'
       - 'mkdocs.yml'
-      - 'index.md'
+      - 'docs/**'
       - '.github/workflows/deploy-wiki.yml'
 
 permissions:
