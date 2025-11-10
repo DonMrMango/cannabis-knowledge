@@ -9,7 +9,7 @@ Base de conocimiento modular sobre cultivo de cannabis construida a partir de an
     - **Fuentes totales:** 32 (19 Noé + 13 Doña Huana)
     - **Distribución Tiers:** 2 S (6.3%) + 22 A (68.8%) + 8 B (25.0%)
     - **Módulos:** 49 archivos markdown independientes
-    - **Última actualización:** 2025-11-10
+    - **Última actualización:** 2025-11-10 | **Tier S:** 2 videos perfectos
 
 ## 🎯 Metodología
 
