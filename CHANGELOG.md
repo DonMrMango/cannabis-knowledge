@@ -5,6 +5,45 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [0.29.0] - 2025-11-09
+
+### Agregado
+- **[HOW-015]** Decimoquinta integración House of Weed: "¿Lavar Cogollos? ¿Poda de raíces? - Respondo Preguntas de Cultivo" - Q&A comunidad 15+ preguntas cultivo variadas
+- **FORMATO Q&A:** Primera fuente preguntas/respuestas comunidad, conocimiento disperso múltiples secciones
+- **Sección 1 (Genética - Determinación Sexo):** EXPANDIDA con distinción madurez sexual ≠ inicio floración
+  - Madurez sexual semana 4-5 vegetativa (mes 1)→pistilos nudos ♀ | sacos ♂ indica sexo PERO NO significa inicio floración
+  - Inicio floración real: interior 12/12 fotoperíodo | exterior disminución horas día naturales
+  - Conteo semanas floración desde cambio fotoperíodo NO desde madurez sexual
+  - Error común: confundir primeros pistilos vegetativos con entrada floración
+- **Sección 3 (Plántula):** EXPANDIDA con exposición sol directo exterior
+  - Semana 3 (~10cm altura) fortaleza suficiente sol pleno sin problemas
+  - Recién germinadas exceso sol→muerte/deterioro (tejidos delicados)
+  - Criterio exposición: observar fortaleza planta ANTES exposición plena
+  - Objetivo: máximas horas sol posible = crecimiento grande+bonito+resinoso
+- **Sección 29 (Training):** EXPANDIDA timing LST + poda apical óptimo
+  - Poda apical timing óptimo primera: 4to-5to nudo (fundamento tardía 50cm-1m→desbalanceada rama central amplia objetivo forma equilibrada desde inicio error común esperar demasiado→desequilibrio estructural)
+  - LST timing inicio altura mínima 10-15cm suficiente girar+doblar+amarrar proceso continuo ir amarrando nuevas ramas crecimiento seguimiento "ir dándole forma ajustando amarres" iterativo
+- **Sección 35 (Enfermedades):** EXPANDIDA hongos exterior prevención lluvia
+  - Método 1 preventivo lluvia inminente→cubrir plástico escurrimiento agua NO contacto directo flores
+  - Método 2 post-lluvia sacudir planta+ventiladores→secado rápido crítico
+  - Fundamento factores climáticos NO controlables→precaución obligatoria
+  - Hongo detectado→extirpar generoso esporas propagan más allá visible
+  - Realidad cultivo exterior: "mayoría cultivadores años han tenido problemas hongos"
+
+### Cambiado
+- **Estado general:** 28 videos integrados (HOW-001 a HOW-015 + DH-001 a DH-013)
+- **Distribución Tiers:** 1 TIER S (3.6%) + **20 TIER A (71.4%)** + 7 TIER B (25.0%) = 28 fuentes totales
+- **Videos procesados:** 28/90 (31.1%) = 15 House of Weed + 13 Doña Huana
+- **Sección 1:** de estado previo a "EXPANDIDA - Madurez sexual ≠ inicio floración distinción crítica [HOW-006, HOW-007, HOW-015]"
+- **Sección 3:** de estado previo a "EXPANDIDA - Exposición sol directo exterior timing [HOW-002, HOW-015]"
+- **Sección 29:** de estado previo a "EXPANDIDA - Timing óptimo poda apical + LST inicio [HOW-001, DH-009, HOW-015]"
+- **Sección 35:** de estado previo a "EXPANDIDA - Hongos exterior prevención lluvia prácticas [HOW-013, HOW-015]"
+
+### Notas
+Decimoquinta House of Weed. **VIGÉSIMA FUENTE TIER A** (HOW-001/002/003/004/005/007/008/009/010/011/013/014+DH-001/002/003/004/005/007/013 previos). Tier A (20/25) por -2 Credibilidad cultivador experimentado respuestas prácticas basadas experiencia PERO ausencia parámetros cuantitativos varias respuestas + algunas respuestas incompletas/superficiales +3 Calidad cobertura amplia 15+ temas diversos respuestas prácticas aplicables PERO falta profundidad técnica varias respuestas + ausencia detalles críticos bud washing/monster cropping/fertilización orgánica +5 Consistencia coherencia total entre respuestas sin contradicciones +4 Aplicabilidad respuestas directas reproducibles poda apical 4-5 nudo + LST 10-15cm + LED 60cm/50%→30cm/100% PERO falta protocolos completos temas clave +5 Objetividad presentación balanceada sin promoción comercial invita participación comunidad reconoce múltiples enfoques válidos enfoque responsabilidad consumo. Contenido VALIOSO: madurez sexual ≠ floración distinción crítica error común conteo semanas desde fotoperíodo NO pistilos vegetativos, hongos exterior prevención lluvia prácticas útiles cubrir plástico+sacudir+ventiladores mayoría cultivadores experiencia problema normalizador, poda apical timing óptimo 4-5 nudo completa DH-009 tardía desbalancea, LST timing altura mínima 10-15cm proceso continuo, plántulas semana 3 sol pleno criterio fortaleza práctica segura, LED distancias/intensidades escalado vegetativa→floración 60cm+50%→30cm+100% varía LED guía útil, bud washing concepto introducido THC liposoluble agua NO afecta aplicabilidad plagas PERO procedimiento ausente, monster cropping concepto revegetación clones floración Noé admite NO experiencia limitación honesta. **FORMATO Q&A** permite cubrir múltiples temas rápido PERO profundidad variable. Cross-ref Sección 1 Genética madurez sexual determinación, Sección 3 Plántula exposición luz, Sección 29 Training técnicas poda/LST, Sección 35 Enfermedades hongos prevención. Total: 28/90 (15 Noé + 13 DH).
+
+---
+
 ## [0.28.0] - 2025-11-09
 
 ### Agregado

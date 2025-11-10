@@ -1,8 +1,8 @@
 # 🌿 LA BIBLIA DEL CULTIVO DE CANNABIS
 
-**Versión:** 0.28.0
+**Versión:** 0.29.0
 **Última actualización:** 2025-11-09
-**Estado:** En desarrollo activo - 27 videos integrados (HOW-001 a HOW-014 + DH-001 a DH-013)
+**Estado:** En desarrollo activo - 28 videos integrados (HOW-001 a HOW-015 + DH-001 a DH-013)
 
 ---
 
@@ -377,6 +377,13 @@ Al integrar fuente:
 - Textura: aterciopelada + pegajosa
 - Función: capturar polen
 
+**Madurez Sexual ≠ Inicio Floración:** [HOW-015]
+- **Madurez sexual:** semana 4-5 vegetativa (mes 1)→pistilos nudos ♀ | sacos ♂
+- **Indica sexo** planta PERO **NO significa inicio floración**
+- **Inicio floración real:** interior 12/12 fotoperíodo | exterior disminución horas día naturales
+- **Conteo semanas floración:** desde cambio fotoperíodo **NO** desde madurez sexual
+- Error común: confundir primeros pistilos vegetativos con entrada floración
+
 **Concepto "Sinsemilla":** [HOW-006] [HOW-007]
 - Definición: hembras SIN polinización
 - Resultado: flores resinosas altas cannabinoides + terpenos
@@ -704,9 +711,14 @@ Al integrar fuente:
 - 5to nudo desarrollado = raíces suficientes
 - Sistema raíces robusto para siguiente maceta
 
+**Exposición Sol Directo Exterior:** [HOW-015]
+- **Semana 3 (~10cm altura):** fortaleza suficiente sol pleno sin problemas
+- **Recién germinadas:** exceso sol→muerte/deterioro (tejidos delicados)
+- **Criterio exposición:** observar fortaleza planta ANTES exposición plena
+- **Objetivo:** máximas horas sol posible = crecimiento grande+bonito+resinoso
+
 **Contenido esperado (pendiente más fuentes):**
 - Duración fase específica
-- Requerimientos lumínicos detallados
 - Primeros riegos
 - Identificación de problemas tempranos
 
@@ -3173,11 +3185,21 @@ Acción futura: mantener dosis actual
 - Compatible con LST
 - Puede combinarse con podas (HST)
 
+**Timing Inicio LST:** [HOW-015]
+- **Altura mínima:** 10-15cm (suficiente para girar+doblar+amarrar)
+- **Proceso continuo:** ir amarrando nuevas ramas según crecimiento
+- **Seguimiento:** "ir dándole forma, ajustando amarres" iterativo
+- **Objetivo:** moldear estructura canopy desde inicio
+
 ### HST (High Stress Training) - Técnicas Poda
 
-**Poda Apical (Topping):** [DH-009]
+**Poda Apical (Topping):** [DH-009] [HOW-015]
 - Definición: corte nudo apical→duplica puntas crecimiento 1→2
-- Timing mínimo: tercer nudo planta (contar base: 1-2-3 nudos)
+- **Timing mínimo:** tercer nudo planta (contar base: 1-2-3 nudos) [DH-009]
+- **Timing óptimo primera apical:** 4to-5to nudo [HOW-015]
+  - **Fundamento:** apical tardía (50cm-1m)→planta desbalanceada rama central amplia
+  - **Objetivo:** dar forma equilibrada desde inicio→crecimiento armónico
+  - **Error común:** esperar demasiado→desequilibrio estructural
 - Herramienta: mano directa arranque (planta joven pequeña) | tijeras esterilizadas (planta madura)
 - Resultado inmediato: 2 brotes laterales adyacentes→nuevas puntas principales
 - Multiplicación matemática sucesiva: 1→2→4→8→16 puntas (apicales repetidas)
@@ -3693,6 +3715,13 @@ Video útil introducción práctica PERO falta parámetros críticos profesional
 - Monitoreo diario/frecuente plantas/flores
 - Detectar primeros indicios problemática
 - Acción rápida → evitar propagación
+
+**Hongos Exterior - Prevención Lluvia:** [HOW-015]
+- **Método 1 preventivo:** lluvia inminente→cubrir plástico escurrimiento agua (NO contacto directo flores)
+- **Método 2 post-lluvia:** sacudir planta+ventiladores→secado rápido crítico
+- **Fundamento:** factores climáticos NO controlables→precaución obligatoria
+- **Hongo detectado→extirpar generoso:** esporas propagan más allá visible
+- **Realidad cultivo exterior:** "mayoría cultivadores años han tenido problemas hongos"
 
 ### Prevención Hongos - Secado/Curado
 
