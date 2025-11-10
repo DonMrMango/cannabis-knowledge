@@ -5,6 +5,27 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.3-modular] - 2025-11-10
+
+### Agregado
+- **[HOW-017]** Noé (House of Weed) - "Terpenos, Aromas y Efectos: ¿Cómo reconocer la calidad de la Weed?"
+- **knowledge/01-ciclo-vida/10-evaluacion-cata.md:** EXPANDIDA nueva sección "Terpenos - Identificación y Efectos" (+92 líneas)
+  - 8 terpenos específicos documentados: limoneno, pineno, mirceno, linalol, cariofileno, humuleno, nerolidol, hashishene
+  - Funciones terpenos en planta: insecticidas, fungicidas, retención humedad, protección UV
+  - Técnica identificación olfativa: metodología sistemática 5 pasos
+  - Indicador calidad: aroma intenso = buena hierba
+  - Fenotipos variabilidad aromática: caso estudio Glaze 7 fenotipos
+- **knowledge/08-productos/11-extracciones.md:** EXPANDIDA con hashishene terpeno característico hachís (+6 líneas)
+
+### Cambiado
+- **Distribución Tiers:** **1 S (3.3%) + 21 A (70.0%) + 8 B (26.7%) = 30 total**
+- **Videos procesados:** **30/90 (33.3%)** = 17 Noé + 13 Doña Huana
+
+### Notas
+Decimoséptima fuente Noé. Tier A (19/25). Primera integración profunda terpenos individuales con aromas/efectos específicos. Complementa HOW-008/009/010 catación (olfativa existía PERO sin detalle terpenos nombres/efectos). Información práctica usuarios entrenar olfato determinar calidad/características variedad. Fundamento científico funciones terpenos planta. Cross-references entre módulos 10-evaluacion-cata ↔ 11-extracciones.
+
+---
+
 ## [1.0.2-modular] - 2025-11-09
 
 ### 🎉 META 30 VIDEOS CUMPLIDA - Sistema Modular Validado

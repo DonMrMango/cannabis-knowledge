@@ -1,11 +1,11 @@
 # Sección 11: Extracciones Y Concentrados
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-10
+> **Estado:** Expandido con Hashishene
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ Primera integración completa - Métodos con solventes (etanol, hidrocarburos, CO₂)
-> **Fuentes:** [HOW-014]
+> **Estado actual:** ✅ Integración completa - Métodos solventes + Terpeno hashishene
+> **Fuentes:** [HOW-014], [HOW-017]
 > **Prioridad:** Media-Alta (conocimiento consumidor informado)
 
 ### Diferenciación Fundamental
@@ -14,6 +14,14 @@
 - **Concentrados:** procesos físicos (presión+calor+filtros)→bubble hash, charas, rosin
 - **Extractos:** procesos químicos solventes→EHO, BHO, PHO, CO₂ supercrítico
 - Diferencia clave: presencia/ausencia solventes químicos
+
+**Hashishene - Terpeno Característico Hachís:** [HOW-017]
+- Definición: terpeno poco mencionado (descubrimiento reciente)
+- Presencia: abundancia en hachís
+- Aroma: cítrico + fresco
+- Efectos: sedante (trata ansiedad+insomnio)
+- Sinergia cannabinoides: alta afinidad receptores CB1 | potencia actividad THC+efectos psicoactivos
+- **Cross-ref:** Ver [Evaluación y Cata](knowledge/01-ciclo-vida/10-evaluacion-cata.md) para detalles terpenos identificación olfativa
 
 ### Extracción con Etanol (EHO - Etanol Hash Oil)
 

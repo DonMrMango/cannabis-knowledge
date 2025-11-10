@@ -1,11 +1,11 @@
-# Sección 10: uevaluacion cata
+# Sección 10: Evaluación y Cata
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
-> **Fuentes:** Ver referencias.md
+> **Última actualización:** 2025-11-10
+> **Estado:** Expandido con Terpenos
+> **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ COMPLETA - 4 Parámetros integrados (Visual + Olfativo + Gustativo + Efectos)
-> **Fuentes:** [HOW-008], [HOW-009], [HOW-010]
+> **Estado actual:** ✅ COMPLETA EXPANDIDA - 4 Parámetros + Terpenos detallados
+> **Fuentes:** [HOW-008], [HOW-009], [HOW-010], [HOW-017]
 > **Prioridad:** Crítica cumplida
 
 ### Setup Cata Profesional
@@ -136,6 +136,99 @@
 **Casos Estudio:** [HOW-008]
 - Guava 26: índica-dominante visual | sativa efecto | bien manicurada | pistilos óptimos
 - Chaxila: sativa-dominante | más hojas | -compacta
+
+---
+
+### TERPENOS - Identificación y Efectos
+
+**Definición:** [HOW-017]
+- Compuestos aromáticos: presentes 200+ terpenos diferentes cannabis
+- Responsables: aroma + sabor + características particulares variedad
+- Propiedades: medicinales + afectan efecto psicoactivo THC/cannabinoides
+- Principales comunes: limoneno | pineno | mirceno | linalol | cariofileno | humuleno | nerolidol | hashishene
+
+**Funciones Terpenos en Planta:** [HOW-017]
+- Protección insectos: propiedades insecticidas+fungicidas (defensa plagas+enfermedades)
+- Retención humedad: propiedades hidrófilas (resistencia sequía)
+- Protección UV: ayudan proteger planta rayos UV sol
+
+**Técnica Identificación Olfativa:** [HOW-017]
+
+**Metodología sistemática:**
+1. Desmenuzar suavemente: liberar terpenos
+2. Inhalar profundamente: concentrar olfato aromas percibidos
+3. Identificar aromas: cítricos | florales | dulces | terrosos | herbales | especiados
+4. Anotar percepciones: comparar descripciones terpenos específicos
+5. Práctica continua: entrenamiento olfato mejora con experiencia
+
+**Variabilidad individual:** [HOW-017]
+- Cada persona: sentido olfato diferente
+- Percepción aromas: varía persona a persona
+- Educación necesaria: aprender diferentes terpenos+aromas identificación precisa
+
+**Terpenos Específicos - Aromas y Efectos:** [HOW-017]
+
+**Limoneno:**
+- Aroma: cítrico + fresco + afrutado
+- Efectos: reducción ansiedad + reducción estrés + mejora estado ánimo
+- Tipo: activo
+
+**Pineno:**
+- Aroma: fresco + pino + naturaleza
+- Efectos: aumento atención + aumento concentración + efectos positivos estado ánimo
+- Tipo: activo
+
+**Mirceno:**
+- Aroma: fresco + herbal + bosque húmedo + menta + tomillo
+- Efectos: sedante + ansiolítico (trata ansiedad+insomnio)
+- Sinergia cannabinoides: contribuye absorción otros cannabinoides | potencia efectos THC
+- Tipo: sedativo
+
+**Linalol:**
+- Aroma: floral dulce + notas lavanda + hierba fresca + especias
+- Efectos: ansiolítico + antidepresivo
+- Tipo: sedativo
+
+**Cariofileno:**
+- Aroma: fresco + especias + pimienta + clavo
+- Efectos: relajante + sedante
+- Tipo: sedativo
+
+**Humuleno:**
+- Aroma: herbáceo + toque floral + especiado
+- Efectos: relajante + calmante
+- Tipo: sedativo
+
+**Nerolidol:**
+- Aroma: cítrico + manzanas + rosas
+- Efectos: sedativo
+- Tipo: sedativo
+
+**Hashishene:** [HOW-017]
+- Presencia: abundancia en hachís (terpeno poco mencionado, descubrimiento reciente)
+- Aroma: cítrico + fresco
+- Efectos: sedante (trata ansiedad+insomnio)
+- Sinergia cannabinoides: alta afinidad receptores CB1 | potencia actividad THC+efectos psicoactivos
+- Tipo: sedativo
+- **Cross-ref:** Ver [Extracciones](knowledge/08-productos/11-extracciones.md) para contexto hachís
+
+**Indicador Calidad:** [HOW-017]
+- Buena hierba: SIEMPRE mucho aroma (intenso+definido)
+- Hierba poco aroma: indica mala genética O mal cultivada O mal conservada
+- Calidad aromática: correlación directa calidad general producto
+
+**Fenotipos - Variabilidad Aromática:** [HOW-017]
+
+**Caso estudio Glaze (Noé + Drou):**
+- Semillas regulares: 7 fenotipos diferentes
+- Variabilidad aromática: cítricos | frutales | dulces (cada fenotipo particularidad)
+- Oportunidad entrenamiento: separar cosecha por fenotipo + estudiar detalle
+- Concepto clave: misma variedad ≠ mismo aroma (fenotipo expresa particularidades)
+
+**Limitaciones Conocimiento:** [HOW-017]
+- Investigación futura necesaria: comprensión completa efectos terpenos cuerpo humano
+- Interacción cannabinoides: efecto séquito complejo (terpenos+cannabinoides combinación)
+- Variación factores externos: aroma varía según forma cultivo + maduración + almacenamiento flores
 
 ---
 
