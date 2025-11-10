@@ -152,4 +152,123 @@
 
 **Relacionado:** Ver Sección 18 (Tierra) - Receta completa Living Soil Chris Roots HOW-016
 
+### Filosofía Pragmática Indoor - Anti-Perfeccionismo
+
+**Principio económico cultivo indoor:** [DH-014]
+- **Trade-off fundamental:** inversión equipamiento vs rédito producción
+- **Equipamiento NO rentable:**
+  - Aire acondicionado: inversión alta / ganancia producción mínima
+  - Humidificador: costo elevado / mejora marginal calidad
+- **Analogía agricultura industrial:** soja NO usa AC→rentabilidad NO justifica costo
+- **Decisión cultivador:** laboratorio perfecto "sensei" = +calidad marginal vs costo elevado
+- **Filosofía:** "plantas van a funcionar igual" sin control ambiental extremo
+- **Priorización recomendada:** iluminación + genética > equipamiento ambiental costoso
+
+**Implicación práctica:** [DH-014]
+- Temp/humedad fluctuaciones naturales tolerables plantas
+- Inversión limitada cultivador home→priorizar elementos críticos (luz, sustrato, genética)
+- Perfeccionismo ambiental→retorno inversión bajo vs costo operativo alto
+
+### Limpieza Indoor - Prevención Plagas/Hongos
+
+**Protocolo diario:** [DH-014]
+- Limpieza diaria área cultivo→↓riesgo plagas/hongos/humedad excesiva
+- **Método específico:**
+  - Herramienta: trapito
+  - **CRÍTICO:** NO mover macetas (posición fija permanente)
+  - Frecuencia: cada día al regresar/revisar cultivo
+- **Fundamento:** higiene prevención > cura
+- **Razón:** espacio sucio→bichos + humedad + hongos + problemas
+- **Filosofía:** disciplina diaria limpieza vs desorden habitacional
+
+**Contraste realidad cultivador:** [DH-014]
+- Casa/pieza: platos sucios semana, desorden generalizado (común)
+- Indoor: limpieza estricta obligatoria (ambiente controlado sensible)
+
+**Relacionado:** Ver Sección 34 (Plagas) - Prevención higiene HOW-005
+
+### Ansiedad - Intervención Mínima Planta
+
+**Regla oro intervención:** [DH-014]
+- **Frecuencia máxima:** 1 vez/semana O cada 15 días
+- **NO:** tocar/podar/defoliar/LST diario
+- **Fundamento:** exceso intervención = estrés planta→crecimiento ↓
+
+**Analogía plantas ornamentales:** [DH-014]
+- Planta casa (potu/azalea): regar SOLO cuando necesita + dejar vivir
+- NO cuidado obsesivo diario (cortar rama, sacar hoja, podar, mover, girar)
+- Planta hace su vida autónoma→intervención cuando REALMENTE necesaria
+
+**Actividades permitidas semanal/quincenal:** [DH-014]
+- Podas estratégicas
+- Recortes defoliación penetración luz
+- Training (LST/HST)
+- Ajustes estructura
+
+**Técnicas mencionadas NO hacer diario:** [DH-014]
+- Poda apical
+- Defoliación ("sacar hojita que molesta")
+- Super cropping
+
+**Manejo ansiedad cultivador:** [DH-014]
+- "¿Estás ansioso? Fumate un porro, mirate una película, pegale a alguien, pero NO toques plantas"
+- Disciplina: resistir tentación intervención constante
+- Observación pasiva > manipulación activa diaria
+
+**Relacionado:** Ver Sección 30 (Training) - Técnicas poda/defoliación timing correcto
+
+### Indoor Extra - Estrategia Doble Espacio
+
+**Concepto sistema dual:** [DH-014]
+- Indoor principal (floración) + lámpara secundaria económica (vegetativo/esquejes)
+- Inversión secundaria: ~1000-1500 pesos (lámpara básica + timer)
+- **NO requiere:** espacio cerrado, extracción, reflectores
+- **Requisitos mínimos:** rincón + luz + timer
+
+**Workflow rotación continua:** [DH-014]
+1. **Indoor secundario:**
+   - Esquejes enraizamiento
+   - Fase vegetativa inicial→desarrollo "pared raíces" (primeros trasplantes)
+   - Tiempo: semanas
+
+2. **Trasladar a indoor principal:**
+   - Planta con sistema radicular desarrollado
+   - Crecimiento vegetativo corto adicional
+   - Floración inmediata (12/12)
+
+3. **Resultado:** cosechas cada 3 meses continuas (vs esperar ciclo completo único 4-5 meses)
+
+**Ventaja producción:** [DH-014]
+- Producción continua "en balde" (macetas 16L)
+- Flores grandes "frappé"
+- Eficiencia temporal vs cultivo único secuencial
+- Aprovechamiento espacio indoor principal (siempre plantas floración)
+
+**Protocolo trasplantes múltiples (integrado con indoor extra):** [DH-014]
+
+*Secuencia 3 trasplantes:*
+1. **Vaso/maceta inicial pequeña (indoor extra):**
+   - Objetivo: "malla raíces" (raíces llegan bordes→giran→se tocan→llenan completo)
+   - Timing: ~20 días
+
+2. **Maceta 5L intermedia (indoor extra):**
+   - Objetivo: segunda "pared raíces"
+   - Timing: cuando llena maceta anterior
+
+3. **Maceta final 16-20L (indoor principal):**
+   - Trasladar a indoor principal
+   - Crecimiento corto + floración
+   - Resultado: flores +grandes (vs trasplante único directo)
+
+*Fundamento:*
+- Múltiples trasplantes = múltiples "paredes/mallas raíces" = desarrollo radicular superior
+- vs Trasplante único directo = desarrollo radicular inferior
+- Cada llenado maceta→nueva explosión raíces bordes
+
+**Inversión vs retorno:** [DH-014]
+- Setup secundario económico (~$1500) vs mejora producción continua significativa
+- Coherente filosofía pragmática: inversión baja/retorno alto (vs AC/humidificador alto costo/bajo retorno)
+
+**Relacionado:** Ver Sección 18 (Tierra) - Trasplantes progresivos HOW-001/002
+
 ---

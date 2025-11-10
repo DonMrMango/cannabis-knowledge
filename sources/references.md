@@ -445,6 +445,22 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ---
 
+**[DH-014]** Doña Juana - "CANNABIS - TIPS DE INDOOR" (2024)
+- Tipo: Video (transcripción) - 8 tips prácticos cultivo indoor
+- Expertise: Doña Juana (cultivador experimentado, filosofía pragmática)
+- Verificado: 2025-11-09 por damo
+- **Tier:** A (18/25) - Pragmático útil principiantes trade-offs económicos + filosofía no laboratorio valiosa PERO superficialidad técnica + analogías imprecisas
+- **Flags:** 👤 🌍
+- Nivel de consenso: Alto (AC/humidificador NO rentable + limpieza prevención + ansiedad intervención semanal + ventilación nocturna trade-off + macetas geotextil elevación + trasplantes múltiples 3 etapas)
+- Temas: Filosofía pragmática (AC/humidificador NO rentable plantas funcionan igual priorizar iluminación+genética), macetas (soplada secado lento geotextil elevación piedritas evitar pileta caquita), limpieza diaria (trapito NO mover macetas prevención), riego invierno (7-10 días), ansiedad (1 vez/semana máximo NO tocar diario analogía potu/azalea), preventivos (araña roja+trips+oidio fanáticos indoor cada 15 días), ventilación (nocturna apagar SI molesta trade-off ~10% producción vs sueño), indoor extra (dual ~$1500 rotación continua cosechas cada 3 meses), trasplantes (3 etapas malla raíces desarrollo superior)
+- Enfoque: Tips prácticos + filosofía pragmática rentabilidad vs perfeccionismo + trade-offs explícitos + lenguaje accesible coloquial + superficialidad técnica
+- Video ID: -R2wnfkPFDs
+- URL: https://www.youtube.com/watch?v=-R2wnfkPFDs
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=(pendiente query)
+- **Nota:** Decimocuarta Doña Huana. Tier A (18/25, vigésimo primera Tier A, distribución: **1 S + 21 A + 7 B = 29 total**). Filosofía pragmática VALIOSA trade-offs económicos vs perfeccionismo. Ansiedad intervención semanal/quincenal IMPORTANTE. Indoor extra producción continua. Módulos: **12-indoor.md** (PRINCIPAL 119 líneas filosofía+limpieza+ansiedad+indoor extra), **22-ventilacion.md** (48 líneas PRIMERA integración vacío), **34-plagas.md** (30 líneas), **18-tierra.md** (29 líneas), **29-riego.md** (14 líneas). **Total: 30/90 (33.3%) = 16 Noé + 14 Doña Huana ⭐ META 30 CUMPLIDA.**
+
+---
+
 ## Fuentes Pendientes de Integración
 
 (Lista de material por procesar)

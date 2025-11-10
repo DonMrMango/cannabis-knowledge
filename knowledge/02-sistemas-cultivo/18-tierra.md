@@ -69,6 +69,37 @@
 - Tarros con agujeros base: drenaje efectivo
 - Macetas tela: excelente aireación raíces
 
+### Tipos Macetas Indoor - Características y Manejo
+
+**Clasificación por costo/secado:** [DH-014]
+
+1. **Soplada (plástico estándar):**
+   - Costo: económico (más barato)
+   - Secado: LENTO
+   - Implicación riego: frecuencia ↓ (paciencia requerida, NO regar diario ansioso)
+   - Advertencia: adaptar expectativas secado (NO todos días necesita agua)
+
+2. **Air Pot / Smart Pot (marcas comerciales):**
+   - Costo: intermedio
+   - Secado: +rápido (vs soplada)
+   - Función: poda aérea raíces + aireación superior
+
+3. **Geotextil (tela):**
+   - Costo: +costoso
+   - Secado: MÁS rápido (máxima aireación)
+   - Beneficio: poda aérea raíces + oxigenación óptima
+   - **CRÍTICO problema contacto agua:** [DH-014]
+     - Riesgo: maceta geotextil contacto directo plato→raíces sumergidas runoff alta EC
+     - Analogía: "pileta caquita" (raíces flotando agua estancada nutrientes concentrados)
+     - **Solución obligatoria:** elevar maceta con piedritas/espaciadores entre maceta y plato
+     - Objetivo: permitir drenaje completo evitar contacto raíces agua estancada
+     - Relacionado: DH-012 drenaje sistema maceta-plato (identical issue)
+
+**Relación tipo maceta - frecuencia riego:** [DH-014]
+- Maceta soplada→secado lento→esperar más días entre riegos
+- Maceta geotextil→secado rápido→regar más frecuente
+- Referencia: Ver Sección 29 (Riego) - Frecuencia según sustrato/maceta
+
 ### Living Soil (Suelo Vivo) - Método Orgánico Microbiológico
 
 **Definición:** [HOW-011]

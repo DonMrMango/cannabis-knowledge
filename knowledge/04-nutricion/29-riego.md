@@ -102,6 +102,17 @@
 - Ajustar frecuencia según temperatura ambiente
 - Verano: revisar peso más frecuentemente
 
+**Temperatura/Frío:** [DH-014]
+- **Invierno:** frecuencia riego puede extenderse cada 7-10 días
+- Causa: secado MUY lento (baja evaporación + menor consumo planta)
+- **CRÍTICO:** paciencia NO regar diario ansioso
+- Test: peso maceta O test dedo para determinar necesidad real
+
+**Tipo maceta influencia:** [DH-014]
+- Maceta soplada (plástico) + invierno = secado extremadamente lento→esperar más días
+- Maceta geotextil (tela) + invierno = secado +rápido PERO igual menos frecuente vs verano
+- Relacionado: Ver Sección 18 (Tierra) - Tipos macetas secado DH-014
+
 ### Drenaje y Sistema Maceta-Plato
 
 **Problema raíces sumergidas:** [DH-012]

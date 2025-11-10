@@ -5,6 +5,30 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.2-modular] - 2025-11-09
+
+### 🎉 META 30 VIDEOS CUMPLIDA - Sistema Modular Validado
+
+**Hito:** Video #30 procesado + Objetivo 30 videos alcanzado ⭐
+
+#### Agregado
+- **[DH-014]** Doña Juana - "CANNABIS - TIPS DE INDOOR" - 8 tips prácticos indoor + filosofía pragmática
+- **knowledge/02-sistemas-cultivo/12-indoor.md:** EXPANDIDA filosofía pragmática + limpieza + ansiedad + indoor extra (+119 líneas)
+- **knowledge/03-ambiente/22-ventilacion.md:** PRIMERA INTEGRACIÓN módulo vacío ventilación pragmática (+48 líneas)
+- **knowledge/06-problemas/34-plagas.md:** EXPANDIDA plagas comunes indoor (+30 líneas)
+- **knowledge/02-sistemas-cultivo/18-tierra.md:** EXPANDIDA tipos macetas indoor (+29 líneas)
+- **knowledge/04-nutricion/29-riego.md:** EXPANDIDA riego invierno + tipo maceta (+14 líneas)
+
+#### Cambiado
+- **Distribución Tiers:** **1 S (3.3%) + 21 A (70.0%) + 7 B (23.3%) = 30 total**
+- **Videos procesados:** **30/90 (33.3%) ⭐ META CUMPLIDA** = 16 Noé + 14 Doña Huana
+- **Sistema modular:** Validado 2 videos consecutivos (HOW-016 + DH-014)
+
+### Notas
+Decimocuarta Doña Huana. Tier A (18/25). Filosofía pragmática valiosa trade-offs económicos AC/humidificador NO rentable ventilación nocturna apagable 10% pérdida vs sueño indoor extra económico $1500. Ansiedad intervención semanal/quincenal importante. Primer módulo vacío integrado (22-ventilacion). **META 30 VIDEOS ALCANZADA.**
+
+---
+
 ## [1.0.1-modular] - 2025-11-09
 
 ### 🎯 PRIMER VIDEO SISTEMA MODULAR - TIER S ⭐

@@ -219,6 +219,38 @@
   - Follaje: espolvoreado seco (trips, ácaros)
 - Ventaja: mecánico (NO resistencia posible)
 
+### Plagas Comunes Indoor - Realidad Cultivo Interior
+
+**Mito inmunidad indoor:** [DH-014]
+- Indoor NO = inmunidad plagas/hongos
+- Realidad: plagas SÍ afectan cultivos interior (contrario creencia común)
+- Necesidad: prevención activa continua (igual outdoor)
+
+**Trio fanáticos indoor ("fanáticos internacionales indoor"):** [DH-014]
+
+1. **Araña roja:**
+   - Contexto: MUY común indoor (temperatura controlada favorable)
+   - Relacionado: Ver arriba descripción completa HOW-005
+
+2. **Trips:**
+   - Contexto: cultivos interior/invernadero + altas temperaturas
+   - Relacionado: Ver arriba descripción completa HOW-005
+
+3. **Oidio (hongo foliar):**
+   - Contexto: indoor humedad + ventilación insuficiente
+   - Prevención: ventilación buena + preventivos cada 15 días
+   - Relacionado: Ver Sección 35 (Enfermedades) - Hongos foliares
+
+**Protocolo preventivo indoor:** [DH-014]
+- Frecuencia: cada 15 días aplicación preventivos
+- **Crítico:** NO esperar aparición visible plaga
+- Productos: ver protocolo integrado abajo (jabón potásico, neem, canela, purín ortiga, cola caballo, tierra diatomeas)
+- Referencia video específico preventivos (HOW-005 + fuente externa DH-014)
+
+**Ventilación crítica prevención:** [DH-014]
+- Buena ventilación→↓riesgo oidio + ↓presión bichos
+- Relacionado: Ver Sección 22 (Ventilación) - Funciones prevención DH-014
+
 ### Protocolo Prevención Integrada - Frecuencia y Rotación
 
 **Frecuencia base:** [DH-008]
