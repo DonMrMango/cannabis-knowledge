@@ -455,6 +455,22 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ---
 
+**[HOW-018]** Noé (House of Weed) - "Cultivo Difícil: Problemas y Cosecha Épica | Sweet Monster Mix®" (2024)
+- Tipo: Video (transcripción) - Troubleshooting caso real bloqueo nutrientes + setup indoor
+- Expertise: Cultivador profesional, documentación transparente errores + soluciones
+- Verificado: 2025-11-10 por damo
+- **Tier:** S (25/25) ⭐ - SEGUNDO Tier S proyecto | Troubleshooting completo documentado transparencia excepcional
+- **Flags:** 👤 🌍 🔬 ⚠️
+- Nivel de consenso: Alto (bloqueo nutrientes acumulación sales problema común fertilizantes minerales + solución lavado gradual validada + EC drenaje indicador crítico consenso + deshumidificador necesario humedad >80% + prevención hongos vinagre validado)
+- Temas: Troubleshooting bloqueo nutrientes acumulación sales, ambiente extremo humedad 90%, setup indoor 80x80, LST avanzado alambre, SCROG malla floración, resistencia genética Sweet Seeds
+- Enfoque: Troubleshooting real documentado + transparencia errores + solución innovadora recursos disponibles + mediciones precisas + aprendizajes transferibles
+- Video ID: suHIc5R681Q
+- URL: https://www.youtube.com/watch?v=suHIc5R681Q
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=16
+- **Nota:** Decimoctava fuente Noé. SEGUNDO Tier S (25/25). Distribución Tiers: **2 S + 21 A + 8 B = 31 total**. Video MÁS valioso troubleshooting proyecto. Integrado 6 módulos: **36-deficiencias.md** (bloqueo nutrientes PRINCIPAL), **29-riego.md** (EC drenaje), **21-humedad.md** (deshumidificador), **12-indoor.md** (setup), **30-training.md** (LST SCROG), **34-plagas.md** (prevención hongos). Total videos: **31/90** (18 Noé + 13 Doña Huana = 34.4%).
+
+---
+
 **[DH-014]** Doña Juana - "CANNABIS - TIPS DE INDOOR" (2024)
 - Tipo: Video (transcripción) - 8 tips prácticos cultivo indoor
 - Expertise: Doña Juana (cultivador experimentado, filosofía pragmática)

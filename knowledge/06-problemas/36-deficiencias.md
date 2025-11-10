@@ -1,11 +1,11 @@
-# Sección 36: udeficiencias
+# Sección 36: Deficiencias y Bloqueos
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-10
+> **Estado:** Expandido con Troubleshooting Bloqueo Nutrientes
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ Diagnóstico práctico causas comunes integrado
-> **Fuentes:** [DH-003]
+> **Estado actual:** ✅ Diagnóstico práctico + Troubleshooting bloqueo sales completo
+> **Fuentes:** [DH-003], [HOW-018]
 > **Prioridad:** Crítica cumplida
 
 ### Enfoque Troubleshooting Práctico
@@ -109,5 +109,164 @@
 - Trasplante hecho + fertilización correcta + síntomas persisten
 - "No tengo la más puta idea" (honestidad experto)
 - Sugerencia: consulta grow shop con fotos
+
+---
+
+## BLOQUEO NUTRIENTES - Troubleshooting Completo
+
+### Definición y Causa
+
+**Bloqueo por Acumulación Sales:** [HOW-018]
+- **Problema:** fertilizantes minerales/biominerales acumulan sales en sustrato
+- **Metáfora sustrato:** esponja retiene minerales NO absorbidos por planta
+- **Concentración progresiva:** agua evapora rápido (calor) → sales concentran sin drenaje suficiente
+- **Resultado:** sobresaturación sustrato impide absorción agua+nutrientes
+- **Analogía:** "sed en medio del océano - agua por todos lados pero NO puedes tomar"
+
+### Síntomas Visuales
+
+**Manifestaciones progresivas:** [HOW-018]
+- Puntas ligeramente amarillas
+- Hojas colores raros: mitad claras + mitad oscuras
+- Puntas quemadas
+- Hojas superiores marrones + quebradizas
+- Crecimiento lento
+- Estancamiento total si NO se actúa
+
+### Factores Agravantes
+
+**Contexto crítico:** [HOW-018]
+- Inconsistencias riego (días demorados más cuenta)
+- Temperaturas altas (>30°C dispara evaporación)
+- Falta lavados suficientes (drenaje inadecuado)
+- Estrés sequía prolongado
+
+**Combinación peligrosa:** riego inconsistente + calor extremo + fertilización continua
+
+### Diagnóstico - Medición EC Drenaje
+
+**Protocolo fundamental:** [HOW-018]
+
+**Paso 1: Medir EC drenaje**
+- Regar 20-30% volumen maceta
+- Recolectar agua escurrida
+- Medir EC con medidor
+
+**Regla general EC drenaje:** [HOW-018]
+- EC riego = 2.0 → EC drenaje ideal ≤2.2
+- EC drenaje >2.5 = problema grave
+- **Caso HOW-018:** EC riego 2.0-2.2 → EC drenaje 3.0+ (bloqueo confirmado)
+
+**Interpretación:**
+- EC drenaje ≤ EC riego +0.2 = sustrato OK
+- EC drenaje > EC riego +0.3 = inicio acumulación (monitorear)
+- EC drenaje > EC riego +0.5 = bloqueo crítico (actuar inmediato)
+
+### Solución Tradicional - Lavado Sustrato
+
+**Método estándar:** [HOW-018]
+- **Requisitos:** bandejas drenaje + espacio drenar abundante
+- **Proceso:** regar 3x volumen maceta (ej: maceta 10L = 30L agua)
+- **Objetivo:** arrastrar sales acumuladas completamente
+- **Verificación:** medir EC drenaje final ≈ EC agua entrada
+
+**Limitaciones:** [HOW-018]
+- Requiere bandejas drenaje (manejo agua escurrida)
+- Agua estancada = humedad peligrosa carpa
+- Plantas grandes con malla = difícil mover ducha
+- Riesgo quebrar ramas al manipular
+
+### Solución Alternativa - Lavado Gradual (Sin Bandejas)
+
+**Innovación HOW-018 - Caso Real:** [HOW-018]
+
+**Contexto limitaciones:**
+- Sin bandejas drenaje
+- Plantas grandes con malla SCROG (imposible mover)
+- Síntomas NO extremos (ventana acción disponible)
+- Agua deshumidificador EC≈0 disponible (similar osmosis)
+
+**Protocolo lavado gradual:**
+
+1. **Suspender fertilización completa**
+   - Riego solo agua EC≈0 (deshumidificador/osmosis)
+   - Meta: diluir progresivamente sales acumuladas
+
+2. **Drenaje controlado**
+   - Escurrir solo 20-30% volumen riego (vs 3x lavado tradicional)
+   - Objetivo: reducir gradualmente EC sustrato
+   - Monitoreo: medir EC drenaje cada riego
+
+3. **Objetivo EC drenaje**
+   - Meta final: EC drenaje ≤1.5
+   - Progreso esperado: reducción gradual varias semanas
+
+4. **Monitoreo recuperación**
+   - Hojas dañadas NO se recuperan (seguirán deterioro hasta caer)
+   - **Indicador mejora:** nuevos brotes crecen sanos + hojas bajas vuelven saludables
+   - Flores siguen engordando buen ritmo
+
+5. **Fertilización final** (cuando EC drenaje ≤1.5)
+   - Riego final fertilizante alto P+K (floración)
+   - Empujón final recta floración
+   - Asegurar nutrientes disponibles cosecha
+
+**Ventajas solución gradual:**
+- NO requiere bandejas ni espacio drenar abundante
+- Plantas estáticas (sin manipular/quebrar ramas)
+- Aprovecha recursos disponibles (agua deshumidificador)
+- Efectivo si síntomas NO extremos
+
+**Desventajas:**
+- Más lenta que lavado tradicional (semanas vs días)
+- Algunos síntomas pueden empeorar temporalmente
+- Requiere paciencia + monitoreo constante EC
+
+### Manejo Estrés Durante Recuperación
+
+**Reducir exigencias cultivo:** [HOW-018]
+
+**Ajustes LED:**
+- Bajar intensidad 100% → 80%
+- Elevar distancia puntas plantas → 60cm
+- **Razón:** planta estresada necesita enfocarse recuperación (NO producción máxima)
+
+**Timing:** mantener ajustes hasta nuevos brotes muestren crecimiento sano
+
+### Prevención - Lecciones Aprendizajes
+
+**Medidas críticas:** [HOW-018]
+
+1. **Medición EC drenaje fundamental**
+   - **Mejor indicador:** estado sustrato real
+   - Frecuencia: medir regularmente (cada 1-2 semanas fertilización)
+   - Acción temprana: corregir antes síntomas visuales
+
+2. **Riego constante automatizado**
+   - Evita inconsistencias días escasez tiempo
+   - Sistema automatizado ideal (goteo/temporizador)
+   - Previene estrés sequía + acumulación descontrolada
+
+3. **Bandejas drenaje necesarias**
+   - Facilita lavados correctivos
+   - Permite medición EC drenaje precisa
+   - Manejo humedad carpa controlado
+
+4. **Drenaje adecuado cada riego fertilización**
+   - Mínimo 20% volumen maceta debe fluir/escurrir
+   - Arrastra excesos sales continuamente
+   - Previene acumulación progresiva
+
+### Recuperación - Resultado Final
+
+**Caso HOW-018:** [HOW-018]
+- Plantas continuaron desarrollo normal después lavado gradual
+- Nuevos brotes crecieron sanos
+- Flores engordaron buen ritmo
+- Producción abundante final (flores voluminosas pesadas aromáticas resinosas)
+- 3 de 4 plantas tomaron colores claros durante recuperación
+- Genética demostró resistencia (Monster Maker más afectada → más robusta final)
+
+**Conclusión:** con acciones rápidas + diagnóstico correcto, problemas solucionan + plantas salvan + buena cosecha posible
 
 ---

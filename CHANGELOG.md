@@ -5,6 +5,33 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.4-modular] - 2025-11-10
+
+### 🎉 SEGUNDO TIER S - Troubleshooting Excepcional
+
+**Hito:** SEGUNDO video Tier S (25/25) perfecto - Troubleshooting bloqueo nutrientes caso real documentado
+
+### Agregado
+- **[HOW-018]** Noé (House of Weed) - "Cultivo Difícil: Problemas y Cosecha Épica" - **TIER S (25/25)** ⭐
+- **knowledge/06-problemas/36-deficiencias.md:** EXPANDIDA nueva sección completa "Bloqueo Nutrientes - Troubleshooting Completo" (+160 líneas)
+  - Definición bloqueo acumulación sales (metáfora sustrato esponja)
+  - Síntomas progresivos (puntas amarillas → hojas mitad claras/oscuras → quebradizas)
+  - Diagnóstico EC drenaje (regla: drenaje ≤ riego +0.2 | >+0.5 = crítico)
+  - Solución tradicional: lavado 3x volumen maceta
+  - **Solución innovadora:** lavado gradual sin bandejas (agua EC≈0 deshumidificador hasta drenaje 1.5)
+  - Manejo estrés: bajar LED 80% + elevar 60cm durante recuperación
+  - Prevención: medición EC drenaje fundamental + bandejas necesarias + riego automatizado
+  - Caso real: EC drenaje 3.0 vs riego 2.2 → recuperación completa flores abundantes
+
+### Cambiado
+- **Distribución Tiers:** **2 S (6.5%) + 21 A (67.7%) + 8 B (25.8%) = 31 total**
+- **Videos procesados:** **31/90 (34.4%)** = 18 Noé + 13 Doña Huana
+
+### Notas
+Decimoctava fuente Noé. **SEGUNDO Tier S (25/25)** proyecto (primero HOW-016 living soil). Tier S justificado: 5/5 credibilidad (troubleshooting real transparencia errores riego inconsistente calor 30°C sin bandejas) + 5/5 calidad (mediciones específicas EC drenaje protocolo paso a paso) + 5/5 consistencia (coherencia principios cultivo problema validado) + 5/5 aplicabilidad (reproducible recursos limitados solución innovadora agua deshumidificador) + 5/5 objetividad (reconoce errores múltiples soluciones limitaciones explícitas). **Video MÁS valioso troubleshooting** vs todos anteriores (mayormente casos éxito). Conocimiento crítico cultivadores: medición EC drenaje mejor indicador sustrato + lavado gradual alternativa sin equipamiento. Integrado módulo PRINCIPAL: **36-deficiencias.md** (160 líneas troubleshooting completo).
+
+---
+
 ## [1.0.3-modular] - 2025-11-10
 
 ### Agregado
