@@ -109,4 +109,47 @@
 - Poleas iluminación: altura variable según etapa
 - Timer mecánico: cambio fotoperíodo fácil (18/6 → 12/12)
 
+### Resultados Producción Living Soil - Caso Estudio Chris Roots
+
+**Setup específico:** [HOW-016]
+- Espacio: 60x60cm
+- Iluminación: LED Quantum 150W (Road Tech)
+- Maceta: 50L tipo cantera (redonda)
+- Sistema: Living Soil (sustrato infinito reutilizable)
+- Duración validada: 3 años / 5 ciclos completos
+
+**Producción promedio:** [HOW-016]
+- Rendimiento: 120-150g por ciclo
+- Plantas: 1-2 por cultivo (óptimo rango)
+- Variabilidad: depende genética + manejo ambiental
+
+**Comparativa 1 vs 2 plantas (mismo espacio):** [HOW-016]
+- Ciclo 3 (2 plantas Wedding Cake): ~140g
+- Ciclo 4 (1 planta Security Race): ~130g (similar con 1 vs 2)
+- Conclusión: 1 planta + LST = eficiencia similar 2 plantas sin training
+
+**Timing ciclos:** [HOW-016]
+- Vegetativo: 2-2.5 meses (crecimiento "despacito" vs fertilizantes sintéticos)
+- Floración: 2 meses (estándar según genética)
+- Total ciclo: 4-4.5 meses aproximadamente
+
+**Calidad reportada:** [HOW-016]
+- Profundidad terpenos: superior vs cultivo fertilizantes sintéticos
+- Sabor/aroma: complejo (NO plano/genérico)
+- Tendencia: mejora calidad cada ciclo (acumulación microbiología)
+
+**Evolución resultados (5 ciclos):** [HOW-016]
+- Ciclo 1 (Watermelon semilla): "no perfecto, bastante bien" (calor excesivo)
+- Ciclo 2 (2 esquejes Watermelon): petiso (frío invierno)
+- Ciclo 3 (2 esquejes Wedding Cake): "mejores resultados" ⭐
+- Ciclo 4 (1 Security Race): similar ciclo 3 con 1 planta
+- Ciclo 5 (actual): pre-floración (invierno, crecimiento menor)
+
+**Sostenibilidad económica:** [HOW-016]
+- Ciclo 1: inversión inicial sustrato + inóculos
+- Ciclos 2-5: costo casi $0 (riego solo agua + té compost ocasional)
+- 0 desperdicios: sustrato mismo 3 años (vs cambio cada ciclo convencional)
+
+**Relacionado:** Ver Sección 18 (Tierra) - Receta completa Living Soil Chris Roots HOW-016
+
 ---

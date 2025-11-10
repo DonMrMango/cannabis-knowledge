@@ -141,4 +141,53 @@
 - NO regar centro planta exclusivamente → desarrollo radicular limitado vertical
 - Requiere: experiencia observación respuesta planta
 
+### Riego Living Soil - Sistema Chris Roots
+
+**Protocolo Riego Simplificado:** [HOW-016]
+- **Base:** Solo agua pH ajustado (sin fertilizantes)
+- **Opcional:** Té compost ocasional (extracto agua + compost usado sustrato)
+- **Frecuencia té:** cuando planta muestra "necesidad nutrientes" (observación síntomas leves)
+
+**Fundamento Filosófico:** [HOW-016]
+- Living soil = alimentar microbiología (NO planta directamente)
+- Microorganismos descomponen materia orgánica → nutrientes disponibles planta
+- Riego solo agua suficiente post-establecimiento sistema (ciclos 2+)
+
+**Ventajas vs Riego Fertilizantes Sintéticos:** [HOW-016]
+- ✅ NO requiere medición EC constante
+- ✅ NO requiere ajuste pH estricto (tolerancia amplia microbiología)
+- ✅ Imposible sobrefertilización (sin fertilizantes sintéticos)
+- ✅ ↓ uso agua total (sin lavado raíz necesario)
+- ✅ Simplicidad: regar cuando test dedo/peso indica secado
+
+**Té Compost - Preparación:** [HOW-016]
+- Ingrediente: mismo compost usado armado sustrato
+- Método: extracto agua (infusión compost agua reposada)
+- Timing aplicación: cuando enmiendas sólidas NO suficientes (síntomas carencias leves)
+- Función: fertilizante líquido orgánico compatible microbiología
+- Frecuencia: ocasional (NO rutinario como fertilizantes sintéticos)
+
+**Protocolo Aplicación Riego Living Soil:** [HOW-016]
+1. Test dedo o peso maceta → determinar necesidad riego
+2. Preparar agua pH ajustado (6-7) sin cloro
+3. Regar técnica lenta perímetro (ver protocolo DH-012)
+4. Volumen: fórmula 1/4 volumen maceta [HOW-003] o hasta runoff [DH-012]
+5. **SI síntomas carencias leves:** preparar té compost + aplicar próximo riego
+6. **SI sin síntomas:** riego solo agua
+
+**Experiencia Documentada (3 años / 5 ciclos):** [HOW-016]
+- Ciclos 2-5: riego exclusivamente agua + té compost muy ocasional
+- Costo fertilización: casi $0 (vs fertilizantes embotellados)
+- Resultado: plantas sanas + calidad superior reportada cultivador
+
+**Agua Sin Cloro - CRÍTICO Living Soil:** [HOW-016]
+- Cloro mata microorganismos → destrucción sistema completo
+- Fuentes óptimas (orden preferencia):
+  1. Agua lluvia / río / lago (0 cloro natural) - IDEAL
+  2. Ósmosis inversa (inversión elevada pero efectiva)
+  3. Agua canilla reposada 24h+ (evaporación cloro gradual)
+- **Relacionado:** Ver Sección 18 (Tierra) - Manejo agua living soil HOW-011
+
+**Relacionado:** Ver Sección 28 (Fertilización) - Enmiendas + Té Compost HOW-016
+
 ---

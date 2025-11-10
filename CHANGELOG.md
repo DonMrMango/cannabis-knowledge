@@ -5,6 +5,68 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.1-modular] - 2025-11-09
+
+### 🎯 PRIMER VIDEO SISTEMA MODULAR - TIER S ⭐
+
+**Hito:** Primera integración conocimiento usando sistema modular completo
+
+#### Agregado
+- **[HOW-016]** Chris Roots (House of Weed) - "¿CÓMO ARMAR UN SUSTRATO PARA TODA LA VIDA?" - **PRIMER TIER S (25/25) DEL PROYECTO** ⭐
+- **knowledge/02-sistemas-cultivo/18-tierra.md:** EXPANDIDA con receta completa Living Soil Chris Roots (158 líneas nuevas)
+  - Receta sustrato infinito validada 3 años / 5 ciclos (75% estructura + 20% materia orgánica 50/50 compost/humus + 5% minerales + inóculos microorganismos)
+  - Proceso armado protocolo completo: mezcla→cover crop→activación microbiológica 2-4 semanas 60°C CRÍTICO→trasplante plántula NO semilla directa
+  - Enmiendas mantenimiento timing pre-floración+post-cosecha aplicación superficie NO labrar
+  - Protocolo post-cosecha reinicio ciclo 5-6 días descomposición
+  - Resultados documentados: 120-150g/ciclo 60x60cm, calidad superior terpenos profundidad compleja vs sintéticos, costo ciclos 2-5 casi $0
+  - Errores documentados: ciclo 2 frío invierno petiso, advertencia semilla directa microorganismos destruyen
+  - Principio mimético bosque: cover crop+hongos+bacterias+micorriza+enmiendas=ciclo natural
+- **knowledge/04-nutricion/28-fertilizacion.md:** EXPANDIDA con enmiendas living soil
+  - Concepto enmiendas superficie lixiviación vs fertilizantes sintéticos absorción inmediata
+  - Timing pre-floración+post-cosecha, componentes+protocolo aplicación
+  - Té compost fertilizante líquido ocasional vs embotellados
+- **knowledge/04-nutricion/29-riego.md:** EXPANDIDA con riego living soil
+  - Protocolo simplificado: solo agua pH ajustado + té compost ocasional
+  - Fundamento filosófico alimentar microbiología NO planta directamente
+  - Ventajas vs sintéticos: NO EC, pH tolerante, imposible sobrefert, agua total
+  - Agua sin cloro CRÍTICO: lluvia/río>ósmosis>canilla reposada 24h+
+- **knowledge/02-sistemas-cultivo/12-indoor.md:** EXPANDIDA con resultados producción living soil
+  - Caso estudio Chris Roots 60x60cm LED 150W 3 años 5 ciclos
+  - Producción 120-150g/ciclo 1-2 plantas, timing 4-4.5 meses, calidad progresiva creciente
+  - Comparativa 1 vs 2 plantas eficiencia similar con LST
+  - Sostenibilidad: ciclos 2-5 costo casi $0
+
+#### Cambiado
+- **Distribución Tiers:** **1 S (3.4%) + 20 A (69.0%) + 7 B (24.1%) = 29 fuentes totales**
+- **Videos procesados:** **29/90 (32.2%)** = 16 House of Weed + 13 Doña Huana
+- **Workflow:** ESTRENO sistema modular - identificar módulos afectados→leer relevantes→editar específicos (vs monolítico leer/editar todo)
+
+### Notas Técnicas
+
+**Tier S Justificación (25/25 - PERFECTO):**
+- 5/5 Credibilidad: experiencia documentada 3 años 5 ciclos resultados medibles 120-150g/ciclo
+- 5/5 Calidad: receta completa proporciones exactas proceso paso a paso troubleshooting
+- 5/5 Consistencia: coherencia principios living soil respaldado experiencia multi-ciclo mejora iterativa
+- 5/5 Aplicabilidad: replicable ingredientes accesibles alternativas económicas sustrato reutilizable infinito
+- 5/5 Objetividad: reconoce errores ciclo 2 muestra evolución compara fertilizantes datos concretos
+
+**Sistema Modular Validado:**
+- Módulos afectados: 4 (18-tierra, 28-fertilizacion, 29-riego, 12-indoor)
+- Líneas añadidas: ~230 distribuidas vs ~230 monolítico concentrado
+- Eficiencia lectura: 4 módulos (~800 líneas total) vs archivo completo (~4000 líneas) = 80% tokens ahorrados
+- Commits específicos: cambios aislados módulos individuales vs diff masivo
+
+**Valor Único HOW-016:**
+- ÚNICA fuente Tier S (25/25 perfecto) del proyecto completo
+- ÚNICA documentación longitudinal 3 años multi-ciclo (vs experiencias únicas/cortas)
+- ÚNICA receta living soil validada práctica (vs HOW-011 Drog teórica 1/3 horizontes)
+- ÚNICO protocolo sustrato infinito reutilizable (vs cambio cada ciclo convencional)
+- ÚNICA fuente calidad terpenos profundidad documentada comparativa sintéticos
+
+**Cross-references:** Ver 18-tierra.md (receta completa), 28-fertilizacion.md (enmiendas), 29-riego.md (agua+té), 12-indoor.md (resultados)
+
+---
+
 ## [1.0.0-modular] - 2025-11-09
 
 ### 🚀 MIGRACIÓN ARQUITECTURAL MAYOR

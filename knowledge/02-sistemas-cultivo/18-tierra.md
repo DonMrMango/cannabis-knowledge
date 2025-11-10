@@ -219,6 +219,162 @@
 - Transparencia: video educativo, NO promoción comercial
 - Instagram Drog: disponible descripción video (verificación resultados)
 
+### Living Soil - Receta Chris Roots (Sustrato Infinito 3 Años Validado)
+
+**Contexto validación:** [HOW-016]
+- Cultivador: Chris Roots (colaborador House of Weed)
+- Experiencia documentada: 3 años / 5 ciclos completos maceta 50L
+- Setup: indoor 60x60cm / LED Quantum 150W
+- Resultados constantes: 120-150g/ciclo / Calidad progresiva creciente
+- Sustrato: SIN cambio 3 años (reutilización infinita)
+
+**Componentes Base Sustrato (Maceta 50L):** [HOW-016]
+
+*Estructura (75%):*
+- Sustrato reutilizado post-cultivos anteriores, O
+- Sustrato comercial económico (Multipro tipo), O
+- Mezcla DIY: fibra coco + turba + perlita/vermiculita/cascarilla arroz
+- **Función:** estructura + oxigenación raíces
+- **Requisito crítico:** sustrato aireado NO compacto
+
+*Materia Orgánica (20%):*
+- 50% compost termofílico (champiñonera / descomposición hojas)
+  - Función: N + C + microorganismos aeróbicos
+  - **CRÍTICO:** compost debe estar trabajado termofílicamente (sin hongos patógenos/bacterias dañinas)
+- 50% humus lombriz (lombricompost)
+  - Función: fertilizante orgánico potente + microorganismos
+  - Proceso: lombrices digieren restos orgánicos → "caca lombriz"
+
+*Minerales (5%):**
+- Harinas roca (Ca + Si + B + micronutrientes)
+- Harina hueso (Ca + P)
+- Alternativas: harina sangre / harina plumas
+- **Función:** micronutrientes completos forma natural
+- **Dosificación:** moderada (NO exceder 5% volumen total)
+
+*Microorganismos (inóculos):*
+- 1kg activador Living Soil tipo Comadreja (fermento bacterias anaeróbicas)
+  - **Función:** microorganismos trabajan situaciones riego alto
+- 1kg biochar (carbón activado inoculado microorganismos)
+  - **Función:** preserva vida microorganismos años + descomposición lenta carbono
+  - **Adquisición:** viveros (biocarbon estándar)
+- Casi Mix (inoculo harinas agroecológicas: cebada/centeno + bacterias ácido láctico)
+  - **Función:** diversidad microbiana anaeróbica
+
+**Proceso Armado - Protocolo Completo:** [HOW-016]
+
+1. **Mezcla homogénea:**
+   - Mezclar todos componentes (estructura + materia orgánica + minerales + microorganismos)
+   - Distribución uniforme CRÍTICA
+
+2. **Siembra cover crop:**
+   - Opción económica: medio paquete lentejas germinar sobre superficie
+   - Opción profesional: mix 13 especies (trébol rojo/blanco/alejandría + vicia + otras)
+   - Función: retención humedad + fijación N + cobertura suelo vivo
+   - Aplicación: cubrir semillas + regar
+
+3. **Activación microbiológica (FASE CRÍTICA):**
+   - Riego constante mantener humedad
+   - **⚠️ NO plantar inmediato:** actividad microorganismos eleva temperatura hasta 60°C
+   - **Timing espera obligatorio:** 2-4 semanas "cocinado" sustrato
+   - Indicador listo: temperatura normalizada + cover crop germinado creciendo
+
+4. **Trasplante inicio cultivo:**
+   - **SÍ:** Plántula pre-germinada (vaso 0.5L → maceta living soil)
+   - **NO:** Semilla directa (microorganismos destruyen semilla)
+   - Método: hacer hueco sustrato → insertar plántula → regar
+
+**Enmiendas Mantenimiento - Protocolo Ciclo:** [HOW-016]
+
+*Timing aplicación:*
+- **Pre-floración (cambio fotoperíodo):** Enmienda sólida capa superior 2-3cm
+- **Post-cosecha:** Enmienda restauración nutrientes absorbidos ciclo anterior
+
+*Componentes enmienda (similares armado inicial):*
+- Compost
+- Humus lombriz
+- Harinas minerales (roca/hueso)
+- Microorganismos (Casi Mix recomendado versatilidad)
+- **+ Estructura adicional:** fibra coco (integrar biomasa caída hojas/ramas)
+
+*Aplicación enmienda superior (NO remover sustrato):*
+- Capa sobre superficie existente
+- **NO labrar/remover tierra:** preserva estructura microbiológica
+- Función: lixiviación gradual nutrientes hacia capas inferiores
+- Concepto: construir suelo verticalmente (nuevas capas sobre anteriores)
+
+**Protocolo Post-Cosecha - Reinicio Ciclo:** [HOW-016]
+
+1. Cortar planta completa (incluir raíz)
+2. Tirar todas hojas + ramas sobrantes superficie sustrato
+3. Esperar 5-6 días descomposición inicial biomasa
+4. Aplicar enmienda restauración (compost + humus + minerales + microorganismos + fibra coco)
+5. Hacer hueco → transplantar plántula nuevo ciclo
+6. **CRÍTICO:** NO sembrar semilla directa (microorganismos activos destruyen)
+7. Regar solo agua
+8. Iniciar nuevo ciclo inmediato
+
+**Riego Living Soil Chris Roots:** [HOW-016]
+- **Base:** Solo agua pH ajustado
+- **Ocasional:** Té compost (extracto agua mismo compost usado armado sustrato)
+- **Frecuencia té:** cuando suelo "necesitado nutrientes" (observación planta)
+- **NO requerido:** fertilizantes embotellados (sistema autónomo post-establecimiento)
+
+**Resultados Documentados (3 años / 5 ciclos):** [HOW-016]
+
+*Producción:*
+- Setup: 60x60cm / 1-2 plantas / maceta 50L
+- Cosecha promedio: 120-150g por ciclo
+- Variabilidad: depende genética + manejo ambiental
+
+*Calidad superior vs fertilizantes sintéticos:*
+- **Profundidad terpenos:** mucho mayor (no sabor plano/genérico)
+- **Complejidad sabor/aroma:** matices pronunciados específicos genética
+- Experiencia subjetiva cultivador: preferencia marcada vs cultivo fertilizantes
+
+*Evolución calidad:*
+- Ciclo 1 (Watermelon semilla): "no salió perfecto, bastante bien" (calor excesivo carpa)
+- Ciclo 2 (2 esquejes Watermelon): petiso (pleno invierno, error ambiental)
+- Ciclo 3 (2 esquejes Wedding Cake): "uno mejores resultados" (aprendizaje aplicado)
+- Ciclo 4 (1 Security Race): similar producción ciclo 3 con 1 planta vs 2 (optimización)
+- Ciclo 5 (actual): pre-floración (invierno, crecimiento menor pero saludable)
+- **Tendencia:** calidad mejora cada ciclo (acumulación microbiología + experiencia)
+
+*Sostenibilidad económica:*
+- **Ciclo 1:** Inversión inicial materiales (~50L sustrato + inóculos + enmiendas)
+- **Ciclos 2-5:** Costo casi $0 (solo agua + té compost ocasional materiales ya disponibles)
+- **Desperdicios:** 0 bolsas sustrato basura 3 años (vs cultivo convencional cambio sustrato cada ciclo)
+
+**Errores Documentados - Aprendizajes:** [HOW-016]
+- **Ciclo 1:** Calor excesivo carpa → plantas "no perfectas" PERO funcionales
+- **Ciclo 2:** Invierno frío → plantas petisas crecimiento limitado
+- **Advertencia semilla directa:** microorganismos activos "se comen semilla en un toque" → usar plántulas SIEMPRE
+
+**Principio Mimético Bosque - Fundamento Sistema:** [HOW-016]
+
+*Concepto natural replicado:*
+- Bosque nativo: hojas caen → descomposición → mulching (cobertura) → ciclado nutrientes
+- **NO ver suelo desnudo:** carpa tampoco debería mostrar sustrato descubierto
+- Hongos + bacterias: únicos responsables descomposición materia orgánica
+- Micorriza: red subterránea conecta plantas → transferencia carbohidratos planta grande → planta pequeña
+
+*Aplicación cultivo indoor:*
+- Cover crop = cobertura vegetal continua (símil mulching bosque)
+- Hojas/ramas cosecha superficie = input materia orgánica continuo
+- Microorganismos diversos = hongos + bacterias descomponedores
+- Enmiendas = reemplazo nutrientes extraídos (símil ciclo natural bosque)
+
+**Comparativa 1-2 Plantas (60x60cm):** [HOW-016]
+- **2 plantas:** posible (ciclo 3 resultados óptimos)
+- **1 planta:** preferible eficiencia (ciclo 4 producción similar 1 vs 2)
+- **Recomendación cultivador:** 1-2 plantas rango ideal 60x60cm
+- **Técnicas complementarias:** LST aplicable moldear planta única llenar espacio
+
+**Limitaciones Reconocidas Sistema:** [HOW-016]
+- Crecimiento vegetativo: "despacito, tardó 2 meses-2.5 meses" (vs fertilizantes sintéticos más rápidos)
+- Curva aprendizaje: primer cultivo requiere observación intensiva timing enmiendas
+- Inversión inicial: tiempo preparación + costo materiales armado (rentabiliza ciclos posteriores)
+
 ### Trasplantes
 
 **Secuencia detallada (Feminizadas):** [HOW-001] [HOW-002]
