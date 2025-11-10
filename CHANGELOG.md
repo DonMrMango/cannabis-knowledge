@@ -5,6 +5,49 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.9-modular] - 2025-11-10
+
+### Agregado
+- **[HOW-023]** Noé (House of Weed) - "Autoflorecientes Indoor Sweet Mimosa" - **Tier A (23/25)** 💰 Patrocinado Sweet Seeds
+- **knowledge/04-nutricion/28-fertilizacion.md:** EXPANDIDA nueva sección completa "Autoflorecientes Indoor - Fertilización Completa" (+205 líneas)
+  - **Caso estudio Sweet Mimosa XL Auto:** Indoor 10 semanas germinación→cosecha, 80-90cm, 5-6 flores parejas (genética optimizada ramas laterales desarrollo importante)
+  - **Fase 1 Plántula (sem 1-3):**
+    - Riego: ≤250ml uniforme sin saturar, secado intermedio respiración raíces
+    - **Humedad crítica:** ~80% semana 1 (plántula sin raíces NO absorbe agua similar esquejes HOW-020) → métodos riegos foliares+humidificador+domo
+    - Transición: 40-60% desarrollo raíces (vertical+horizontal aceleración crecimiento)
+    - Fertilización: CERO sem 1-2 (light mix turba+humus+perlita microbiología suficiente) → inicio sem 3
+  - **Fase 2 Vegetativo (sem 3-5):**
+    - Fertilizante: 2ml/L N alto orgánico 2-3x/sem grow shops | alternativa suelo casero
+    - Parámetros: pH 7.8 agua→6.0 fertilizante | EC tabla fases (sin valores exactos)
+    - Desarrollo: hojas grandes frondosas, estructura 5-6 flores parejas similar FIM natural
+  - **Fase 3 Floración (sem 6-8):**
+    - Señal: hojas claras demanda nutrientes
+    - Fertilización: 4→6ml/L P-K alto + N 4→2ml/L→suspender solo agua
+    - Plantas: anchas 80-90cm vs exterior fortaleza (más horas luz indoor demanda nutrición)
+  - **Troubleshooting acumulación sales caso real:** ⚠️
+    - Problema: 1 semana post 6ml/L síntoma régimen NO funciona, diagnóstico visual hojas
+    - Decisión: NO lavado raíces floración avanzada evitar estrés, suspensión fertilización antes
+    - **Diagnóstico EC drenaje:** saturar→medir, EC 2-3 crítico sobre-fertilización (depende variedad)
+    - **Protocolo corrección:** suspender+riego abundante agua saturación cada riego hasta ciclo
+    - **Resultado:** 2-3 riegos planta mejor, flores engordando, estrés NO estancamiento ✅
+  - **Fase 4 Senescencia (sem 9-10):**
+    - Inducción exterior: últimos 12 días temperaturas bajas nocturnas→morados+rojizos
+    - Manicura pre-cosecha: quitar TODAS hojas (ciudad costera humedad prevención)
+    - Secado: +2 semanas colgado
+  - **Evaluación fenotipos:** fenotipo 1 cítrico muy marcado efecto activo placentero | fenotipo 2 cítrico+terroso tolerancia estrés
+  - **Lecciones 7 clave:** humedad 80% plántulas + paciencia inicial raíces subterráneas + intensidad lumínica indoor demanda vs exterior + fertilización progresiva conservadora + EC drenaje útil + corrección estrés reversible + alternativas living soil
+
+### Cambiado
+- **Distribución Tiers contenido técnico:** **3 S (8.6%) + 24 A (68.6%) + 8 B (22.9%) = 35 total**
+- **Videos procesados DB:** **36/90 (40.0%)** = 23 Noé (22 técnicos + 1 excluido) + 13 Doña Huana
+- **Videos técnicos integrados KB:** **35/90 (38.9%)** = 22 Noé + 13 Doña Huana
+- **Videos excluidos:** 1 (contenido no técnico)
+
+### Notas
+Vigésima tercera fuente Noé. Tier A (23/25). **Video patrocinado Sweet Seeds - Sesgo comercial reduce objetividad (4/5) PERO transparencia sobre dificultades mantiene credibilidad alta (5/5)**. Puntuación: credibilidad 5/5 (caso real documentado admite problemas acumulación sales transparente troubleshooting), calidad 4/5 (parámetros específicos humedad 80%→40-60% riego 250ml fertilización 2→6ml/L pH 7.8→6.0 EC 2-3 **PERO** tabla EC sin valores exactos), consistencia 5/5 (alineado HOW-020 humedad plántulas + HOW-018 EC drenaje), aplicabilidad 5/5 (protocolo reproducible 10 semanas troubleshooting aplicable), objetividad 4/5 (patrocinado PERO transparente errores). **Troubleshooting valioso:** acumulación sales diagnóstico visual+EC→suspensión+agua→recuperación 2-3 riegos sin estancamiento. Complementa HOW-018 bloqueo nutrientes (EC drenaje método común). Humedad crítica plántulas 80% consistente HOW-020 esquejes (sin raíces NO absorbe agua). Lecciones clave: paciencia inicial + intensidad lumínica indoor demanda nutrición vs exterior + corrección estrés reversible. Caso completo autoflorecientes indoor 4 fases reproducible.
+
+---
+
 ## [1.0.8-modular] - 2025-11-10
 
 ### ⛔ PRIMERA EXCLUSIÓN - Video Sin Contenido Técnico
