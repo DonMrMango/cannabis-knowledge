@@ -5,6 +5,50 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.6-modular] - 2025-11-10
+
+### 🌟 TERCER TIER S - Clonación Profesional Completa
+
+**Hito:** TERCER video Tier S (25/25) perfecto - Protocolo clonación completo profesional accesible
+
+### Agregado
+- **[HOW-020]** Noé (House of Weed) - "Guía básica para hacer ESQUEJES" - **TIER S (25/25)** ⭐
+- **knowledge/05-tecnicas/31-clonacion.md:** REESCRITURA COMPLETA Tier S (+260 líneas)
+  - Fundamentos reproducción: sexual (macho×hembra semillas) vs asexual (esqueje clone 100% idéntico)
+  - Ventajas clon vs semilla: liberación dependencia semillas países difícil acceso + garantía hembra 100% + conservación genéticas preferidas
+  - Estrategia phenohunting: 4-5 plantas outdoor → 2-3 clones/planta ANTES cosecha → indoor 18h luz → evaluar post-cosecha → conservar favoritas → biblioteca genéticas curadas
+  - Materiales: propagador $7-8 USD (DIY caja plástica+domo botella) + luz fluorescente/bajo consumo + herramientas esterilización alcohol + hormonas líquidas/polvo/gel aloe vera + medio jiffys/bandejas almácigo turba prensada
+  - Selección madre: salud crítica sin plagas/carencias + timing óptimo vegetativo + ramas verdes 6-10cm 2-3 nudos tiernas firmes + aprovechar podas regulares reducir estrés
+  - Preparación esqueje 5 pasos detallados:
+    1. Corte inicial colocar agua (opcional 24h hidratación)
+    2. Defoliación reducir transpiración + corte puntas hojas crítico evitar deshidratación
+    3. Ajuste tamaño corte limpio crítico (restos→pudrición→hongos) técnica 45° tradicional
+    4. Raspado tallo base incluir 1-2 nudos sumergidos sustrato mayor enraizamiento
+    5. Aplicación hormona sumergir tallo raspado inmediato plantar
+  - Plantado: agujero previo palito + insertar esqueje + complementar sustrato + pulverizar abundante + cerrar dome inmediato
+  - **Ambiente parámetros profesionales:**
+    - Humedad: 2-3 días >90% dome cerrado → días 5-7 aireación gradual → pulverizar 1-2x/día → test rigidez esqueje → >80% post-enraizamiento
+    - Temperatura: 18-22°C termohigrómetro monitoreo
+    - Luz: fluorescente fotoperíodo 18h baja intensidad
+    - Ventilación: 2-3 días cerrado → 3-14 días aireación progresiva observar respuesta
+  - Timing: ~20 días enraizamiento variables salud/ambiente/técnica
+  - Señales éxito: raíces asomando + hojas nuevas + rigidez + verde saludable
+  - Consideraciones especiales:
+    - Floración revegetación: posible PERO NO recomendado (3-4 semanas vs 1-2 vegetativo + mayor moho + complejo principiantes)
+    - Automáticas NO clonables: ciclo definido ~3 meses + clon hereda reloj biológico → florece minúsculo inútil
+    - Estrés planta: múltiples cortes → crecimiento lento días → mitigación esterilizar + aprovechar podas + cortes limpios
+  - Complemento DH-011: integración protocolo 6 pasos + ambiente enraizamiento + timing revegetación
+  - Síntesis Tier S: por qué 25/25 perfecto (completitud fundamentos+estrategias+materiales+protocolo+parámetros+troubleshooting+casos especiales + accesibilidad materiales baratos+DIY+fluorescentes + rigor técnico explica por qué+medible+curva aprendizaje+sin exageraciones + integración perfecta DH-011 llena TODAS limitaciones)
+
+### Cambiado
+- **Distribución Tiers:** **3 S (9.1%) + 22 A (66.7%) + 8 B (24.2%) = 33 total**
+- **Videos procesados:** **33/90 (36.7%)** = 20 Noé + 13 Doña Huana
+
+### Notas
+Vigésima fuente Noé. **TERCER Tier S proyecto** (HOW-016 living soil + HOW-018 bloqueo nutrientes + HOW-020 clonación). Protocolo clonación COMPLETO llena TODAS limitaciones DH-011 (tamaño esqueje 6-10cm, temperatura 18-22°C, humedad >90%, timing 20 días, troubleshooting test rigidez). Puntuación perfecta 5/5 todos criterios (credibilidad experiencia documentada + calidad parámetros precisos paso a paso + consistencia coherente DH-011 + aplicabilidad materiales $7-8 USD DIY fluorescentes + objetividad admite curva aprendizaje sin exageraciones). Completitud excepcional fundamentos teóricos + estrategias phenohunting conservación genéticas + materiales comerciales+DIY + protocolo 5 pasos ultra detallado + parámetros ambientales profesionales precisos + timing señales verificación + troubleshooting + casos especiales floración/automáticas. Accesibilidad práctica materiales económicos alternativas caseras iluminación básica. Rigor técnico explica "por qué" cada paso (no solo "cómo") + parámetros medibles específicos + admite realista problemas principiantes + sin claims exagerados tasa éxito. Integración perfecta complementa y completa DH-011 consistente conocimiento establecido. Educador excepcional Noé demuestra capacidad transmitir conocimiento profesional forma accesible cualquier cultivador. Tres Tier S proyecto (9.1%) evidencia calidad excepcional fuentes seleccionadas.
+
+---
+
 ## [1.0.5-modular] - 2025-11-10
 
 ### Agregado
