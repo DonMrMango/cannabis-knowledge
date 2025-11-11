@@ -1,11 +1,11 @@
 # Sección 36: Deficiencias y Bloqueos
 
-> **Última actualización:** 2025-11-10
-> **Estado:** Expandido con Troubleshooting Bloqueo Nutrientes
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Troubleshooting bloqueo sales + **BLOQUEO pH regulador humus**
 > **Fuentes:** Ver references.md
 
 > **Estado actual:** ✅ Diagnóstico práctico + Troubleshooting bloqueo sales completo
-> **Fuentes:** [DH-003], [HOW-018]
+> **Fuentes:** [DH-003], [HOW-018], [DH-143]
 > **Prioridad:** Crítica cumplida
 
 ### Enfoque Troubleshooting Práctico
@@ -268,5 +268,172 @@
 - Genética demostró resistencia (Monster Maker más afectada → más robusta final)
 
 **Conclusión:** con acciones rápidas + diagnóstico correcto, problemas solucionan + plantas salvan + buena cosecha posible
+
+---
+
+## BLOQUEO POR pH - Diagnóstico Diferencial
+
+### Definición Concepto Clave
+
+**Deficiencia vs Carencia:** [DH-143]
+- **Carencia:** planta NO tiene nutriente (ausente sustrato)
+  - Ejemplo: sustrato agotado nitrógeno → planta verde clara
+  - Solución: añadir fertilizante faltante
+- **Deficiencia (Bloqueo):** planta NO puede absorber nutriente (presente PERO bloqueado)
+  - Ejemplo: pH disparado → nitrógeno presente PERO inaccesible
+  - Solución: corregir pH primero (NO fertilizar más)
+
+**Diferencia crítica diagnóstico:** [DH-143]
+- Planta verde oscura → NUNCA carencia (exceso O bloqueo)
+- Planta verde clara → posible carencia (falta nutrientes)
+
+### Causa Bloqueo pH
+
+**Mecanismo:** [DH-143]
+- pH demasiado alto O demasiado bajo → nutrientes NO solubles
+- Planta NO puede "comer" nitrógeno/fósforo/potasio aunque presentes sustrato
+- **Problema adicional:** EC alta puede coincidir (sales + pH = doble problema)
+
+**⚠️ Limitación información:** [DH-143]
+- NO especifica valores pH problemáticos exactos
+- NO documenta rango pH óptimo tierra
+- **Requiere fortalecimiento:** fuentes técnicas pH preciso
+
+### Diagnóstico Visual Aproximado
+
+**Síntomas mencionados:** [DH-143]
+- "Bordes raros" hojas (impreciso)
+- "Colores raros" hojas (impreciso)
+- Planta triste tristeza
+
+**⚠️ Problema diagnóstico:** síntomas inespecíficos pueden ser múltiples causas
+
+### Solución Primaria - Humus Regulador pH
+
+**Protocolo humus:** [DH-143]
+
+**1. Dosis aproximada:**
+- Maceta 20L → 1-2L humus (10% volumen maceta)
+- **⚠️ Imprecisión:** rango amplio 5-10% poco específico
+
+**2. Función humus:**
+- **Regulador pH natural:** neutraliza pH (lleva hacia 7 neutro)
+- **Antibiótico natural:** propiedades microbiológicas beneficiosas
+- **Aporte nutricional:** nutrientes completos planta inicio
+
+**3. Mecanismo acción:**
+- Humus tiene aditivos ácidos + alcalinos
+- pH 7 = neutro (equilibrio)
+- Humus tiende equilibrar pH sustrato desbalanceado
+- Planta puede volver solubilizar nutrientes → absorción nitrógeno reinicia
+
+**4. Ventaja vs fertilizar más:**
+- Si bloqueo pH → fertilizar más empeora (más nutrientes bloqueados)
+- Humus neutraliza pH → desbloquea nutrientes existentes
+- Permite planta comer lo ya presente
+
+**Relacionado:** Ver 26-ph.md pH óptimo rangos + 30-sustrato-living-soil.md humus lombriz propiedades
+
+### Alternativas Regulador pH
+
+**Otros boosters naturales:** [DH-143]
+- Concepto: reguladores pH naturales disponibles
+- **⚠️ Limitación:** NO especifica cuáles productos concretos
+- Preferencia autor: humus siempre primera opción
+
+### Advertencia Lavado Raíces Excesivo
+
+**Problema lavado raíces frecuente:** [DH-143]
+- Error común: síntomas aparecen → lavado raíces inmediato
+- Repeticiones: "3 veces lavado" NO resolver problema
+- **Consecuencia:** pérdida oxigenación sustrato
+
+**Importancia oxigenación:** [DH-143]
+- Oxígeno sustrato = indispensable planta (como oxígeno nosotros)
+- Sustratos esponjosos aireados → razón justamente oxigenación
+- Riego excesivo → pierde oxigenación → problema básico planta
+
+**Analogía ecología planta:** [DH-143]
+- Planta debe estar "ambiente ecología necesita"
+- Ejemplo: planta sol 1.5h/día vs planta sol todo día → diferencia enorme
+- NO es magia → es condiciones óptimas
+
+**Consejo conservador:** [DH-143]
+- Ante 70-80% síntomas desconocidos → humus primera opción
+- Lavado raíces reservar casos sobrefertilización severa confirmada
+
+**⚠️ Contradicción DH-085:** [DH-143]
+- DH-143 dice: lavado raíces "gastadero plata" problema oxigenación
+- DH-085 dice: lavado raíces método válido experimentar (estudio RX Green Tech)
+- **Estado KB:** contradicción registrada requiere validación
+
+### Diagnóstico Error Común
+
+**Error típico grow shop:** [DH-143]
+- Cliente Google "mancha tal" → lista carencias aparece
+- Cliente dice: "carencia molibdeno" "carencia manganeso"
+- **Realidad:** 90% casos NO micronutrientes
+- **Causas reales frecuentes:**
+  1. Riego incorrecto (muy poco O excesivo)
+  2. Maceta pequeña agotada
+  3. Sobrefertilización
+  4. pH desbalanceado
+
+**Filosofía diagnóstico grow shop:** [DH-143]
+- Primero: revisar manejo básico (riego/maceta/ferti)
+- Segundo: corregir problema raíz
+- Último: considerar carencias micronutrientes específicas
+
+### Caso Estudio - Trasplante 25L Invierno
+
+**Experiencia Belomo:** [DH-143]
+
+**Contexto:**
+- Trasplante 25L sustrato "chimichanga" (fertilizado)
+- Tiempo: 1.5 meses post-trasplante
+- Temporada: invierno indoor
+
+**Síntomas:**
+- Planta triste
+- Bordes hojas "raros"
+- Hojas "cada vez más claritas colores raros"
+
+**Diagnóstico proceso:**
+- Descartó: riego (agua temperatura correcta)
+- Consideró: frío (caloventor → humedad baja problema)
+- Hipótesis final: sustrato agotado (planta grande consumió rápido)
+
+**Solución progresiva:**
+1. **Fertilizante vegetativo solo:** mejora parcial "¿eh?" PERO NO completa
+2. **Solución A+B hidropónico:** recuperación completa
+   - Razón: fertilizante vegetal insuficiente espectro completo
+   - Solución hidro → nutrientes completos balanceados
+
+**Lección:** sustrato "chimichanga" NO siempre dura tiempo estimado si planta grande consumo alto
+
+**⚠️ Limitación información:** NO especifica marca sustrato, fertilizantes usados, dosis aplicadas
+
+### Prevención Sobrefertilización
+
+**Error principiante:** [DH-143]
+- Lógica incorrecta: dosis dice 1 tapita → pongo 2 tapitas → planta crece doble
+- **Realidad:** fabricante desarrollo producto → seguir dosis exacta
+- Más fertilizante ≠ mejor planta (concepto erróneo)
+
+**Similar preventivos plagas:** [DH-143]
+- Lógica incorrecta: dosis dice 1 tapita veneno → pongo 1/2 → cuido planta
+- **Realidad:** veneno para bicho NO planta → dosis completa necesaria matar bicho
+- Menos veneno → bichos sobreviven planta NO protegida
+
+**Consejo:** seguir instrucciones fabricante exactas (trabajo investigación behind producto)
+
+### Trasplante vs Humus
+
+**Contexto planta recién trasplantada:** [DH-143]
+- Si planta recién trasplantada → problema probablemente NO falta nutrientes
+- Posibilidad: exceso riego (humedad demasiada)
+- **Solución humus válida:** SI planta establecida tiempo suficiente (NO inmediato post-trasplante)
+
+**Regulador pH humus trasplante:** posible SI problema pH (NO exceso agua)
 
 ---

@@ -5,6 +5,30 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.22-modular] - 2025-11-11
+
+### Agregado
+- [DH-143] Doña Huana (Nahuel + Belomo grow shop) - "Carencias Exterior - Belomo" - Tier B (14/25) 🔄 Primera fuente bloqueo pH humus
+- knowledge/06-problemas/36-deficiencias.md: (+127 líneas nueva sección "BLOQUEO POR pH - Diagnóstico Diferencial")
+  · Deficiencia vs carencia concepto diferencial carencia planta NO tiene nutriente ausente sustrato solución añadir fertilizante vs deficiencia bloqueo planta NO puede absorber nutriente presente PERO bloqueado pH disparado solución corregir pH primero
+  · Diagnóstico visual aproximado planta verde oscura NUNCA carencia exceso O bloqueo vs planta verde clara posible carencia
+  · Bloqueo pH mecanismo pH alto O bajo nutrientes NO solubles planta NO absorbe nitrógeno/fósforo/potasio presentes problema EC alta puede coincidir sales+pH doble LIMITACIÓN NO especifica valores pH problemáticos exactos
+  · Solución humus regulador pH protocolo dosis aproximada maceta 20L→1-2L 10% volumen imprecisión rango amplio 5-10% función humus regulador pH natural neutraliza lleva 7 neutro+antibiótico natural+aporte nutricional completo inicio mecanismo humus aditivos ácidos+alcalinos tiende equilibrar pH→desbloquea nutrientes existentes→planta absorción nitrógeno reinicia ventaja vs fertilizar más si bloqueo pH fertilizar empeora humus neutraliza desbloquea
+  · Advertencia lavado raíces excesivo problema lavado frecuente síntomas→lavado inmediato repeticiones "3 veces" NO resolver consecuencia pérdida oxigenación sustrato crítico esponjosos aireados importancia oxigenación indispensable planta como oxígeno nosotros riego excesivo pierde problema básico consejo conservador ante 70-80% síntomas desconocidos humus primera opción lavado reservar sobrefertilización severa confirmada CONTRADICCIÓN DH-085 DH-143 "gastadero plata" vs DH-085 método válido experimentar contradice
+  · Diagnóstico error común grow shop error típico Google "mancha tal"→lista carencias→cliente "carencia molibdeno/manganeso" realidad 90% NO micronutrientes causas reales riego incorrecto/maceta pequeña/sobrefertilización/pH filosofía diagnóstico primero revisar manejo básico segundo corregir problema raíz último micronutrientes
+  · Caso trasplante 25L invierno experiencia Belomo trasplante 25L sustrato "chimichanga" 1.5 meses síntomas triste bordes raros claritas colores descartó riego temperatura consideró frío caloventor humedad baja hipótesis sustrato agotado planta grande consumió rápido solución progresiva fertilizante vegetativo mejora parcial solución A+B hidropónico recuperación completa razón vegetal insuficiente espectro hidro nutrientes completos balanceados lección sustrato "chimichanga" NO dura tiempo estimado planta grande consumo alto
+  · Prevención sobrefertilización error lógica 1 tapita→2 tapitas→doble crecimiento incorrecto fabricante desarrollo producto seguir dosis exacta más≠mejor similar preventivos dosis veneno completa necesaria matar bicho menos veneno bichos sobreviven
+
+### Cambiado
+- Distribución Tiers: 5 S (10.0%) + 32 A (64.0%) + 12 B (24.0%) + 1 otros (2.0%) = 50 total
+- Videos procesados DB: 50/143 (35.0%)
+- Videos técnicos integrados KB: 45/143 (31.5%) = 27 Noé + 18 Doña Huana
+
+### Notas
+Decimoctava fuente Doña Huana (primera con invitado Belomo grow shop). Tier B (14/25) justificado -2 credibilidad (lenguaje coloquial+NO certificación) + -3 calidad técnica (falta valores pH+dosis imprecisa+diagnóstico visual inespecífico) + -2 consistencia (contradice DH-085 flush+confusión sales) + -3 aplicabilidad (falta información crítica replicar) + -1 objetividad (lenguaje informal). VALOR ÚNICO vs LIMITACIONES: Concepto deficiencia vs carencia bien explicado bloqueo pH impide absorción nutrientes presentes diferente carencia ausencia útil diagnóstico diferencial +humus regulador pH solución práctica accesible principiantes orgánico +filosofía diagnóstico primero revisar manejo riego/ferti/maceta antes síntomas micronutrientes útil grow shop +caso trasplante 25L invierno experiencia real sustrato agotado rápido transparente +advertencia lavado excesivo oxigenación pérdida crítico PERO falta rigurosidad técnica valores pH problemáticos NO especificados+dosis humus 10% imprecisa rango amplio+diagnóstico visual "bordes raros" inespecífico NO reproducible+contradicción DH-085 lavado raíces "gastadero plata" vs método válido requiere validación. Complementa HOW-018 bloqueo sales (EC alta) vs DH-143 bloqueo pH (pH disparado). Total +127 líneas 1 módulo.
+
+---
+
 ## [1.0.21-modular] - 2025-11-11
 
 ### Agregado
