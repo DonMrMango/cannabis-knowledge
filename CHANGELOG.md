@@ -5,6 +5,34 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.17-modular] - 2025-11-11
+
+### Agregado
+- **[HOW-052]** Noé (House of Weed) - "Guía LST - Entrenamiento de Bajo Estrés" - **Tier S (24/25) ⭐ TERCER Tier S**
+- **knowledge/05-tecnicas/30-training.md:** EXPANDIDO sección LST básica→completa (+129 líneas)
+  - **Concepto fundamental:** técnica modificar estructura sin estrés vs podas heridas + objetivo horizontal canoa múltiples puntas vs árbol navidad
+  - **Ventajas indoor (favorita autor):** aprovechamiento luz+espacio óptimo + evita bleaching puntas + flexibilidad altura foco + múltiples puntas
+  - **Ventajas exterior:** discreción cultivo + tamaño manejable movilidad + espacios reducidos
+  - **Automáticas:** técnica ideal bajo estrés + preferir sativas + timing empezar cuanto antes primeras semanas CRÍTICO
+  - **Timing crítico aplicación:** ANTES floración obligatorio + si YA floración evitar + inicio 3-4 nudos + altura mínima 10-15cm
+  - **Protocolo 3 fases completo paso a paso:**
+    - Fase 1 primer amarre: doblar tallo superior + amarrar + materiales cable/amarras/cuerda suave + técnica agujeros macetas → brotes secundarios + forma horizontal inicio canoa
+    - Fase 2 desarrollo ramas laterales: ajuste cada 2-3 días + amarres costados + apertura planta ramas bajas reciben luz → canopy uniforme todas puntas mismo nivel
+    - Fase 3 finalización floración: quitar cables inicio floración CRÍTICO evitar perforar/quebrar ramas engrosamiento
+  - **Casos prácticos documentados:** automática 1 fracaso transparente floración temprana baja productiva + automática 2 éxito + fotodependiente exterior ancha baja múltiples centrales + interior favorito ocupación espacio pareja
+  - **Combinaciones:** super cropping + podas compatibles
+  - **Aplicaciones:** cogollos densos ramas inferiores + poco espacio vertical + controlar tamaño discreción
+
+### Cambiado
+- **Distribución Tiers:** **4 S (9.1%) + 28 A (63.6%) + 10 B (22.7%) + 2 otros (4.5%) = 44 total**
+- **Videos procesados DB:** **44/90 (48.9%)** = 27 Noé + 17 Doña Huana
+- **Videos técnicos integrados KB:** **41/90 (45.6%)** = 27 Noé + 14 Doña Huana
+
+### Notas
+Vigésima séptima fuente Noé. **TERCER Tier S proyecto (9.1% S).** **Primera fuente LST protocolo completo paso a paso llena gap crítico 05-tecnicas/ training.** Tier S excepcional: calidad técnica protocolo reproducible + casos múltiples documentados indoor+exterior+automáticas+fotodependientes + transparencia total fracasos + sin sesgo comercial. Total +129 líneas.
+
+---
+
 ## [1.0.16-modular] - 2025-11-11
 
 ### Agregado
