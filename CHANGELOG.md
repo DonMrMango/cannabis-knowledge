@@ -5,6 +5,38 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.19-modular] - 2025-11-11
+
+### Agregado
+- **[DH-103]** Doña Huana (Nahuel) - "Hidroponía Fácil - Roya" - **Tier B (14/25)** 💰 Primera fuente hidroponía
+- **knowledge/02-sistemas-cultivo/15-hidroponia.md:** NUEVA PRIMERA FUENTE (+247 líneas)
+  - **Hidro simple 10L caso completo:** germinación→cosecha 52d veg + 50d flora = ~100d total
+  - **Setup mínimo funcional:** tacho 10L + LED 80W + germinación directo (NO trasplante) + soporte lana roca/goma espuma
+  - **Manejo solución nutritiva:** cambio agua semanal flexible + reposición evaporada + pH+EC medición rutinaria
+  - **Parámetros agua aproximados:** pH 5.5-6.5 (impreciso vs óptimo 5.5-6.0) + EC mencionada PERO valores NO documentados
+  - **Training hidro:** podas apicales múltiples + defoliación varias veces + lollipopin 12d floración → resultado múltiples cogollos chicos distribución energía dividida
+  - **⚠️ TROUBLESHOOTING roya floración:** ~25d floración fase engorde crítico + síntomas manchitas puntitos café-negro hojas + causas estrés acumulado (podas excesivas + agua agotada + temp/humedad descontroladas)
+  - **Tratamiento químico Mamboretá Foli:** protocolo 1x semana × 2-3 semanas + tiempo carencia CRÍTICO >20-30 días antes cosecha + truco dosificación legal usar uva folleto producto
+  - **⚠️ GAPS conocimiento CRÍTICOS:** fertilizante NO especificado + EC valores NO documentados + oxigenación bomba aire NO mencionada + temperatura solución NO especificada + protocolo NO reproducible completo **REQUIERE FORTALECIMIENTO** fuentes técnicas profesional
+- **knowledge/06-problemas/35-enfermedades.md:** (+77 líneas nueva sección "ROYA - Hongo Foliar Floración")
+  - **Síntomas identificación:** manchitas puntitos característicos floración + daño tejido foliar → fotosíntesis imposible → cogollos NO engordan
+  - **Causas estrés planta:** podas excesivas + agua agotada + temp/humedad descontroladas + principio planta resana MUY difícil ataques vs estresada susceptible
+  - **Tratamiento químico floración:** Mamboretá Foli tiempo carencia certificado entes gubernamentales + protocolo aplicación 1x semana × 2-3 semanas espera observación
+  - **Tiempo carencia concepto:** período espera después aplicación química antes consumo seguro + certificación gubernamental residuos eliminados
+  - **Truco dosificación legal:** usar planta comestible similar folleto producto (ejemplo roya → uva referencia)
+  - **Prevención roya:** control ambiental HR+temp+ventilación + preventivos orgánicos Vito Trap bacilos subtilis cada 10 días + manejo estrés evitar podas excesivas
+  - **Cross-reference:** [15-hidroponia.md] caso completo roya floración hidropónico troubleshooting detallado
+
+### Cambiado
+- **Distribución Tiers:** **4 S (8.5%) + 29 A (61.7%) + 11 B (23.4%) + 3 otros (6.4%) = 47 total**
+- **Videos procesados DB:** **47/143 (32.9%)**
+- **Videos técnicos integrados KB:** **43/143 (30.1%)** = 28 Noé + 15 Doña Huana
+
+### Notas
+Decimosexta fuente Doña Huana. **Primera fuente hidroponía proyecto llena gap crítico 02-sistemas-cultivo/.** Tier B -2 credibilidad (primer cultivo hidro autor + lenguaje coloquial) + -3 calidad (pH impreciso + fertilizante NO especificado + EC NO especificado) + -2 consistencia + -3 aplicabilidad + -1 objetividad. **VALOR ÚNICO:** troubleshooting roya floración real caso documentado + tratamiento químico tiempo carencia concepto + truco dosificación uva folleto **PERO LIMITACIONES CRÍTICAS:** fertilizante NO especificado + EC NO documentado + pH impreciso + oxigenación NO mencionada = protocolo NO reproducible completo **REQUIERE FORTALECIMIENTO** fuentes técnicas hidroponía profesional. Total +324 líneas 2 módulos.
+
+---
+
 ## [1.0.18-modular] - 2025-11-11
 
 ### Agregado

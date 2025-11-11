@@ -339,3 +339,82 @@
 - Oportunidades futuras existen | salud NO reemplazable
 
 ---
+
+## ROYA - Hongo Foliar Floración
+
+### Síntomas Identificación
+
+**Aspecto visual:** [DH-103]
+- **Manchitas raras hojas:** puntitos característicos
+- **Forma:** puntos dispersos superficie hoja
+- **Progresión:** hongo "va comiendo pedazo hoja"
+- **Timing aparición:** floración (momento crítico engorde cogollos)
+
+**Efecto planta:** [DH-103]
+- **Daño hoja:** destruye tejido foliar
+- **Consecuencia fotosíntesis:** quita posibilidad hacer fotosíntesis
+- **Impacto cogollos:** NO engordan mismo tamaño esperado
+- **Gravedad:** crítico si aparece floración fase engorde
+
+### Causas Estrés Planta
+
+**Factores predisponentes:** [DH-103]
+1. **Podas excesivas:** estrés continuo debilita defensas
+2. **Agua agotada:** períodos sin agua suficiente
+3. **Pruebas técnicas:** experimentación múltiple simultánea
+4. **Temperatura/humedad:** NO controladas adecuadamente
+
+**Principio fundamental:** [DH-103]
+- **Planta resana:** MUY difícil ataques hongos
+- **Planta estresada:** defensas ↓ → susceptibilidad ↑
+- **Prevención:** control ambiental + evitar estrés excesivo
+
+### Tratamiento Químico Floración
+
+**Producto plantas comestibles:** [DH-103]
+- **Nombre:** Mamboretá Foli (Argentina)
+- **Tipo:** químico tiempo carencia certificado entes gubernamentales
+- **Condición CRÍTICA:** verificar tiempo carencia >20-30 días antes cosecha
+
+**Protocolo aplicación:** [DH-103]
+1. **Consulta experto:** verificar viabilidad timing cosecha
+2. **Aplicación:** 1 vez semana × 2-3 semanas
+3. **Espera observación:** 1 semana entre aplicaciones
+4. **Ajuste cosecha:** esperar tiempo carencia completo + precaución
+
+**Tiempo carencia concepto:** [DH-103]
+- **Definición:** período espera después aplicación química antes consumo seguro
+- **Fundamento:** fitotoxicidad desaparece + residuos eliminados
+- **Certificación:** entes gubernamentales validan seguridad consumo humano
+- **Ejemplo:** "20 días NO quedan restos sirve consumo humano"
+
+**Truco dosificación legal:** [DH-103]
+- **Problema:** empresas NO pueden especificar dosificación cannabis folletos ilegalidad
+- **Solución:** usar planta comestible similar folleto producto
+- **Ejemplo roya:** usar dosificación **uva** como referencia
+- **Proceso:** identificar hongo → buscar planta comestible similar → aplicar dosis esa planta
+
+### Prevención Roya
+
+**Control ambiental:** [DH-103]
+- **Humedad:** controlar HR evitar exceso
+- **Temperatura:** mantener rango adecuado
+- **Ventilación:** circulación aire adecuada
+- **Fundamento:** factores ambientales controlados = planta resana
+
+**Preventivos orgánicos:** [DH-103]
+- **Producto:** Vito Trap Mamboretá bacilos subtilis
+- **Frecuencia:** cada 10 días uso preventivo
+- **Función:** capa protectora + estimula defensas planta tipo vacuna
+- **Ventaja:** NO químico + estimula sistema inmune planta
+- **Limitación:** preventivo (NO curativo problema ya instalado)
+
+**Manejo estrés:** [DH-103]
+- **Evitar:** podas excesivas continuas
+- **Evitar:** agua agotada períodos largos
+- **Evitar:** pruebas técnicas múltiples simultáneas
+- **Objetivo:** planta resana fuerte = defensa natural
+
+**Relacionado:** Ver [15-hidroponia.md] caso completo roya floración hidropónico + troubleshooting detallado
+
+---
