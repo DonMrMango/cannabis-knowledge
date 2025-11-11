@@ -5,6 +5,30 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.15-modular] - 2025-11-11
+
+### Agregado
+- **[HOW-051]** Noé (House of Weed) - "Breeding en Cannabis: Polinización, Parentales y Semillas" - **Tier A (21/25)** 💰 Sesgo comercial moderado
+- **knowledge/05-tecnicas/32-breeding.md:** EXPANDIDO módulo vacío→completo (+302 líneas)
+  - **Concepto breeding + importancia 4 razones:** mejora calidad + creación nuevas + recreación perdidas + adaptación ambientes
+  - **Métodos polinización:** directa natural vs recolección polen PREFERIDO (flexibilidad timing 4ta semana floración)
+  - **Recolección polen protocolo:** 2 técnicas secado 24h + sacudido vidrio CRÍTICO polen NO humedad NO material vegetal viabilidad pierde
+  - **Viabilidad polen:** 18 meses máximo óptimo 6 meses refrigerador NO congelador
+  - **Cosecha semillas:** regla +2 semanas fecha prevista flores maduración completa
+  - **Selección semillas:** viables café oscuro firmes vs inviables pálido revientan
+  - **Selección parentales:** madre fenotipos múltiples prueba final CRÍTICO vs padre vigor/salud dificultad mayor
+  - **Estabilización características:** proceso generacional cruces repetidos requisitos espacio+tiempo+paciencia
+
+### Cambiado
+- **Distribución Tiers:** **3 S (7.5%) + 28 A (70.0%) + 9 B (22.5%) = 40 total**
+- **Videos procesados DB:** **40/90 (44.4%)** = 27 Noé + 13 Doña Huana
+- **Videos técnicos integrados KB:** **39/90 (43.3%)** = 26 Noé + 13 Doña Huana
+
+### Notas
+Vigésima sexta fuente Noé. **Primera fuente breeding completa proyecto.** Tier A -2 objetividad marca Haze + curso. Protocolo completo polinización. Total +302 líneas.
+
+---
+
 ## [1.0.14-modular] - 2025-11-11
 
 ### Agregado
