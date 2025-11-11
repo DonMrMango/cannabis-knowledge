@@ -5,6 +5,32 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.10-modular] - 2025-11-10
+
+### Agregado
+- **[HOW-024]** Noé (House of Weed) - "Seguimiento Indoor LED ViparSpectra" - **Tier B (15/25)** 💰💰 **SESGO COMERCIAL EXTREMO**
+- **knowledge/03-ambiente/19-iluminacion.md:** INICIADA primera sección "Distancias LED" (+56 líneas)
+  - Plántulas: 77cm distancia + 50% intensidad (problema común panel cerca estrés)
+  - Vegetativo 10-15cm: 70cm + 75% intensidad (transición gradual)
+  - Eficiencia lumínica: μmol/J métrica clave (1.5 eficiente 2.6 muy eficiente) NO confiar solo watts
+- **knowledge/02-sistemas-cultivo/12-indoor.md:** EXPANDIDA troubleshooting real (+98 líneas)
+  - **Macetas textiles problemas:** evaporación lateral rápida riegos frecuentes plantas caídas mañanas
+  - **4 soluciones efectivas:** coco retención humedad + cubrir macetas saco/plástico + ajuste flujo aire ducto intracción NO través macetas + alternativa plástico
+  - Lecciones: ventajas (aireación air pruning) vs desventajas indoor (evaporación adaptaciones)
+  - **Poda bajos timing:** 1 sem post 12/12 NO después sem 2 floración aplicable autos+fotos beneficios centraliza energía circulación facilita riego combinación defoliación
+
+### Cambiado
+- **Distribución Tiers contenido técnico:** **3 S (8.3%) + 24 A (66.7%) + 9 B (25.0%) = 36 total**
+- **Videos procesados DB:** **37/90 (41.1%)** = 24 Noé (23 técnicos + 1 excluido) + 13 Doña Huana
+- **Videos técnicos integrados KB:** **36/90 (40.0%)** = 23 Noé + 13 Doña Huana
+- **Videos excluidos:** 1 (contenido no técnico)
+- **NUEVO:** Primer video Tier B Noé (peor evaluado por sesgo comercial extremo)
+
+### Notas
+Vigésima cuarta fuente Noé. **Tier B (15/25) - PRIMER Tier B Noé por sesgo comercial extremo**. Video patrocinado ViparSpectra código descuento + agradecimiento marca + link Amazon. Sesgo PEOR que HOW-021 Mars Hydro HOW-023 Sweet Seeds. Puntuación: credibilidad 3/5 (patrocinado **PERO** comparte problema real), calidad 3/5 (parámetros 23-26°C distancias LED **PERO** promocional NO floración solo vegetativo), consistencia 4/5, aplicabilidad 3/5 (macetas textiles útil **PERO** atado ViparSpectra), objetividad 2/5 (**CRÍTICO** código descuento agradecimiento link Amazon promoción extensa). Contenido técnico marginal diluido promoción. Integración limitada elementos generalizables eliminando marca: macetas textiles troubleshooting (evaporación lateral 4 soluciones) + distancias LED genéricas (77cm→70cm) + poda bajos timing (<sem 2 floración). NO muestra ciclo completo. Experiencias reales troubleshooting valiosas PESE sesgo comercial.
+
+---
+
 ## [1.0.9-modular] - 2025-11-10
 
 ### Agregado

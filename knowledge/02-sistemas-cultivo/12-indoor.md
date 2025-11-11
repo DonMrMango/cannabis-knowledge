@@ -4,9 +4,9 @@
 > **Estado:** Expandido con Indoor Artesanal
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ COMPLETO - Setup grow tent profesional + Indoor artesanal bajo costo + Filosofía pragmática
-> **Fuentes:** [DH-002], [DH-014], [HOW-016], [HOW-021]
-> **Prioridad:** Crítica cumplida - Accesibilidad todos niveles
+> **Estado actual:** ✅ EXPANDIDO - Setup grow tent + Indoor artesanal + Macetas textiles troubleshooting + Poda bajos timing
+> **Fuentes:** [DH-002], [DH-014], [HOW-016], [HOW-021], [HOW-024]
+> **Prioridad:** Crítica cumplida - Experiencias reales troubleshooting
 
 ### Estructura Grow Tent
 
@@ -439,5 +439,105 @@
 - Ver Sección 30 (Training) - LST/SCROG técnicas detalladas
 - Ver Sección 19 (Iluminación) - Tipos luces comparativa
 - Ver Sección 22 (Ventilación) - Sistemas extracción
+
+---
+
+## MACETAS TEXTILES INDOOR - Troubleshooting Riego
+
+### Problema Aprendizaje Experiencia Real
+
+**Contexto:** [HOW-024] ⚠️
+- **Fuente:** Video patrocinado ViparSpectra (sesgo comercial extremo) PERO experiencia macetas textiles valiosa
+- **Situación:** Primera vez usando macetas textiles indoor
+- **Resultado:** aprendizaje necesario riegos frecuentes
+
+---
+
+### Problema Observado
+
+**Síntomas:** [HOW-024]
+- **Riegos demasiado frecuentes** necesarios
+- **Plantas caídas mañanas:** se levantaban después riego
+- **Parámetros ambientales correctos:** 23-26°C + ~60% HR vegetativo
+- **Conclusión:** plantas secaban muy pronto vs macetas plásticas habituales
+
+**Causa identificada:** [HOW-024]
+- Macetas textiles mejoran aireación (ventaja) PERO evaporación lateral muy rápida (problema)
+- **vs Macetas plásticas:** evaporación solo superficie superior (más lento)
+- **Efecto:** agua disponible menos tiempo para plantas
+
+---
+
+### Soluciones Aplicadas Efectivas
+
+**1. Agregar coco sustrato:** [HOW-024]
+- **Acción:** mezclar fibra coco sustrato
+- **Función:** coco retiene más humedad tiempo prolongado
+- **Resultado:** reduce frecuencia riegos
+
+**2. Cubrir macetas con saco:** [HOW-024]
+- **Acción:** envolver macetas textiles con saco/tela
+- **Función:** barrera física reduce evaporación lateral
+- **Resultado:** agua NO se evapora tan rápido
+
+**3. Alternativa plástico (no probada autor):** [HOW-024]
+- **Opción:** cubrir macetas textiles con plástico
+- **Observación:** autor vio otros cultivadores hacerlo problema similar
+- **Status:** NO probado en este caso PERO opción válida
+
+**4. Ajuste flujo aire:** [HOW-024]
+- **Problema original:** ducto intracción aire pasaba través macetas→secado acelerado
+- **Solución:** subir ducto intracción
+- **Resultado:** aire fresco pasa directo hacia plantas (NO a través macetas)
+- **Efecto:** reduce evaporación adicional flujo aire directo
+
+---
+
+### Lecciones Macetas Textiles Indoor
+
+**Ventajas:** [HOW-024]
+- Mejor aireación sistema radicular
+- Poda aérea raíces (air pruning) cuando tocan pared textil
+
+**Desventajas indoor:** [HOW-024]
+- Evaporación lateral rápida
+- Riegos más frecuentes vs macetas plásticas
+- Requiere adaptaciones (coco, cubrir, ajuste flujo aire)
+
+**Recomendación:** [HOW-024]
+- **Primera vez macetas textiles:** anticipar mayor frecuencia riego
+- **Preparación:** tener coco disponible + material cubrir macetas
+- **Monitoreo:** observar plantas mañanas (señal caídas = necesitan ajuste)
+- **Ajuste flujo aire:** evitar que intracción pase directamente través macetas
+
+---
+
+### Timing Poda Bajos (Lollipopping)
+
+**Contexto aplicación:** [HOW-024]
+- Cultivo: 9 plantas 1m×1m carpa LED 500W (ViparSpectra TS5000 patrocinado)
+- Fase: 1 semana después cambio fotoperíodo 12/12 (inicio floración)
+
+**Procedimiento:** [HOW-024]
+- **Acción:** sacar ramas reciben menos luz (bajos)
+- **Beneficios:**
+  - Centraliza energía planta ramas principales (más expuestas luz)
+  - Mejora circulación aire carpa
+  - Facilita riego (follaje denso dificulta acceso)
+- **Combinación:** poda bajos + defoliación simultánea
+  - Evita hojas tapen luz flores más abajo
+  - Evita energía desperdiciada ramas producción mínima
+
+**Timing crítico:** [HOW-024]
+- **Aplicable:** autoflorecientes + fotoperiódicas
+- **⚠️ LÍMITE TEMPORAL:** NO hacer muy tarde floración
+- **Recomendación personal autor:** NO poda brusca después semana 2 floración
+- **Razón:** planta ya enfocada producción flores, poda tardía = estrés contraproducente
+
+---
+
+**Relacionado:**
+- Ver Sección 30 (Poda y Defoliación) - Lollipopping técnica completa
+- Ver Sección 29 (Riego) - Frecuencias y volúmenes
 
 ---

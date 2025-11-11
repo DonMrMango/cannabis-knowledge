@@ -571,6 +571,29 @@ Lista completa de todas las fuentes citadas en CANNABIS_KNOWLEDGE.md
 
 ---
 
+**[HOW-024]** Noé (House of Weed) - "Seguimiento Cultivo Indoor 500W - LED ViparSpectra" (2024) 💰💰 **SESGO COMERCIAL EXTREMO**
+- Tipo: Video (transcripción) - **Video patrocinado ViparSpectra código descuento + agradecimiento + link Amazon**
+- Expertise: Noé (experiencia primera vez macetas textiles PERO video promocional)
+- Verificado: 2025-11-10 por damo
+- **Tier:** B (15/25) - **CALIDAD BAJA por sesgo comercial extremo**
+- **Puntuación detallada:**
+  - Credibilidad: 3/5 (video patrocinado código descuento agradecimiento marca **PERO** comparte problema real macetas textiles)
+  - Calidad técnica: 3/5 (algunos parámetros 23-26°C distancias LED 77→70cm **PERO** mucho contenido promocional panel falta profundidad NO muestra floración completa solo vegetativo)
+  - Consistencia: 4/5 (parámetros ambientales poda bajos consistentes distancias LED específicas útiles)
+  - Aplicabilidad: 3/5 (lección macetas textiles aplicable distancias LED útiles **PERO** muy atado producto ViparSpectra no generalizable)
+  - Objetividad: 2/5 (**CRÍTICO** patrocinado código descuento agradecimiento marca link Amazon promoción extensa especificaciones panel sin comparar alternativas)
+- **Flags:** 👤 🌍 💰💰 (patrocinio comercial extremo)
+- Nivel de consenso: Bajo (sesgo comercial extremo resta confiabilidad general **PERO** experiencia macetas textiles rescatable)
+- **Contenido rescatable limitado:** Macetas textiles troubleshooting (riegos frecuentes plantas caídas mañanas soluciones: coco retención humedad + cubrir macetas saco/plástico + ajuste flujo aire ducto intracción NO pasar través macetas evaporación lateral rápida), distancias LED genéricas (plántulas 77cm 50% intensidad → vegetativo 10-15cm 70cm 75% intensidad problema común panel cerca intensidad alta estrés), poda bajos timing (1 sem post 12/12 NO después sem 2 floración aplicable autos+fotos beneficios centraliza energía circulación aire facilita riego combinación defoliación), parámetros ambientales vegetativo (23-26°C ~60% HR), eficiencia lumínica concepto (μmol/J 1.5 eficiente 2.6 muy eficiente NO confiar solo watts engañoso)
+- **Razón Tier B:** Sesgo comercial PEOR que HOW-021 Mars Hydro HOW-023 Sweet Seeds (código descuento + agradecimiento marca + link afiliado Amazon + promoción extensa sin comparar alternativas + NO muestra ciclo completo solo vegetativo). Contenido técnico diluido promoción producto. Integración limitada elementos generalizables (distancias LED macetas textiles) eliminando referencias marca específica.
+- Enfoque: Seguimiento vegetativo patrocinado ViparSpectra + experiencia primera vez macetas textiles problemas soluciones
+- Video ID: tLoljqSjnqY
+- URL: https://www.youtube.com/watch?v=tLoljqSjnqY
+- Fuente DB: Neon Postgres `transcripciones_batch` ID=22
+- **Nota:** Vigésima cuarta fuente Noé. Tier B (15/25). **PRIMER video Tier B Noé** (peor evaluado hasta ahora por sesgo comercial extremo). Sesgo comercial reduce TODOS criterios significativamente. Contenido técnico marginal rescatable: experiencia macetas textiles (evaporación lateral rápida riegos frecuentes soluciones coco+cubrir+ajuste flujo aire) + distancias LED genéricas (77cm 50% plántulas → 70cm 75% vegetativo) + poda bajos timing (<sem 2 floración). Promoción extensa ViparSpectra TS5000 especificaciones técnicas (2.6 μmol/J eficiencia) código descuento Amazon sin comparar alternativas. NO muestra floración completa (solo vegetativo). Conocimiento integrado módulos: **19-iluminacion.md** (+56 líneas primera sección "Distancias LED - Guía General Fases" plántulas 77cm 50% vegetativo 70cm 75% eficiencia lumínica μmol/J concepto NO confiar solo watts) + **12-indoor.md** (+98 líneas "Macetas Textiles Indoor - Troubleshooting Riego" problema riegos frecuentes 4 soluciones coco+cubrir+ajuste aire lecciones ventajas/desventajas + "Timing Poda Bajos Lollipopping" 1 sem 12/12 NO >sem 2 floración aplicable autos+fotos beneficios combinación defoliación). Integración limitada elementos generalizables eliminando referencias marca. Distribución Tiers: **3 S (8.3%) + 24 A (66.7%) + 9 B (25.0%) = 36 total**. Total videos procesados DB: **37/90** (incluyendo 1 excluido). Videos técnicos integrados KB: **36/90** (23 Noé técnicos + 13 Doña Huana = 40.0%).
+
+---
+
 **[DH-014]** Doña Juana - "CANNABIS - TIPS DE INDOOR" (2024)
 - Tipo: Video (transcripción) - 8 tips prácticos cultivo indoor
 - Expertise: Doña Juana (cultivador experimentado, filosofía pragmática)
