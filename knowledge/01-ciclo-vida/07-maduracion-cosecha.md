@@ -1,11 +1,11 @@
-# Sección 07: umaduracion cosecha
+# Sección 07: Maduración y Cosecha
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Timing cosecha 3 indicadores exterior alta humedad
 > **Fuentes:** Ver referencias.md
 
-> **Estado actual:** ✅ EXPANDIDA - 3 métodos punto corte + timing subjetivo efecto + test ramita simple
-> **Fuentes:** [HOW-004], [DH-010]
+> **Estado actual:** ✅ EXPANDIDO - 3 métodos punto corte + timing tricomas decisor + preparación exterior
+> **Fuentes:** [HOW-004], [DH-010], [HOW-026], [HOW-038]
 > **Prioridad:** Crítica cumplida
 
 ### Pre-Cosecha - Preparación
@@ -148,5 +148,83 @@
 **Aplicación:** [HOW-026]
 - Técnica especialmente útil exterior plantas grandes voluminosas
 - Caso HOW-026: Guava + Chaxila grandes → técnica crítica eficiencia
+
+### Timing Cosecha - 3 Indicadores Decisión
+
+**Contexto aplicación:** [HOW-038]
+- Ideal: esperar punto óptimo maduración planta
+- **Realidad:** factores ambientales (hongos humedad alta) pueden obligar apurar corte
+- Decisión: balance madurez vs riesgos ambientales
+
+**Indicador 1 - Engorde Flor:** [HOW-038]
+- Observación: flores empiezan hincharse + llenar resina
+- Progresión: volumen aumenta + densidad aumenta
+- Señal: desarrollo estructural completo
+
+**Indicador 2 - Color Estigmas (Pistilos):** [HOW-038]
+- Estado inicial: pelitos blancos
+- Progresión: blancos → marrón progresivo
+- Cambio gradual visible fácilmente sin lupa
+
+**Indicador 3 - Tricomas (DECISOR):** [HOW-038]
+- **Herramienta:** lupa/microscopio (necesario ver detalle)
+- **Forma óptima:** champiñón al momento cosecha
+- **Tonalidad clave:** bien formados + blanquecina + ~20% ámbar
+- **Punto ideal:** mayoría blanquecinos lechosos + 20% aproximadamente ámbar
+- **Función:** máxima concentración cannabinoides activos
+- **Timing:** medio entre inicio maduración (producción) + final ciclo (degradación)
+- **DECISOR FINAL:** tricomas determinan momento vs otros indicadores complementarios
+
+**Referencia Breeder:** [HOW-038]
+- Productor semillas indica timing estimado (semanas floración)
+- Utilidad: interesante mirar PERO NO completamente exacto
+- **Herramienta mejor:** observación directa cultivador siempre superior timing breeder
+
+**Relacionado:**
+- DH-010: tricomas mayoría blancos lechosos + "alguno que otro ámbar" (NO especifica %)
+- HOW-038: más preciso ~20% ámbar punto óptimo
+
+---
+
+### Preparación Pre-Corte - Suspensión Riego
+
+**Timing suspensión riego:** [HOW-038]
+- Determinar momento cosecha (base tricomas/factores ambientales)
+- **Suspender riego:** 4-7 días antes cosecha
+- Razón: flores pierden humedad previo corte
+
+**vs Técnicas NO Efectivas (Experiencia Noé):** [HOW-038]
+- **Oscuridad 48-72h:** probado varias ocasiones → NO diferencia mayor
+- **Hielo producir más resina:** probado varias ocasiones → NO diferencia mayor
+- **Hipótesis hielo:** estrés → más resina PERO experiencia práctica NO valida
+- **Debate comunidad:** cultivadores divididos (algunos afirman otros niegan)
+- **Postura Noé:** experiencias propias múltiples cultivos NO observa diferencia mayor
+
+---
+
+### Métodos Cosecha por Tamaño Planta
+
+**Planta Completa (Automáticas):** [HOW-038]
+- Timing: maduración promedio general
+- Técnica: cortar completa una vez
+- Proceso: colgar planta entera
+
+**Cosecha Escalonada (Exterior Grandes):** [HOW-038]
+- Razón: plantas grandes NO maduran uniforme
+- **Primera cosecha:** cortar toda planta O mitad superior
+- **Segunda cosecha (opcional):** esperar 1-2 semanas
+  - Objetivo: flores bajas reciben más luz → desarrollo adicional
+  - Aplicación: plantas grandes exterior especialmente
+
+**Relacionado:** HOW-004 cosecha escalonada similar (flores superiores→inferiores)
+
+---
+
+### Manicura Pre-Corte
+
+**Técnica plantas vivas:** [HOW-038]
+- **Paso 1:** antes cortar planta → sacar hojas más grandes
+- **Ventaja:** planta aún tierra/maceta fácil acceso
+- **Paso 2:** después defoliación → cortar planta completa O mitad
 
 ---

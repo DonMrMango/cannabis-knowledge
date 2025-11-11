@@ -1,11 +1,11 @@
-# Sección 08: usecado
+# Sección 08: Secado
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Protocolo exterior alta humedad + contenedores comparación
 > **Fuentes:** Ver referencias.md
 
-> **Estado actual:** ✅ EXPANDIDA - Test ramita simple low-tech + condiciones espacio + orientación colgado
-> **Fuentes:** [HOW-004], [DH-010]
+> **Estado actual:** ✅ EXPANDIDO - Protocolo completo + troubleshooting alta humedad + espacios alternativos
+> **Fuentes:** [HOW-004], [DH-010], [HOW-038]
 > **Prioridad:** Crítica cumplida
 
 ### Parámetros Ambientales Óptimos
@@ -74,5 +74,93 @@
 **Secado lento > secado rápido:** [HOW-004]
 - Relación directa: velocidad secado ↔ calidad hierba
 - Preferir: tiempo prolongado + condiciones controladas
+
+---
+
+## SECADO EXTERIOR - Protocolo Alta Humedad
+
+### Parámetros Óptimos Detallados
+
+**Temperatura:** [HOW-038]
+- Rango: 18-23°C
+- Objetivo: secado lento controlado
+
+**Humedad Relativa:** [HOW-038]
+- Rango: 45-55%
+- Crítico: control humedad previene hongos
+
+**Duración esperada:** [HOW-038]
+- Timing: ~2 semanas (si parámetros óptimos)
+- Variables: humedad ambiente + tamaño flores + método manicura
+
+**Indicador finalización:** [HOW-038]
+- **Test tallos:** doblar tallos → crujan
+- Señal: humedad perdida suficiente → listo curado
+
+**Mejora opcional:** [HOW-038]
+- Deshumidificador: añadir proceso → mucho mejor control humedad
+- Especialmente útil: zonas húmedas costeras
+
+---
+
+### Espacio Secado - Opciones Priorizadas
+
+**Opción 1 - Carpa Cultivo Desocupada (ÓPTIMA):** [HOW-038]
+- **Ventajas:**
+  - Sistema ventilación activo (extracción + filtro carbón)
+  - Control aroma potente (cannabis secando muy aromático)
+  - Control variables ambientales (temp + HR)
+  - Acercamiento parámetros óptimos facilitado
+  - Oscuridad total garantizada
+- **Setup:**
+  - Activar extracción + filtro carbón
+  - Colgar flores sistema colgado tradicional
+  - Monitorear parámetros temp/HR
+
+**Opción 2 - Pieza Lavado/Interior Oscura Fresca:** [HOW-038]
+- **Características espacio:**
+  - Oscura (NO luz natural)
+  - Fresca (temperatura moderada)
+  - Interior casa (protegida elementos)
+- **Setup simple:**
+  - Colgar alambres pared a pared
+  - Colgar flores alambres
+  - **CRÍTICO:** mantener puerta abierta
+    - Razón: humedad flores sale → circulación necesaria
+    - Sin circulación → humedad acumula → hongos
+- **Ventaja:** espacio cómodo secado sin equipamiento especializado
+
+**Relacionado espacios:** DH-010 "seco fresco oscuro" pieza/caja cartón/madera consistente
+
+---
+
+### Principios Críticos Secado Exitoso
+
+**Evitar luz + calor:** [HOW-038]
+- **Luz:** afecta cannabinoides + terpenos → degradación
+- **Calor:** acelera degradación cannabinoides + terpenos → pérdida calidad
+- **Oscuridad total:** fundamental proceso completo
+
+**Secado lento mejor:** [HOW-038]
+- Principio universal: secado lento > secado rápido
+- Relación directa: tiempo prolongado + condiciones controladas = máxima calidad
+- Paciencia crítica: NO apurar proceso
+
+---
+
+### División Flores Grandes Prevención Hongos
+
+**Problema flores grandes:** [HOW-038]
+- Flores muy grandes/voluminosas/densas → centro retiene humedad excesiva
+- Humedad centro → riesgo moho/hongo alto
+
+**Solución división:** [HOW-038]
+- **Acción:** dividir flores grandes → flores más pequeñas
+- **Timing:** antes colgar secado O inmediatamente después cosechar
+- **Beneficio:** más aireación flores + secado uniforme + prevención hongos
+
+**Relacionado:**
+- DH-010: cogollos muy grandes dividir prevenir hongos (mismo principio)
+- 09-curado.md: flores grandes dividir más aireación curado
 
 ---

@@ -5,6 +5,62 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.14-modular] - 2025-11-11
+
+### Agregado
+- **[HOW-038]** Noé (House of Weed) - "Cosechar, Secar y Curar Exterior + Problemas" - **Tier A (23/25)**
+- **knowledge/01-ciclo-vida/07-maduracion-cosecha.md:** EXPANDIDA timing cosecha 3 indicadores (+93 líneas)
+  - **Indicador 1 - Engorde flor:** flores hincharse + llenar resina (volumen + densidad)
+  - **Indicador 2 - Color estigmas:** pistilos blancos → marrón progresivo (visible sin lupa)
+  - **Indicador 3 - Tricomas (DECISOR):** lupa/microscopio necesario, forma champiñón + blanquecina + **~20% ámbar punto óptimo**
+  - **Precisión vs DH-010:** más específico ~20% vs "alguno que otro ámbar" sin %
+  - **Referencia breeder:** interesante PERO NO exacto, observación directa siempre superior
+  - **Preparación pre-corte:** suspender riego 4-7 días antes flores pierden humedad
+  - **Técnicas NO efectivas (experiencia Noé):** oscuridad 48-72h + hielo probado varias ocasiones → NO diferencia mayor (debate comunidad dividida, postura honesta experiencias propias)
+  - **Métodos cosecha tamaño:** planta completa (autos) vs cosecha escalonada (exterior grandes plantas NO maduran uniforme primera mitad→segunda esperar 1-2 sem)
+  - **Manicura pre-corte:** plantas vivas sacar hojas grandes aún tierra antes cortar (facilita trabajo)
+- **knowledge/01-ciclo-vida/08-secado.md:** NUEVA SECCIÓN COMPLETA "Secado Exterior - Protocolo Alta Humedad" (+87 líneas)
+  - **Parámetros óptimos:** temperatura 18-23°C + HR 45-55% + duración ~2 semanas + test tallos crujan
+  - **Mejora deshumidificador:** añadir control útil zonas costeras húmedas
+  - **Espacio opción 1 - Carpa desocupada (ÓPTIMA):** ventilación activa + filtro carbón aroma + control temp/HR + oscuridad total
+  - **Espacio opción 2 - Pieza lavado/interior:** oscura fresca alambres pared + **CRÍTICO puerta abierta humedad circula** (sin circulación acumula→hongos)
+  - **Principios críticos:** evitar luz + calor → degradación cannabinoides + terpenos (oscuridad total fundamental) + secado lento mejor universal
+  - **División flores grandes:** flores densas centro retiene humedad excesiva → dividir antes colgar más aireación + secado uniforme + prevención hongos
+- **knowledge/01-ciclo-vida/09-curado.md:** NUEVA SECCIÓN COMPLETA "Contenedores Curado - Comparación Detallada" + "Conservación Largo Plazo" (+113 líneas)
+  - **Vidrio conserveros:** económicos + NO dejan aroma (preferencia Noé) | desventajas pequeños + NO apilables | ideal pequeñas-medianas óptimo calidad
+  - **Tuppers plástico:** cierre hermético prácticos cosechas voluminosas + flores grandes intactas + apilables | **advertencia microplásticos** conservación MUY prolongada + transferencia aroma leve | ideal grandes balance practicidad vs calidad
+  - **Acero inoxidable:** mejores calidad + durabilidad + NO microplásticos + NO aroma | **desventaja precio alto** inviable producción alta | ideal pequeña + presupuesto
+  - **Ziplock NO RECOMENDADO:** tricomas caen fácilmente + NO evitan olor + NO apto curado hermeticidad insuficiente
+  - **Conservación 6 meses-1 año:** óptimo calidad máxima condiciones correctas (HOW-004 coincide)
+  - **Después 1 año:** degradación paulatina pérdida terpenos progresiva aroma↓ + pérdida textura flores secas (proceso continúa sobres humedad Boveda) | consumible hasta ~2 años si almacenamiento correcto calidad decreciente | **principio: mientras más añeja → menos calidad**
+  - **Alternativa vacío:** evita oxidación + deterioro + preserva frescura + sabor + aroma período más largo | desventajas compresión afecta textura + apariencia + terpenos perjudicados | aplicación conservar +1 año
+  - **Alternativa extracciones:** reducción volumen conservación (rosin + hashish + mantequillas + aceites) conserva compuestos activos largo plazo | aplicación cosechas voluminosas O conservación extendida necesaria (ver 11-extracciones.md)
+- **knowledge/06-problemas/35-enfermedades.md:** NUEVA SECCIÓN COMPLETA "Botrytis Exterior - Contexto Alta Humedad" (+120 líneas)
+  - **Factor crítico zonas costeras:** ciudad costera temperaturas↓ + humedad↑ + mañanas neblina + lloviznos época cosecha (semanas finales floración período crítico)
+  - **Realidad cultivador:** "mayoría cultivos exterior ha habido presencia Botrytis" algunos más otros menos (convivencia obligada factor ambiental)
+  - **Diagnóstico visual temprano:** hojas entre flores café oscuro → negro + arrugadas + débiles (indicio claro hongo interior) vs senescencia normal amarillas secas NO café-negro
+  - **Acción diagnóstico positivo:** abrir + quitar malo generoso + URGENTE cosechar prontamente evitar propagación
+  - **Prevención floración avanzada estrategias:**
+    1. Timing cosecha: evitar cosechar muy tarde (balance madurez vs factores ambientales)
+    2. Manejo riego: evitar frecuente + **timing crítico mañana NO noche** (noche = máxima humedad)
+    3. Suspensión foliares: **NO productos ningún tipo** floración avanzada (cualquier humedad desencadenante) preventivos SOLO vegetativo + floración temprana
+    4. Lluvia decisión: índicas preferir cortar antes NO arriesgar + sativas menor riesgo evaluar
+  - **Selección varietal zonas húmedas:** sativas preferencia (flores abiertas + aireadas + circulación aire favorable + retención humedad menor + incidencia menos frecuente) vs índicas (compactas + apretadas + densas + circulación difícil + retención mayor + más probable hongos) | ambas afectables diferencia probabilidad + severidad mayor índicas contexto húmedo
+  - **Caso real Wally 10 (índica densa):** Heysi super densa + voluminosa + resinosa | preventivos aplicados azufre + microorganismos + riegos cuidadosos | **resultado Botrytis igualmente especialmente afectada** | error timing autor debió cosechar antes circunstancias viaje imposible cosechar tiempo | **consecuencia merma MUY importante**
+  - **Lecciones caso estudio:** preventivos ayudan NO garantizan 100% + índicas densas alta humedad riesgo persistente + timing cosecha flexible crítico NO rigidez + preferir sativas zonas costeras
+  - **Productos preventivos limitaciones:** azufre primeras semanas floración PERO hongos aparecen floración avanzada preferir NO usar afectan sabor experiencia usado igualmente Botrytis + microorganismos beneficiosos NO garantía 100% Wally 10 + **conclusión herramientas útiles NO solución absoluta factores ambientales dominan humedad alta** estrategia integral preventivos + selección varietal + timing + manejo riego
+
+### Cambiado
+- **Distribución Tiers contenido técnico:** **3 S (7.5%) + 28 A (70.0%) + 9 B (22.5%) = 40 total**
+- **Videos procesados DB:** **40/90 (44.4%)** = 27 Noé (26 técnicos + 1 excluido) + 13 Doña Huana
+- **Videos técnicos integrados KB:** **39/90 (43.3%)** = 26 Noé + 13 Doña Huana
+- **Videos excluidos:** 1 (contenido no técnico)
+
+### Notas
+Vigésima sexta fuente Noé. Tier A (23/25). **Primera fuente secado/curado exterior contexto alta humedad + contenedores comparación detallada + conservación largo plazo timeline** llena gap crítico 01-ciclo-vida/ post-cosecha. Tier A alto -2 calidad técnica (falta combate activo Botrytis establecido productos específicos dosis) + -1 aplicabilidad (específico zonas costeras húmedas) **PERO compensado credibilidad 5/5** transparencia error Wally 10 merma importante + **consistencia 5/5** + **objetividad 5/5** debate hielo/oscuridad honesto comunidad dividida postura experiencias propias NO impone. **Timing cosecha tricomas ~20% ámbar DECISOR:** más preciso vs DH-010 "alguno que otro ámbar" sin % especificado. **Secado exterior 18-23°C 45-55% HR ~2 semanas:** espacios carpa desocupada ventilación activa óptima vs pieza lavado puerta abierta CRÍTICO circulación humedad sin circulación acumula→hongos. **Curado contenedores comparación VALIOSA:** vidrio preferencia calidad vs tuppers plástico cosechas grandes microplásticos advertencia honesta vs acero inoxidable mejor calidad precio limitación vs ziplock NO recomendado tricomas caen. **Conservación largo plazo 6 meses-1 año óptimo:** después degradación paulatina terpenos + textura admite honesto "mientras más añeja → menos calidad" trade-off tiempo vs calidad organoléptica | alternativas vacío compresión trade-off + extracciones reducción volumen. **Botrytis exterior CRÍTICO zonas costeras:** diagnóstico visual temprano hojas café-negro arrugadas indicio hongo interior vs senescencia amarillas | prevención floración avanzada riego mañana NO noche + NO foliares ningún tipo cualquier humedad desencadenante | selección varietal sativas vs índicas estructura floral flores abiertas aireadas vs compactas densas circulación difícil retención humedad mayor | **caso real Wally 10 merma importante transparente:** preventivos azufre + microorganismos aplicados igualmente Botrytis especialmente afectada índica densa autor admite error timing debió cosechar antes circunstancias viaje → **lección preventivos NO garantizan 100% factores ambientales dominan humedad alta** estrategia integral. **Técnicas NO efectivas experiencia Noé:** oscuridad 48-72h + hielo probado varias ocasiones NO diferencia mayor vs hipótesis estrés→resina NO valida | debate comunidad dividida algunos afirman otros niegan | postura honesta experiencias propias múltiples cultivos NO observa diferencia mayor NO impone verdad absoluta. Conocimiento integrado 4 módulos: **07-maduracion-cosecha.md** (+93 líneas timing 3 indicadores tricomas DECISOR ~20% ámbar + preparación pre-corte suspensión riego + vs técnicas NO efectivas oscuridad+hielo + métodos cosecha + manicura pre-corte), **08-secado.md** (+87 líneas secado exterior alta humedad parámetros 18-23°C 45-55% HR + espacios carpa/pieza puerta abierta + principios luz+calor degradación + división flores grandes), **09-curado.md** (+113 líneas contenedores comparación vidrio/tuppers/acero/ziplock pros/contras + conservación largo plazo 6 meses-2 años timeline degradación + alternativas vacío/extracciones), **35-enfermedades.md** (+120 líneas Botrytis exterior factor crítico zonas costeras + diagnóstico visual temprano + prevención floración avanzada riego+foliares+selección varietal sativas vs índicas + caso Wally 10 merma importante preventivos limitaciones + productos limitaciones conclusión integral). Total líneas añadidas: +413. Primer video post-cosecha exterior completo cosecha→secado→curado + problemas Botrytis zonas húmedas.
+
+---
+
 ## [1.0.13-modular] - 2025-11-11
 
 ### Agregado

@@ -1,12 +1,12 @@
 # Sección 35: uenfermedades
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Botrytis exterior alta humedad
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ COMPLETADA - Hongos cannabis identificación + prevención + combate + salud pública
-> **Fuentes:** [HOW-013]
-> **Prioridad:** Alta cumplida - Consumo responsable integrado
+> **Estado actual:** ✅ EXPANDIDO - Hongos identificación + prevención + Botrytis exterior + selección varietal
+> **Fuentes:** [HOW-013], [HOW-038]
+> **Prioridad:** Alta cumplida - Consumo responsable + prevención específica contexto
 
 ### Tipos Hongos Cannabis - Identificación Visual
 
@@ -98,6 +98,125 @@
 - **Fundamento:** factores climáticos NO controlables→precaución obligatoria
 - **Hongo detectado→extirpar generoso:** esporas propagan más allá visible
 - **Realidad cultivo exterior:** "mayoría cultivadores años han tenido problemas hongos"
+
+---
+
+## BOTRYTIS EXTERIOR - Contexto Alta Humedad
+
+### Factor Crítico Zonas Costeras
+
+**Condiciones ambientales desfavorables:** [HOW-038]
+- **Ubicación:** ciudad costera (ejemplo autor)
+- **Época cosecha:** temperaturas ↓ + humedad ↑
+- **Mañanas:** neblina + lloviznos frecuentes
+- **Problema:** semanas finales floración = período crítico hongos
+
+**Realidad cultivador cosecha exterior:** [HOW-038]
+- "Mayoría cultivos exterior ha habido presencia Botrytis"
+- Variabilidad: algunos más + otros menos
+- **Convivencia obligada:** aprender convivir factor ambiental
+
+### Diagnóstico Visual Temprano
+
+**Indicadores críticos Botrytis inicio:** [HOW-038]
+- **Ubicación observar:** hojas entre flores
+- **Síntoma 1 - Color:** café oscuro → negro progresivo
+- **Síntoma 2 - Textura:** arrugadas + débiles
+- **Interpretación:** indicio claro hongo interior flor
+- **Diferencia vs senescencia normal:** hojas amarillas secas caen natural (NO café-negro arrugadas)
+
+**Acción diagnóstico positivo:** [HOW-038]
+- Abrir flor afectada
+- Quitar material malo generoso (más allá visible)
+- **URGENTE:** cosechar prontamente evitar propagación más plantas
+
+### Prevención Floración Avanzada
+
+**Estrategias minimizar riesgo:** [HOW-038]
+
+**1. Timing cosecha:** [HOW-038]
+- Evitar cosechar muy tarde (mayor exposición condiciones húmedas)
+- Balance: madurez óptima vs factores ambientales adversos
+
+**2. Manejo riego:** [HOW-038]
+- Evitar riego muy frecuente
+- **Timing crítico:** regar temprano mañana (NO noche)
+- Razón: noche = máxima humedad ambiente → riesgo mayor
+
+**3. Suspensión foliares:** [HOW-038]
+- **NO usar productos foliares ningún tipo** floración avanzada
+- Razón: cualquier humedad flores = desencadenante potencial hongos
+- Aplicación preventivos foliares SOLO vegetativo + floración temprana
+
+**4. Lluvia decisión cosecha:** [HOW-038]
+- Plantas índicas: preferir cortar antes lluvia (NO arriesgar)
+- Plantas sativas: menor riesgo estructura abierta (evaluar caso-caso)
+
+### Selección Varietal Zonas Húmedas
+
+**Preferencia sativas contexto alta humedad:** [HOW-038]
+- **Recomendación:** cultivadores condiciones similares autor (costa, HR alta)
+- **Razón:** flores más abiertas vs índicas compactas
+
+**Comparación estructura floral:** [HOW-038]
+
+*Variedades Sativas:*
+- Estructura flores: abierta + aireada
+- Circulación aire: favorable
+- Retención humedad: menor
+- Incidencia Botrytis: menos frecuente
+
+*Variedades Índica:*
+- Estructura flores: compacta + apretada + densa
+- Circulación aire: difícil interior flores
+- Retención humedad: mayor
+- Incidencia Botrytis: más probable desarrollo
+
+**Aplicabilidad:** [HOW-038]
+- Hongos pueden afectar ambas (sativas + índicas)
+- Diferencia: probabilidad + severidad mayor índicas contexto húmedo
+
+### Caso Real: Wally 10 (Índica Densa)
+
+**Contexto cultivo:** [HOW-038]
+- **Variedad:** Wally 10 (Heysi) - MUY índica
+- **Características:** super densa + voluminosa + resinosa
+- **Preventivos aplicados:**
+  - Azufre (floración temprana)
+  - Microorganismos durante ciclo
+  - Riegos cuidadosos
+- **Resultado:** presencia Botrytis igualmente variedad especialmente afectada
+
+**Error timing cosecha:** [HOW-038]
+- Autor debió cosechar mucho antes
+- Circunstancias personales (viaje) → imposible cosechar tiempo
+- **Consecuencia:** merma MUY importante variedad
+
+**Lección caso estudio:** [HOW-038]
+- Preventivos ayudan PERO NO garantizan protección completa
+- Índicas densas + alta humedad = riesgo persistente
+- Timing cosecha flexible crítico (NO rigidez puede costar cosecha)
+- Preferir sativas zonas costeras húmedas
+
+### Productos Preventivos Limitaciones
+
+**Azufre preventivo:** [HOW-038]
+- **Timing aplicación:** primeras semanas floración
+- **Función:** controlar hongos preventivo
+- **Limitación floración avanzada:**
+  - Hongos aparecen normalmente floración avanzada
+  - Fase avanzada: preferir NO usar productos (afectan sabor)
+- **Experiencia autor:** azufre usado + igualmente Botrytis apareció
+
+**Microorganismos beneficiosos:** [HOW-038]
+- **Aplicación:** durante ciclo completo
+- **Función:** protección biológica raíces + follaje
+- **Limitación:** NO garantía 100% prevención (Wally 10 ejemplo)
+
+**Conclusión productos:** [HOW-038]
+- Preventivos = herramientas útiles PERO NO solución absoluta
+- Factores ambientales dominan (humedad alta contexto cosecha)
+- Estrategia integral: preventivos + selección varietal + timing cosecha + manejo riego
 
 ### Prevención Hongos - Secado/Curado
 

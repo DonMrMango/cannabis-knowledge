@@ -1,11 +1,11 @@
-# Sección 09: ucurado
+# Sección 09: Curado
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Contenedores comparación + conservación largo plazo
 > **Fuentes:** Ver referencias.md
 
-> **Estado actual:** ✅ EXPANDIDA - Protocolo burping bifásico + indicadores calidad final accesibles
-> **Fuentes:** [HOW-004], [HOW-010], [DH-010]
+> **Estado actual:** ✅ EXPANDIDO - Protocolo completo + contenedores pros/contras + conservación estrategias
+> **Fuentes:** [HOW-004], [HOW-010], [DH-010], [HOW-038]
 > **Prioridad:** Crítica cumplida
 
 ### Impacto del Tiempo en Calidad Final
@@ -135,5 +135,118 @@
 **Secado lento + curado largo = máxima calidad:** [HOW-004]
 - Combinación perfecta: extraer mejor calidad posible de meses cultivo
 - Requisito: paciencia
+
+---
+
+## CONTENEDORES CURADO - Comparación Detallada
+
+### Frascos Vidrio Conserveros
+
+**Características:** [HOW-038]
+- Tipo: frascos conserveros típicos
+- Material: vidrio
+- Ventajas:
+  - Económicos
+  - NO dejan aroma flores (neutral)
+  - Preferencia Noé
+- Desventajas:
+  - Relativamente pequeños capacidad
+  - NO apilables fácilmente (almacenamiento ineficiente)
+
+**Aplicación:** [HOW-038]
+- Ideal: cosechas pequeñas-medianas
+- Óptimo calidad conservación (HOW-004 + HOW-038 coinciden)
+
+### Tuppers Plástico
+
+**Características:** [HOW-038]
+- Material: plástico rígido
+- Cierre: hermético (crítico mantener humedad)
+- Ventajas:
+  - Prácticos cosechas voluminosas
+  - Cómodos flores grandes intactas (fotografía/video)
+  - Apilables almacenamiento eficiente
+- Desventajas:
+  - Microplásticos: conservación MUY prolongada → desprendimiento material potencial
+  - Transferencia aroma leve posible tiempo prolongado
+
+**Aplicación:** [HOW-038]
+- Ideal: cosechas grandes
+- Balance: practicidad vs calidad óptima
+- Relacionado: HOW-004 plástico opción práctica (coincide)
+
+### Acero Inoxidable
+
+**Características:** [HOW-038]
+- Material: acero inoxidable
+- Ventajas:
+  - Contenedores mejores calidad
+  - Durabilidad máxima
+  - NO microplásticos
+  - NO transferencia aroma
+- Desventajas:
+  - **Precio:** alto costo principal limitación
+  - Volumen pequeño: viable cosechas bajas
+  - Volumen grande: inviable económicamente cultivadores producción alta
+
+**Aplicación:** [HOW-038]
+- Ideal: cultivadores cosecha pequeña + presupuesto disponible
+- Relacionado: HOW-004 acero opción buena (coincide)
+
+### Bolsas Ziplock (NO RECOMENDADO)
+
+**Problema contenedor:** [HOW-038]
+- **Tricomas:** compresión → tricomas caen fácilmente
+- **Aroma:** NO evitan salida olor (hermeticidad insuficiente)
+- **Curado:** NO apto proceso curado (humedad NO controlada)
+- **Recomendación:** evitar uso curado + conservación
+
+---
+
+## CONSERVACIÓN LARGO PLAZO
+
+### Timeline Degradación
+
+**6 meses - 1 año (Óptimo):** [HOW-038]
+- Estado: conservación óptima
+- Calidad: máxima si condiciones correctas
+- Relacionado: HOW-004 curado 6+ meses óptimo calidad
+
+**Después 1 año (Degradación paulatina):** [HOW-038]
+- Pérdida terpenos: progresiva (aroma ↓)
+- Pérdida textura: progresiva (flores secas)
+- Proceso: degradación continúa incluso con sobres humedad Boveda
+- Consumible: SÍ hasta ~2 años si almacenamiento correcto
+- Calidad: decreciente tiempo
+
+**Principio clave:** [HOW-038]
+- Mientras más añeja hierba → menos calidad
+- Trade-off: tiempo vs calidad organoléptica
+
+### Alternativa Vacío
+
+**Método sellado vacío:** [HOW-038]
+- Función: evita oxidación + deterioro flores
+- Ventajas:
+  - Preserva frescura período más largo
+  - Preserva sabor
+  - Preserva aroma
+- Desventajas:
+  - **Compresión:** afecta textura + apariencia flores
+  - **Terpenos:** pueden verse perjudicados compresión
+- Aplicación: conservar cosecha largo período (+1 año)
+
+### Alternativa Extracciones
+
+**Reducción volumen + conservación:** [HOW-038]
+- Objetivo: evitar deterioro cosecha tiempo
+- Métodos disponibles:
+  - Rosin (prensado calor)
+  - Hashish (separación mecánica tricomas)
+  - Mantequillas cannábicas (infusión grasa)
+  - Aceites (diversas técnicas)
+- Ventaja: conserva compuestos activos plantas largo plazo
+- Aplicación: cosechas voluminosas O conservación extendida necesaria
+- Relacionado: Ver 11-extracciones.md métodos detallados
 
 ---
