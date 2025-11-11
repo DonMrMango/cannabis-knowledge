@@ -118,4 +118,35 @@
   - 1,000g (1kg) húmedo → 300g seco
 - Aplicación: interpretar descripciones semillas ("producción 1kg" = 300g fumable)
 
+### Preparación Pre-Cosecha Exterior
+
+**Timing suspensión riego:** [HOW-026]
+- **Esperar 2-3 días post último riego** antes cosechar
+- **NO cosechar sustrato húmedo recién regado**
+
+**Razones espera críticas:** [HOW-026]
+
+**1. Facilita trabajo físico:** [HOW-026]
+- Macetas más livianas → fácil manipular mover
+- Importante exterior macetas grandes (20L+) peso significativo
+- Reducción esfuerzo físico proceso cosecha
+
+**2. Reduce humedad flores:** [HOW-026]
+- **Problema:** flores húmedas recién regadas → más humedad tejidos
+- **Riesgo:** moho durante secado (humedad excesiva ambiente cerrado)
+- **Prevención:** 2-3 días secado natural sustrato → flores menos húmedas inicio secado
+- **Resultado:** secado más seguro controlado
+
+**Técnica corte facilitada:** [HOW-026]
+- **Paso 1:** cortar hojas grandes planta viva
+  - Plantas aún tierra/maceta → acceso fácil
+  - "Pelar" planta viva más rápido vs post-corte
+- **Paso 2:** cortar ramas después pelar
+  - Planta ya sin hojas grandes → manejo limpio
+  - Facilita enormemente trabajo manicura posterior
+
+**Aplicación:** [HOW-026]
+- Técnica especialmente útil exterior plantas grandes voluminosas
+- Caso HOW-026: Guava + Chaxila grandes → técnica crítica eficiencia
+
 ---

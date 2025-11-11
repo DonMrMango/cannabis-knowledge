@@ -5,6 +5,36 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.12-modular] - 2025-11-10
+
+### Agregado
+- **[HOW-026]** Noé (House of Weed) - "Cultivo Exterior Paso a Paso Biovis" - **Tier A (20/25)** 💰 Sesgo comercial moderado
+- **knowledge/02-sistemas-cultivo/13-outdoor.md:** EXPANDIDA adaptación interior→exterior (+60 líneas)
+  - **Problema transición:** 18h indoor → horas naturales cortas nov (~12-13h) → floración prematura plantas pequeñas
+  - **Solución luz suplementaria:** +2h nocturnas × 3 semanas noviembre reducción gradual diciembre
+  - **Resultado:** vegetativo extendido plantas grandes (caso Guava + Chaxila voluminosas)
+  - **Preparación sitio:** limpieza macetas cloro + mantenimiento diario barrer gestión residuos
+- **knowledge/04-nutricion/28-fertilizacion.md:** NUEVA SECCIÓN COMPLETA "Fertilización Orgánica Exterior" (+213 líneas)
+  - **6 Fases protocolo completo:** vegetativo inicial 0.5L 2 ml/L → vegetativo 20L 3 ml/L → pre-floración 4+2 ml/L → floración plena 4+4+1 ml/L → floración final 3+4+4 ml/L → lavado 60L 2-3 sem
+  - **Progresión BioGrow (N):** 2→3→4→3 ml/L | BioBloom (P-K): 2→4 ml/L | Top Max (potenciador): 1→4 ml/L
+  - **Volumen escalado:** vasos 100-200ml → 20L vegetativo 1-2L → floración verano 5L/planta
+  - **Lavado raíces:** 60L agua/planta macetas 20L reutilizar otras plantas solo agua 2-3 sem señales amarillentas positivas
+  - **Principios generalizables:** progresión gradual + fertilización cada riego Light Mix vs Living Soil solo agua + observación planta sobre fórmulas
+- **knowledge/01-ciclo-vida/07-maduracion-cosecha.md:** NUEVA SECCIÓN "Preparación Pre-Cosecha Exterior" (+30 líneas)
+  - **Timing crítico:** esperar 2-3 días post último riego antes cosechar (macetas livianas + flores menos húmedas)
+  - **Técnica corte:** hojas grandes planta viva → cortar ramas (facilita trabajo plantas grandes)
+
+### Cambiado
+- **Distribución Tiers contenido técnico:** **3 S (7.9%) + 26 A (68.4%) + 9 B (23.7%) = 38 total**
+- **Videos procesados DB:** **39/90 (43.3%)** = 26 Noé (25 técnicos + 1 excluido) + 13 Doña Huana
+- **Videos técnicos integrados KB:** **38/90 (42.2%)** = 25 Noé + 13 Doña Huana
+- **Videos excluidos:** 1 (contenido no técnico)
+
+### Notas
+Vigésima sexta fuente Noé. Tier A (20/25). **Patrocinado Biovis - Sesgo comercial moderado (3/5) similar HOW-025 tienda propia**. Puntuación: credibilidad 4/5 (caso real Guava+Chaxila completo **PERO** patrocinado), calidad técnica 4/5 (protocolo 6 fases completo + adaptación luz **PERO** sin profundidad EC/pH), consistencia 5/5 (timing hemisferio sur estándar), aplicabilidad 4/5 (reproducible **PERO** específico Biovis sin alternativas), objetividad 3/5 (patrocinado alianza **PERO** transparente observación). **Adaptación interior→exterior técnica valiosa:** luz suplementaria +2h × 3 sem nov extender vegetativo evitar floración prematura. Fertilización orgánica 6 fases completas progresión 2→4 ml/L generalizable fertilizantes N-P-K similares. Lavado 60L reutilización agua economía. Preparación cosecha esperar 2-3 días reduce humedad facilita trabajo. Caso completo exterior hemisferio sur timing nov-dic vegetativo → ene-feb pre-floración → marzo cosecha.
+
+---
+
 ## [1.0.11-modular] - 2025-11-10
 
 ### Agregado
