@@ -5,7 +5,7 @@
 > **Fuentes:** Ver referencias.md
 
 > **Estado actual:** ✅ EXPANDIDO - Protocolo completo + troubleshooting alta humedad + espacios alternativos
-> **Fuentes:** [HOW-004], [DH-010], [HOW-038]
+> **Fuentes:** [HOW-004], [DH-010], [HOW-038], [DH-109]
 > **Prioridad:** Crítica cumplida
 
 ### Parámetros Ambientales Óptimos
@@ -162,5 +162,98 @@
 **Relacionado:**
 - DH-010: cogollos muy grandes dividir prevenir hongos (mismo principio)
 - 09-curado.md: flores grandes dividir más aireación curado
+
+---
+
+## SECADO PRINCIPIANTES - Tips Prácticos Casa
+
+### Concepto Fundamental Terpenos
+
+**Importancia terpenos preservación:** [DH-109]
+- **Terpenos:** compuestos volátiles responsables aroma cannabis
+- **Característica crítica:** "muy volátil" se pierden fácilmente
+- **Impacto calidad:** diferencia "algo repetido re choto re carcha" vs "algo bueno premio importantísimo"
+- **Gravedad error:** "tuviste lo mejor del planeta la cagaste → tenés algo horrible"
+- **Consecuencia pérdida:** terpenos perdidos NO recuperables
+  - "¿Cómo se recupera eso? NO hay manera te jodes"
+  - Métodos humedad (sobres) levantan humedad PERO terpenos perdidos NO vuelven
+  - Resultado final: "gusto a nada absolutamente aire pasto"
+
+### Estrategia Experimentación Espacios Casa
+
+**Filosofía probando lugares:** [DH-109]
+- **Realidad cultivador principiante:** NO todos tienen equipamiento profesional
+- **Variabilidad casas:** "NO todas las casas son iguales NO todos los lugares son iguales"
+- **Variabilidad geográfica:** Buenos Aires vs Patagonia (humedad baja) diferentes
+- **Solución práctica:** experimentar múltiples ubicaciones casa simultáneamente
+
+**Método prueba múltiple primera vez:** [DH-109]
+- **Primera vez cultivador:**
+  - Rama 1 → secar baño
+  - Rama 2 → secar pieza
+  - Rama 3 → secar living
+- **Resultado:** observar cuál ubicación mejor resultado terpenos preservados
+- **Beneficio:** aprender características específicas casa/ambiente
+- **Documentación crítica:** "vayan anotando cuadernito"
+  - Tamaño cogollos aproximado
+  - Clima día secado (sol/lluvia/días llovió después)
+  - Lugar casa usado
+  - Resultados obtenidos aroma/textura
+- **Objetivo:** construir conocimiento empírico cultivos futuros
+
+### Condiciones Ambientales Casa
+
+**Lugar ideal descrito:** [DH-109]
+- **Características óptimas:**
+  - Loza arriba (NO techo chapa)
+  - NO pega sol directo
+  - "Seco fresco oscuro" (consistente DH-010 + HOW-004)
+- **Equipamiento ideal PERO poco realista:**
+  - Aire acondicionado 17°C todo día
+  - Deshumidificador 65% HR continuo
+  - Lugar desinfectado
+  - **Problema:** "NO creo que lo hagas durmiendo pieza 17 grados recagado frío pasar ojete"
+
+**Condiciones EVITAR (pérdida terpenos crítica):** [DH-109]
+- **Techo chapa + calor extremo:**
+  - Casa "hace 400 grados"
+  - Resultado: "crujiente re crocante NO olor a nada"
+  - Timing pérdida: "primeros 3 días 2 días 1 día se te arrebató"
+  - Velocidad crítica: "rama sol 30 grados noche ya está para fumarse NO tiene olor pasto"
+- **Consecuencia irreversible:** "terpeno muy volátil se le fue chau terpeno hasta luego"
+- **Tiempo pérdida:** cultivo 9 meses 6 meses perdido secado 1 día 2 días 3 días
+- **Impacto:** "fotografías hermosura después gusto nada aire"
+
+### Tip Clima Lluvia (Específico Buenos Aires)
+
+**Método aprovechando días lluvia:** [DH-109]
+- **Contexto:** días calor + pronóstico lluvia próximos 3 días
+- **Lógica aparentemente contradictoria:** lluvia = mucha humedad PERO
+- **Resultado autor Buenos Aires:** "genera humedad justa churro conserve perfecto terpeno"
+- **Aplicación:**
+  - Mirar pronóstico días siguientes
+  - Si lluvia 3 días inminente → considerar cosechar/secar ese período
+  - Probar 1 planta O parte planta (NO todo) primera vez
+- **Advertencia limitación geográfica:** "NO es lo mismo Buenos Aires que Patagonia poca humedad"
+- **Resultado caso autor:** "lugar oscuro cuartito NO pega sol loza arriba NO techo chapa días llovía aire acondicionado quedó re chupete re chupete mal"
+
+**⚠️ CRÍTICO:** [DH-109]
+- **Obvio PERO importante:** flores mojadas lluvia directa NO secar mojadas
+- **Timing:** cosechar ANTES lluvia O dejar pasar días lluvia después
+- **Contexto:** pronóstico lluvia post-cosecha 3 días (flores YA secas colgadas)
+
+### Espacio Secado Alternativos
+
+**Heladera desuso (NO RECOMENDADO):** [DH-109]
+- **Problema crítico:** "NO va a haber circulación aire"
+- **Consecuencia:** "se te va a honguear todo va a ser porquería"
+- **Razón:** circulación aire fundamental prevenir hongos secado
+- **Relacionado:** HOW-038 pieza secado puerta abierta circulación obligatoria
+
+**Lugares casa probados autor:** [DH-109]
+- Cuartito loza NO sol (exitoso)
+- Baño (mencionado probar)
+- Pieza (mencionado probar)
+- Living (mencionado probar)
 
 ---

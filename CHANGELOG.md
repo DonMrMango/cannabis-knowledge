@@ -5,6 +5,34 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.20-modular] - 2025-11-11
+
+### Agregado
+- **[DH-109]** Doña Huana (Nahuel) - "Secado/Curado/Conservación - APB" - **Tier B (15/25)** 💰 Segunda fuente post-cosecha
+- **knowledge/01-ciclo-vida/08-secado.md:** (+94 líneas nueva sección "SECADO PRINCIPIANTES - Tips Prácticos Casa")
+  - **Concepto terpenos preservación:** compuestos volátiles "muy volátil" pérdida fácil + impacto calidad diferencia "algo choto" vs "algo bueno premio" + consecuencia pérdida NO recuperables "NO hay manera te jodes" métodos humedad levantan PERO terpenos NO vuelven + gravedad error cultivo 9 meses perdido secado 1-3 días irreversible
+  - **Experimentación espacios casa:** realidad cultivador NO equipamiento profesional + variabilidad casas/geográfica Buenos Aires vs Patagonia + método prueba múltiple primera vez rama 1 baño+rama 2 pieza+rama 3 living observar mejor resultado + documentación crítica cuadernito anotar tamaño+clima+lugar+resultados construir conocimiento empírico
+  - **Condiciones ambientales:** lugar ideal loza+NO sol+"seco fresco oscuro" consistente fuentes previas + equipamiento ideal PERO poco realista aire 17°C+deshumidificador 65% "NO creo hagas durmiendo pieza 17 grados frío" + condiciones EVITAR techo chapa+calor "400 grados" resultado "crujiente crocante NO olor nada" pérdida 1-3 días terpenos volados irreversible
+  - **Tip clima lluvia Buenos Aires:** método aprovechando días lluvia 3 días "genera humedad justa churro conserve perfecto terpeno" resultado autor + aplicación mirar pronóstico lluvia inminente probar 1 planta parte + advertencia limitación geográfica contextual
+  - **Espacios alternativos:** heladera desuso NO RECOMENDADO "NO circulación aire" consecuencia hongos + lugares probados cuartito loza+baño+pieza+living
+
+- **knowledge/01-ciclo-vida/09-curado.md:** (+82 líneas nueva sección "CURADO PRINCIPIANTES - Método Termohidrómetro Frasco" + "CONSERVACIÓN LARGO PLAZO - Métodos Prácticos")
+  - **Variabilidad curado:** postura honesta "NO hay manera saber nada nada de nada" + variabilidad casos "cosas sin curar zarpadas cosas curadas pete" + implicación resultados dependen genética+secado+condiciones + limitación asesoramiento individual
+  - **Método termohidrómetro frasco tester:** fuente técnica libro Chelo revista THC Argentina + protocolo obtener frasco aceitunas "ganso almacenero esquina"+instalar termohidrómetro dentro+llenar flores+monitoreo lectura humedad+si sube abrir intercambio aire+cerrar+repetir+aplicación resto frascos replicar aperturas frasco tester NO abrir todos + humedad objetivo "65% o 55%" impreciso vs 62% estándar + señal finalización listo conservar
+  - **Conservación heladera corto-mediano plazo:** filosofía "cracks fuman churro" heladera consumo activo + protocolo recarga frascos vacíos sacar freezer llenar
+  - **Conservación freezer largo plazo:** método simple ziplock+sellar+freezer duración "6-8 meses" flores "igual cuando corté" + método vacío "cosito chupa aire" descripción "gloria misma" conservación superior + advertencia corte luz riesgo descongelación + limitación descongelación NO especificada
+  - **Realidad almacenamiento principiantes:** limitación espacio familiar heladera ladera compartida conflicto + alternativa realista "abajo cama mueble" condiciones oscuro+ventilación funcional PERO inferior freezer + pragmatismo "ideal freezer PERO el que NO pueda hacer ya está" trabajar recursos disponibles
+
+### Cambiado
+- **Distribución Tiers:** **4 S (8.3%) + 29 A (60.4%) + 12 B (25.0%) + 3 otros (6.3%) = 48 total**
+- **Videos procesados DB:** **48/143 (33.6%)**
+- **Videos técnicos integrados KB:** **44/143 (30.8%)** = 28 Noé + 16 Doña Huana
+
+### Notas
+Decimoséptima fuente Doña Huana. **Segunda fuente post-cosecha secado/curado KB complementa HOW-038.** Tier B -2 credibilidad (anécdotas+lenguaje coloquial) + -3 calidad (falta profundidad parámetros exactos temperatura/humedad/duración NO especificados) + -2 consistencia (temperatura/humedad imprecisa) + -2 aplicabilidad (adaptación extrema+conservación NO detallada) + -1 objetividad (sponsor Old Day). **VALOR ÚNICO:** Filosofía experimentación espacios casa "probar lugares baño+pieza+living" documentación cuadernito principiantes + terpenos preservación volatilidad pérdida irreversible concepto crítico correcto + método termohidrómetro frasco tester libro Chelo práctico reproducible + tip clima lluvia Buenos Aires humedad justa contextual + conservación freezer ziplock/vacío 6-8 meses + honestidad brutal "NO hay manera saber nada" transparencia variabilidad **PERO** falta rigurosidad técnica parámetros exactos temperatura/humedad/duración secado NO especificados + conservación NO detallada descongelación/degradación REQUIERE fortalecimiento fuentes técnicas precisas. Total +176 líneas 2 módulos.
+
+---
+
 ## [1.0.19-modular] - 2025-11-11
 
 ### Agregado

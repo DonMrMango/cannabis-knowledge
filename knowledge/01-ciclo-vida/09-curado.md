@@ -5,7 +5,7 @@
 > **Fuentes:** Ver referencias.md
 
 > **Estado actual:** ✅ EXPANDIDO - Protocolo completo + contenedores pros/contras + conservación estrategias
-> **Fuentes:** [HOW-004], [HOW-010], [DH-010], [HOW-038]
+> **Fuentes:** [HOW-004], [HOW-010], [DH-010], [HOW-038], [DH-109]
 > **Prioridad:** Crítica cumplida
 
 ### Impacto del Tiempo en Calidad Final
@@ -248,5 +248,131 @@
 - Ventaja: conserva compuestos activos plantas largo plazo
 - Aplicación: cosechas voluminosas O conservación extendida necesaria
 - Relacionado: Ver 11-extracciones.md métodos detallados
+
+---
+
+## CURADO PRINCIPIANTES - Método Termohidrómetro Frasco
+
+### Concepto Variabilidad Curado
+
+**Realidad curado NO universal:** [DH-109]
+- **Postura honesta autor:** "NO hay manera de saber nada nada de nada de nada"
+- **Variabilidad casos:**
+  - "He probado cosas sin curar quedaron re zarpadas"
+  - "Hay cosas probé curadas quedaron re pete"
+- **Implicación:** resultados dependen múltiples factores (genética, secado previo, condiciones)
+- **Consecuencia cultivador:** "vas a tener que probar de vuelta"
+- **Limitación asesoramiento:** "NO me vas a poder preguntar a mí ni nadie porque eso es lo que te gusta a vos"
+
+### Método Termohidrómetro Frasco Tester
+
+**Fuente técnica:** [DH-109]
+- **Origen:** libro cannabis Chelo (revista THC Argentina)
+- **Aplicación:** principiantes sin equipamiento sofisticado
+- **Objetivo:** control humedad curado sin abrir todos frascos
+
+**Protocolo paso a paso:** [DH-109]
+
+1. **Obtener frasco grande:**
+   - Tipo: frasco aceitunas (ejemplo)
+   - **Tip práctico:** "ganso almacenero esquina tenés frasco aceitunas al pedo que NO usas"
+   - Costo: "centrito" O intercambio
+   - **Timing:** conseguir ANTES necesitar (NO esperar momento crítico)
+
+2. **Instalar termohidrómetro frasco:**
+   - Meter termohidrómetro DENTRO frasco
+   - Función: medir humedad relativa interior frasco
+   - Tipo: termohidrómetro digital pequeño (NO especificado modelo)
+
+3. **Llenar frasco flores:**
+   - Capacidad: similar otros frascos curado (2/3 - 75%)
+
+4. **Protocolo monitoreo:**
+   - **Frasco tester:** observar lectura humedad termohidrómetro
+   - **Acción si humedad sube:** abrir frasco tester
+   - **Intercambio aire:** "intercambio con exterior se va a quedar humedad exterior"
+   - **Cerrar:** volver cerrar frasco tester
+   - **Al día siguiente:** revisar lectura nuevamente
+   - **Repetir ciclo:** hasta humedad estabilice rango objetivo
+
+5. **Aplicación resto frascos:**
+   - **Lógica:** "todos demás frascos más o menos le va a estar pasando lo mismo"
+   - **Acción:** replicar aperturas/cierres misma frecuencia frasco tester
+   - **Ventaja:** NO necesidad abrir todos frascos constantemente (eficiencia)
+
+**Humedad objetivo:** [DH-109]
+- **Rango mencionado:** "65% o 55% humedad" (impreciso)
+- **⚠️ Inconsistencia:** rango amplio 55-65% vs HOW-004 óptimo 62% preciso
+- **Interpretación:** aproximación principiantes vs optimización profesional
+- **Señal finalización:** "ya está listo para conservar"
+
+### Referencia Fuente
+
+**Crédito intelectual:** [DH-109]
+- Autor método: Chelo
+- Publicación: libro cannabis revista THC (Argentina)
+- Instagram: mencionado video (NO transcrito nombre exacto)
+- Recomendación: consultar fuente original detalles adicionales
+
+---
+
+## CONSERVACIÓN LARGO PLAZO - Métodos Prácticos
+
+### Conservación Heladera Corto-Mediano Plazo
+
+**Filosofía "cracks fuman churro":** [DH-109]
+- **Ubicación heladera:** consumo activo inmediato
+- **Razón:** flores frescas listas consumo diario
+- **vs Almacenamiento abajo cama/cualquier lado:** heladera mejor control temperatura
+
+**Protocolo recarga:** [DH-109]
+- **Frascos heladera:** consumo activo vacíos
+- **Acción:** sacar 1 frasco freezer → llenar frascos heladera
+- **Objetivo:** siempre flores espectaculares disponibles
+
+### Conservación Freezer Largo Plazo
+
+**Método sellado simple:** [DH-109]
+- **Contenedor:** bolsas ziplock
+- **Proceso:**
+  1. Meter flores ziplock
+  2. Sellar ziplock
+  3. Meter freezer
+- **Duración:** "6 7 8 meses" objetivo flores "igual que cuando lo corté"
+- **Limitación información:** descongelación NO especificada
+
+**Método envasado vacío (ÓPTIMO):** [DH-109]
+- **Equipamiento:** "cosito ese que chupa aire para envasar al vacío"
+- **Descripción:** "la gloria misma"
+- **Proceso:**
+  1. Meter flores bolsa vacío
+  2. Sellar + extraer aire máquina
+  3. Meter freezer
+- **Ventaja:** conservación superior vs ziplock
+- **Resultado:** "siempre lo tenés espectacular"
+
+**⚠️ Advertencia corte luz:** [DH-109]
+- **Riesgo:** "NO se te corte luca dos días también puede pasar tranquilamente"
+- **Implicación:** descongelación NO controlada puede afectar flores
+- **Solución sugerida:** tener ladera (freezer horizontal) mayor capacidad aislamiento térmico
+
+### Realidad Almacenamiento Principiantes
+
+**Limitación espacio familiar:** [DH-109]
+- **Problema:** vivir con familia → heladera ladera compartida ocupada
+- **Conflicto típico:** "vieja tiene ladera llena 5 personas → vos quieres frasquitos"
+- **Consecuencia:** "vieja re caliente dice qué estás haciendo flaco"
+- **Solución humor:** emanciparse "tener propia ladera NO romper pelotas mamá"
+
+**Alternativa realista:** [DH-109]
+- **Almacenamiento casa:** "abajo cama mueble donde pinte"
+- **Aceptación:** hacer como "toda la vida"
+- **Condiciones:** oscuro + ventilación moderada + temperatura ambiente
+- **Resultado:** funcional PERO inferior freezer largo plazo
+
+**Mensaje final:** [DH-109]
+- **Ideal:** freezer/ladera propia equipamiento completo
+- **Realidad:** "el que lo pueda hacer bienvenido el que NO lo pueda hacer ya está"
+- **Pragmatismo:** trabajar con recursos disponibles
 
 ---
