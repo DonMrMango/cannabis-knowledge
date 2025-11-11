@@ -1,11 +1,11 @@
 # Sección 07: Maduración y Cosecha
 
 > **Última actualización:** 2025-11-11
-> **Estado:** Expandido - Timing cosecha 3 indicadores exterior alta humedad
+> **Estado:** Expandido - Timing cosecha 3 indicadores + **ESTUDIO CIENTÍFICO FLUSH RX Green Tech**
 > **Fuentes:** Ver referencias.md
 
-> **Estado actual:** ✅ EXPANDIDO - 3 métodos punto corte + timing tricomas decisor + preparación exterior
-> **Fuentes:** [HOW-004], [DH-010], [HOW-026], [HOW-038]
+> **Estado actual:** ✅ EXPANDIDO - 3 métodos punto corte + timing tricomas decisor + preparación exterior + **ESTUDIO FLUSH RX Green Tech (Tier A)** contradicción práctica tradicional vs evidencia científica
+> **Fuentes:** [HOW-004], [DH-010], [HOW-026], [HOW-038], [DH-085]
 > **Prioridad:** Crítica cumplida
 
 ### Pre-Cosecha - Preparación
@@ -226,5 +226,103 @@
 - **Paso 1:** antes cortar planta → sacar hojas más grandes
 - **Ventaja:** planta aún tierra/maceta fácil acceso
 - **Paso 2:** después defoliación → cortar planta completa O mitad
+
+---
+
+---
+
+## LAVADO RAÍCES (FLUSH) - Debate Científico
+
+### Estudio RX Green Technology - Metodología
+
+**Institución:** [DH-085]
+- Empresa: RX Green Technology (Denver, Colorado, USA)
+- Tipo: empresa fertilizantes profesional cultivos comerciales California
+- Motivación: directora tecnología → información insuficiente validar hipótesis flush tradicionales
+
+**Diseño experimental:** [DH-085]
+- **Genética única:** Cherry Diesel (estandarizar variables genéticas)
+- **Productor:** cliente empresa cultivador comercial escala industrial
+- **Grupos control 4:**
+  1. 14 días flush pre-cosecha
+  2. 10 días flush pre-cosecha
+  3. 7 días flush pre-cosecha
+  4. 0 días flush (fertilización hasta cosecha) = control
+- **Evaluación:** Flush Event California cata ciega comunidad cannabis
+- **Criterios:** sabor + humo + calidad ceniza (puntuación cuantitativa)
+
+### Resultados Estudio
+
+**Conclusión principal:** [DH-085]
+- **Diferencia significativa detectada:** NINGUNA entre 4 grupos
+- **Sabor:** NO diferencia perceptible evaluadores
+- **Humo:** NO diferencia suavidad/aspereza
+- **Ceniza:** NO diferencia color/textura
+- **Interpretación empresa:** flush "ni fu ni fa" (NO beneficio detectable)
+
+**Limitaciones estudio:** [DH-085]
+- Genética única (Cherry Diesel)
+- Productor único (condiciones específicas)
+- Sustrato/fertilizante NO especificado
+- EC inicial pre-flush NO documentado
+- Tamaño muestra NO especificado
+
+### Técnicas Flush Tradicionales
+
+**Opción 1 - Método volumen estándar:** [DH-085]
+- Protocolo: 3x volumen maceta solo agua
+- Ejemplo: maceta 10L → 30L agua total
+- Aplicación: gradual lento permitir absorción
+
+**Opción 2 - Método canilla continuo:** [DH-085]
+- Proceso: regar continuo hasta agua drenaje clara
+- Indicador: agua sale sin color amarillo/marrón
+- Ventaja: simplicidad accesibilidad
+
+**Hipótesis tradicionales flush:** [DH-085]
+- Mejora aromas (terpenos mayor intensidad)
+- Mejora sabor (menos áspero)
+- Mejora ceniza (blanca vs negra)
+- Reduce azúcares residuales
+- **Estado:** creencias comunidad PERO evidencia científica limitada
+
+### Interpretación Cultivador
+
+**Postura pragmática experimental:** [DH-085]
+- **Recomendación:** probar ambos métodos plantas iguales
+- **Filosofía:** preferencias individuales variables
+- **Protocolo sugerido:**
+  1. Cultivar ≥2 plantas genética idéntica
+  2. Planta A: flush 14 días
+  3. Planta B: fertilización hasta cosecha
+  4. Secar + curar protocolo idéntico
+  5. Comparación personal: sabor + humo + ceniza
+  6. Documentar preferencia
+
+**Hipótesis sesgo comercial:** [DH-085]
+- Marcas venden líquidos flush premium
+- Pregunta: ¿mejora real O estrategia venta?
+- Imposible determinar sin experimentación
+
+**Dependencia secado-curado:** [DH-085]
+- **Advertencia:** "porro va a estar bueno si lo secan bien y curan bien"
+- **Implicación:** flush puede ser MENOS crítico que secado/curado
+- **Priorización:** secado + curado > flush (impacto calidad final)
+
+### Consenso Actual Conocimiento
+
+**Estado debate flush:** [DH-085]
+- **Práctica tradicional:** ampliamente extendida comunidad décadas
+- **Evidencia científica:** estudio RX Green Tech sugiere beneficio NO detectable
+- **Limitación:** estudio único (requiere replicación múltiples genéticas)
+
+**Postura KB:** [DH-085]
+- ⚠️ **Contradicción registrada:** práctica tradicional [HOW-004] vs evidencia científica [DH-085]
+- ✅ **Recomendación:** experimentación personal determinar preferencia
+- ⚠️ **Pendiente:** validación cruzada fuentes Tier S (literatura peer-reviewed)
+
+**Relacionado:**
+- **28-fertilizacion.md:** acumulación sales sustrato
+- **08-secado.md + 09-curado.md:** impacto mayor calidad final
 
 ---

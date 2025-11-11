@@ -5,6 +5,27 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.21-modular] - 2025-11-11
+
+### Agregado
+- [DH-085] Doña Huana (Nahuel) - "Estudio Lavado Raíces" - Tier A (20/25) 🔬 Primera evidencia científica flush
+- knowledge/01-ciclo-vida/07-maduracion-cosecha.md: (+104 líneas nueva sección "LAVADO RAÍCES (FLUSH) - Debate Científico")
+  · Estudio RX Green Technology metodología 4 grupos (14d/10d/7d/0d flush)
+  · Flush Event California cata ciega resultado NO diferencia significativa
+  · Técnicas flush tradicionales 3x volumen maceta O canilla clara
+  · Interpretación cultivador postura pragmática experimentación
+  · Consenso actual contradicción práctica tradicional vs evidencia científica
+
+### Cambiado
+- Distribución Tiers: 3 S (6.1%) + 32 A (65.3%) + 11 B (22.4%) + 3 otros (6.1%) = 49 total
+- Videos procesados DB: 49/143 (34.3%)
+- Videos técnicos integrados KB: 44/143 (30.8%) = 27 Noé + 17 Doña Huana
+
+### Notas
+Tier A upgrade (de B esperado) justificado objetividad 5/5 EXCEPCIONAL transparencia + referencia estudio científico RX Green Tech + filosofía experimentación pragmática vs dogma. Primera evidencia científica flush NO beneficio detectable contradice práctica tradicional décadas. CONTRADICCIÓN REGISTRADA: práctica tradicional [HOW-004] flush mejora sabor vs evidencia científica [DH-085] NO diferencia detectable. Total +104 líneas 1 módulo.
+
+---
+
 ## [1.0.20-modular] - 2025-11-11
 
 ### Agregado
