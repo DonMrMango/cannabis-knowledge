@@ -5,6 +5,30 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.18-modular] - 2025-11-11
+
+### Agregado
+- **[HOW-045]** Noé (House of Weed) - "Cultivo 4 plantas LST 3 Meses | Papaya Zoap F1" - **Tier A (20/25)** 💰💰 Sesgo comercial fuerte
+- **knowledge/05-tecnicas/30-training.md:** EXPANDIDO casos prácticos+técnicas innovadoras+combinaciones (+88 líneas)
+  - **Caso 4 indoor completo:** 4 plantas 11 semanas carpa 80x80x160cm LED 200W + timing inicio 25-30cm + ajustes diarios + resultado ~15 colas principales aprovechamiento óptimo + time lapse GoPro
+  - **Técnica innovadora trasplante costado maceta:** ubicar planta costado (NO centro) → mejor aprovechamiento espacio ramas distribuyen pareja
+  - **Trucos emparejar canopy:** liberar ramas menos desarrolladas + mantener rama principal más baja que laterales
+  - **Combinación LST+poda bajo (lollipopin):** apertura canopy + concentración energía flores superiores + timing varias podas primeras semanas floración
+  - **Combinación LST+malla SCROG:** instalación después desarrollo ramas → ordenar+separar ramas inicio floración
+  - **Combinación LST+super cropping:** si altura problema primer mes floración estirón
+  - **Manejo altura indoor:** planificación carpa 1.60m filtro+extractor+LED+distancia 25-45cm puntas → espacio real ~1.20m + vegetativo corto <6 semanas carpa baja
+  - **Prevención Botrytis:** Barcelona zona costera HR 70-80% → manicurado húmedo + aire acondicionado <20°C + HR<60%
+
+### Cambiado
+- **Distribución Tiers:** **4 S (8.9%) + 29 A (64.4%) + 10 B (22.2%) + 2 otros (4.4%) = 45 total**
+- **Videos procesados DB:** **45/90 (50.0%)** 🎉 **HITO 50%** 🎉
+- **Videos técnicos integrados KB:** **42/90 (46.7%)** = 28 Noé + 14 Doña Huana
+
+### Notas
+Vigésima octava fuente Noé. **Segunda fuente LST caso estudio completo complementa HOW-052 protocolo.** Tier A -2 objetividad SESGO COMERCIAL FUERTE patrocinio Sweet Seeds + -1 calidad + -1 aplicabilidad. **VALOR ÚNICO:** técnica innovadora trasplante costado maceta + trucos canopy + combinaciones reproducibles LST+poda bajo+malla caso completo documentado + manejo altura indoor crítico. Total +88 líneas. **HITO: 50% videos procesados DB alcanzado!** 🎉
+
+---
+
 ## [1.0.17-modular] - 2025-11-11
 
 ### Agregado
