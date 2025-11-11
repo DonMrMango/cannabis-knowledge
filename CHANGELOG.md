@@ -5,6 +5,31 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.16-modular] - 2025-11-11
+
+### Agregado
+- **[DH-091]** Doña Huana (Nahuel) - "TRIPS - ARAÑA ROJA / COMO COMBATIRLOS" - **Tier B (17/25)**
+- **knowledge/06-problemas/34-plagas.md:** EXPANDIDO trips/araña descripciones + nueva sección combate realidad (+147 líneas)
+  - **Trips actualizado:** color negros rayas blancas + adultos NO alimentan vs larvas SÍ + NO mortal "nunca me enteré nadie muerte"
+  - **Araña actualizada:** <1mm color variable + chupa savia + SÍ mortal "he visto plantas mueren" + ciclo 2 días 40.000 huevos
+  - **Severidad diferencial:** trips NO mortal vs araña SÍ mortal lógica urgencia
+  - **Convivencia trips temporada:** fenómeno recurrente "cada planta tiene trips haga lo que haga" aceptación + control continuo ≠ erradicación
+  - **Inspección semanal:** "14 millones kilombos" prevenir descontrol
+  - **Preventivos importancia:** objetivo realista control NO eliminación bichos presentes números bajos
+  - **Combate vegetativo:** veneno plantas comestibles Mamboretá tiempo carencia postura pragmática
+  - **Combate floración:** <1 semana cosechar antes vs ~1 mes+ sacar manual NO veneno preferencia
+  - **Continuidad aplicación:** error "ya lo maté ya está" bichos vuelven advertencia
+
+### Cambiado
+- **Distribución Tiers:** **3 S (7.0%) + 28 A (65.1%) + 10 B (23.3%) + 2 otros (4.7%) = 43 total**
+- **Videos procesados DB:** **43/90 (47.8%)** = 27 Noé + 16 Doña Huana
+- **Videos técnicos integrados KB:** **40/90 (44.4%)** = 26 Noé + 14 Doña Huana
+
+### Notas
+Decimoquinta fuente Doña Huana. **Primera fuente trips/araña combate realidad convivencia.** Tier B lenguaje coloquial extremo falta profundidad técnica PERO valor único perspectiva realista honestidad brutal limitaciones control pragmatismo. Total +147 líneas.
+
+---
+
 ## [1.0.15-modular] - 2025-11-11
 
 ### Agregado
