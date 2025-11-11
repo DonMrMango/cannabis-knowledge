@@ -201,4 +201,59 @@
 
 **Relacionado:** Ver Sección 28 (Fertilización) - Enmiendas + Té Compost HOW-016
 
+### Técnica Riego Macetas Pequeñas - Método 2 Pasadas
+
+**Contexto aplicación:** [HOW-025]
+- **Problema:** macetas pequeñas (7L o menos) → agua escurre sin absorción adecuada
+- **Causa:** sustrato actúa como esponja saturada → agua busca salida rápida sin humedecer todo volumen
+- **Aplicación ideal:** SOG (Sea of Green) múltiples macetas pequeñas
+
+**Protocolo 2 Pasadas (Absorción Gradual):** [HOW-025]
+
+**PASADA 1 - Humedecimiento inicial:**
+- **Volumen:** ~500ml por planta (o ~1/6 volumen total riego)
+- **Velocidad:** LENTA permitiendo absorción
+- **Objetivo:** humedecer superficie sin saturar
+- **Distribución:** perímetro planta evitando centro tallo
+- **Tiempo espera:** sustrato absorba agua como esponja (30-60 segundos)
+
+**PASADA 2 - Completar volumen:**
+- **Acción:** regresar planta por planta aplicando agua restante
+- **Volumen:** completar hasta volumen total (ej: si total 3L y pasada 1 fue 500ml → pasada 2 = 2.5L)
+- **Distribución:** seguir riego lento perímetro
+- **Objetivo:** sustrato pre-humedecido → mejor absorción profunda
+- **Resultado:** agua penetra todo volumen maceta vs escurrir superficie
+
+**Fundamento técnico:** [HOW-025]
+- **Analogía esponja:** sustrato seco repele agua inicialmente → humedecer gradual permite absorción total
+- **Crítico macetas pequeñas:** volumen limitado sustrato = menos margen error
+- **Si aplicar todo volumen golpe:** agua escurre sin humedecer sustrato profundo → raíces profundas sin agua
+
+**Caso estudio HOW-025:** [HOW-025]
+- **Setup:** SOG 8 plantas macetas 7L
+- **Frecuencia:** 2-3 riegos/semana
+- **Herramienta:** balde 10L suficiente regar carpa completa (8 plantas)
+- **Tiempo total:** ~5-10 minutos carpa completa (método 2 pasadas)
+- **Resultado:** 0 problemas riego durante ciclo completo (excepto 1 planta riego excesivo corregido)
+
+**Variación frecuencia según sistema:** [HOW-025]
+- **Living Soil:** solo agua → proceso más rápido vs fertilizantes
+- **Sin preparar fertilizantes:** llenar balde 10L → regar directamente
+- **Ahorro tiempo:** NO mezclar fertilizantes cada riego
+
+**⚠️ Advertencia riego excesivo:** [HOW-025]
+- **Síntoma caso real:** 1/8 plantas presentó hoja doblada persistente (sintomatología riego excesivo)
+- **Detección:** observación visual diaria crítica
+- **Corrección:** reducir frecuencia/volumen esa planta específica
+- **Resultado:** sin mayores consecuencias si detectar temprano
+
+**Comparación vs fertilización embotellada:** [HOW-025]
+- **Living Soil + 2 pasadas:** ~5-10 min total 8 plantas
+- **Fertilizantes + 2 pasadas:** +10-15 min (preparar fertilizantes primero)
+- **Ventaja Living Soil:** velocidad proceso riego sin sacrificar calidad absorción
+
+**Relacionado:**
+- **33-sog-scrog.md:** SOG 8 plantas macetas pequeñas protocolo completo
+- **30-sustrato-living-soil.md:** Living Soil + riego solo agua sinergia
+
 ---

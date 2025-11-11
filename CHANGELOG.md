@@ -5,6 +5,53 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.11-modular] - 2025-11-10
+
+### Agregado
+- **[HOW-025]** Noé (House of Weed) - "Living Soil + SOG Indoor" - **Tier A (23/25)** 💰 Sesgo comercial moderado
+- **knowledge/04-nutricion/30-sustrato-living-soil.md:** NUEVO MÓDULO COMPLETO "Living Soil - Sustrato Vivo" (+220 líneas)
+  - **Receta completa 50L base:** ⅓ compost + ⅓ coco/turba + ⅓ pómez/perlita/volcánica (alternativa simplificada: light mix directo)
+  - **Enmiendas orgánicas 6 ingredientes:** 100g harina pescado + 100g neem + 100g soya + 90g fras + 60g chipson + 250g microorganismos sólidos
+  - **Reposo crítico:** 3 días mínimo antes plantar (microorganismos colonizan sustrato)
+  - **Escalabilidad:** regla de 3 simple (50L base→cualquier volumen)
+  - **Reutilización sustrato infinito:** NO desechar post-cosecha, cortar plantas base sin sacar raíces→materia orgánica, enmendado superficial mismos 6 ingredientes, cobertura mulch/compost crítica retener humedad proteger microorganismos, reposo 3-7 días nuevo ciclo
+  - **Partner 3+ años mismo suelo comprobado** (cross-reference HOW-016 outdoor 5+ años)
+  - **Manejo riego:** SOLO agua TODO ciclo (NO fertilizantes embotellados), NO medir pH ni EC (microorganismos amortiguan), opcional té compost más microorganismos
+  - **Adquisición ingredientes:** growshops kits completos (HOW Chile) | alternativa universal viveros locales tiendas agrícolas NO growshops (harina pescado común fertilizante, neem insecticida, microorganismos bokashi/EM) | advertencia NO importar orgánicos aduana retiene
+  - **Caso estudio Glaze 8:** 237g rendimiento calidad excepcional textura densidad resina
+- **knowledge/05-tecnicas/33-sog-scrog.md:** NUEVO MÓDULO COMPLETO "SOG (Sea of Green)" (+200 líneas)
+  - **Concepto:** densidad alta plantas (8+/m²) crecimiento vertical controlado aprovechamiento espacio carpas reducidas
+  - **Material vegetal:** esquejes obligatorios (clones homogeneidad genética) NO semillas (variabilidad fenotípica alturas desiguales desperdicio luz)
+  - **Setup HOW-025:** 8 plantas 7L macetas carpa pequeña, Glaze 8 esquejes
+  - **Estructura planta:** central principal + 2-4 ramas laterales (NO más), altura pre-flip 25-30cm, poda bajos + poda selectiva hojas
+  - **Timing vegetativo:** esquejes enraizados 13 días 18/6 maceta definitiva, altura trasplante 10-15cm ideal evitar estiramiento carencias
+  - **Floración:** plantas NO altas objetivo, estiramiento leve caso HOW-025 características variedad sin mayores dificultades
+  - **Homogeneidad flores:** uniformidad esquejes+SOG→cogollos tamaño similar distribución luz pareja
+  - **Interferencias luz críticas:** ventiladores ductos arriba bloquean luz plantas debajo→bajitas (2/8 caso HOW-025), planificación layout ANTES colocar plantas
+  - **Resultados caso:** 237g secos 2 meses floración (~29.6g/planta), calidad excepcional vs cantidad moderada
+  - **Ventajas SOG:** optimización espacio, velocidad ciclo (vegetativo corto 13 días), homogeneidad producción, reducción riesgo (1/8 pérdida vs 1/1)
+  - **Desventajas:** requiere madre+clonación, manejo 8 macetas individuales, dependencia homogeneidad
+  - **Sinergia Living Soil+SOG:** macetas pequeñas 7L suficiente nutrientes, riego solo agua simplifica 8 plantas, calidad flores potenciada
+- **knowledge/04-nutricion/29-riego.md:** EXPANDIDA nueva sección "Técnica Riego Macetas Pequeñas - Método 2 Pasadas" (+55 líneas)
+  - **Problema:** macetas pequeñas (7L o menos)→agua escurre sin absorción adecuada (sustrato esponja saturada)
+  - **PASADA 1 humedecimiento:** ~500ml lento perímetro espera absorción 30-60seg (sustrato repele agua seco)
+  - **PASADA 2 completar volumen:** regresar planta x planta aplicar agua restante (sustrato pre-humedecido mejor absorción profunda)
+  - **Fundamento:** analogía esponja, crítico macetas pequeñas menos margen error, aplicar todo golpe→escurre sin humedecer raíces profundas
+  - **Caso SOG 8 plantas:** balde 10L suficiente carpa completa, frecuencia 2-3 riegos/semana, tiempo 5-10min vs fertilizantes +10-15min
+  - **Troubleshooting riego excesivo:** 1/8 plantas hoja doblada persistente, corrección detectar temprano reducir frecuencia/volumen esa planta sin consecuencias
+
+### Cambiado
+- **Distribución Tiers contenido técnico:** **3 S (8.1%) + 25 A (67.6%) + 9 B (24.3%) = 37 total**
+- **Videos procesados DB:** **38/90 (42.2%)** = 25 Noé (24 técnicos + 1 excluido) + 13 Doña Huana
+- **Videos técnicos integrados KB:** **37/90 (41.1%)** = 24 Noé + 13 Doña Huana
+- **Videos excluidos:** 1 (contenido no técnico)
+- **Módulos nuevos creados:** 2 (30-sustrato-living-soil.md + 33-sog-scrog.md)
+
+### Notas
+Vigésima quinta fuente Noé. Tier A (23/25). **Cross-reference crítico HOW-016 Living Soil** (confirma metodología sustrato infinito partner 3+ años mismo suelo vs caso original 5+ años outdoor). Puntuación: credibilidad 5/5 (caso real documentado Glaze 8, partner 3+ años comprobado, admite NO mayor producción calidad destacable), calidad técnica 5/5 (receta COMPLETA cantidades exactas 50L 6 ingredientes, protocolo reutilización post-cosecha sin sacar raíces, técnica riego 2 pasadas detallada, timing 10-15cm trasplante, 13 días vegetativo, rendimiento 237g flores excepcionales), consistencia 5/5 (HOW-016 confirmación, SOG técnica reconocida, riego solo agua microorganismos amortiguan pH/EC orgánico), aplicabilidad 5/5 (receta escalable regla 3, protocolo reproducible SOG 8 plantas 7L 10 semanas, reutilización economía largo plazo, alternativas viveros locales NO growshops, advertencia importación aduana), objetividad 3/5 (sesgo comercial moderado venta ingredientes tienda House of Weed Chile **PERO** sugiere alternativas viveros locales otros países vs extremo HOW-024, transparente riego excesivo 1 planta sin exagerar 237g NO mayor). **Sesgo comercial moderado tienda propia PERO sugerencias alternativas universales rescatan objetividad parcial**. Receta Living Soil completa indoor escalable. Protocolo reutilización sustrato economía sustentabilidad (0 gasto sustrato ciclos posteriores mejora progresiva microbiología). SOG técnica optimización carpa pequeña homogeneidad esquejes crítica. Riego 2 pasadas macetas pequeñas absorción gradual fundamental. Transparencia troubleshooting admite NO mayor producción calidad destacable validez metodología. Sinergia Living Soil+SOG simplifica manejo 8 plantas solo agua potencia calidad flores. **DOS módulos nuevos completos** amplían KB significativamente (sustrato orgánico + técnicas avanzadas).
+
+---
+
 ## [1.0.10-modular] - 2025-11-10
 
 ### Agregado
