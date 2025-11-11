@@ -5,6 +5,59 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.13-modular] - 2025-11-11
+
+### Agregado
+- **[HOW-055]** Noé (House of Weed) - "Técnica Mainlining Red Hot Cookies" - **Tier A (24/25)** 💰 Sesgo comercial menor
+- **knowledge/05-tecnicas/34-mainlining.md:** NUEVO MÓDULO COMPLETO "Mainlining" (+340 líneas)
+  - **Concepto:** 7 podas apicales sucesivas → 8 colas principales iguales planta baja ancha homogénea
+  - **Diferencia vs LST:** mainlining sí implica cortes (múltiples podas) vs LST solo amarras sin cortes
+  - **Nivel técnico:** avanzado (dominar apical + FIM + LST primero) NO principiantes
+  - **Protocolo completo 6 fases:**
+    - Fase 1 preparación: requisitos 20cm + 7 nudos + tallo grueso + salud sana, macetas 7L→18L, agujeros borde cables amarras
+    - Fase 2 poda 1 inicio: 4º nudo cortar 3 primeros brotes + ramas laterales inferiores + follaje bajo → brote principal → 2 ramas
+    - Fase 3 podas 2-7 sucesivas: amarrar cables abrir planta esperar desarrollo → siguiente poda secuencia 2→4→8 colas continuar 7 total
+    - Fase 4 vegetativo post-estructura: NO quitar hojas maximizar fotosíntesis, prevención plagas tierra diatomeas+jabón+neem regular
+    - Fase 5 inicio floración desfoliación: timing principios febrero ~1.5 meses vegetativo pistilos blancos+morados, desfoliación selectiva → 8 principales + 2 secundarias = 10 total
+    - Fase 6 floración fertilización experimental: vegetativo completo + floración SOLO 2 semanas primeras resto ~2 meses sustrato+reservas → volumen moderado sabor suave sin curado
+  - **Caso estudio Red Hot Cookies exterior:** germinación dic hemisferio sur, vegetativo 1.5 meses enero, floración 2.5 meses febrero-abril, ciclo total ~4 meses, sin problemas plagas prevención orgánica efectiva
+  - **Ventajas:** estructura baja espacios reducidos, múltiples colas iguales 8+ desarrollo parejo, control forma cables, homogeneidad producción
+  - **Desventajas:** estrés acumulado 7 podas planta DEBE sana, tiempo vegetativo extendido, experiencia requerida, mantenimiento amarras constante, riesgo plantas débiles
+  - **Comparación técnicas tabla:** mainlining vs LST vs apical vs FIM vs SOG (cortes/resultado colas/estrés/nivel)
+  - **Recursos:** guía blog House of Weed fotos paso a paso detalles visuales + timing + errores comunes
+- **knowledge/05-tecnicas/30-poda-defoliacion.md:** EXPANDIDA subsección "Poda Apical (Topping)" (+24 líneas)
+  - Concepto básico: corte brote apical → 2 colas, nivel intermedio
+  - **Mainlining (apical múltiple avanzado):** 7+ podas apicales → 8+ colas principales iguales planta baja homogénea vs apical simple 1 poda → 2 colas
+  - Nivel avanzado: dominar apical + FIM + LST primero, estrés alto múltiples cortes
+  - **Cross-reference 34-mainlining.md protocolo completo**
+- **knowledge/04-nutricion/28-fertilizacion.md:** NUEVA SECCIÓN "Estrategia Calidad vs Cantidad" (+65 líneas)
+  - **Problema sobrefertilización floración:** carbohidratos exceso → volumen grande PERO sabor menos suave residuos fertilizantes
+  - **Estrategia priorizar calidad:** vegetativo completo óptimo + floración mínimo necesario
+  - **Caso mainlining Red Hot Cookies:** vegetativo 1.5 meses fertilización máxima (mainlining requiere vigor 7 podas) + floración SOLO 2 semanas primeras resto ~2 meses sustrato+reservas → resultado volumen moderado sabor suave sin curado
+  - **Lección clave:** "buscar equilibrio cantidad vs calidad", sobrefertilización floración NO siempre mejor resultado final
+  - **Aplicabilidad:** cultivadores priorizan calidad sobre cantidad, sustratos ricos nutrientes Light Mix+orgánicas, plantas estructura fuerte vegetativo reservas suficientes, ciclos exterior sol directo menos demanda vs indoor
+  - **Contraste estrategias:** calidad prioritaria vegetativo+floración mínima (HOW-055) vs cantidad prioritaria vegetativo+floración completa máxima (comercial típico) vs equilibrio vegetativo+floración progresiva reducida (HOW-026)
+  - **Cross-reference 34-mainlining.md caso completo + 10-cata.md evaluación organoléptica**
+- **knowledge/06-problemas/34-plagas.md:** EXPANDIDA subsección "Caso Éxito Prevención Exterior Mainlining" (+36 líneas)
+  - **Contexto HOW-055:** exterior hemisferio sur macetas 20L mainlining 7 podas estrés acumulado ciclo ~4 meses → CERO problemas plagas ciclo completo
+  - **Protocolo preventivo aplicado:** tierra diatomeas (superficie + hojas) + jabón potásico + aceite neem regular desde poda 1
+  - **Confirmación efectividad:** plagas cero, visitantes benéficos chinitas aliadas, contexto crítico planta estrés vulnerable + exterior mayor exposición
+  - **Lección case study:** protocolo orgánico triple simple suficiente prevención completa, aplicación regular desde inicio vegetativo = protección ciclo completo, consistente filosofía prevención>combate (HOW-005 + DH-008)
+  - **Cross-reference 34-mainlining.md caso completo + HOW-005 protocolo detallado frecuencias**
+
+### Cambiado
+- **Distribución Tiers contenido técnico:** **3 S (7.7%) + 27 A (69.2%) + 9 B (23.1%) = 39 total**
+- **Videos procesados DB:** **39/90 (43.3%)** = 26 Noé (25 técnicos + 1 excluido) + 13 Doña Huana
+- **Videos técnicos integrados KB:** **38/90 (42.2%)** = 25 Noé + 13 Doña Huana
+- **Videos excluidos:** 1 (contenido no técnico)
+- **Módulos nuevos creados:** 1 (34-mainlining.md)
+- **Módulos actualizados:** 3 (30-poda-defoliacion.md + 28-fertilizacion.md + 34-plagas.md)
+
+### Notas
+Vigésima quinta fuente Noé. Tier A alto (24/25, casi S). **Primera fuente mainlining técnica avanzada completa proyecto** llena gap crítico 05-tecnicas/ poda apical múltiple. Puntuación: credibilidad 5/5 (caso completo documentado 4 meses germinación→cosecha, timing detallado cada fase, transparencia decisiones experimentales fertilización calidad vs cantidad, resultados honestos volumen moderado sabor suave sin exageraciones), calidad técnica 5/5 (protocolo mainlining COMPLETO 7 podas→8 colas paso a paso requisitos 20cm+7 nudos+tallo grueso, amarras cables estructura baja ancha, desfoliación selectiva 10 ramas, timing ciclo dic→abr hemisferio sur 1.5 meses vegetativo+2.5 floración, prevención orgánica efectiva cero problemas, fertilización experimental vegetativo completo+floración 2 semanas resultado calidad organoléptica alta, caracterización Red Hot Cookies completa), consistencia 5/5 (mainlining = 7x apical lógica sólida, prevención orgánica consistente HOW-005+DH-008+34-plagas filosofía prevención>combate, fertilización calidad vs cantidad contraste HOW-026 equilibrio progresivo, sin contradicciones), aplicabilidad 5/5 (protocolo reproducible cualquier fotoperiodo sana materiales accesibles cables, timing claro cada acción 4º nudo→esperar→amarrar→siguiente, advertencia NO autos ciclo corto, nivel avanzado especificado dominar apical+FIM+LST primero, guía blog fotos paso a paso, macetas 7L→18L+agujeros preparación), objetividad 4/5 (sesgo comercial menor patrocinio Sweet Seeds título/contenido promoción canal personal PERO técnica generalizable cualquier genética fertilización experimental propia NO productos específicos transparencia decisiones calidad sobre cantidad volumen moderado admitido sin promoción excesiva). **Tier A alto casi S: único -1 objetividad patrocinio Sweet Seeds menor impacto vs extremos HOW-024 ViparSpectra código descuento**. Protocolo completo reproducible 7 podas→8 colas estructura homogénea baja. Caso estudio 4 meses dic→abr hemisferio sur timing detallado cada fase. **Fertilización experimental VALIOSA:** vegetativo completo+floración mínima 2 semanas→calidad organoléptica alta volumen moderado admitido honesto contrasta estrategia cantidad prioritaria protocolos comerciales HOW-026 equilibrio. Prevención plagas orgánica efectiva cero problemas ciclo completo confirma filosofía prevención>combate HOW-005+DH-008. **Nuevo módulo completo 34-mainlining.md +340 líneas:** concepto+protocolo 6 fases+caso Red Hot Cookies+ventajas/desventajas+comparación técnicas tabla+recursos. Cross-references 30-poda-defoliacion.md+28-fertilizacion.md+34-plagas.md integración transversal conocimiento. Guía blog House of Weed paso a paso fotos mencionada recurso adicional. Módulo llena gap técnica avanzada estructuración plantas.
+
+---
+
 ## [1.0.12-modular] - 2025-11-10
 
 ### Agregado

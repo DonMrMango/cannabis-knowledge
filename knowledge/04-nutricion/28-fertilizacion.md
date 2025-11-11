@@ -1,11 +1,11 @@
 # Sección 28: Fertilización
 
-> **Última actualización:** 2025-11-10
-> **Estado:** Expandido - Autoflorecientes indoor completo
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Estrategia calidad vs cantidad
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ EXPANDIDO - Living soil + Autoflorecientes indoor ciclo completo troubleshooting
-> **Fuentes:** [HOW-001], [HOW-016], [HOW-023]
+> **Estado actual:** ✅ EXPANDIDO - Living soil + Autos indoor + Orgánico exterior + Estrategia calidad
+> **Fuentes:** [HOW-001], [HOW-016], [HOW-023], [HOW-026], [HOW-055]
 > **Prioridad:** Alta cumplida
 
 ### Dosificación General
@@ -487,8 +487,68 @@
 
 ---
 
+---
+
+## ESTRATEGIA CALIDAD VS CANTIDAD - Fertilización Experimental
+
+### Concepto Equilibrio Calidad-Cantidad
+
+**Problema sobrefertilización floración:** [HOW-055]
+- Fertilización máxima completa floración → carbohidratos exceso → volumen flores grande
+- **Trade-off:** más cantidad flores PERO posible sabor menos suave (residuos fertilizantes)
+
+**Estrategia priorizar calidad:** [HOW-055]
+- **Vegetativo:** fertilización completa óptima (estructura + raíces + follaje)
+- **Floración:** mínimo necesario producción flores básica
+
+---
+
+### Caso Estudio: Mainlining Red Hot Cookies Exterior
+
+**Protocolo fertilización aplicado:** [HOW-055]
+- **Vegetativo completo (~1.5 meses):** fertilización óptima máxima
+  - Objetivo: desarrollo estructura + raíces + follaje máximo antes floración
+  - Razón: mainlining requiere vigor planta soportar 7 podas apicales
+- **Floración (~2.5 meses):** SOLO primeras 2 semanas fertilizadas
+  - Resto floración (~2 meses): solo sustrato + reservas nutricionales planta
+  - NO aportes fertilizantes externos
+
+**Resultado experimento:** [HOW-055]
+- **Volumen flores:** moderado (NO volumen máximo vs fertilización completa)
+- **Sabor:** suave + NO necesitó curado percibirlo bien
+- **Conclusión:** fertilización vegetativo completa + floración mínima → calidad organoléptica alta
+
+**Lección clave:** [HOW-055]
+- "Buscar equilibrio entre cantidad y calidad"
+- Sobrefertilización floración NO siempre mejor resultado final
+- Priorizar alimentación vegetativo estructural > floración producción masiva
+
+---
+
+### Aplicabilidad Estrategia
+
+**Contexto ideal aplicación:** [HOW-055]
+- Cultivadores priorizan calidad fumada sobre cantidad producción
+- Sustratos ricos nutrientes (Light Mix + enmiendas orgánicas)
+- Plantas estructura fuerte vegetativo (reservas nutricionales suficientes)
+- Ciclos exterior sol directo (menos demanda fertilizantes vs indoor luz artificial)
+
+**⚠️ Consideraciones:** [HOW-055]
+- Experimento específico contexto autor (NO protocolo universal)
+- Alternativa válida explorar cultivadores experimentados
+- Monitoreo visual crítico: SI síntomas severos carencias → ajustar fertilización
+
+**Contraste estrategias:**
+- **Calidad prioritaria:** vegetativo completo + floración mínima (HOW-055)
+- **Cantidad prioritaria:** vegetativo + floración completa máxima (protocolos comerciales típicos)
+- **Equilibrio:** vegetativo completo + floración progresiva reducida final (HOW-026)
+
+---
+
 **Cross-reference:**
 - **13-outdoor.md:** Adaptación interior→exterior luz suplementaria timing hemisférico
 - **30-sustrato-living-soil.md:** Alternativa fertilización (riego solo agua microorganismos)
 - **09-cosecha.md:** Timing cosecha tricomas + técnica corte
 - **34-plagas.md:** Preventivos foliares (suspender pre-floración)
+- **34-mainlining.md:** Caso estudio completo técnica + fertilización calidad
+- **10-cata.md:** Evaluación organoléptica calidad final

@@ -286,3 +286,37 @@
 - Mecánicas biológicas simplificadas extremas (ej: "cola caballo agranda células" = NO precisión científica, en realidad fortalece paredes celulares vía sílice)
 
 ---
+
+## Caso Éxito: Prevención Exterior Mainlining
+
+**Contexto caso HOW-055:** [HOW-055]
+- **Sistema:** exterior hemisferio sur macetas 20L
+- **Técnica:** mainlining (7 podas apicales → planta estrés acumulado)
+- **Ciclo:** ~4 meses germinación→cosecha
+- **Resultado:** CERO problemas plagas ciclo completo
+
+**Protocolo preventivo aplicado:** [HOW-055]
+- **Productos orgánicos:**
+  1. Tierra diatomeas (superficie + hojas)
+  2. Jabón potásico
+  3. Aceite neem
+- **Frecuencia:** aplicación regular (sin especificar exacta HOW-055)
+- **Inicio:** desde poda apical 1 (inicio técnica mainlining)
+- **Razón timing:** planta había sufrido ataque oruga previo sin tratamiento (gran parte planta iba desaparecer podas NO importaba)
+
+**Confirmación efectividad:** [HOW-055]
+- **Plagas observadas:** CERO durante ciclo completo
+- **Visitantes benéficos:** chinitas presentes (aliadas come plagas)
+- **Contexto crítico:** planta bajo estrés 7 podas (vulnerable) + exterior (mayor exposición)
+- **Conclusión:** prevención orgánica triple efectiva incluso plantas estresadas
+
+**Lección case study:** [HOW-055]
+- Protocolo orgánico simple (tierra diatomeas + jabón + neem) suficiente prevención completa
+- Aplicación regular desde inicio vegetativo = protección ciclo completo
+- Consistente filosofía "prevención > combate" (HOW-005 + DH-008)
+
+**Relacionado:**
+- **34-mainlining.md:** Caso estudio completo técnica + protocolo preventivo aplicado
+- **HOW-005:** Protocolo detallado 3 productos frecuencias específicas
+
+---
