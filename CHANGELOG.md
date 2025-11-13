@@ -5,6 +5,104 @@ Todas las actualizaciones notables de la base de conocimiento se documentan aqu�
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [1.0.26-modular] - 2025-11-12
+
+### Agregado
+- **[HOW-059]** Noé (House of Weed) - "Cómo Revegetar una Planta de Marihuana" - **Tier A (22/25)** 🔄 Guía revegetación doble voluntaria + involuntaria
+- **knowledge/05-tecnicas/31-clonacion.md:** (+14 líneas subsección revegetación post-cosecha)
+  - **Revegetación post-cosecha técnica salvador:** conservación genética cuando olvidaste clones O murieron → método dejar flores bajas+hojas cosecha + cambiar 20h luz (óptimo) O 18h luz → semanas → brotes nuevos+hojas particulares → planta vegetativo → sacar clones posteriores O mantener madre
+- **knowledge/01-ciclo-vida/06-floracion.md:** (+48 líneas nueva sección "FOTOPERIODO Y OSCURIDAD - CRÍTICO")
+  - **Principio fundamental floración:** 12h oscuridad ininterrumpida OBLIGATORIA + planta florece percibe disminución horas luz (outdoor) O 12h oscuridad (indoor) + sin 12h oscuridad → planta NO florece O florece mal
+  - **Revegetación involuntaria problema:** reversión floración→vegetativo contaminación lumínica período oscuro → estrés+cambios hormonales+menor producción+flores calidad inferior
+  - **Causas contaminación lumínica:** indoor (carpas NO herméticas luz filtra+closets aberturas+habitaciones contiguas luz filtra solución carpas herméticas+cerrar TODAS aberturas+verificar 0 luz nocturno) + outdoor (iluminación calle+edificios vecinos solución ubicar plantas oscuridad 12h garantizada)
+  - **Troubleshooting planta NO florece:** verificar contaminación lumínica período oscuro + eliminar TODAS fuentes luz 12h nocturnas
+- **knowledge/02-sistemas-cultivo/13-outdoor.md:** (+28 líneas ampliación timing hemisferio sur + esquejes)
+  - **Timing óptimo germinación prevención revegetación hemisferio sur:** finales septiembre en adelante NO anticiparse ansiedad + razón germinar temprano → pocas horas luz → floración prematura → verano aumenta horas → revegetación → estrés+menor producción + balance óptimo finales septiembre prevención+tamaño manejable
+  - **Problema esquejes indoor→outdoor:** esquejes indoor 18h luz vs exterior primavera <18h luz → floración prematura → revegetación verano + solución 1 óptimo sacar final verano horas luz disminuyendo simple sin equipamiento + solución 2 avanzado lámpara complemento +2h nocturnas 3 semanas noviembre mantener vegetativo
+- **knowledge/01-ciclo-vida/04-vegetativa.md:** (+28 líneas nueva sección "FOTOPERIODO VEGETATIVO")
+  - **Ciclo luz estándar indoor:** esquejes/clones 18h luz estándar O 20h luz más vigoroso + función mantener planta vegetativo indefinidamente
+  - **Revegetación técnica conservación genética:** planta floración → cambiar 20h luz → proceso dejar flores bajas+hojas → semanas → brotes nuevos → planta vegetativo → uso posterior clones O madre + cross-ref clonación detalles
+
+### Cambiado
+- **Distribución Tiers:** **5 S (9.6%) + 35 A (67.3%) + 12 B (23.1%) = 52 total**
+- **Videos procesados BD:** **53/143 (37.1%)**
+- **Videos técnicos integrados KB:** **49/143 (34.3%)** = 31 Noé + 18 Doña Huana
+
+### Notas
+Trigésimo primera fuente Noé. Tier A (22/25). **Guía doble revegetación** voluntaria (técnica salvador conservación genética olvidaste clones O murieron) + involuntaria (problema prevenir múltiples causas). Protocolo voluntario claro dejar flores bajas+20h luz→brotes nuevos→vegetativo. Revegetación involuntaria contaminación lumínica indoor (carpas NO herméticas+closets+habitaciones) + outdoor (calle+edificios) → floración interrumpida → estrés+menor producción. **Soluciones múltiples contextos:** indoor carpas herméticas+cerrar TODAS aberturas, outdoor ubicar oscuridad 12h garantizada, timing germinación finales septiembre hemisferio sur NO anticiparse, esquejes 2 opciones (final verano óptimo O lámpara complemento avanzado). Fotoperiodo crítico 12h oscuridad OBLIGATORIA. Troubleshooting directo planta NO florece→verificar contaminación eliminar luz. Consistente HOW-020+DH-011 revegetación clonación + HOW-001+HOW-009+HOW-026 timing hemisferio sur. Cross-reference clonación+outdoor+floración+vegetativa. Total +118 líneas 4 módulos.
+
+---
+
+## [1.0.25-modular] - 2025-11-12
+
+### Agregado
+- **[HOW-058]** Noé (House of Weed) - "Living Soil: Tips para Reutilizar Excedentes" - **Tier A (19/25)** ♻️ Primera fuente integración excedentes
+- **knowledge/04-nutricion/30-sustrato-living-soil.md:** (+75 líneas nueva sección "REUTILIZACIÓN EXCEDENTES - Construcción Suelo Vivo Exterior")
+  - **Concepto estrategia integral:** excedentes producción>consumo → reutilización TODO material vegetal construcción/mejora suelo jardín + resultado 2+ años suelo mejorado dramáticamente proceso documentado
+  - **Caso estudio transformación 2+ años:** estado inicial descuidado basura vidrio compactado seco → limpieza + agregado progresivo flores sobrantes+sustrato macetas+bioestimulantes+chips madera+compost+cascarilla arroz+restos plantas superficie → resultado cultivos exitosos múltiples weed+ají+tomate+cilantro+arveja+hierbabuena+más
+  - **Microbiología captura bosques:** microorganismos invisibles descomponen materia orgánica→nutrientes + captura bosques cercanos + reproducción técnicas específicas + integración jardín (⚠️ métodos NO detallados)
+  - **Fertilizantes KNF (Agricultura Natural Coreana):** flores/plantas frescas+azúcar morena fermentación→fertilizante líquido (⚠️ procedimiento NO detallado)
+  - **Fertilizantes YADAM (Agricultura Natural Simplificada):** agua blanda+mantillo+restos plantas + filosofía NO labrar suelo+dejar raíces+descomposición in situ+mínima intervención procesos naturales (⚠️ procedimiento NO detallado)
+  - **Compostaje:** compostera madera materiales restos comida+tallos+flores+plantas→compost abono orgánico (documentado canal personal video separado)
+  - **Estrategia integral 5 usos priorizados:** 1-construcción suelo enterrado/superficie 2-fertilizantes KNF/YADAM 3-compostaje 4-extracciones RSO/brownies 5-documentación contenido + filosofía devolver suelo lo no consumo→seguir cosechas
+  - **Contexto legal Chile:** prohibido venta/regalo/donación→todo producido queda casa→excedentes insumos orgánicos seguridad legal+aprovechamiento motivación vivir planta legal sin líos
+
+### Cambiado
+- **Distribución Tiers:** **5 S (9.8%) + 34 A (66.7%) + 12 B (23.5%) = 51 total**
+- **Videos procesados BD:** **52/143 (36.4%)**
+- **Videos técnicos integrados KB:** **48/143 (33.6%)** = 30 Noé + 18 Doña Huana
+
+### Notas
+Trigésima fuente Noé. Tier A (19/25). **PRIMER video proyecto integración excedentes→construcción suelo vivo múltiples técnicas** (enterrado+KNF+YADAM+compost) complementa HOW-016+HOW-025 Living Soil indoor aplicación exterior. Caso estudio 2+ años REAL suelo transformación visible múltiples cultivos exitosos. Filosofía integración sustentable circular cultivo→excedentes→suelo→cultivo. **LIMITACIÓN CRÍTICA:** menciona técnicas KNF/YADAM/captura microorganismos procedimientos NO detallados video (-2 calidad técnica -2 aplicabilidad). **VALOR ÚNICO:** concepto filosófico estrategia integral aprovechar TODO material vegetal 5 usos priorizados + contexto legal Chile transparente prohibición venta/regalo/donación solución práctica insumos orgánicos. Complementa HOW-016+HOW-025 Living Soil. Total +75 líneas 1 módulo.
+
+---
+
+## [1.0.24-modular] - 2025-11-12
+
+### Agregado
+- **[HOW-057]** Noé (House of Weed) - "Cómo Hice Aceite de Cannabis RSO I Paso a Paso" - **Tier A (24/25)** 🧪 Primer protocolo completo RSO
+- **knowledge/08-productos/11-extracciones.md:** (+117 líneas nueva sección "RSO - Protocolo Completo Paso a Paso")
+  - **Definición:** aceite denso muy concentrado café oscuro pegajoso extracción alcohol evaporación consumo sublingual terapéutico dosificación precisa alta concentración efectos prolongados poca cantidad
+  - **Rendimiento cuantificado:** regla 10g flores → ~1g aceite RSO útil planificación
+  - **Materiales necesarios:** 40g flores manicuradas + alcohol etílico 96° + olla arrocera + frascos + ventilador + gasa + jeringas/silicona + opcional coco/oliva (13 items detallados)
+  - **Seguridad CRÍTICA:** NO FUEGO alcohol inflamable + SIEMPRE electricidad arrocera + ventilado+ventilador obligatorio enfatizado múltiple
+  - **Proceso 7 pasos completo:** molienda→alcohol congelado→extracción 1 (3min)→extracción 2 (3min)→evaporación arrocera+ventilador→finalización baño maría→recolección jeringas/silicona
+  - **Aplicaciones:** sublingual terapéutico gotas + brownies ultra simples <$5 pre-preparado + dosificación titulación 1/4 trozo→ajustar
+
+### Cambiado
+- **Distribución Tiers:** **5 S (10.0%) + 33 A (66.0%) + 12 B (24.0%) = 50 total**
+- **Videos procesados BD:** **51/143 (35.7%)**
+- **Videos técnicos integrados KB:** **47/143 (32.9%)** = 29 Noé + 18 Doña Huana
+
+### Notas
+Vigésima novena fuente Noé. Tier A (24/25, **casi S**). **PRIMER protocolo paso a paso completo RSO casero proyecto** expande HOW-014 concepto a práctica reproducible. Protocolo 7 pasos COMPLETO + seguridad enfatizada NO fuego+ventilación CRÍTICO + rendimiento 10g→1g cuantificado + experimentación previa transparente errores baño maría contamina + receta brownies <$5 accesibilidad máxima + dosificación titulación pragmática. Tier casi S 24/25 -1 objetividad Weedletter PERO protocolo excepcional. Complementa HOW-014 concepto + HOW-056 aceite oliva + HOW-017 ghee panorama completo. Total +117 líneas 1 módulo.
+
+---
+
+## [1.0.23-modular] - 2025-11-12
+
+### Agregado
+- **[HOW-056]** Noé (House of Weed) - "Macerado en Aceite de Oliva Fácil" - **Tier A (21/25)** 🌿 Tercera fuente infusiones
+- **knowledge/08-productos/11-extracciones.md:** (+118 líneas nueva sección "MACERADO EN ACEITE DE OLIVA - Infusión Simple")
+  - **Receta base:** 500ml aceite oliva extra virgen + 20g flores → 3 pasos (descarboxilación+infusión+filtrado) + opcional ajo/ají/romero/tomillo sabor complejo PERO recomendación neutro versatilidad máxima sublingual noche sin sabores fuertes
+  - **Paso 1 descarboxilación:** precalentar 110°C × 15min + desmenuzar flores bandeja aluminio + calentamiento 110°C × 45min + mezclar 3 veces uniformidad evitar quemado + indicadores aroma intenso perfumado limón/naranja variedad similar vaporizadores baja temperatura + **TRUCO OLORES:** ajos simultáneos horno cubre aroma flores ideal departamentos espacios compartidos
+  - **Paso 2 infusión método caliente:** baño María + agregar flores descarboxiladas + tiempo mínimo 1.5h (90min) + opcional extender 3h mayor potencia **vs método frío:** mezclar aceite+flores lugar oscuro 7-14 días trade-off tiempo vs NO calor
+  - **Paso 3 filtrado almacenamiento:** enfriar temperatura manejable + filtrar opciones gasa farmacia/tela queso/filtro café/media mujer objetivo libre residuos deterioro rápido + almacenar frasco vidrio lugar oscuro preservar propiedades principio igual curado flores evitar luz degradación compuestos
+  - **Uso aplicaciones:** sublingual gotero medicinal/nocturno + culinario pan tostado/ensaladas/pizza/aliños **CRÍTICO NO cocinar/calentar** degradación compuestos activos reduce potencia+efectividad
+  - **Dosificación protocolo titulación:** variables calidad material+cantidad flores+tiempo infusión+sensibilidad personal → NO dosis definitiva titulación individual obligatoria + protocolo ascendente: 1 cucharadita microdosis ligera evaluar potencia → 2 cucharaditas efecto notorio dormir rápido somnolencia residual día siguiente → 3-4 cucharaditas mental activo duradero boca seca límite superior más=incómodo + contexto dosis receta 500ml+20g+1.5h
+  - **Ventajas vs mantequilla/ghee:** temperatura descarboxilación 110°C vs 120°C menor degradación + tiempo 45min igual + aplicabilidad más versátil gotero sublingual+culinario + conservación durabilidad NO especificada vs >1 año ghee + sabor neutro posible vs amarillo/dorado ghee
+  - **Ventajas vs solventes:** seguridad equipamiento mínimo cocina básica + costo aceite oliva común + complejidad 3 pasos simples + riesgo cero NO solventes inflamables
+
+### Cambiado
+- **Distribución Tiers:** **5 S (10.0%) + 32 A (64.0%) + 12 B (24.0%) + 1 otros (2.0%) = 50 total**
+- **Videos procesados DB:** **50/143 (35.0%)**
+- **Videos técnicos integrados KB:** **46/143 (32.2%)** = 28 Noé + 18 Doña Huana
+
+### Notas
+Vigésima octava fuente Noé (House of Weed). **Tercera fuente infusiones proyecto** (primera HOW-014 RSO alcohol, segunda HOW-017 ghee mantequilla clarificada, tercera HOW-056 aceite oliva) completa 08-productos/11-extracciones.md panorama infusiones grasas métodos alternativos. Tier A (21/25) justificado +4 credibilidad profesional establecido experiencia receta testeo -1 NO validación científica + +4 calidad protocolo completo temperaturas/tiempos precisos dosificación titulación indicadores claros -1 durabilidad NO especificada + +4 consistencia HOW-017 descarboxilación+infusión temperatura 110°C aceptable + +5 aplicabilidad equipamiento cocina básica filtrado múltiples opciones truco ajos + +4 objetividad transparencia sponsor Dynavap honestidad variabilidad -1 sesgo vaporizadores. **VALOR ÚNICO:** Temperatura descarboxilación 110°C MENOR vs 120°C ghee potencial menor degradación terpenos + truco ajos departamento VALIOSO práctico inmediato aplicabilidad espacios compartidos cobertura olor crítico + dosificación titulación ascendente 1-4 cucharaditas pragmática variables múltiples ejemplos efectos personales útil + método frío alternativo 7-14 días opción NO calor + versatilidad usos sublingual medicinal+culinario múltiples aplicaciones **LIMITACIONES:** Conservación durabilidad NO especificada información incompleta vs ghee >1 año comparación imposible + validación científica ausente receta casera empírica. Complementa HOW-014 RSO alcohol terapéutico + HOW-017 ghee mantequilla comestibles potentes. Total +118 líneas 1 módulo.
+
+---
+
 ## [1.0.22-modular] - 2025-11-11
 
 ### Agregado

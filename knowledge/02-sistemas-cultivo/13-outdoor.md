@@ -1,27 +1,43 @@
-# Sección 13: uoutdoor
+# Sección 13: Outdoor (Cultivo Exterior)
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-12
+> **Estado:** Ampliado con prevención revegetación + esquejes
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ⚡ Timing hemisférico + Control tamaño integrados
-> **Fuentes:** [HOW-001], [HOW-009]
-> **Prioridad:** Media
+> **Estado actual:** ⚡ Timing hemisférico + Control tamaño + Prevención revegetación integrados
+> **Fuentes:** [HOW-001], [HOW-009], [HOW-059]
+> **Prioridad:** Alta
 
-### Timing por Hemisferio
+## TIMING POR HEMISFERIO
 
-**Hemisferio Sur:** [HOW-001] [HOW-009]
-- Inicio: sept-ene | Sept=plantas gigantes | Dic-ene=plantas menores
-- Cosecha fem: abr-may-jun | Sativa hasta jun
+### Hemisferio Sur - Prevención Revegetación Involuntaria
 
-**Hemisferio Sur - Control Tamaño Plantas:** [HOW-009]
-- Inicio fin primavera (20 nov): altura <2m sin poda/training
+**Timing óptimo germinación (semillas):** [HOW-001] [HOW-009] [HOW-059]
+- **Recomendado:** finales septiembre en adelante
+- **Razón prevenir revegetación:**
+  - Germinar finales invierno/inicio primavera → pocas horas luz natural
+  - Plantas florecen prematuramente (horas luz insuficientes)
+  - Verano llega → horas luz aumentan → plantas revegetan
+  - **Consecuencia:** estrés + cambios hormonales + menor producción
+- **Solución:** NO anticiparse ansiedad → esperar finales septiembre
+
+**Control tamaño vs timing:** [HOW-009] [HOW-059]
+- **Sept:** plantas gigantes
+- **Finales septiembre:** balance óptimo (prevención revegetación + tamaño manejable)
+- **Dic-ene:** plantas menores
+- **Fin primavera (20 nov):** altura <2m sin poda/training
 - Ciclo completo: 4 meses exactos (ej: 20 nov→20 mar)
-- Comparación: inicio primavera O fin invierno→+2m fácilmente
 - Objetivo: evitar complicaciones tamaño excesivo
 
-**Hemisferio Norte:** [HOW-001]
+**Cosecha:** [HOW-001]
+- Fem: abr-may-jun
+- Sativa: hasta jun
+
+### Hemisferio Norte
+
+**Timing:** [HOW-001]
 - Inicio: mar-jun
+- **Principio:** aplicar misma lógica prevención revegetación (esperar primavera establecida)
 
 ### Temperatura y Condiciones
 
@@ -33,6 +49,28 @@
 **Óptimo Automáticas:** [HOW-001]
 - Pleno verano | Mayor luz disponible
 - Contexto ideal: balcón | departamento | espacios reducidos
+- **Ventaja:** NO revegetación (ciclo fijo independiente fotoperiodo)
+
+---
+
+## ESQUEJES INDOOR → OUTDOOR
+
+### Problema Revegetación Esquejes (Hemisferio Sur)
+
+**Contexto:** [HOW-026] [HOW-059]
+- **Indoor:** esquejes vegetativo 18h luz
+- **Exterior primavera:** <18h luz natural (12-13h noviembre)
+- **Consecuencia:** cambio brusco fotoperiodo → floración prematura plantas pequeñas → verano aumenta horas luz → revegetación
+
+### Soluciones Prevenir Revegetación Esquejes
+
+**Opción 1: Sacar final verano (óptimo):** [HOW-059]
+- **Timing:** final verano (horas luz disminuyendo)
+- **Ventaja:** plantas siguen floración natural sin revegetar
+- **Recomendación:** opción más simple sin equipamiento extra
+
+**Opción 2: Luz suplementaria gradual (avanzado):** [HOW-026] [HOW-059]
+- **Contexto:** quieres sacar esquejes primavera PERO mantener vegetativo
 
 ### Adaptación Interior→Exterior (Hemisferio Sur)
 

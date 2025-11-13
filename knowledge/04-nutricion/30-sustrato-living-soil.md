@@ -1,11 +1,11 @@
 # Sección 30: Sustrato Living Soil (Suelo Vivo)
 
-> **Última actualización:** 2025-11-10
-> **Estado:** Iniciado con receta completa + reutilización
+> **Última actualización:** 2025-11-12
+> **Estado:** Ampliado con reutilización excedentes exterior
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ INICIADO - Receta completa Living Soil + reutilización sustrato infinito
-> **Fuentes:** [HOW-016], [HOW-025]
+> **Estado actual:** ✅ AMPLIADO - Receta Living Soil + reutilización sustrato + excedentes exterior KNF/YADAM/compost
+> **Fuentes:** [HOW-016], [HOW-025], [HOW-058]
 > **Prioridad:** Alta - Metodología orgánica sustentable alternativa fertilizantes embotellados
 
 ## LIVING SOIL - Receta Completa Suelo Vivo
@@ -183,3 +183,79 @@
 - Living Soil = inversión tiempo inicial (preparar suelo) → ahorro tiempo enorme posterior (solo regar agua)
 - Reutilización = sustentabilidad económica + ecológica largo plazo
 - Calidad flores Living Soil reportada consistentemente superior vs sintéticos (anecdótico pero recurrente comunidad cultivadores orgánicos)
+
+---
+
+## REUTILIZACIÓN EXCEDENTES - Construcción Suelo Vivo Exterior
+
+### Concepto Estrategia Integral
+
+**Contexto:** [HOW-058]
+- **Problema:** excedentes cultivo producción > consumo
+- **Solución:** reutilizar TODO material vegetal → construcción/mejora suelo jardín
+- **Resultado:** suelo mejorado 2+ años proceso documentado
+
+### Caso Estudio - Transformación Suelo 2+ Años
+
+**Estado inicial:** [HOW-058]
+- Descuidado: basura, vidrio, compactado, seco, mal estado
+- Primera acción: limpieza completa
+
+**Materiales agregados:** [HOW-058]
+- Flores sobrantes: tiradas superficie O enterradas
+- Sustrato macetas: reutilizado
+- Bioestimulantes orgánicos
+- Chips madera + compost + cascarilla arroz
+- Restos plantas: superficie → integración natural
+
+**Resultado 2+ años:** [HOW-058]
+- Suelo mejorado dramáticamente
+- Cultivos exitosos: weed + ají + tomate + cilantro + arveja + hierbabuena +más
+
+### Microbiología - Captura Bosques
+
+**Concepto:** [HOW-058]
+- Microorganismos invisibles → descomponen materia orgánica → nutrientes
+- Captura bosques cercanos (⚠️ método NO detallado)
+- Reproducción técnicas específicas (⚠️ NO detallado)
+
+### Fertilizantes Fermentados
+
+**KNF (Agricultura Natural Coreana):** [HOW-058]
+- Material: flores/plantas frescas + azúcar morena
+- Proceso: fermentación (⚠️ NO detallado)
+
+**YADAM (Agricultura Natural Simplificada):** [HOW-058]
+- Ingredientes: agua blanda + mantillo + restos plantas
+- Filosofía: NO labrar + dejar raíces + descomposición in situ
+- (⚠️ Procedimiento NO detallado)
+
+### Compostaje
+
+**Estructura:** [HOW-058]
+- Compostera madera (video canal personal)
+- Materiales: restos comida + tallos + flores + plantas
+- Producto: compost abono orgánico
+
+### Estrategia Integral Usos
+
+**Priorización excedentes:** [HOW-058]
+1. Construcción suelo (enterrado/superficie)
+2. Fertilizantes KNF/YADAM
+3. Compostaje
+4. Extracciones RSO/brownies
+5. Documentación contenido
+
+**Filosofía:** "Devolver al suelo lo que no consumo"
+
+### Contexto Legal Chile
+
+**Limitación:** [HOW-058]
+- Prohibido: venta/regalo/donación
+- Solución: excedentes → insumos orgánicos (legal + aprovechamiento)
+
+### Limitaciones Información
+
+**⚠️ NO detallado:** captura microorganismos, recetas KNF/YADAM completas, construcción compostera
+
+**✅ Detallado:** concepto filosófico, lista materiales, resultado 2+ años, principios YADAM

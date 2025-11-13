@@ -1,11 +1,11 @@
 # Sección 31: Clonación
 
-> **Última actualización:** 2025-11-10
+> **Última actualización:** 2025-11-12
 > **Estado:** TIER S - Protocolo profesional completo
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ TIER S COMPLETO - Protocolo completo parámetros + troubleshooting + revegetación
-> **Fuentes:** [HOW-020], [DH-011]
+> **Estado actual:** ✅ TIER S COMPLETO - Protocolo completo parámetros + troubleshooting + revegetación post-cosecha
+> **Fuentes:** [HOW-020], [DH-011], [HOW-059]
 > **Prioridad:** Alta cumplida - TERCER video Tier S proyecto
 
 ## FUNDAMENTOS CLONACIÓN CANNABIS
@@ -238,7 +238,7 @@
 
 ### Consideraciones Especiales
 
-**Esquejes floración (revegetación):** [HOW-020]
+**Esquejes floración (revegetación):** [HOW-020] [HOW-059]
 - **Posible** PERO NO recomendado
 - **Desventajas:**
   - Mayor tiempo enraizamiento (3-4 semanas vs 1-2 vegetativo)
@@ -246,6 +246,16 @@
   - Mayor probabilidad moho
   - Más complejo principiantes
 - **Cuándo usar:** única opción conservar genética floración ya iniciada
+
+**Revegetación post-cosecha - Técnica alternativa conservación:** [HOW-059]
+- **Contexto:** olvidaste sacar clones O clones murieron PERO quieres conservar genética
+- **Método:**
+  1. Al cosechar: dejar flores bajas + hojas
+  2. Cambiar fotoperiodo: 20h luz (óptimo) O 18h luz
+  3. Esperar: semanas → brotes nuevos + hojas particulares
+  4. Resultado: planta vuelve vegetativo
+- **Uso posterior:** sacar nuevos clones O mantener planta madre
+- **Ventaja:** técnica "salvador" cuando NO hay otra opción conservar genética
 
 **Automáticas - NO CLONABLES:** [HOW-020]
 - **Razón:** ciclo vida definido genéticamente (~3 meses)
