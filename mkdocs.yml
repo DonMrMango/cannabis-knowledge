@@ -1,13 +1,13 @@
 site_name: Cannabis Knowledge Base
 site_url: https://donmrmango.github.io/cannabis-knowledge
-site_description: Base de conocimiento modular sobre cultivo de cannabis - 32 videos procesados (35.6%)
+site_description: Base de conocimiento modular sobre cultivo de cannabis - 54 videos procesados (37.8%)
 site_author: damo
 
 repo_name: DonMrMango/cannabis-knowledge
 repo_url: https://github.com/DonMrMango/cannabis-knowledge
 edit_uri: edit/main/
 
-docs_dir: docs
+docs_dir: .
 
 theme:
   name: material
