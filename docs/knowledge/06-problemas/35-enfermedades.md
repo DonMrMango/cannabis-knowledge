@@ -1,12 +1,12 @@
 # Sección 35: uenfermedades
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Botrytis exterior alta humedad
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ COMPLETADA - Hongos cannabis identificación + prevención + combate + salud pública
-> **Fuentes:** [HOW-013]
-> **Prioridad:** Alta cumplida - Consumo responsable integrado
+> **Estado actual:** ✅ EXPANDIDO - Hongos identificación + prevención + Botrytis exterior + selección varietal
+> **Fuentes:** [HOW-013], [HOW-038]
+> **Prioridad:** Alta cumplida - Consumo responsable + prevención específica contexto
 
 ### Tipos Hongos Cannabis - Identificación Visual
 
@@ -98,6 +98,125 @@
 - **Fundamento:** factores climáticos NO controlables→precaución obligatoria
 - **Hongo detectado→extirpar generoso:** esporas propagan más allá visible
 - **Realidad cultivo exterior:** "mayoría cultivadores años han tenido problemas hongos"
+
+---
+
+## BOTRYTIS EXTERIOR - Contexto Alta Humedad
+
+### Factor Crítico Zonas Costeras
+
+**Condiciones ambientales desfavorables:** [HOW-038]
+- **Ubicación:** ciudad costera (ejemplo autor)
+- **Época cosecha:** temperaturas ↓ + humedad ↑
+- **Mañanas:** neblina + lloviznos frecuentes
+- **Problema:** semanas finales floración = período crítico hongos
+
+**Realidad cultivador cosecha exterior:** [HOW-038]
+- "Mayoría cultivos exterior ha habido presencia Botrytis"
+- Variabilidad: algunos más + otros menos
+- **Convivencia obligada:** aprender convivir factor ambiental
+
+### Diagnóstico Visual Temprano
+
+**Indicadores críticos Botrytis inicio:** [HOW-038]
+- **Ubicación observar:** hojas entre flores
+- **Síntoma 1 - Color:** café oscuro → negro progresivo
+- **Síntoma 2 - Textura:** arrugadas + débiles
+- **Interpretación:** indicio claro hongo interior flor
+- **Diferencia vs senescencia normal:** hojas amarillas secas caen natural (NO café-negro arrugadas)
+
+**Acción diagnóstico positivo:** [HOW-038]
+- Abrir flor afectada
+- Quitar material malo generoso (más allá visible)
+- **URGENTE:** cosechar prontamente evitar propagación más plantas
+
+### Prevención Floración Avanzada
+
+**Estrategias minimizar riesgo:** [HOW-038]
+
+**1. Timing cosecha:** [HOW-038]
+- Evitar cosechar muy tarde (mayor exposición condiciones húmedas)
+- Balance: madurez óptima vs factores ambientales adversos
+
+**2. Manejo riego:** [HOW-038]
+- Evitar riego muy frecuente
+- **Timing crítico:** regar temprano mañana (NO noche)
+- Razón: noche = máxima humedad ambiente → riesgo mayor
+
+**3. Suspensión foliares:** [HOW-038]
+- **NO usar productos foliares ningún tipo** floración avanzada
+- Razón: cualquier humedad flores = desencadenante potencial hongos
+- Aplicación preventivos foliares SOLO vegetativo + floración temprana
+
+**4. Lluvia decisión cosecha:** [HOW-038]
+- Plantas índicas: preferir cortar antes lluvia (NO arriesgar)
+- Plantas sativas: menor riesgo estructura abierta (evaluar caso-caso)
+
+### Selección Varietal Zonas Húmedas
+
+**Preferencia sativas contexto alta humedad:** [HOW-038]
+- **Recomendación:** cultivadores condiciones similares autor (costa, HR alta)
+- **Razón:** flores más abiertas vs índicas compactas
+
+**Comparación estructura floral:** [HOW-038]
+
+*Variedades Sativas:*
+- Estructura flores: abierta + aireada
+- Circulación aire: favorable
+- Retención humedad: menor
+- Incidencia Botrytis: menos frecuente
+
+*Variedades Índica:*
+- Estructura flores: compacta + apretada + densa
+- Circulación aire: difícil interior flores
+- Retención humedad: mayor
+- Incidencia Botrytis: más probable desarrollo
+
+**Aplicabilidad:** [HOW-038]
+- Hongos pueden afectar ambas (sativas + índicas)
+- Diferencia: probabilidad + severidad mayor índicas contexto húmedo
+
+### Caso Real: Wally 10 (Índica Densa)
+
+**Contexto cultivo:** [HOW-038]
+- **Variedad:** Wally 10 (Heysi) - MUY índica
+- **Características:** super densa + voluminosa + resinosa
+- **Preventivos aplicados:**
+  - Azufre (floración temprana)
+  - Microorganismos durante ciclo
+  - Riegos cuidadosos
+- **Resultado:** presencia Botrytis igualmente variedad especialmente afectada
+
+**Error timing cosecha:** [HOW-038]
+- Autor debió cosechar mucho antes
+- Circunstancias personales (viaje) → imposible cosechar tiempo
+- **Consecuencia:** merma MUY importante variedad
+
+**Lección caso estudio:** [HOW-038]
+- Preventivos ayudan PERO NO garantizan protección completa
+- Índicas densas + alta humedad = riesgo persistente
+- Timing cosecha flexible crítico (NO rigidez puede costar cosecha)
+- Preferir sativas zonas costeras húmedas
+
+### Productos Preventivos Limitaciones
+
+**Azufre preventivo:** [HOW-038]
+- **Timing aplicación:** primeras semanas floración
+- **Función:** controlar hongos preventivo
+- **Limitación floración avanzada:**
+  - Hongos aparecen normalmente floración avanzada
+  - Fase avanzada: preferir NO usar productos (afectan sabor)
+- **Experiencia autor:** azufre usado + igualmente Botrytis apareció
+
+**Microorganismos beneficiosos:** [HOW-038]
+- **Aplicación:** durante ciclo completo
+- **Función:** protección biológica raíces + follaje
+- **Limitación:** NO garantía 100% prevención (Wally 10 ejemplo)
+
+**Conclusión productos:** [HOW-038]
+- Preventivos = herramientas útiles PERO NO solución absoluta
+- Factores ambientales dominan (humedad alta contexto cosecha)
+- Estrategia integral: preventivos + selección varietal + timing cosecha + manejo riego
 
 ### Prevención Hongos - Secado/Curado
 
@@ -218,5 +337,84 @@
 - Material comprado/cultivado con hongos: desechar completo
 - NO arriesgar salud
 - Oportunidades futuras existen | salud NO reemplazable
+
+---
+
+## ROYA - Hongo Foliar Floración
+
+### Síntomas Identificación
+
+**Aspecto visual:** [DH-103]
+- **Manchitas raras hojas:** puntitos característicos
+- **Forma:** puntos dispersos superficie hoja
+- **Progresión:** hongo "va comiendo pedazo hoja"
+- **Timing aparición:** floración (momento crítico engorde cogollos)
+
+**Efecto planta:** [DH-103]
+- **Daño hoja:** destruye tejido foliar
+- **Consecuencia fotosíntesis:** quita posibilidad hacer fotosíntesis
+- **Impacto cogollos:** NO engordan mismo tamaño esperado
+- **Gravedad:** crítico si aparece floración fase engorde
+
+### Causas Estrés Planta
+
+**Factores predisponentes:** [DH-103]
+1. **Podas excesivas:** estrés continuo debilita defensas
+2. **Agua agotada:** períodos sin agua suficiente
+3. **Pruebas técnicas:** experimentación múltiple simultánea
+4. **Temperatura/humedad:** NO controladas adecuadamente
+
+**Principio fundamental:** [DH-103]
+- **Planta resana:** MUY difícil ataques hongos
+- **Planta estresada:** defensas ↓ → susceptibilidad ↑
+- **Prevención:** control ambiental + evitar estrés excesivo
+
+### Tratamiento Químico Floración
+
+**Producto plantas comestibles:** [DH-103]
+- **Nombre:** Mamboretá Foli (Argentina)
+- **Tipo:** químico tiempo carencia certificado entes gubernamentales
+- **Condición CRÍTICA:** verificar tiempo carencia >20-30 días antes cosecha
+
+**Protocolo aplicación:** [DH-103]
+1. **Consulta experto:** verificar viabilidad timing cosecha
+2. **Aplicación:** 1 vez semana × 2-3 semanas
+3. **Espera observación:** 1 semana entre aplicaciones
+4. **Ajuste cosecha:** esperar tiempo carencia completo + precaución
+
+**Tiempo carencia concepto:** [DH-103]
+- **Definición:** período espera después aplicación química antes consumo seguro
+- **Fundamento:** fitotoxicidad desaparece + residuos eliminados
+- **Certificación:** entes gubernamentales validan seguridad consumo humano
+- **Ejemplo:** "20 días NO quedan restos sirve consumo humano"
+
+**Truco dosificación legal:** [DH-103]
+- **Problema:** empresas NO pueden especificar dosificación cannabis folletos ilegalidad
+- **Solución:** usar planta comestible similar folleto producto
+- **Ejemplo roya:** usar dosificación **uva** como referencia
+- **Proceso:** identificar hongo → buscar planta comestible similar → aplicar dosis esa planta
+
+### Prevención Roya
+
+**Control ambiental:** [DH-103]
+- **Humedad:** controlar HR evitar exceso
+- **Temperatura:** mantener rango adecuado
+- **Ventilación:** circulación aire adecuada
+- **Fundamento:** factores ambientales controlados = planta resana
+
+**Preventivos orgánicos:** [DH-103]
+- **Producto:** Vito Trap Mamboretá bacilos subtilis
+- **Frecuencia:** cada 10 días uso preventivo
+- **Función:** capa protectora + estimula defensas planta tipo vacuna
+- **Ventaja:** NO químico + estimula sistema inmune planta
+- **Limitación:** preventivo (NO curativo problema ya instalado)
+
+**Manejo estrés:** [DH-103]
+- **Evitar:** podas excesivas continuas
+- **Evitar:** agua agotada períodos largos
+- **Evitar:** pruebas técnicas múltiples simultáneas
+- **Objetivo:** planta resana fuerte = defensa natural
+
+**Relacionado:** Ver [15-hidroponia.md] caso completo roya floración hidropónico + troubleshooting detallado
 
 ---

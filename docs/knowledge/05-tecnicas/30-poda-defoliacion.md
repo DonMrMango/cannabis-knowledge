@@ -1,11 +1,11 @@
-# Sección 30: upoda defoliacion
+# Sección 30: Poda y Defoliación
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Mainlining cross-reference
 > **Fuentes:** Ver references.md
 
-> **Estado actual:** ✅ Completo - Técnicas indoor/outdoor consolidadas
-> **Fuentes:** [HOW-001], [HOW-002], [HOW-009]
+> **Estado actual:** ✅ EXPANDIDO - Técnicas indoor/outdoor + Mainlining avanzado
+> **Fuentes:** [HOW-001], [HOW-002], [HOW-009], [HOW-055]
 > **Prioridad:** Media-Alta
 
 ### Poda de Bajos (Lollipopping)
@@ -37,5 +37,26 @@
 - ✅ Poda de bajos: permitida [HOW-002]
 - Ciclo corto (~3 meses)→sin tiempo recuperación podas fuertes
 - Alternativa podas: usar LST (Low Stress Training)
+
+### Poda Apical (Topping)
+
+**Concepto básico:** [HOW-001] [HOW-055]
+- Corte brote apical principal → ramificación 2 colas
+- Aplicable: feminizadas fotoperiodo
+- Nivel: intermedio
+
+**Mainlining (Apical Múltiple Avanzado):** [HOW-055]
+- **Definición:** 7+ podas apicales sucesivas → 8+ colas principales iguales
+- **Resultado:** planta baja estructura homogénea múltiples flores parejas
+- **Diferencia vs apical simple:** 1 poda → 2 colas | 7 podas → 8+ colas
+- **Nivel requerido:** avanzado (dominar apical + FIM + LST primero)
+- **Estrés:** alto (múltiples cortes acumulados)
+- **⚠️ NO automáticas:** ciclo corto sin recuperación posible
+- **Relacionado:** Ver 34-mainlining.md protocolo completo 7 podas
+
+**Cross-reference:**
+- **34-mainlining.md:** Protocolo completo poda apical múltiple avanzada
+- **30-training.md:** LST alternativa sin cortes
+- **33-sog-scrog.md:** Técnicas espacios pequeños
 
 ---

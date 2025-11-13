@@ -1,12 +1,14 @@
-# Sección 04: uvegetativa
+# Sección 04: Vegetativa
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-12
+> **Estado:** Ampliado con fotoperiodo + revegetación
 > **Fuentes:** Ver referencias.md
 
-> **Estado actual:** ⚡ Protocolos consolidados
-> **Fuentes:** [HOW-001], [HOW-002]
+> **Estado actual:** ⚡ Protocolos consolidados + Fotoperiodo + Revegetación
+> **Fuentes:** [HOW-001], [HOW-002], [HOW-059]
 > **Prioridad:** Alta
+
+## FASE VEGETATIVA
 
 ### Fertilización - Inicio
 
@@ -22,9 +24,34 @@
 - Uso: todo el período vegetativo
 - Requiere fertilización externa desde semana 3
 
+---
+
+## FOTOPERIODO VEGETATIVO
+
+### Ciclo Luz Estándar
+
+**Indoor:** [HOW-059]
+- **Esquejes/clones:** 18h luz (estándar)
+- **Alternativa:** 20h luz (más vigoroso)
+- **Función:** mantener planta vegetativo indefinidamente
+
+### Revegetación - Reversión Floración→Vegetativo
+
+**Técnica conservación genética:** [HOW-059]
+- **Método:** planta floración → cambiar fotoperiodo 20h luz (o 18h)
+- **Aplicación:** conservar genética cuando NO hay clones
+- **Proceso:**
+  1. Post-cosecha: dejar flores bajas + hojas
+  2. Cambiar: 12h luz (floración) → 20h luz (vegetativo)
+  3. Esperar: semanas → brotes nuevos + hojas particulares
+  4. Resultado: planta vuelve vegetativo
+- **Uso posterior:** sacar clones O mantener madre
+- **Ver detalles:** [05-tecnicas/31-clonacion.md] sección revegetación
+
+---
+
 **Contenido esperado (pendiente más fuentes):**
 - Duración típica por tipo genético
-- Ciclo luz (18/6, 20/4, 24/0)
 - Espectro lumínico óptimo
 - Técnicas de training aplicables
 - Indicadores de salud

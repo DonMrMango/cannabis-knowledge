@@ -1,11 +1,11 @@
-# Sección 07: umaduracion cosecha
+# Sección 07: Maduración y Cosecha
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Timing cosecha 3 indicadores + **ESTUDIO CIENTÍFICO FLUSH RX Green Tech**
 > **Fuentes:** Ver referencias.md
 
-> **Estado actual:** ✅ EXPANDIDA - 3 métodos punto corte + timing subjetivo efecto + test ramita simple
-> **Fuentes:** [HOW-004], [DH-010]
+> **Estado actual:** ✅ EXPANDIDO - 3 métodos punto corte + timing tricomas decisor + preparación exterior + **ESTUDIO FLUSH RX Green Tech (Tier A)** contradicción práctica tradicional vs evidencia científica
+> **Fuentes:** [HOW-004], [DH-010], [HOW-026], [HOW-038], [DH-085]
 > **Prioridad:** Crítica cumplida
 
 ### Pre-Cosecha - Preparación
@@ -117,5 +117,212 @@
   - 100g húmedo → 30g seco
   - 1,000g (1kg) húmedo → 300g seco
 - Aplicación: interpretar descripciones semillas ("producción 1kg" = 300g fumable)
+
+### Preparación Pre-Cosecha Exterior
+
+**Timing suspensión riego:** [HOW-026]
+- **Esperar 2-3 días post último riego** antes cosechar
+- **NO cosechar sustrato húmedo recién regado**
+
+**Razones espera críticas:** [HOW-026]
+
+**1. Facilita trabajo físico:** [HOW-026]
+- Macetas más livianas → fácil manipular mover
+- Importante exterior macetas grandes (20L+) peso significativo
+- Reducción esfuerzo físico proceso cosecha
+
+**2. Reduce humedad flores:** [HOW-026]
+- **Problema:** flores húmedas recién regadas → más humedad tejidos
+- **Riesgo:** moho durante secado (humedad excesiva ambiente cerrado)
+- **Prevención:** 2-3 días secado natural sustrato → flores menos húmedas inicio secado
+- **Resultado:** secado más seguro controlado
+
+**Técnica corte facilitada:** [HOW-026]
+- **Paso 1:** cortar hojas grandes planta viva
+  - Plantas aún tierra/maceta → acceso fácil
+  - "Pelar" planta viva más rápido vs post-corte
+- **Paso 2:** cortar ramas después pelar
+  - Planta ya sin hojas grandes → manejo limpio
+  - Facilita enormemente trabajo manicura posterior
+
+**Aplicación:** [HOW-026]
+- Técnica especialmente útil exterior plantas grandes voluminosas
+- Caso HOW-026: Guava + Chaxila grandes → técnica crítica eficiencia
+
+### Timing Cosecha - 3 Indicadores Decisión
+
+**Contexto aplicación:** [HOW-038]
+- Ideal: esperar punto óptimo maduración planta
+- **Realidad:** factores ambientales (hongos humedad alta) pueden obligar apurar corte
+- Decisión: balance madurez vs riesgos ambientales
+
+**Indicador 1 - Engorde Flor:** [HOW-038]
+- Observación: flores empiezan hincharse + llenar resina
+- Progresión: volumen aumenta + densidad aumenta
+- Señal: desarrollo estructural completo
+
+**Indicador 2 - Color Estigmas (Pistilos):** [HOW-038]
+- Estado inicial: pelitos blancos
+- Progresión: blancos → marrón progresivo
+- Cambio gradual visible fácilmente sin lupa
+
+**Indicador 3 - Tricomas (DECISOR):** [HOW-038]
+- **Herramienta:** lupa/microscopio (necesario ver detalle)
+- **Forma óptima:** champiñón al momento cosecha
+- **Tonalidad clave:** bien formados + blanquecina + ~20% ámbar
+- **Punto ideal:** mayoría blanquecinos lechosos + 20% aproximadamente ámbar
+- **Función:** máxima concentración cannabinoides activos
+- **Timing:** medio entre inicio maduración (producción) + final ciclo (degradación)
+- **DECISOR FINAL:** tricomas determinan momento vs otros indicadores complementarios
+
+**Referencia Breeder:** [HOW-038]
+- Productor semillas indica timing estimado (semanas floración)
+- Utilidad: interesante mirar PERO NO completamente exacto
+- **Herramienta mejor:** observación directa cultivador siempre superior timing breeder
+
+**Relacionado:**
+- DH-010: tricomas mayoría blancos lechosos + "alguno que otro ámbar" (NO especifica %)
+- HOW-038: más preciso ~20% ámbar punto óptimo
+
+---
+
+### Preparación Pre-Corte - Suspensión Riego
+
+**Timing suspensión riego:** [HOW-038]
+- Determinar momento cosecha (base tricomas/factores ambientales)
+- **Suspender riego:** 4-7 días antes cosecha
+- Razón: flores pierden humedad previo corte
+
+**vs Técnicas NO Efectivas (Experiencia Noé):** [HOW-038]
+- **Oscuridad 48-72h:** probado varias ocasiones → NO diferencia mayor
+- **Hielo producir más resina:** probado varias ocasiones → NO diferencia mayor
+- **Hipótesis hielo:** estrés → más resina PERO experiencia práctica NO valida
+- **Debate comunidad:** cultivadores divididos (algunos afirman otros niegan)
+- **Postura Noé:** experiencias propias múltiples cultivos NO observa diferencia mayor
+
+---
+
+### Métodos Cosecha por Tamaño Planta
+
+**Planta Completa (Automáticas):** [HOW-038]
+- Timing: maduración promedio general
+- Técnica: cortar completa una vez
+- Proceso: colgar planta entera
+
+**Cosecha Escalonada (Exterior Grandes):** [HOW-038]
+- Razón: plantas grandes NO maduran uniforme
+- **Primera cosecha:** cortar toda planta O mitad superior
+- **Segunda cosecha (opcional):** esperar 1-2 semanas
+  - Objetivo: flores bajas reciben más luz → desarrollo adicional
+  - Aplicación: plantas grandes exterior especialmente
+
+**Relacionado:** HOW-004 cosecha escalonada similar (flores superiores→inferiores)
+
+---
+
+### Manicura Pre-Corte
+
+**Técnica plantas vivas:** [HOW-038]
+- **Paso 1:** antes cortar planta → sacar hojas más grandes
+- **Ventaja:** planta aún tierra/maceta fácil acceso
+- **Paso 2:** después defoliación → cortar planta completa O mitad
+
+---
+
+---
+
+## LAVADO RAÍCES (FLUSH) - Debate Científico
+
+### Estudio RX Green Technology - Metodología
+
+**Institución:** [DH-085]
+- Empresa: RX Green Technology (Denver, Colorado, USA)
+- Tipo: empresa fertilizantes profesional cultivos comerciales California
+- Motivación: directora tecnología → información insuficiente validar hipótesis flush tradicionales
+
+**Diseño experimental:** [DH-085]
+- **Genética única:** Cherry Diesel (estandarizar variables genéticas)
+- **Productor:** cliente empresa cultivador comercial escala industrial
+- **Grupos control 4:**
+  1. 14 días flush pre-cosecha
+  2. 10 días flush pre-cosecha
+  3. 7 días flush pre-cosecha
+  4. 0 días flush (fertilización hasta cosecha) = control
+- **Evaluación:** Flush Event California cata ciega comunidad cannabis
+- **Criterios:** sabor + humo + calidad ceniza (puntuación cuantitativa)
+
+### Resultados Estudio
+
+**Conclusión principal:** [DH-085]
+- **Diferencia significativa detectada:** NINGUNA entre 4 grupos
+- **Sabor:** NO diferencia perceptible evaluadores
+- **Humo:** NO diferencia suavidad/aspereza
+- **Ceniza:** NO diferencia color/textura
+- **Interpretación empresa:** flush "ni fu ni fa" (NO beneficio detectable)
+
+**Limitaciones estudio:** [DH-085]
+- Genética única (Cherry Diesel)
+- Productor único (condiciones específicas)
+- Sustrato/fertilizante NO especificado
+- EC inicial pre-flush NO documentado
+- Tamaño muestra NO especificado
+
+### Técnicas Flush Tradicionales
+
+**Opción 1 - Método volumen estándar:** [DH-085]
+- Protocolo: 3x volumen maceta solo agua
+- Ejemplo: maceta 10L → 30L agua total
+- Aplicación: gradual lento permitir absorción
+
+**Opción 2 - Método canilla continuo:** [DH-085]
+- Proceso: regar continuo hasta agua drenaje clara
+- Indicador: agua sale sin color amarillo/marrón
+- Ventaja: simplicidad accesibilidad
+
+**Hipótesis tradicionales flush:** [DH-085]
+- Mejora aromas (terpenos mayor intensidad)
+- Mejora sabor (menos áspero)
+- Mejora ceniza (blanca vs negra)
+- Reduce azúcares residuales
+- **Estado:** creencias comunidad PERO evidencia científica limitada
+
+### Interpretación Cultivador
+
+**Postura pragmática experimental:** [DH-085]
+- **Recomendación:** probar ambos métodos plantas iguales
+- **Filosofía:** preferencias individuales variables
+- **Protocolo sugerido:**
+  1. Cultivar ≥2 plantas genética idéntica
+  2. Planta A: flush 14 días
+  3. Planta B: fertilización hasta cosecha
+  4. Secar + curar protocolo idéntico
+  5. Comparación personal: sabor + humo + ceniza
+  6. Documentar preferencia
+
+**Hipótesis sesgo comercial:** [DH-085]
+- Marcas venden líquidos flush premium
+- Pregunta: ¿mejora real O estrategia venta?
+- Imposible determinar sin experimentación
+
+**Dependencia secado-curado:** [DH-085]
+- **Advertencia:** "porro va a estar bueno si lo secan bien y curan bien"
+- **Implicación:** flush puede ser MENOS crítico que secado/curado
+- **Priorización:** secado + curado > flush (impacto calidad final)
+
+### Consenso Actual Conocimiento
+
+**Estado debate flush:** [DH-085]
+- **Práctica tradicional:** ampliamente extendida comunidad décadas
+- **Evidencia científica:** estudio RX Green Tech sugiere beneficio NO detectable
+- **Limitación:** estudio único (requiere replicación múltiples genéticas)
+
+**Postura KB:** [DH-085]
+- ⚠️ **Contradicción registrada:** práctica tradicional [HOW-004] vs evidencia científica [DH-085]
+- ✅ **Recomendación:** experimentación personal determinar preferencia
+- ⚠️ **Pendiente:** validación cruzada fuentes Tier S (literatura peer-reviewed)
+
+**Relacionado:**
+- **28-fertilizacion.md:** acumulación sales sustrato
+- **08-secado.md + 09-curado.md:** impacto mayor calidad final
 
 ---

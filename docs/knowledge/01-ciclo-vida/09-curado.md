@@ -1,11 +1,11 @@
-# Sección 09: ucurado
+# Sección 09: Curado
 
-> **Última actualización:** 2025-11-09
-> **Estado:** Migrado desde monolítico
+> **Última actualización:** 2025-11-11
+> **Estado:** Expandido - Contenedores comparación + conservación largo plazo
 > **Fuentes:** Ver referencias.md
 
-> **Estado actual:** ✅ EXPANDIDA - Protocolo burping bifásico + indicadores calidad final accesibles
-> **Fuentes:** [HOW-004], [HOW-010], [DH-010]
+> **Estado actual:** ✅ EXPANDIDO - Protocolo completo + contenedores pros/contras + conservación estrategias
+> **Fuentes:** [HOW-004], [HOW-010], [DH-010], [HOW-038], [DH-109]
 > **Prioridad:** Crítica cumplida
 
 ### Impacto del Tiempo en Calidad Final
@@ -135,5 +135,244 @@
 **Secado lento + curado largo = máxima calidad:** [HOW-004]
 - Combinación perfecta: extraer mejor calidad posible de meses cultivo
 - Requisito: paciencia
+
+---
+
+## CONTENEDORES CURADO - Comparación Detallada
+
+### Frascos Vidrio Conserveros
+
+**Características:** [HOW-038]
+- Tipo: frascos conserveros típicos
+- Material: vidrio
+- Ventajas:
+  - Económicos
+  - NO dejan aroma flores (neutral)
+  - Preferencia Noé
+- Desventajas:
+  - Relativamente pequeños capacidad
+  - NO apilables fácilmente (almacenamiento ineficiente)
+
+**Aplicación:** [HOW-038]
+- Ideal: cosechas pequeñas-medianas
+- Óptimo calidad conservación (HOW-004 + HOW-038 coinciden)
+
+### Tuppers Plástico
+
+**Características:** [HOW-038]
+- Material: plástico rígido
+- Cierre: hermético (crítico mantener humedad)
+- Ventajas:
+  - Prácticos cosechas voluminosas
+  - Cómodos flores grandes intactas (fotografía/video)
+  - Apilables almacenamiento eficiente
+- Desventajas:
+  - Microplásticos: conservación MUY prolongada → desprendimiento material potencial
+  - Transferencia aroma leve posible tiempo prolongado
+
+**Aplicación:** [HOW-038]
+- Ideal: cosechas grandes
+- Balance: practicidad vs calidad óptima
+- Relacionado: HOW-004 plástico opción práctica (coincide)
+
+### Acero Inoxidable
+
+**Características:** [HOW-038]
+- Material: acero inoxidable
+- Ventajas:
+  - Contenedores mejores calidad
+  - Durabilidad máxima
+  - NO microplásticos
+  - NO transferencia aroma
+- Desventajas:
+  - **Precio:** alto costo principal limitación
+  - Volumen pequeño: viable cosechas bajas
+  - Volumen grande: inviable económicamente cultivadores producción alta
+
+**Aplicación:** [HOW-038]
+- Ideal: cultivadores cosecha pequeña + presupuesto disponible
+- Relacionado: HOW-004 acero opción buena (coincide)
+
+### Bolsas Ziplock (NO RECOMENDADO)
+
+**Problema contenedor:** [HOW-038]
+- **Tricomas:** compresión → tricomas caen fácilmente
+- **Aroma:** NO evitan salida olor (hermeticidad insuficiente)
+- **Curado:** NO apto proceso curado (humedad NO controlada)
+- **Recomendación:** evitar uso curado + conservación
+
+---
+
+## CONSERVACIÓN LARGO PLAZO
+
+### Timeline Degradación
+
+**6 meses - 1 año (Óptimo):** [HOW-038]
+- Estado: conservación óptima
+- Calidad: máxima si condiciones correctas
+- Relacionado: HOW-004 curado 6+ meses óptimo calidad
+
+**Después 1 año (Degradación paulatina):** [HOW-038]
+- Pérdida terpenos: progresiva (aroma ↓)
+- Pérdida textura: progresiva (flores secas)
+- Proceso: degradación continúa incluso con sobres humedad Boveda
+- Consumible: SÍ hasta ~2 años si almacenamiento correcto
+- Calidad: decreciente tiempo
+
+**Principio clave:** [HOW-038]
+- Mientras más añeja hierba → menos calidad
+- Trade-off: tiempo vs calidad organoléptica
+
+### Alternativa Vacío
+
+**Método sellado vacío:** [HOW-038]
+- Función: evita oxidación + deterioro flores
+- Ventajas:
+  - Preserva frescura período más largo
+  - Preserva sabor
+  - Preserva aroma
+- Desventajas:
+  - **Compresión:** afecta textura + apariencia flores
+  - **Terpenos:** pueden verse perjudicados compresión
+- Aplicación: conservar cosecha largo período (+1 año)
+
+### Alternativa Extracciones
+
+**Reducción volumen + conservación:** [HOW-038]
+- Objetivo: evitar deterioro cosecha tiempo
+- Métodos disponibles:
+  - Rosin (prensado calor)
+  - Hashish (separación mecánica tricomas)
+  - Mantequillas cannábicas (infusión grasa)
+  - Aceites (diversas técnicas)
+- Ventaja: conserva compuestos activos plantas largo plazo
+- Aplicación: cosechas voluminosas O conservación extendida necesaria
+- Relacionado: Ver 11-extracciones.md métodos detallados
+
+---
+
+## CURADO PRINCIPIANTES - Método Termohidrómetro Frasco
+
+### Concepto Variabilidad Curado
+
+**Realidad curado NO universal:** [DH-109]
+- **Postura honesta autor:** "NO hay manera de saber nada nada de nada de nada"
+- **Variabilidad casos:**
+  - "He probado cosas sin curar quedaron re zarpadas"
+  - "Hay cosas probé curadas quedaron re pete"
+- **Implicación:** resultados dependen múltiples factores (genética, secado previo, condiciones)
+- **Consecuencia cultivador:** "vas a tener que probar de vuelta"
+- **Limitación asesoramiento:** "NO me vas a poder preguntar a mí ni nadie porque eso es lo que te gusta a vos"
+
+### Método Termohidrómetro Frasco Tester
+
+**Fuente técnica:** [DH-109]
+- **Origen:** libro cannabis Chelo (revista THC Argentina)
+- **Aplicación:** principiantes sin equipamiento sofisticado
+- **Objetivo:** control humedad curado sin abrir todos frascos
+
+**Protocolo paso a paso:** [DH-109]
+
+1. **Obtener frasco grande:**
+   - Tipo: frasco aceitunas (ejemplo)
+   - **Tip práctico:** "ganso almacenero esquina tenés frasco aceitunas al pedo que NO usas"
+   - Costo: "centrito" O intercambio
+   - **Timing:** conseguir ANTES necesitar (NO esperar momento crítico)
+
+2. **Instalar termohidrómetro frasco:**
+   - Meter termohidrómetro DENTRO frasco
+   - Función: medir humedad relativa interior frasco
+   - Tipo: termohidrómetro digital pequeño (NO especificado modelo)
+
+3. **Llenar frasco flores:**
+   - Capacidad: similar otros frascos curado (2/3 - 75%)
+
+4. **Protocolo monitoreo:**
+   - **Frasco tester:** observar lectura humedad termohidrómetro
+   - **Acción si humedad sube:** abrir frasco tester
+   - **Intercambio aire:** "intercambio con exterior se va a quedar humedad exterior"
+   - **Cerrar:** volver cerrar frasco tester
+   - **Al día siguiente:** revisar lectura nuevamente
+   - **Repetir ciclo:** hasta humedad estabilice rango objetivo
+
+5. **Aplicación resto frascos:**
+   - **Lógica:** "todos demás frascos más o menos le va a estar pasando lo mismo"
+   - **Acción:** replicar aperturas/cierres misma frecuencia frasco tester
+   - **Ventaja:** NO necesidad abrir todos frascos constantemente (eficiencia)
+
+**Humedad objetivo:** [DH-109]
+- **Rango mencionado:** "65% o 55% humedad" (impreciso)
+- **⚠️ Inconsistencia:** rango amplio 55-65% vs HOW-004 óptimo 62% preciso
+- **Interpretación:** aproximación principiantes vs optimización profesional
+- **Señal finalización:** "ya está listo para conservar"
+
+### Referencia Fuente
+
+**Crédito intelectual:** [DH-109]
+- Autor método: Chelo
+- Publicación: libro cannabis revista THC (Argentina)
+- Instagram: mencionado video (NO transcrito nombre exacto)
+- Recomendación: consultar fuente original detalles adicionales
+
+---
+
+## CONSERVACIÓN LARGO PLAZO - Métodos Prácticos
+
+### Conservación Heladera Corto-Mediano Plazo
+
+**Filosofía "cracks fuman churro":** [DH-109]
+- **Ubicación heladera:** consumo activo inmediato
+- **Razón:** flores frescas listas consumo diario
+- **vs Almacenamiento abajo cama/cualquier lado:** heladera mejor control temperatura
+
+**Protocolo recarga:** [DH-109]
+- **Frascos heladera:** consumo activo vacíos
+- **Acción:** sacar 1 frasco freezer → llenar frascos heladera
+- **Objetivo:** siempre flores espectaculares disponibles
+
+### Conservación Freezer Largo Plazo
+
+**Método sellado simple:** [DH-109]
+- **Contenedor:** bolsas ziplock
+- **Proceso:**
+  1. Meter flores ziplock
+  2. Sellar ziplock
+  3. Meter freezer
+- **Duración:** "6 7 8 meses" objetivo flores "igual que cuando lo corté"
+- **Limitación información:** descongelación NO especificada
+
+**Método envasado vacío (ÓPTIMO):** [DH-109]
+- **Equipamiento:** "cosito ese que chupa aire para envasar al vacío"
+- **Descripción:** "la gloria misma"
+- **Proceso:**
+  1. Meter flores bolsa vacío
+  2. Sellar + extraer aire máquina
+  3. Meter freezer
+- **Ventaja:** conservación superior vs ziplock
+- **Resultado:** "siempre lo tenés espectacular"
+
+**⚠️ Advertencia corte luz:** [DH-109]
+- **Riesgo:** "NO se te corte luca dos días también puede pasar tranquilamente"
+- **Implicación:** descongelación NO controlada puede afectar flores
+- **Solución sugerida:** tener ladera (freezer horizontal) mayor capacidad aislamiento térmico
+
+### Realidad Almacenamiento Principiantes
+
+**Limitación espacio familiar:** [DH-109]
+- **Problema:** vivir con familia → heladera ladera compartida ocupada
+- **Conflicto típico:** "vieja tiene ladera llena 5 personas → vos quieres frasquitos"
+- **Consecuencia:** "vieja re caliente dice qué estás haciendo flaco"
+- **Solución humor:** emanciparse "tener propia ladera NO romper pelotas mamá"
+
+**Alternativa realista:** [DH-109]
+- **Almacenamiento casa:** "abajo cama mueble donde pinte"
+- **Aceptación:** hacer como "toda la vida"
+- **Condiciones:** oscuro + ventilación moderada + temperatura ambiente
+- **Resultado:** funcional PERO inferior freezer largo plazo
+
+**Mensaje final:** [DH-109]
+- **Ideal:** freezer/ladera propia equipamiento completo
+- **Realidad:** "el que lo pueda hacer bienvenido el que NO lo pueda hacer ya está"
+- **Pragmatismo:** trabajar con recursos disponibles
 
 ---
